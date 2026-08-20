@@ -221,3 +221,26 @@ O Arquivo Nacional informa que o SIAN, as listas de passageiros do Porto do Rio 
 [27]: https://secweb.procergs.com.br/aap/ObtemDadosServlet?metodo=verArquivoPDF&NRO_INT_DOCUMENTO=180603 "APERS — Habilitação de Ademar Antunes Leal e Alvina Schell, processo 180603"
 
 [28]: https://secweb.procergs.com.br/aap/ObtemDadosServlet?metodo=verArquivoPDF&NRO_INT_DOCUMENTO=180674 "APERS — Habilitação de Cravilino Nogueira e Celanira Schell, processo 180674"
+
+
+## 17. Continuação posterior: alternativas legítimas aos bloqueios
+
+A pesquisa continuou sem tentar burlar controles de segurança. Na coleção civil do FamilySearch, a busca nominal de Alvina Schell em Tapes, 1926, foi preenchida pela interface pública, mas a página permaneceu na coleção ou redirecionou para login sem expor resultado. Essa tentativa não foi tratada como busca negativa definitiva.
+
+No Arquivo Nacional, a resolução manual do CAPTCHA foi feita pelo usuário, mas a página foi posteriormente bloqueada pelas normas de segurança do MGI. O bloqueio retornou o ID de suporte `10107896255012111148`; não foram usadas técnicas de evasão, automação de CAPTCHA ou exploração de sessão.
+
+A busca local do CSV APERS foi esgotada para as localidades relevantes. O arquivo contém somente os processos 180603, 180190 e 180674 com Schell em Tapes/Cerro Grande; portanto, não há outro PDF local disponível para resolver a filiação de Regino ou a identidade da Rosalina mãe.
+
+Foi localizada uma rota institucional da Arquidiocese de Porto Alegre. O Arquivo Histórico da Cúria Metropolitana informa o e-mail `arquivo@arquipoa.org.br` e o Batistério informa que Tapes e Cerro Grande estão entre as cidades atendidas. O formulário de Batistério, porém, exige documento civil anexado e apresenta valores de R$ 65,00 para retirada na Cúria ou valores maiores para correio; por isso não foi enviado. Foi preparado um rascunho de pedido **gratuito de orientação arquivística**, sem solicitar certidão ou autorizar cobrança [29] [30] [31].
+
+## 18. Atualização das limitações
+
+As alternativas de menor risco foram executadas: consulta pública sem login quando disponível, reexame de arquivos locais, leitura das orientações oficiais e abertura manual da página com CAPTCHA. As alternativas seguintes são uma solicitação de orientação gratuita por e-mail ao Arquivo Histórico da Cúria, abertura de chamado técnico ao Arquivo Nacional e login manual do usuário no FamilySearch. Nenhuma mensagem foi enviada, nenhum chamado foi aberto e nenhum serviço pago foi contratado.
+
+## 19. Referências adicionais
+
+[29]: https://www.arquipoa.com/o-que-fazemos/arquivo "Arquivo Histórico da Cúria Metropolitana de Porto Alegre"
+
+[30]: https://www.arquipoa.com/bat "Arquidiocese de Porto Alegre — Batistério"
+
+[31]: https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1 "Servus — formulário institucional de solicitação de Batistério"

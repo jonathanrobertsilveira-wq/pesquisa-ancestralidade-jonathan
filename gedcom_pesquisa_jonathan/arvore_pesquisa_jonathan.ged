@@ -114,6 +114,21 @@
 1 AUTH Arquivo Nacional
 1 NOTE URL: https://www.gov.br/arquivonacional/pt-br/servicos/acervos/copy_of_acervos-mais-consultados/entrada-de-estrangeiros
 1 NOTE Fonte institucional; descreve SIAN, listas de passageiros, RNE e naturalização como rotas para imigrantes.
+0 @S21@ SOUR
+1 TITL Arquidiocese de Porto Alegre — Arquivo Histórico da Cúria Metropolitana
+1 AUTH Arquidiocese de Porto Alegre
+1 NOTE URL: https://www.arquipoa.com/o-que-fazemos/arquivo
+1 NOTE Fonte institucional; informa que o arquivo guarda e disponibiliza documentação histórica e fornece contato para orientação.
+0 @S22@ SOUR
+1 TITL Arquidiocese de Porto Alegre — Batistério
+1 AUTH Arquidiocese de Porto Alegre
+1 NOTE URL: https://www.arquipoa.com/bat
+1 NOTE Fonte institucional; encaminha solicitações de batistério e informa as cidades atendidas, incluindo Tapes e Cerro Grande do Sul.
+0 @S23@ SOUR
+1 TITL Servus — formulário de solicitação de Batistério
+1 AUTH Servus/Arquidiocese de Porto Alegre
+1 NOTE URL: https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1
+1 NOTE Fonte institucional; formulário consultado sem envio. Para genealogia, o próprio formulário orienta contato por e-mail e informa exigência de anexo civil e tarifas.
 0 @I1@ INDI
 1 NAME Jonathan Robert /Silveira De Souza/
 1 SEX M

@@ -866,3 +866,54 @@ A pesquisa livre do APERS foi preenchida com `Regina Schell`, ano inicial `1940`
 **Busca aberta por Regina Schell — resultado negativo**
 
 As buscas web direcionadas por `Regina Schell` em Tapes, Cerro Grande e Camaquã não localizaram registro genealógico ou civil utilizável. Os resultados foram principalmente homônimos contemporâneos estrangeiros ou páginas comerciais, sem conexão demonstrada com a Rosalina Schell mãe de Alvina e Celanira. A ausência de resultado não refuta a fonte primária APERS; apenas confirma que o próximo avanço dependerá de registros civis/paroquiais ou de pesquisa institucional.
+
+
+**Repositório GitHub privado criado — 20/08/2026**
+
+Após a conclusão desta rodada, foi criado o repositório privado `jonathanrobertsilveira-wq/pesquisa-ancestralidade-jonathan` em https://github.com/jonathanrobertsilveira-wq/pesquisa-ancestralidade-jonathan. O branch principal é `main`, o push foi concluído e a verificação da API do GitHub confirmou `isPrivate: true`. O repositório contém README, relatórios, diário, inventário de bloqueios, GEDCOM regenerado com 31 indivíduos/13 famílias/20 fontes, os PDFs APERS 180603 e 180674, o PDF 180190, CSVs, scripts, artefatos da nova rodada e pacotes arquivados.
+
+O GitHub emitiu apenas um aviso de recomendação porque `archives/pacote_arvore_pesquisa_jonathan_2026-08-20.zip` tem aproximadamente 58 MB; o arquivo foi aceito e o push terminou com sucesso. Nenhuma credencial foi encontrada na verificação textual do conjunto. O repositório permanece privado.
+
+
+**Rota do catálogo FamilySearch — continuação da pesquisa**
+
+O catálogo oficial do FamilySearch foi aberto em `https://www.familysearch.org/en/search/catalog/`. A página informa que o catálogo permite pesquisar livros, registros, imagens e outros recursos por lugar, palavra-chave, título, autor, assunto, sobrenome, número de filme ou DGS, com filtro de disponibilidade online. Essa será a rota para procurar livros civis/paroquiais de Tapes e Vila Cerro Grande nos períodos de Alvina (1926), Celanira (1934) e da Rosalina mãe. A página não foi submetida com dados nesta etapa; nenhuma edição ou solicitação foi feita.
+
+
+**Catálogo FamilySearch para Tapes — resultado da tentativa atual**
+
+A busca textual do catálogo por `Tapes, Rio Grande do Sul, Brazil` carregou a página de catálogo e reconheceu o parâmetro de lugar na URL, mas não expôs registros, filmes ou DGS no conteúdo extraído. A busca aberta por URLs indexadas de catálogo para Tapes também não retornou resultado. A interface visual ficou indisponível ao tentar selecionar o lugar, portanto não foi possível avançar para um livro específico nesta sessão. Nenhuma conclusão negativa sobre a existência dos livros deve ser tirada desse bloqueio técnico.
+
+
+**Tentativa FamilySearch — Alvina Schell, Tapes, 1926**
+
+Foi preenchida a coleção `3741255` com `Alvina`, sobrenome `Schell`, local de nascimento `Tapes, Rio Grande do Sul, Brazil` e ano de nascimento `1926–1926`. A URL parametrizada foi formada corretamente, mas a interface permaneceu na página da coleção após o clique em `Search`, sem exibir lista de resultados ou mensagem de zero registros. Por isso, não tratar essa tentativa como busca negativa concluída; permanece um bloqueio de carregamento/execução da interface.
+
+
+**Arquivo Nacional — rotas gratuitas e bloqueio CAPTCHA**
+
+A orientação oficial do Arquivo Nacional informa que a base de Entrada de Estrangeiros no Porto do Rio de Janeiro cobre 1875–1910 e permite busca por nome, navio, data, nacionalidade, procedência e destino. A mesma orientação informa que prontuários RNE de 1939–1987 exigem nome completo, filiação e cidade do registro, e que processos de naturalização de 1823–1959 exigem nome completo e filiação. Para Regino, Regina, Carlos e Anna Schell ainda não temos esses dados suficientes.
+
+As páginas públicas `https://consulta.an.gov.br/orientacaoDesembarque/1` e `https://sian.an.gov.br/` retornaram CAPTCHA antirobô com código de suporte `9682415139445422152` e `9682415139445422120`, respectivamente. Não houve tentativa de contornar o CAPTCHA. A orientação e o bloqueio foram registrados; a rota permanece disponível para pesquisa manual futura.
+
+
+**Arquivo Nacional após resolução do CAPTCHA — bloqueio de segurança**
+
+Após o usuário resolver e enviar o CAPTCHA, a página não liberou a consulta. Ao reabrir a rota, o Arquivo Nacional exibiu `Conteúdo restrito — Acesso Bloqueado por Motivos de Segurança`, atribuído às normas de segurança do MGI. Novo ID de suporte: `10107896255012111148`. A consulta nominal não foi executada e não houve resultado genealógico. O bloqueio anterior e este novo ID foram preservados para eventual chamado institucional.
+
+
+**Revisão completa do CSV APERS por localidade**
+
+O filtro do CSV nominal `Schell` para Tapes, Cerro Grande, Camaquã, Guaíba, São Jerônimo e Barão do Triunfo retornou apenas três habilitações de casamento locais: `180603` (Ademar Antunes Leal + Alvina Schell, 1947), `180190` (Alvino Paulino de Souza + Rosalina Schell, 1955) e `180674` (Cravilino Nogueira + Celanira Schell, 1953). Não há outro processo Schell local no CSV baixado que possa ser explorado sem uma nova consulta ao APERS ou a outra instituição.
+
+
+**Busca aberta por Regino/Regina/Carlos Schell — avaliação**
+
+As buscas abertas não localizaram Regino Schell ou um registro genealógico de Regina Schell ligado a Tapes. A ocorrência de `Carlos Schell` no catálogo da Exposição Estadual de 1901 é uma menção comercial a um expositor, sem filiação, local de residência ou ligação com a família pesquisada. A ocorrência de `Laura Regina Schell` em Novo Hamburgo é um cadastro empresarial contemporâneo de 2006 e não tem valor genealógico para a geração de Rosalina. Ambos foram classificados como homônimos/sem vínculo demonstrado e não serão incorporados à árvore.
+
+
+**Arquidiocese de Porto Alegre — nova rota paroquial gratuita**
+
+A página oficial da Arquidiocese de Porto Alegre informa que o **Arquivo Histórico da Cúria Metropolitana de Porto Alegre (AHCMPA)** guarda e disponibiliza documentação histórica da arquidiocese. O contato público é `arquivo@arquipoa.org.br`, telefone da Cúria `(51) 3228-6199`, endereço Rua Espírito Santo, 95, Centro Histórico, Porto Alegre, com atendimento de segunda a quinta-feira.
+
+A página oficial do **Batistério** oferece o formulário institucional `https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1` para solicitações. Essa é uma rota legítima para perguntar pelos registros paroquiais de Tapes/Cerro Grande, mas nenhum pedido foi enviado nesta etapa e não houve cobrança ou contratação.

@@ -19,12 +19,6 @@ O processo **APERS nº 180190** contém 18 páginas e confirma o casamento de Al
 
 A árvore antiga do FamilySearch/MyHeritage indicava Alvino em 1891 e Rosalina em 1899–1993. O GEDCOM preserva esses dados apenas nas notas de conflito, enquanto usa 23/02/1897 e 16/12/1906 como datas primárias preferidas no estado atual da pesquisa. Nenhuma alteração foi feita no FamilySearch.
 
-## Achado lateral novo: linha Schell não mesclada
-
-Os processos APERS **180603** e **180674** documentam uma Rosalina Schell que era mãe de **Alvina Schell**, nascida em 29/06/1926, e de **Celanira Schell**, nascida em 20/08/1934, ambas no 3º distrito de Tapes. O primeiro processo confirma o casamento de Alvina com Ademar Antunes Leal em 04/10/1947; o segundo confirma o casamento de Celanira com Cravilino Nogueira em 31/10/1953 e contém consentimento assinado por Rosalina.
-
-Essa Rosalina foi incluída no GEDCOM como uma pessoa separada e sem identidade resolvida. Ela **não deve ser mesclada** com I11, a Rosalina nascida em 16/12/1906, filha de Regino Schell e esposa de Alvino Paulino de Souza. A leitura ampliada do processo 180603 favorece o nome feminino **Regina Schell** como avó de Alvina, mas essa pista ainda não tem confirmação independente.
-
 ## Próxima etapa
 
 As buscas gratuitas nominais e os waypoints paroquiais consultados não localizaram o assento de nascimento de Rosalina em 1906; essa lacuna permanece explicitamente documentada. A busca nominal do nascimento de Rosalvino em 1940 foi concluída sem confirmação: APERS e FamilySearch retornaram apenas homônimos ou zero resultados. A busca do casamento de Raimundo e Alicia também terminou sem registro indexado; o casal permanece hipótese da árvore e as imagens das habilitações de Tapes estão restritas. As buscas por Regino, Carlos e Anna Schell não localizaram novos registros nem naturalidade europeia. A origem europeia permanece não comprovada; a próxima etapa é validar a árvore, preparar o relatório final de lacunas e deixar um roteiro seguro para solicitações institucionais gratuitas ou para a plataforma posterior. A origem europeia ainda não está comprovada.

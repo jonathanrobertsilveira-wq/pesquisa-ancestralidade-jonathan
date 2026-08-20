@@ -56,3 +56,57 @@ O processo 180603 confirma Alvina como filha ilegítima de Rosalina Schell e o c
 A busca visual do APERS por `Regina Schell`, 1940–1960, foi submetida, mas a página de resultados permaneceu indefinidamente em carregamento. A consulta não produziu resultado utilizável e esse bloqueio técnico ficou registrado.
 
 A árvore independente foi regenerada com 31 indivíduos, 13 famílias e 20 fontes; a validação retornou zero referências desconhecidas e zero erros.
+
+
+## Protocolo de alternativas permitidas — 20/08/2026
+
+A pedido do usuário, cada bloqueio passa a ser registrado com três **alternativas legítimas**, não como formas de burlar segurança. A regra é tentar primeiro a opção de menor risco, interromper quando o serviço bloquear novamente e seguir para a próxima fonte.
+
+### 1. FamilySearch: busca direta exige login
+
+| Alternativa permitida | Situação |
+|---|---|
+| Usar a coleção pública pelo formulário oficial, sem tentar contornar autenticação | **Executada** para Alvina Schell; a URL recebeu os parâmetros, mas a interface não exibiu resultados. |
+| O usuário fazer login manualmente na página oficial e devolver o controle | **Disponível**, mas não executada; a tela de login foi aberta e o usuário informou que não havia entendido a solicitação de takeover. |
+| Usar o catálogo, a página Wiki da coleção ou solicitar ajuda oficial do FamilySearch | **Parcialmente executada**; o catálogo foi aberto, mas não expôs um livro/DGS de Tapes. |
+
+Não foram usados cookies, exploração de sessão, automação de CAPTCHA ou qualquer método de evasão.
+
+### 2. APERS: lista Regina Schell permaneceu carregando
+
+| Alternativa permitida | Situação |
+|---|---|
+| Repetir uma única vez o formulário oficial com intervalo válido de 20 anos | **Executada** para 1940–1960; a página ficou em carregamento indefinido. |
+| Reexaminar o CSV APERS já baixado e os PDFs locais | **Executada**; o CSV local contém apenas os processos 180603, 180190 e 180674 para Schell nas localidades relevantes. |
+| Solicitar pesquisa institucional gratuita à Sala de Pesquisa do APERS por e-mail/telefone | **Ainda disponível**; não foi enviado contato em nome do usuário. |
+
+O bloqueio foi registrado como técnico, sem repetição insistente.
+
+### 3. Arquivo Nacional: CAPTCHA seguido de bloqueio de segurança do MGI
+
+| Alternativa permitida | Situação |
+|---|---|
+| O usuário resolver manualmente o CAPTCHA apresentado na página oficial | **Executada**; após o envio, a página foi bloqueada por segurança. |
+| Usar as orientações oficiais e solicitar pesquisa/atendimento a distância, sem tentar automatizar a base | **Disponível**; exige preparar uma solicitação com nome, filiação, período e localidade. |
+| Abrir chamado oficial de infraestrutura com a URL, captura de tela e ID de suporte | **Disponível**; o bloqueio retornou o ID `10107896255012111148`. |
+
+Não houve tentativa de OCR do CAPTCHA, rotação de IP, alteração de fingerprint, exploração de endpoint ou qualquer outra evasão.
+
+### 4. Upload GEDCOM do FamilySearch
+
+| Alternativa permitida | Situação |
+|---|---|
+| Não enviar o GEDCOM para o Pedigree Resource File, pois a coleção é compartilhada e contém pessoas vivas | **Executada por decisão do usuário**; o usuário recusou a importação. |
+| Manter o GEDCOM independente local e em repositório privado | **Executada**; arquivo validado e enviado ao GitHub privado. |
+| Copiar manualmente somente pessoas vivas para uma Family Group Tree, sem inserir ancestrais falecidos públicos | **Executada anteriormente**; grupo `9MMF-QLN`, árvore `PFCW-PJ5`. |
+
+### 5. GitHub: aviso de arquivo grande
+
+O push foi concluído e o repositório permanece privado. O GitHub apenas recomendou Git LFS para o ZIP de aproximadamente 58 MB; não foi um bloqueio. As alternativas legítimas são manter o arquivo aceito, usar Git LFS numa atualização futura ou remover o pacote duplicado e preservar os PDFs/relatórios individualmente. Nenhuma ação adicional é necessária agora.
+
+
+### 6. Arquidiocese de Porto Alegre: formulário de Batistério
+
+O formulário oficial do Batistério atende Tapes e Cerro Grande do Sul, mas informa que pedidos para documentação de cidadania/genealogia devem ser feitos por e-mail ao `arquivo@arquipoa.org.br`, exigem anexo de RG ou certidão civil e a opção de retirada na Cúria custa R$ 65,00; envio pelos Correios custa mais. Como o usuário priorizou fontes gratuitas e não autorizou pedido pago, o formulário foi apenas inspecionado e **não foi enviado**.
+
+Alternativas permitidas: (1) enviar uma pergunta gratuita por e-mail solicitando apenas orientação ou confirmação de cobertura; (2) usar o Arquivo Histórico da Cúria, pelo e-mail `arquivo@arquipoa.org.br`, para perguntar sobre livros e índices antes de solicitar certidão; (3) continuar com os PDFs APERS e as fontes públicas já baixadas. A alternativa de menor risco, a pesquisa por orientação gratuita, está preparada mas aguarda autorização para contato externo.
