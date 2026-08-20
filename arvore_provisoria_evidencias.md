@@ -112,3 +112,17 @@ A árvore independente atualizada está em `/home/ubuntu/gedcom_pesquisa_jonatha
 | Alvina casou com Ademar Antunes Leal em 04/10/1947 | Habilitação APERS nº 180603, livro 6, folha 63, termo 400 | **Fonte primária** | Confirmado | Abre rota para assento matrimonial e descendência de Alvina |
 | Celanira casou com Cravilino Nogueira em 31/10/1953 | Habilitação APERS nº 180674, livro 7-A, folha 198, termo 723 | **Fonte primária** | Confirmado | Abre rota para descendência e eventual identificação posterior de Rosalina |
 | Rosalina mãe de Alvina/Celanira é a mesma Rosalina esposa de Alvino | Nenhuma fonte atual estabelece a identidade | Conflito de identidade | **Não demonstrado** | Manter Rosalina A e Rosalina B como hipóteses separadas |
+
+
+## Atualização lateral do cluster Schell/Trott — 20/08/2026
+
+| Afirmação | Fonte nova | Qualidade | Confiança atual | Regra de desambiguação |
+|---|---|---|---|---|
+| Catharina Laurinda Trott nasceu em 07/03/1890 em Gramado, filha de Jacob Friedrich Trott e Emilie Fillmann | Página pública FamilySearch Ancestors `K2VJ-JTP` | Fonte secundária pública | Baixa–média | Usar como pista para localizar o assento original; não ligar à Rosalina de Tapes. |
+| Catharina Laurinda Trott casou-se com Albin Schell | `K2VJ-JTP` e `K2VJ-JT5` | Fonte secundária pública | Baixa–média | Cluster desconectado até confirmação civil/paróquia. |
+| Albin Schell nasceu em 21/06/1886 em Três Coroas, filho de Karl Schell e Anna Becker | Página pública FamilySearch Ancestors `K2VJ-JT5` | Fonte secundária pública | Baixa–média | Direciona buscas de registro em Três Coroas, Igrejinha e Taquara. |
+| Rosalina Trott (1892–1971) e Theodor Schell são apresentados como pais de Helka Schell | Página pública FamilySearch Ancestors `G821-LTP` | Fonte secundária, sem fontes anexadas na página | Baixa | Não confundir com Rosalina Schell nascida em 1906 nem com Rosalina mãe de Alvina/Celanira. |
+| Karl Schell e Anna Becker aparecem como pais de vários irmãos Schell | Páginas públicas de Albin, Adolfo e Johannes Schell | Fonte secundária repetida | Baixa–média | Não interpretar a presença de Anna Becker como a Anna Schell citada na certidão de Rosalina de 1906. |
+| Catharina Laurinda Schell e Rosalina Schell aparecem entre executantes do processo APERS nº 2185/1933 | Inventário público de fontes de Gramado, p. 22–23 | Índice arquivístico, não o processo original | Média para a menção; baixa para parentesco | Procurar o processo primário antes de inferir relações familiares. |
+
+**Conclusão:** o cluster Schell/Trott é uma nova trilha regional, não uma extensão confirmada da linha Jonathan–Souza.

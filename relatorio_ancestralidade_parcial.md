@@ -244,3 +244,26 @@ As alternativas de menor risco foram executadas: consulta pública sem login qua
 [30]: https://www.arquipoa.com/bat "Arquidiocese de Porto Alegre — Batistério"
 
 [31]: https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1 "Servus — formulário institucional de solicitação de Batistério"
+
+
+## 20. Novo cluster Schell/Trott de Gramado–Igrejinha–Taquara
+
+Uma busca aberta localizou páginas públicas do FamilySearch para Catharina Laurinda Trott, Albin Schell, Helka Schell, Adolfo Schell e Johannes Schell. O conjunto informa, em resumo, que Catharina Laurinda Trott teria nascido em 07/03/1890 em Gramado, filha de Jacob Friedrich Trott e Emilie Fillmann, e se casado com Albin Schell; Albin teria nascido em 21/06/1886 em Três Coroas, filho de Karl Schell e Anna Becker. A página de Helka informa que Rosalina Trott (1892–1971) e Theodor Schell eram seus pais, em Igrejinha.
+
+O inventário público de fontes para a história de Gramado e região também descreve o processo judicial APERS nº 2185/1933, comarca da região de Gramado/Taquara, no qual aparecem Pedro Trott, Henrique Trott, Carlos Trott Sobrinho, Catharina Laurinda Schell, Rosalina Schell e Emma Rothmann. O inventário não disponibiliza o PDF do processo e a menção não prova parentesco.
+
+Esse material constitui **pista colateral de baixa a média confiança**, útil para direcionar buscas futuras por Karl Schell, Anna Becker, Trott e Rosalina Trott em registros de Igrejinha, Gramado e Taquara. Não é permitido mesclar esse cluster com Rosalina Schell nascida em 16/12/1906, filha de Regino, nem com Rosalina mãe de Alvina e Celanira. A origem europeia permanece não demonstrada, pois as páginas públicas não exibem naturalidade europeia nem imagens primárias.
+
+### Referências do cluster
+
+[32]: https://ancestors.familysearch.org/en/K2VJ-JTP/catharina-laurinda-trott-1890-1968 "Catharina Laurinda Trott — FamilySearch Ancestors"
+
+[33]: https://ancestors.familysearch.org/en/K2VJ-JT5/albin-schell-1886-1945 "Albin Schell — FamilySearch Ancestors"
+
+[34]: https://ancestors.familysearch.org/pt/G821-LTP/helka-schell-1913 "Helka Schell — FamilySearch Ancestors"
+
+[35]: https://ancestors.familysearch.org/en/LBCP-1TY/adolf-schell-1871-1944 "Adolfo Schell — FamilySearch Ancestors"
+
+[36]: https://ancestors.familysearch.org/es/LR5J-JPL/johannes-schell-1869-1952 "Johannes Schell — FamilySearch Ancestors"
+
+[37]: https://memorias.gramado.rs.gov.br/wp-content/uploads/tainacan-items/39/18358/LIVRO-INVENTARIO-2a-Edicao_2026.pdf "Inventário preliminar de acervos e fontes para a história de Gramado e região"

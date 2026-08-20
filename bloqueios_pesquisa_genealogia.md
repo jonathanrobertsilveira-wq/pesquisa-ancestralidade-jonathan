@@ -110,3 +110,17 @@ O push foi concluído e o repositório permanece privado. O GitHub apenas recome
 O formulário oficial do Batistério atende Tapes e Cerro Grande do Sul, mas informa que pedidos para documentação de cidadania/genealogia devem ser feitos por e-mail ao `arquivo@arquipoa.org.br`, exigem anexo de RG ou certidão civil e a opção de retirada na Cúria custa R$ 65,00; envio pelos Correios custa mais. Como o usuário priorizou fontes gratuitas e não autorizou pedido pago, o formulário foi apenas inspecionado e **não foi enviado**.
 
 Alternativas permitidas: (1) enviar uma pergunta gratuita por e-mail solicitando apenas orientação ou confirmação de cobertura; (2) usar o Arquivo Histórico da Cúria, pelo e-mail `arquivo@arquipoa.org.br`, para perguntar sobre livros e índices antes de solicitar certidão; (3) continuar com os PDFs APERS e as fontes públicas já baixadas. A alternativa de menor risco, a pesquisa por orientação gratuita, está preparada mas aguarda autorização para contato externo.
+
+
+### 7. Índices agregados MyHeritage sobre Catharina Trott/Schell e Rosalina Schell
+
+A busca aberta encontrou snippets que associam `Catharina Laurinda Schell` ao sobrenome de nascimento `Trott`, com data aproximada de 1890–1968, e relacionam Rosalina Schell a irmãos Trott. As páginas do MyHeritage, porém, retornaram bloqueio Incapsula e não permitiram verificar fonte original, imagem ou contexto. Esses snippets ficam classificados como **pista secundária de baixa confiança**, não como evidência genealógica.
+
+Alternativas permitidas: (1) localizar a fonte original no FamilySearch ou no registro civil/paróquia; (2) pesquisar o casal Trott/Schell em livros e inventários públicos do APERS; (3) solicitar orientação gratuita ao Arquivo Histórico da Cúria. Não foi usado contorno do bloqueio Incapsula.
+
+
+### 8. Miniaturas de fontes públicas Ancestors FamilySearch
+
+As miniaturas das fontes civis de Catharina e Albin foram abertas por URL pública e a fonte civil foi acionada pela interface, mas o FamilySearch não exibiu uma imagem ampliada nem o registro completo sem login. A alternativa legítima executada foi consultar as miniaturas e registrar os IDs públicos; elas são insuficientes para transcrição paleográfica.
+
+Alternativas permitidas: (1) usar a coleção pública FamilySearch após login manual; (2) localizar o assento por município/ano no APERS ou na Arquidiocese; (3) solicitar orientação gratuita ao Arquivo Histórico da Cúria. Nenhum contorno de autenticação ou endpoint não publicado foi tentado.

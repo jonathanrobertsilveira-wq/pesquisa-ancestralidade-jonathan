@@ -36,7 +36,16 @@ people = {
     'I29': {'name': 'Celanira /Schell/', 'sex': 'F', 'status': 'filha de Rosalina Schell confirmada por habilitação APERS 180674; identidade separada da Rosalina de 1906', 'birth': ('20 AUG 1934', '3º distrito de Tapes, Rio Grande do Sul, Brasil'), 'notes': ['Certidão de nascimento nº 328, livro 13-A, e termo de consentimento assinado por Rosalina em 12/10/1953.', 'Habilitação APERS nº 180674 confirma o casamento com Cravilino Nogueira em 31/10/1953.', 'Não associar esta Celanira à linha de Jonathan sem prova de que sua mãe Rosalina é a mesma pessoa de 1906.']},
     'I30': {'name': 'Cravilino /Nogueira/', 'sex': 'M', 'status': 'cônjuge de Celanira Schell confirmado por habilitação APERS 180674', 'birth': ('04 OCT 1926', 'Rio Grande do Sul, Brasil'), 'notes': ['Filho legítimo de Ernesto José Nogueira e Hermínia Lopes Santos, conforme petição do processo 180674.']},
     'I31': {'name': 'Rosalina /Schell/ (mãe de Alvina e Celanira; identidade não resolvida)', 'sex': 'F', 'status': 'mãe de Alvina e Celanira confirmada em habilitações APERS; pessoa mantida separada da Rosalina de 1906', 'notes': ['Processos APERS 180603 e 180674 confirmam a maternidade, a residência em Vila Cerro Grande/Tapes e a presença de Rosalina em 1953.', 'A identidade, data de nascimento e eventual relação com Regino Schell não foram demonstradas.', 'A leitura de Regina Schell como avó de Alvina é apenas pista paleográfica.']},
-}
+    'I32': {'name': 'Rosalina /Trott/', 'sex': 'F', 'status': 'cluster Schell/Trott colateral; dado secundário de página pública FamilySearch', 'birth': ('1892', 'Igrejinha, Rio Grande do Sul, Brasil'), 'death': ('1971', 'Rio Grande do Sul, Brasil'), 'sources': ['S26', 'S27'], 'notes': ['Página pública Ancestors FamilySearch lista Rosalina Trott como esposa de Theodor Schell e mãe de Helka Schell.', 'Não confundir com I11, Rosalina Schell nascida em 1906, filha de Regino, nem com I31, mãe de Alvina e Celanira.']},
+    'I33': {'name': 'Theodor /Schell/', 'sex': 'M', 'status': 'cluster Schell/Trott colateral; dado secundário de página pública FamilySearch', 'birth': ('1888', 'Rio Grande do Sul, Brasil'), 'death': ('1969', 'Rio Grande do Sul, Brasil'), 'sources': ['S26'], 'notes': ['Página pública de Helka informa Theodor como pai; local de nascimento não foi confirmado em fonte primária.']},
+    'I34': {'name': 'Helka /Schell/', 'sex': 'F', 'status': 'cluster Schell/Trott colateral; dado secundário de página pública FamilySearch', 'birth': ('26 JUL 1913', 'Igrejinha, Rio Grande do Sul, Brasil'), 'sources': ['S26'], 'notes': ['Página pública informa filiação a Theodor Schell e Rosalina Trott; a própria página declara que não há documentos históricos anexados.']},
+    'I35': {'name': 'Catharina Laurinda /Trott/', 'sex': 'F', 'status': 'cluster Schell/Trott colateral; dado secundário de página pública FamilySearch', 'birth': ('07 MAR 1890', 'Gramado, Rio Grande do Sul, Brasil'), 'death': ('14 NOV 1968', 'Taquara, Rio Grande do Sul, Brasil'), 'sources': ['S24', 'S27'], 'notes': ['Página pública Ancestors FamilySearch informa casamento com Albin Schell, filiação a Jacob Friedrich Trott e Emilie Fillmann e sepultamento em Padilha.', 'O processo APERS 2185/1933 menciona Catharina Laurinda Schell, mas o PDF primário desse processo não foi localizado.']},
+    'I36': {'name': 'Albin /Schell/', 'sex': 'M', 'status': 'cluster Schell/Trott colateral; dado secundário de página pública FamilySearch', 'birth': ('21 JUN 1886', 'Três Coroas, Rio Grande do Sul, Brasil'), 'death': ('02 JUN 1945', 'Padilha, Taquara, Rio Grande do Sul, Brasil'), 'sources': ['S25'], 'notes': ['Página pública informa filiação a Karl Schell e Anna Becker e casamento com Catharina Laurinda Trott.']},
+    'I37': {'name': 'Karl /Schell/', 'sex': 'M', 'status': 'cluster Schell/Trott colateral; filiação secundária', 'birth': ('1843', None), 'death': ('1890', None), 'sources': ['S25', 'S28'], 'notes': ['Apresentado como pai de Albin, Adolfo e Johannes nas páginas públicas FamilySearch; naturalidade europeia não demonstrada.']},
+    'I38': {'name': 'Anna /Becker/', 'sex': 'F', 'status': 'cluster Schell/Trott colateral; filiação secundária', 'birth': ('1848', None), 'death': ('1928', None), 'sources': ['S25', 'S28'], 'notes': ['Apresentada como mãe de Albin, Adolfo e Johannes nas páginas públicas FamilySearch; naturalidade europeia não demonstrada.']},
+    'I39': {'name': 'Jacob Friedrich /Trott/', 'sex': 'M', 'status': 'cluster Schell/Trott colateral; filiação secundária', 'birth': ('1862', None), 'death': ('1934', None), 'sources': ['S24'], 'notes': ['Apresentado como pai de Catharina Laurinda Trott; local de nascimento não confirmado em fonte primária.']},
+    'I40': {'name': 'Emilie /Fillmann/', 'sex': 'F', 'status': 'cluster Schell/Trott colateral; filiação secundária', 'birth': ('1865', None), 'death': ('1946', None), 'sources': ['S24'], 'notes': ['Apresentada como mãe de Catharina Laurinda Trott; local de nascimento e origem europeia não confirmados.']},
+    }
 
 families = [
     {'id': 'F1', 'husb': 'I2', 'wife': 'I3', 'children': ['I1'], 'status': 'hipótese da árvore FamilySearch', 'note': 'Valdeci e Ana Paula são apresentados como pais de Jonathan; relação ainda não foi validada com certidão.'},
@@ -52,6 +61,10 @@ families = [
     {'id': 'F11', 'wife': 'I31', 'children': ['I27', 'I29'], 'status': 'maternidade confirmada; identidade da mãe não resolvida', 'note': 'Processos APERS 180603 e 180674 confirmam Rosalina Schell como mãe de Alvina e Celanira. A pessoa I31 é uma hipótese separada e não deve ser mesclada com I11, Rosalina esposa de Alvino.'},
     {'id': 'F12', 'husb': 'I28', 'wife': 'I27', 'status': 'confirmada por habilitação APERS 180603', 'marriage': ('04 OCT 1947', 'Vila Cerro Grande, 3º distrito de Tapes, Rio Grande do Sul, Brasil'), 'note': 'Livro 6, folha 63, termo 400.'},
     {'id': 'F13', 'husb': 'I30', 'wife': 'I29', 'status': 'confirmada por habilitação APERS 180674', 'marriage': ('31 OCT 1953', 'Vila Cerro Grande, 3º distrito de Tapes, Rio Grande do Sul, Brasil'), 'note': 'Livro 7-A, folha 198, termo 723.'},
+    {'id': 'F14', 'husb': 'I33', 'wife': 'I32', 'children': ['I34'], 'sources': ['S26'], 'status': 'filiação secundária; cluster desconectado', 'note': 'Página pública de Helka Schell apresenta Theodor Schell e Rosalina Trott como pais. Não associar a I11 ou I31.'},
+    {'id': 'F15', 'husb': 'I36', 'wife': 'I35', 'sources': ['S24', 'S25', 'S27'], 'status': 'casal secundário; cluster desconectado', 'note': 'Páginas públicas informam Albin Schell e Catharina Laurinda Trott como cônjuges. Processo APERS 2185/1933 apenas menciona Catharina Laurinda Schell e Rosalina Schell entre executantes.'},
+    {'id': 'F16', 'husb': 'I37', 'wife': 'I38', 'children': ['I36'], 'sources': ['S25', 'S28'], 'status': 'filiação secundária; cluster desconectado', 'note': 'Página pública de Albin informa Karl Schell e Anna Becker como pais. Origem europeia não comprovada.'},
+    {'id': 'F17', 'husb': 'I39', 'wife': 'I40', 'children': ['I35'], 'sources': ['S24'], 'status': 'filiação secundária; cluster desconectado', 'note': 'Página pública de Catharina informa Jacob Friedrich Trott e Emilie Fillmann como pais.'},
 ]
 
 sources = {
@@ -78,6 +91,11 @@ sources = {
     'S21': {'title': 'Arquidiocese de Porto Alegre — Arquivo Histórico da Cúria Metropolitana', 'auth': 'Arquidiocese de Porto Alegre', 'url': 'https://www.arquipoa.com/o-que-fazemos/arquivo', 'quality': 'Fonte institucional; informa que o arquivo guarda e disponibiliza documentação histórica e fornece contato para orientação.'},
     'S22': {'title': 'Arquidiocese de Porto Alegre — Batistério', 'auth': 'Arquidiocese de Porto Alegre', 'url': 'https://www.arquipoa.com/bat', 'quality': 'Fonte institucional; encaminha solicitações de batistério e informa as cidades atendidas, incluindo Tapes e Cerro Grande do Sul.'},
     'S23': {'title': 'Servus — formulário de solicitação de Batistério', 'auth': 'Servus/Arquidiocese de Porto Alegre', 'url': 'https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1', 'quality': 'Fonte institucional; formulário consultado sem envio. Para genealogia, o próprio formulário orienta contato por e-mail e informa exigência de anexo civil e tarifas.'},
+    'S24': {'title': 'FamilySearch Ancestors — Catharina Laurinda Trott, 1890–1968', 'auth': 'FamilySearch', 'url': 'https://ancestors.familysearch.org/en/K2VJ-JTP/catharina-laurinda-trott-1890-1968', 'quality': 'Fonte secundária pública; resume árvore colaborativa e lista fontes civis, mas não substitui as imagens originais.'},
+    'S25': {'title': 'FamilySearch Ancestors — Albin Schell, 1886–1945', 'auth': 'FamilySearch', 'url': 'https://ancestors.familysearch.org/en/K2VJ-JT5/albin-schell-1886-1945', 'quality': 'Fonte secundária pública; informa filiação a Karl Schell e Anna Becker e localidade de Três Coroas.'},
+    'S26': {'title': 'FamilySearch Ancestors — Helka Schell, 1913', 'auth': 'FamilySearch', 'url': 'https://ancestors.familysearch.org/pt/G821-LTP/helka-schell-1913', 'quality': 'Fonte secundária pública; informa filiação a Theodor Schell e Rosalina Trott, mas declara não haver documentos históricos anexados.'},
+    'S27': {'title': 'Inventário preliminar de acervos e fontes para a história de Gramado e região, 2ª edição', 'auth': 'Wanderley Cavalcante, Eduardo da Silva Weber e Alex Juarez Müller', 'url': 'https://memorias.gramado.rs.gov.br/wp-content/uploads/tainacan-items/39/18358/LIVRO-INVENTARIO-2a-Edicao_2026.pdf', 'quality': 'Índice bibliográfico/arquivístico público; descreve o processo APERS 2185/1933 e menciona Catharina Laurinda Schell e Rosalina Schell, sem disponibilizar o PDF do processo.'},
+    'S28': {'title': 'FamilySearch Ancestors — Adolfo Schell e Johannes Schell', 'auth': 'FamilySearch', 'url': 'https://ancestors.familysearch.org/en/LBCP-1TY/adolf-schell-1871-1944', 'quality': 'Fonte secundária pública; repete Karl Schell e Anna Becker como pais de irmãos Schell.'},
 }
 
 # GEDCOM generation
@@ -133,6 +151,8 @@ for pid, p in people.items():
             lines.append('2 SOUR @S3@')
     for note in p.get('notes', []):
         lines += add_note(1, note)
+    for sid in p.get('sources', []):
+        lines.append(f'1 SOUR @{sid}@')
     # Relevant sources by individual
     if pid in {'I10', 'I11', 'I12', 'I13', 'I14', 'I15', 'I16', 'I17', 'I18', 'I19'}:
         lines.append('1 SOUR @S1@')
@@ -183,6 +203,8 @@ for f in families:
             lines.append('2 SOUR @S17@')
         else:
             lines.append('2 SOUR @S3@')
+    for sid in f.get('sources', []):
+        lines.append(f'1 SOUR @{sid}@')
     lines += add_note(1, f'Status: {f["status"]}.')
     lines += add_note(1, f['note'])
     if f['id'] == 'F5':
@@ -281,6 +303,10 @@ A árvore antiga do FamilySearch/MyHeritage indicava Alvino em 1891 e Rosalina e
 ## Próxima etapa
 
 As buscas gratuitas nominais e os waypoints paroquiais consultados não localizaram o assento de nascimento de Rosalina em 1906; essa lacuna permanece explicitamente documentada. A busca nominal do nascimento de Rosalvino em 1940 foi concluída sem confirmação: APERS e FamilySearch retornaram apenas homônimos ou zero resultados. A busca do casamento de Raimundo e Alicia também terminou sem registro indexado; o casal permanece hipótese da árvore e as imagens das habilitações de Tapes estão restritas. As buscas por Regino, Carlos e Anna Schell não localizaram novos registros nem naturalidade europeia. A origem europeia permanece não comprovada; a próxima etapa é validar a árvore, preparar o relatório final de lacunas e deixar um roteiro seguro para solicitações institucionais gratuitas ou para a plataforma posterior. A origem europeia ainda não está comprovada.
+
+## Cluster separado Schell/Trott
+
+O GEDCOM também registra, em indivíduos e famílias desconectados da linha Jonathan–Souza, uma pista secundária encontrada em páginas públicas do FamilySearch e no inventário de fontes de Gramado: Rosalina Trott (1892–1971), Theodor Schell, Helka Schell, Catharina Laurinda Trott (1890–1968), Albin Schell (1886–1945), Karl Schell, Anna Becker, Jacob Friedrich Trott e Emilie Fillmann. Esse cluster não deve ser mesclado com Rosalina Schell de 1906, filha de Regino, ou com Rosalina mãe de Alvina e Celanira. A origem europeia continua não comprovada.
 '''
 (OUT / 'LEIA-ME.md').write_text(readme, encoding='utf-8')
 print(gedcom_path)

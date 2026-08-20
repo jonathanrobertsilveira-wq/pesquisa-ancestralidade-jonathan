@@ -917,3 +917,32 @@ As buscas abertas não localizaram Regino Schell ou um registro genealógico de 
 A página oficial da Arquidiocese de Porto Alegre informa que o **Arquivo Histórico da Cúria Metropolitana de Porto Alegre (AHCMPA)** guarda e disponibiliza documentação histórica da arquidiocese. O contato público é `arquivo@arquipoa.org.br`, telefone da Cúria `(51) 3228-6199`, endereço Rua Espírito Santo, 95, Centro Histórico, Porto Alegre, com atendimento de segunda a quinta-feira.
 
 A página oficial do **Batistério** oferece o formulário institucional `https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1` para solicitações. Essa é uma rota legítima para perguntar pelos registros paroquiais de Tapes/Cerro Grande, mas nenhum pedido foi enviado nesta etapa e não houve cobrança ou contratação.
+
+
+**Novo achado — núcleo Trott/Schell em Gramado/Taquara**
+
+A página pública `Ancestors FamilySearch` para Catharina Laurinda Trott (`K2VJ-JTP`) informa nascimento em 07/03/1890, Gramado, filha de Jacob Friedrich Trott e Emilie Fillmann; casamento com Albin Schell; morte em 14/11/1968 em Taquara e sepultamento em Padilha. A mesma página lista Rosalina Trott, nascida em 1892, entre os irmãos de Catharina e mostra fontes da coleção civil do RS.
+
+A página pública para Albin Schell (`K2VJ-JT5`) informa nascimento em 21/06/1886 em Três Coroas, filho de Karl Schell e Anna Becker; morte em 02/06/1945 em Padilha, Taquara. Lista como irmãos Johannes, Maria, Adolfo, Regina Shell Becker e Catarina Schell, entre outros.
+
+Esse núcleo coincide nominalmente com o processo APERS nº 2185/1933, descrito no inventário público de Gramado, que menciona Catharina Laurinda Schell e Rosalina Schell entre os executantes. **Não há prova de ligação com a Rosalina Schell de 1906, filha de Regino, nem com Jonathan**; o núcleo foi classificado como linha Schell/Trott colateral, pista secundária. Os dados públicos do Ancestors FamilySearch devem ser confirmados pelas imagens/fontes civis originais antes de entrar como fatos genealógicos.
+
+
+**Novo dado adicional — Rosalina Trott, Theodor Schell e a linha de Gramado/Igrejinha**
+
+A página pública de Helka Schell (`G821-LTP`) informa que Helka nasceu em 26/07/1913 em Igrejinha, filha de Theodor Schell e **Rosalina Trott**, esta com datas 1892–1971. A mesma página informa que não há documentos históricos anexados a Helka.
+
+Páginas públicas de Adolfo Schell (`LBCP-1TY`) e Johannes Schell (`LR5J-JPL`) repetem o casal parental Karl Schell (1843–1890) e Anna Becker (1848–1928), com nascimento dos filhos em Igrejinha/Taquara. O conjunto, combinado com Catharina Laurinda Trott (`K2VJ-JTP`) e o processo APERS 2185/1933, sustenta um **cluster Schell/Trott de Gramado–Igrejinha–Taquara**: Rosalina Trott (1892–1971) teria se casado com Theodor Schell e Catharina Laurinda Trott (1890–1968) com Albin Schell.
+
+Esse cluster continua **separado** da Rosalina Schell de 1906, filha de Regino, e da linha Jonathan–Rosalvino. As páginas Ancestors FamilySearch são fontes secundárias derivadas da árvore pública; não foram tratadas como prova primária nem usadas para mesclagem.
+
+
+**Imagens de fontes públicas Ancestors FamilySearch**
+
+Foram baixadas as miniaturas públicas associadas a Catharina Laurinda Trott (`K2VJ-JTP`) e Albin Schell (`K2VJ-JT5`). As imagens têm aproximadamente 149–200 px e mostram páginas de livros/assentos civis, mas são miniaturas insuficientes para leitura paleográfica confiável. Elas confirmam que há imagens de fonte associadas às páginas públicas, porém não permitem extrair nomes, filiação ou naturalidade sem acessar o registro original em resolução adequada.
+
+
+A partir da lista de irmãos da página `K2VJ-JTP`, o FamilySearch revelou o identificador público de **Rosalina Trott: `K2VJ-JTR`**. O detalhe do perfil exige login; não foi aberto nem editado. Esse ID confirma que a Rosalina Trott do cluster Gramado/Igrejinha é uma pessoa distinta nas páginas públicas da árvore, mas ainda não estabelece qualquer relação com Rosalina Schell de 1906 em Tapes.
+
+
+A página pública de Catharina recarregou e confirmou três fontes com miniaturas públicas: uma de Registro Civil do Rio de Janeiro e duas de Registro Civil do Rio Grande do Sul. A interface não expôs uma imagem ampliada nem identificadores de livro/termo; portanto, o conteúdo continua pista secundária até acesso à imagem original em resolução adequada.

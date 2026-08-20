@@ -129,6 +129,31 @@
 1 AUTH Servus/Arquidiocese de Porto Alegre
 1 NOTE URL: https://www.servusigreja.com.br/sistema/solicitaBatisterio.php?id_u=1
 1 NOTE Fonte institucional; formulário consultado sem envio. Para genealogia, o próprio formulário orienta contato por e-mail e informa exigência de anexo civil e tarifas.
+0 @S24@ SOUR
+1 TITL FamilySearch Ancestors — Catharina Laurinda Trott, 1890–1968
+1 AUTH FamilySearch
+1 NOTE URL: https://ancestors.familysearch.org/en/K2VJ-JTP/catharina-laurinda-trott-1890-1968
+1 NOTE Fonte secundária pública; resume árvore colaborativa e lista fontes civis, mas não substitui as imagens originais.
+0 @S25@ SOUR
+1 TITL FamilySearch Ancestors — Albin Schell, 1886–1945
+1 AUTH FamilySearch
+1 NOTE URL: https://ancestors.familysearch.org/en/K2VJ-JT5/albin-schell-1886-1945
+1 NOTE Fonte secundária pública; informa filiação a Karl Schell e Anna Becker e localidade de Três Coroas.
+0 @S26@ SOUR
+1 TITL FamilySearch Ancestors — Helka Schell, 1913
+1 AUTH FamilySearch
+1 NOTE URL: https://ancestors.familysearch.org/pt/G821-LTP/helka-schell-1913
+1 NOTE Fonte secundária pública; informa filiação a Theodor Schell e Rosalina Trott, mas declara não haver documentos históricos anexados.
+0 @S27@ SOUR
+1 TITL Inventário preliminar de acervos e fontes para a história de Gramado e região, 2ª edição
+1 AUTH Wanderley Cavalcante, Eduardo da Silva Weber e Alex Juarez Müller
+1 NOTE URL: https://memorias.gramado.rs.gov.br/wp-content/uploads/tainacan-items/39/18358/LIVRO-INVENTARIO-2a-Edicao_2026.pdf
+1 NOTE Índice bibliográfico/arquivístico público; descreve o processo APERS 2185/1933 e menciona Catharina Laurinda Schell e Rosalina Schell, sem disponibilizar o PDF do processo.
+0 @S28@ SOUR
+1 TITL FamilySearch Ancestors — Adolfo Schell e Johannes Schell
+1 AUTH FamilySearch
+1 NOTE URL: https://ancestors.familysearch.org/en/LBCP-1TY/adolf-schell-1871-1944
+1 NOTE Fonte secundária pública; repete Karl Schell e Anna Becker como pais de irmãos Schell.
 0 @I1@ INDI
 1 NAME Jonathan Robert /Silveira De Souza/
 1 SEX M
@@ -472,6 +497,120 @@
 1 SOUR @S16@
 1 SOUR @S17@
 1 FAMS @F11@
+0 @I32@ INDI
+1 NAME Rosalina /Trott/
+1 SEX F
+1 NOTE Status: cluster Schell/Trott colateral; dado secundário de página pública FamilySearch.
+1 BIRT
+2 DATE 1892
+2 PLAC Igrejinha, Rio Grande do Sul, Brasil
+1 DEAT
+2 DATE 1971
+2 PLAC Rio Grande do Sul, Brasil
+1 NOTE Página pública Ancestors FamilySearch lista Rosalina Trott como esposa de Theodor Schell e mãe de Helka Schell.
+1 NOTE Não confundir com I11, Rosalina Schell nascida em 1906, filha de Regino, nem com I31, mãe de Alvina e Celanira.
+1 SOUR @S26@
+1 SOUR @S27@
+1 FAMS @F14@
+0 @I33@ INDI
+1 NAME Theodor /Schell/
+1 SEX M
+1 NOTE Status: cluster Schell/Trott colateral; dado secundário de página pública FamilySearch.
+1 BIRT
+2 DATE 1888
+2 PLAC Rio Grande do Sul, Brasil
+1 DEAT
+2 DATE 1969
+2 PLAC Rio Grande do Sul, Brasil
+1 NOTE Página pública de Helka informa Theodor como pai; local de nascimento não foi confirmado em fonte primária.
+1 SOUR @S26@
+1 FAMS @F14@
+0 @I34@ INDI
+1 NAME Helka /Schell/
+1 SEX F
+1 NOTE Status: cluster Schell/Trott colateral; dado secundário de página pública FamilySearch.
+1 BIRT
+2 DATE 26 JUL 1913
+2 PLAC Igrejinha, Rio Grande do Sul, Brasil
+1 NOTE Página pública informa filiação a Theodor Schell e Rosalina Trott; a própria página declara que não há documentos históricos anexados.
+1 SOUR @S26@
+1 FAMC @F14@
+0 @I35@ INDI
+1 NAME Catharina Laurinda /Trott/
+1 SEX F
+1 NOTE Status: cluster Schell/Trott colateral; dado secundário de página pública FamilySearch.
+1 BIRT
+2 DATE 07 MAR 1890
+2 PLAC Gramado, Rio Grande do Sul, Brasil
+1 DEAT
+2 DATE 14 NOV 1968
+2 PLAC Taquara, Rio Grande do Sul, Brasil
+1 NOTE Página pública Ancestors FamilySearch informa casamento com Albin Schell, filiação a Jacob Friedrich Trott e Emilie Fillmann e sepultamento em Padilha.
+1 NOTE O processo APERS 2185/1933 menciona Catharina Laurinda Schell, mas o PDF primário desse processo não foi localizado.
+1 SOUR @S24@
+1 SOUR @S27@
+1 FAMS @F15@
+1 FAMC @F17@
+0 @I36@ INDI
+1 NAME Albin /Schell/
+1 SEX M
+1 NOTE Status: cluster Schell/Trott colateral; dado secundário de página pública FamilySearch.
+1 BIRT
+2 DATE 21 JUN 1886
+2 PLAC Três Coroas, Rio Grande do Sul, Brasil
+1 DEAT
+2 DATE 02 JUN 1945
+2 PLAC Padilha, Taquara, Rio Grande do Sul, Brasil
+1 NOTE Página pública informa filiação a Karl Schell e Anna Becker e casamento com Catharina Laurinda Trott.
+1 SOUR @S25@
+1 FAMS @F15@
+1 FAMC @F16@
+0 @I37@ INDI
+1 NAME Karl /Schell/
+1 SEX M
+1 NOTE Status: cluster Schell/Trott colateral; filiação secundária.
+1 BIRT
+2 DATE 1843
+1 DEAT
+2 DATE 1890
+1 NOTE Apresentado como pai de Albin, Adolfo e Johannes nas páginas públicas FamilySearch; naturalidade europeia não demonstrada.
+1 SOUR @S25@
+1 SOUR @S28@
+1 FAMS @F16@
+0 @I38@ INDI
+1 NAME Anna /Becker/
+1 SEX F
+1 NOTE Status: cluster Schell/Trott colateral; filiação secundária.
+1 BIRT
+2 DATE 1848
+1 DEAT
+2 DATE 1928
+1 NOTE Apresentada como mãe de Albin, Adolfo e Johannes nas páginas públicas FamilySearch; naturalidade europeia não demonstrada.
+1 SOUR @S25@
+1 SOUR @S28@
+1 FAMS @F16@
+0 @I39@ INDI
+1 NAME Jacob Friedrich /Trott/
+1 SEX M
+1 NOTE Status: cluster Schell/Trott colateral; filiação secundária.
+1 BIRT
+2 DATE 1862
+1 DEAT
+2 DATE 1934
+1 NOTE Apresentado como pai de Catharina Laurinda Trott; local de nascimento não confirmado em fonte primária.
+1 SOUR @S24@
+1 FAMS @F17@
+0 @I40@ INDI
+1 NAME Emilie /Fillmann/
+1 SEX F
+1 NOTE Status: cluster Schell/Trott colateral; filiação secundária.
+1 BIRT
+2 DATE 1865
+1 DEAT
+2 DATE 1946
+1 NOTE Apresentada como mãe de Catharina Laurinda Trott; local de nascimento e origem europeia não confirmados.
+1 SOUR @S24@
+1 FAMS @F17@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
@@ -566,3 +705,33 @@
 2 SOUR @S17@
 1 NOTE Status: confirmada por habilitação APERS 180674.
 1 NOTE Livro 7-A, folha 198, termo 723.
+0 @F14@ FAM
+1 HUSB @I33@
+1 WIFE @I32@
+1 CHIL @I34@
+1 SOUR @S26@
+1 NOTE Status: filiação secundária; cluster desconectado.
+1 NOTE Página pública de Helka Schell apresenta Theodor Schell e Rosalina Trott como pais. Não associar a I11 ou I31.
+0 @F15@ FAM
+1 HUSB @I36@
+1 WIFE @I35@
+1 SOUR @S24@
+1 SOUR @S25@
+1 SOUR @S27@
+1 NOTE Status: casal secundário; cluster desconectado.
+1 NOTE Páginas públicas informam Albin Schell e Catharina Laurinda Trott como cônjuges. Processo APERS 2185/1933 apenas menciona Catharina Laurinda Schell e Rosalina Schell entre executantes.
+0 @F16@ FAM
+1 HUSB @I37@
+1 WIFE @I38@
+1 CHIL @I36@
+1 SOUR @S25@
+1 SOUR @S28@
+1 NOTE Status: filiação secundária; cluster desconectado.
+1 NOTE Página pública de Albin informa Karl Schell e Anna Becker como pais. Origem europeia não comprovada.
+0 @F17@ FAM
+1 HUSB @I39@
+1 WIFE @I40@
+1 CHIL @I35@
+1 SOUR @S24@
+1 NOTE Status: filiação secundária; cluster desconectado.
+1 NOTE Página pública de Catharina informa Jacob Friedrich Trott e Emilie Fillmann como pais.
