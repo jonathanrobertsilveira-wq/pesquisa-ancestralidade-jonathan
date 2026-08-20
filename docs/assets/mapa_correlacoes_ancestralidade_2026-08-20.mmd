@@ -1,0 +1,45 @@
+flowchart LR
+  classDef confirmed fill:#d9f2d9,stroke:#2f7d32,color:#153b16,stroke-width:2px;
+  classDef hypothesis fill:#fff3cd,stroke:#b8860b,color:#4c3b00,stroke-width:2px;
+  classDef conflict fill:#f8d7da,stroke:#a33a45,color:#4a1117,stroke-width:2px;
+  classDef collateral fill:#e2e3e5,stroke:#6c757d,color:#343a40,stroke-width:2px;
+  classDef source fill:#dbeafe,stroke:#2563eb,color:#0f2b5b,stroke-width:1px;
+
+  J[Jonathan Robert Silveira de Souza]:::hypothesis --> V[Valdeci Kenes de Souza]:::hypothesis
+  V --> Rv[Rosalvino Schell de Souza]:::hypothesis
+  Rv --- C[Carolina Augusta Kenes de Souza]:::hypothesis
+  Rv --> JM[José Maria Kenes de Souza<br/>óbito 1971]:::confirmed
+  C --> JM
+  Rv -. pais alegados .-> Ra[Raimundo José de Souza]:::hypothesis
+  Rv -. pais alegados .-> A[Alicia Schell]:::hypothesis
+  Ra -. pai alegado .-> M[Manoel José de Souza<br/>óbito 1941 confirmado]:::confirmed
+  M --- MC[Maria Candida Tavares]:::hypothesis
+
+  Al[Alvino Paulino de Souza<br/>nasc. 1897]:::confirmed --- RB[Rosalina B<br/>nasc. 16/12/1906]:::confirmed
+  Al --> G[Geremias de Souza]:::confirmed
+  Al --> AQ[Anna Joaquina Paulino de Souza]:::confirmed
+  G --> AS[Alexandrino de Oliveira e Souza]:::confirmed
+  G --> F[Felicia Rodrigues de Souza]:::confirmed
+  AQ --> JP[Joaquim Paulino Tavares]:::confirmed
+  AQ --> VT[Victoria Tavares]:::confirmed
+  RB --> Re[Regino Schell]:::confirmed
+  AP180190[APERS 180190<br/>casamento 17/04/1955 + certidões]:::source --> Al
+  AP180190 --> RB
+
+  RA[Rosalina A<br/>nasc. declarada 16/12/1897]:::conflict --> Alv[Alvina Schell<br/>nasc. 1926]:::confirmed
+  RA --> Ce[Celanira Schell<br/>nasc. 1934]:::confirmed
+  AP180603[APERS 180603<br/>maternidade e casamento 1947]:::source --> RA
+  AP180674[APERS 180674<br/>maternidade e casamento 1953]:::source --> RA
+  RB -. não fundir .- RA
+
+  Fk[Flauliano Brasil Kenes]:::hypothesis --- Ev[Eva Silveira]:::hypothesis
+  Fk -. pais alegados .-> MG[Manoel Geraldo Kenes]:::hypothesis
+  MG -. pais alegados .-> JK[João Kenne]:::hypothesis
+  MG -. mãe alegada .-> MF[Marcolina Ferraz Leite]:::hypothesis
+  Fk -. pai alegado .-> C
+  Ev -. mãe alegada .-> C
+
+  CT[Cluster Schell/Trott<br/>Gramado–Igrejinha–Taquara]:::collateral -. sem documento-ponte .- RB
+  CT -. sem documento-ponte .- RA
+
+  class AP180190,AP180603,AP180674 source

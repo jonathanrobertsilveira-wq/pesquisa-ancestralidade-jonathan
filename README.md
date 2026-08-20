@@ -23,6 +23,15 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `pesquisa_nova_2026-08-20/` | PDFs e artefatos brutos da nova rodada |
 | `criar_arvore_gedcom.py` | Gerador reproduzível da árvore independente |
 | `validar_gedcom.py` | Validador do GEDCOM |
+| `docs/00_indice_projeto_2026-08-20.md` | Índice organizado do projeto e ordem recomendada de leitura |
+| `docs/01_relatorio_master_ancestralidade_2026-08-20.md` | Relatório-mestre com provas, hipóteses, conflitos e conclusões |
+| `docs/02_matriz_evidencias_2026-08-20.csv` | Matriz de 24 afirmações, fontes, correlações e próximos testes |
+| `docs/03_mapa_correlacoes_ancestralidade_2026-08-20.md` | Mapa textual e visual das correlações entre pessoas e fontes |
+| `docs/04_plano_validacao_2026-08-20.md` | Plano de validação dos elos ainda abertos |
+
+## Organização atualizada
+
+A rodada de 20/08/2026 acrescentou uma documentação organizada em `docs/`. O ponto de entrada é `docs/00_indice_projeto_2026-08-20.md`; o relatório-mestre está em `docs/01_relatorio_master_ancestralidade_2026-08-20.md`. A matriz CSV registra cada afirmação como comprovada, fortemente indicada, hipótese, conflito, provavelmente distinta ou não demonstrada. O mapa visual mantém separadas Rosalina A, Rosalina B e o cluster Schell/Trott.
 
 ## Privacidade
 
