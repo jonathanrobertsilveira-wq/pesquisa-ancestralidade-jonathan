@@ -267,3 +267,12 @@ Esse material constitui **pista colateral de baixa a média confiança**, útil 
 [36]: https://ancestors.familysearch.org/es/LR5J-JPL/johannes-schell-1869-1952 "Johannes Schell — FamilySearch Ancestors"
 
 [37]: https://memorias.gramado.rs.gov.br/wp-content/uploads/tainacan-items/39/18358/LIVRO-INVENTARIO-2a-Edicao_2026.pdf "Inventário preliminar de acervos e fontes para a história de Gramado e região"
+
+
+## 21. Pesquisa de controle: desambiguação das duas Rosalinas
+
+A pesquisa de controle reexaminou visualmente o processo APERS nº 180674. Na página 4, a petição de habilitação de Cravilino Nogueira e Celanira Schell declara que Celanira nasceu em 20/08/1934 e é filha de **Rosalina Schell, natural do Estado, doméstica, residente e domiciliada no terceiro distrito de Tapes, nascida em 16/12/1897**. A imagem original ampliada permite ler a data como 16 de dezembro de 1897.
+
+Esse achado é uma evidência primária de alto valor para desambiguação. O processo APERS nº 180190, referente a Alvino Paulino de Souza e Rosalina Schell, registra a esposa de Alvino como nascida em **16/12/1906**. As duas datas têm o mesmo dia e mês, mas diferem em nove anos; além disso, as mulheres aparecem em papéis familiares distintos: uma é mãe de Celanira e Alvina, e a outra é esposa de Alvino. A interpretação mais segura passa a ser que existem **duas Rosalinas Schell diferentes**, ambas em Vila Cerro Grande/Tapes.
+
+A conclusão ainda não é uma identificação civil definitiva porque os assentos originais de nascimento não foram localizados. Contudo, a hipótese anterior de que a Rosalina mãe de Alvina/Celanira poderia ser a mesma Rosalina esposa de Alvino fica fortemente enfraquecida. O GEDCOM e os relatórios devem manter as duas pessoas separadas.

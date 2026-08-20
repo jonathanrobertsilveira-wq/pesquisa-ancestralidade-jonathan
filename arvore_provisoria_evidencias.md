@@ -126,3 +126,14 @@ A árvore independente atualizada está em `/home/ubuntu/gedcom_pesquisa_jonatha
 | Catharina Laurinda Schell e Rosalina Schell aparecem entre executantes do processo APERS nº 2185/1933 | Inventário público de fontes de Gramado, p. 22–23 | Índice arquivístico, não o processo original | Média para a menção; baixa para parentesco | Procurar o processo primário antes de inferir relações familiares. |
 
 **Conclusão:** o cluster Schell/Trott é uma nova trilha regional, não uma extensão confirmada da linha Jonathan–Souza.
+
+
+## Pesquisa de controle — desambiguação das Rosalinas
+
+| Afirmação | Evidência independente | Avaliação |
+|---|---|---|
+| Rosalina mãe de Celanira nasceu em 16/12/1897 e residia no 3º distrito de Tapes em 1953 | APERS 180674, p. 4, imagem original ampliada; petição de habilitação | **Confirmado como declaração do processo; fonte primária** |
+| Rosalina esposa de Alvino nasceu em 16/12/1906 | APERS 180190, certidão anexada | **Confirmado como declaração do processo; fonte primária** |
+| As duas Rosalinas são a mesma pessoa | Nenhuma fonte; as datas diferem em nove anos e os papéis familiares são distintos | **Hipótese fortemente enfraquecida; manter separadas** |
+
+A coincidência do dia e mês, com diferença de nove anos, não é suficiente para unificar as pessoas. Até localização dos assentos originais, a identidade deve ser tratada como **provavelmente distinta**, não como vínculo confirmado.
