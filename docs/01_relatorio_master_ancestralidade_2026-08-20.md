@@ -1,8 +1,11 @@
 # Relatório-mestre de ancestralidade — Jonathan Robert Silveira de Souza
 
-**Data de corte:** 20 de agosto de 2026  
-**Escopo:** reconstrução documental das linhas Souza, Schell/Schel e Kenes/Kenne, com foco em Tapes, Vila Cerro Grande, Camaquã e Guaíba, no Rio Grande do Sul.  
-**Autor:** Manus AI  
+**Data de corte:** 20 de agosto de 2026
+
+**Escopo:** reconstrução documental das linhas Souza, Schell/Schel e Kenes/Kenne, com foco em Tapes, Vila Cerro Grande, Camaquã e Guaíba, no Rio Grande do Sul.
+
+**Autor:** Manus AI
+
 **Status:** pesquisa documental em andamento; este relatório substitui a leitura fragmentada dos relatórios anteriores, sem apagar os documentos históricos que permanecem no repositório.
 
 ## 1. Resposta direta: o que está provado e o que não está
