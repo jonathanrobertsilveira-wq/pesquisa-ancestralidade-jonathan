@@ -2,7 +2,7 @@
 
 ## Escopo atual
 
-Este registro foi elaborado a partir da visualização paisagem do FamilySearch associada à pessoa `GK15-TLV` e de páginas públicas consultadas em 19 de agosto de 2026. A árvore colaborativa e o resumo do MyHeritage são tratados como **fontes derivadas**. Nenhum elo abaixo foi elevado a confirmado sem certidão, registro paroquial, imagem de arquivo ou conjunto independente de evidências.
+Este registro foi elaborado a partir da visualização paisagem do FamilySearch associada à pessoa `GK15-TLV`, de páginas públicas consultadas em 19 de agosto de 2026 e do conhecimento familiar direto declarado por Jonathan. A árvore colaborativa e o resumo do MyHeritage são tratados como **fontes derivadas**. Os vínculos **Jonathan → Valdeci**, **Jonathan → Rosalvino** e **Jonathan → Carolina** são confirmados como fatos familiares vividos pelo testemunho pessoal direto de Jonathan; os documentos civis continuam sendo buscados para auditoria externa, datas e filiações formais. Os elos de gerações anteriores continuam dependendo de certidão, registro paroquial, imagem de arquivo ou conjunto independente de evidências.
 
 ## Árvore de trabalho
 
@@ -41,8 +41,9 @@ A disposição acima reproduz os cartões visíveis, mas a captura textual não 
 
 | Afirmação | Fonte atual | Qualidade | Confiança atual | Próxima validação |
 |---|---|---|---|---|
-| Rosalvino nasceu em 06/10/1940 em Tapes | Painel da árvore FamilySearch, `P4KK-1QH`; fontes civis associadas não correspondem diretamente ao nascimento | Perfil ainda mostra `Birth • 0 Sources` | Possível | Registro civil de Tapes ou batismo |
-| Rosalvino morreu em 17/10/2014 em Guaíba | Painel da árvore FamilySearch, `P4KK-1QH` | Derivada; óbito com 0 fontes exibidas | Possível | Registro civil de Guaíba, obituário ou sepultamento |
+| Jonathan identifica Rosalvino como seu avô e Carolina como sua avó | Conhecimento pessoal direto de Jonathan; registro indexado de José Maria acrescenta correlação do casal | Testemunho familiar direto + correlação civil | **Confirmado por testemunho familiar direto**; documentação cartorial complementar | Localizar registros apenas para auditoria externa |
+| Rosalvino nasceu em 06/10/1940 em Tapes | Painel da árvore FamilySearch, `P4KK-1QH`; fontes civis associadas não correspondem diretamente ao nascimento | Perfil ainda mostra `Birth • 0 Sources` | Hipótese documental; não afeta a confirmação da identidade familiar de Rosalvino | Registro civil de Tapes ou batismo |
+| Rosalvino morreu em 17/10/2014 em Guaíba | Painel da árvore FamilySearch, `P4KK-1QH` | Derivada; óbito com 0 fontes exibidas | Possível como dado documental pendente | Registro civil de Guaíba, obituário ou sepultamento |
 | Rosalvino ocupação: agricultor | Painel FamilySearch; 1 fonte não identificada | Derivada | Possível | Identificar a fonte e conferir a imagem |
 | Rosalvino é associado a Raimundo José de Souza e Alicia Schell de Souza | Árvore FamilySearch, IDs `GV4D-D91` e `GV54-K3Q` | Árvore colaborativa | Possível | Registro de nascimento/casamento/óbito que informe filiação |
 | Raimundo e Alicia casaram em Cerro Grande, Tapes | Perfil autenticado de Raimundo `GV4D-D91`; casamento listado em Cerro Grande, Tapes | Árvore colaborativa; fontes civis lidas até agora não são o casamento | Possível | Habilitação ou assento de casamento em Tapes/Cerro Grande do Sul |
@@ -137,3 +138,18 @@ A árvore independente atualizada está em `/home/ubuntu/gedcom_pesquisa_jonatha
 | As duas Rosalinas são a mesma pessoa | Nenhuma fonte; as datas diferem em nove anos e os papéis familiares são distintos | **Hipótese fortemente enfraquecida; manter separadas** |
 
 A coincidência do dia e mês, com diferença de nove anos, não é suficiente para unificar as pessoas. Até localização dos assentos originais, a identidade deve ser tratada como **provavelmente distinta**, não como vínculo confirmado.
+
+## Atualização do foco — ascendentes acima dos avós — 20/08/2026
+
+| Afirmação | Fonte/achado novo | Qualidade | Classificação atual |
+|---|---|---|---|
+| Manoel Geraldo Lemes/Kens e Doralina/Dorvalina Ferreira Kenes/Kens são pais de Flauliano | Casamento de 28/07/1948, Capela Velha, certificado 664; duas indexações, ARKs `X9YR-4ZTN` e `6XV2-83D1`, com imagem original acessível | Registro civil indexado duplicado e imagem disponível | **Forte indício documental; confirmar pela leitura integral do termo** |
+| Lena Silveira foi esposa de Flauliano no evento de 28/07/1948 | Mesmos ARKs e painel do documento original | Registro civil indexado | **Indício forte; conflita com Eva Silveira exibida na árvore** |
+| Eva Silveira é a mesma pessoa que Lena Silveira | Eva aparece no perfil colaborativo; Lena aparece no casamento de 1948 | Conflito de fontes | **Não demonstrado; não substituir nem mesclar** |
+| Manoel Geraldo é filho de Marcolina Ferraz Leite | Perfil `PMXJ-2SR` e perfil de Marcolina `MRWF-1WZ` | Árvore colaborativa com fontes associadas | **Hipótese reforçada, ainda sem certidão primária lida** |
+| Marcolina é filha de Cândido Ferraz Leite e Brígida Antonia da Silva | Perfil `MRWF-1WZ`; nascimento 04/01/1852, batismo em 24/03/1860 em Encruzilhada do Sul | Perfil com múltiplas fontes, imagem original não conferida nesta rodada | **Hipótese de trabalho** |
+| João Kenne é marido de Marcolina e pai indicado de Manoel | Perfis `GQMT-NZP` e `MRWF-1WZ` | Árvore colaborativa | **Hipótese forte, pendente de registro de casamento/nascimento** |
+| João Kenne nasceu na Alemanha | Perfil `GQMT-NZP` e título de fonte sobre óbito de Cândido Sandálio | Fonte descrita por usuário; imagem restrita | **Pista relevante, não confirmação independente** |
+| Manoel José de Souza é pai de Raimundo José de Souza | Ficha `XSXL-4W2G` o identifica como filho; original `3QS7-99GW-1966` não indexado | Índice automático + imagem sem transcrição | **Forte indício; confirmar paleograficamente** |
+
+O foco da investigação foi alterado para os ascendentes dos avós. O elo com Valdeci não é prioridade nesta etapa e não deve orientar a ordem de pesquisa enquanto houver lacunas documentais acima de Rosalvino e Carolina.

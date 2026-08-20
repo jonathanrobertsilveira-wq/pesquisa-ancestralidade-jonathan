@@ -103,3 +103,10 @@ A convergência regional — todas as ocorrências mencionam o sul do Brasil e o
 O usuário informou que conheceu pessoalmente **Rosalvino**, identificando-o como seu avô. Essa informação é uma evidência de primeira mão para a identidade de Rosalvino e para o vínculo familiar vivido pelo usuário; ela reduz fortemente o risco de que o perfil `P4KK-1QH` seja um homônimo sem relação com a família conhecida.
 
 Metodologicamente, o testemunho deve ser separado em três níveis: (1) **identidade de Rosalvino como avô do usuário: confirmada por testemunho familiar direto**; (2) datas, local de nascimento e filiação de Rosalvino: ainda dependentes de registro documental; (3) origem europeia do ramo Schell: não demonstrada. O testemunho não deve ser usado para inferir automaticamente que Raimundo e Alicia são os pais de Rosalvino, nem para conectar Rosalvino à Rosalina Schell de 1906.
+
+
+## Continuação autenticada — fontes civis de Rosalvino
+
+A consulta autenticada ao perfil FamilySearch `P4KK-1QH` recuperou duas fontes civis anexadas ao perfil. A fonte de 1971 (`6YPM-F1JQ`) apresenta José Maria Kenes de Souza como filho de Rosalvino Schel de Souza e Carolina como esposa; o registro informa nascimento em 13/03/1971, óbito em 29/03/1971, 16 dias de idade e certidão nº 599. A fonte de 1979 (`XSF9-NC8N`) apresenta Magda Renes de Souza como filha de Rosalvino e Carolina de Souza como esposa, mas exibe a data do evento como 10/01/1810, embora a própria indexação mostre nascimento em 1977 e dois dias de idade. A página identifica o índice como produzido por computador.
+
+A avaliação correta é: os registros fortalecem o núcleo Rosalvino–Carolina e seus descendentes, mas não confirmam a filiação de Rosalvino a Raimundo José de Souza e Alicia Schell. A fonte de 1979 deve ser classificada como pista de registro com erro de indexação até conferência do manuscrito original. Nenhuma alteração foi feita na árvore pública ou no GEDCOM independente com base nessa fonte.

@@ -34,3 +34,13 @@ A busca local no CSV completo do APERS também não encontrou `Rosalvino`, `Roza
 
 
 A ocorrência de “Raimundo José de Souza” localizada em *Genealogia Tropeira — Volume VI* refere-se a genealogia histórica de fronteira e a homônimos de períodos anteriores, sem coincidência documental com Tapes/Cerro Grande, Rosalvino ou Alicia Schell. Foi classificada como **não relacionada** e não será incorporada à linha direta.
+## Consulta ao Registro Civil de Tapes enviada
+
+Em 20/08/2026, após confirmação do usuário, foi enviada pelo conector Gmail a consulta gratuita ao endereço `cartorio@marapeter.com.br`.
+
+- Assunto: **Dúvida sobre registros antigos de Tapes e Vila Cerro Grande**
+- Message ID: `1a01f5add28bcdb8`
+- Conteúdo: pergunta sobre o possível nascimento de Rosalvino Schell de Souza em 06/10/1940, o possível casamento de Raimundo José de Souza e Alicia Schell entre 1930 e 1945, a abrangência dos livros de Vila Cerro Grande/Tapes e a possibilidade de consulta inicial sem custo.
+- Sem anexos, sem pedido de emissão de certidão e sem autorização de cobrança.
+
+O envio foi concluído. Aguardar resposta antes de solicitar qualquer registro pago ou alterar hipóteses da árvore.

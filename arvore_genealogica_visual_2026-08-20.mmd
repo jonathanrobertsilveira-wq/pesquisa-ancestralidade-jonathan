@@ -1,0 +1,129 @@
+---
+title: "Árvore genealógica de Jonathan — mapa visual da pesquisa"
+---
+flowchart TB
+  %% A árvore representa relações e também a força das evidências.
+  classDef direto fill:#dbeafe,stroke:#2563a6,color:#102a43,stroke-width:3px;
+  classDef documento fill:#dcfce7,stroke:#2f7d32,color:#153b16,stroke-width:2px;
+  classDef hipotese fill:#fef3c7,stroke:#b8860b,color:#4c3b00,stroke-width:2px;
+  classDef conflito fill:#fee2e2,stroke:#a33a45,color:#4a1117,stroke-width:2px;
+  classDef colateral fill:#e5e7eb,stroke:#6b7280,color:#1f2937,stroke-width:2px;
+  classDef fonte fill:#dbeafe,stroke:#2563eb,color:#0f2b5b,stroke-width:1px;
+  classDef nota fill:#f8fafc,stroke:#64748b,color:#334155,stroke-width:1px;
+
+  subgraph L1[LINHA DIRETA — confirmada no escopo privado]
+    direction TB
+    J["Jonathan Robert<br/>Silveira de Souza"]:::direto
+    V["Valdeci Kenes<br/>de Souza"]:::direto
+    Rv["Rosalvino Schell<br/>de Souza"]:::direto
+    C["Carolina Augusta<br/>Kenes de Souza"]:::direto
+    J -->|filho de| V
+    V -->|filho de| Rv
+    V -->|filho de| C
+    Rv ---|casal| C
+    J -.->|certidão privada + conhecimento direto| N1["A certidão de Jonathan confirma<br/>Valdeci como pai e Rosalvino/Carolina como avós.<br/>Documento não compartilhado por privacidade."]:::nota
+  end
+
+  subgraph L2[RAMO ANTERIOR DE ROSALVINO — ainda não fechado]
+    direction TB
+    Ra["Raimundo José<br/>de Souza"]:::hipotese
+    Al["Alicia Schell"]:::hipotese
+    Rv -.->|pais alegados| Ra
+    Rv -.->|mãe alegada| Al
+    M["Manoel José<br/>de Souza<br/>óbito: 1941"]:::documento
+    MC["Maria Candida<br/>Tavares"]:::hipotese
+    Ra -.->|filho alegado| M
+    M ---|casal alegado| MC
+  end
+
+  JM["José Maria Kenes<br/>de Souza<br/>óbito: 29/03/1971"]:::documento
+  Rv -->|pai| JM
+  C -->|mãe| JM
+
+  subgraph L3[RAMO DOCUMENTAL SCHELL — linha de Tapes/Cerro Grande]
+    direction TB
+    Alvino["Alvino Paulino<br/>de Souza<br/>nasc.: 23/02/1897"]:::documento
+    RB["Rosalina B — esposa de Alvino<br/>nasc.: 16/12/1906<br/>filha de Regino Schell"]:::documento
+    Regino["Regino Schell"]:::documento
+    Geremias["Geremias de Souza"]:::documento
+    AnnaJ["Anna Joaquina<br/>Paulino de Souza"]:::documento
+    Alexandrino["Alexandrino de Oliveira<br/>e Souza"]:::documento
+    Felicia["Felicia Rodrigues<br/>de Souza"]:::documento
+    Joaquim["Joaquim Paulino<br/>Tavares"]:::documento
+    Victoria["Victoria Tavares"]:::documento
+    Alvino ---|casamento: 17/04/1955| RB
+    RB -->|filha| Regino
+    Alvino -->|filho| Geremias
+    Alvino -->|filho| AnnaJ
+    Geremias -->|filho| Alexandrino
+    Geremias -->|filho| Felicia
+    AnnaJ -->|filha| Joaquim
+    AnnaJ -->|filha| Victoria
+    S190["APERS 180190<br/>habilitação + certidões"]:::fonte
+    S190 -.->|comprova casal e filiações| Alvino
+    S190 -.->|comprova casal e filiações| RB
+  end
+
+  subgraph L4[OUTRO NÚCLEO SCHELL — não fundir automaticamente]
+    direction TB
+    RA["Rosalina A — mãe de Alvina/Celanira<br/>nasc.: declarada em 16/12/1897"]:::conflito
+    Alvina["Alvina Schell"]:::documento
+    Ademar["Ademar Antunes Leal"]:::documento
+    Celanira["Celanira Schell"]:::documento
+    Cravilino["Cravilino Nogueira"]:::documento
+    RA -->|mãe| Alvina
+    RA -->|mãe| Celanira
+    Alvina ---|casamento: 04/10/1947| Ademar
+    Celanira ---|casamento: 31/10/1953| Cravilino
+    S603["APERS 180603<br/>maternidade + casamento"]:::fonte
+    S674["APERS 180674<br/>maternidade + casamento"]:::fonte
+    S603 -.-> RA
+    S674 -.-> RA
+    RB -.->|não fundir: diferença de 9 anos e papéis incompatíveis| RA
+  end
+
+  subgraph L5[RAMO KENES — hipótese derivada, sem prova primária suficiente]
+    direction TB
+    Flauliano["Flauliano Brasil<br/>Kenes"]:::hipotese
+    Eva["Eva Silveira"]:::hipotese
+    ManoelG["Manoel Geraldo<br/>Kenes"]:::hipotese
+    Dorvalina["Dorvalina"]:::hipotese
+    Joao["João Kenne"]:::hipotese
+    Marcolina["Marcolina Ferraz<br/>Leite"]:::hipotese
+    Flauliano ---|casal alegado| Eva
+    Flauliano -.->|pai alegado de| C
+    Eva -.->|mãe alegada de| C
+    Flauliano -.->|filho alegado| ManoelG
+    ManoelG ---|casal alegado| Dorvalina
+    ManoelG -.->|filho alegado| Joao
+    ManoelG -.->|filha alegada| Marcolina
+    HN["Origem alemã/europeia:<br/>não demonstrada documentalmente"]:::nota
+    Joao -.-> HN
+  end
+
+  subgraph L6[CLUSTER REGIONAL — colateral e desconectado]
+    direction TB
+    CT["Schell/Trott<br/>Gramado · Igrejinha · Taquara"]:::colateral
+    CT -.->|sem documento-ponte| RB
+    CT -.->|sem documento-ponte| RA
+    CN["Sobrenome semelhante e região próxima<br/>não provam parentesco."]:::nota
+    CT -.-> CN
+  end
+
+  subgraph LEGENDA[COMO LER]
+    direction LR
+    LG1["Azul: confirmado por Jonathan e/ou fonte privada"]:::direto
+    LG2["Verde: comprovado por documento compartilhado"]:::documento
+    LG3["Amarelo: hipótese ou indício forte"]:::hipotese
+    LG4["Vermelho: conflito / não fundir"]:::conflito
+    LG5["Cinza: colateral / sem conexão"]:::colateral
+  end
+
+  classDef edgeNote fill:#ffffff,stroke:#94a3b8,color:#334155,stroke-width:1px;
+  style L1 fill:#eff6ff,stroke:#2563a6,stroke-width:2px
+  style L2 fill:#fffbeb,stroke:#b8860b,stroke-width:2px
+  style L3 fill:#f0fdf4,stroke:#2f7d32,stroke-width:2px
+  style L4 fill:#fff1f2,stroke:#a33a45,stroke-width:2px
+  style L5 fill:#fffbeb,stroke:#b8860b,stroke-width:2px
+  style L6 fill:#f3f4f6,stroke:#6b7280,stroke-width:2px
+  style LEGENDA fill:#f8fafc,stroke:#64748b,stroke-width:1px
