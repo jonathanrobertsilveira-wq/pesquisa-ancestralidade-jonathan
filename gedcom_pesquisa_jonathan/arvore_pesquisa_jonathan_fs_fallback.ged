@@ -1,0 +1,446 @@
+0 HEAD
+1 SOUR Manus AI
+2 VERS 1.0
+1 NAME Arvore de pesquisa independente - Jonathan Robert Silveira De Souza
+1 NOTE Esta arvore e uma reconstrucao de pesquisa. Nao altera a arvore original do FamilySearch.
+1 DATE 19 AUG 2026
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG Portuguese
+1 DEST OTHER
+0 @S1@ SOUR
+1 TITL APERS - Habilitacao de casamento de Alvino Paulino de Souza e Rosalina Schell, processo interno 180190
+1 AUTH Arquivo Publico do Estado do Rio Grande do Sul
+1 NOTE URL: https://secweb.procergs.com.br/aap/ObtemDadosServlet?metodo=verArquivoPDF&NRO_INT_DOCUMENTO=180190
+1 NOTE Arquivo local: /home/ubuntu/upload/apers_processo_180190.pdf
+1 NOTE Fonte primaria; PDF de 18 paginas com certidoes e tramitacao judicial.
+0 @S2@ SOUR
+1 TITL APERS - Exportacao da busca por Schell
+1 AUTH Arquivo Publico do Estado do Rio Grande do Sul
+1 NOTE URL: https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true
+1 NOTE Arquivo local: /home/ubuntu/upload/exportacao-1787179224315.csv
+1 NOTE Indice estruturado; revelou NRO_INT_DOCUMENTO=180190 e o link do PDF.
+0 @S3@ SOUR
+1 TITL Arvore FamilySearch - Jonathan Robert Silveira De Souza
+1 AUTH FamilySearch
+1 NOTE URL: https://www.familysearch.org/en/tree/pedigree/landscape/GK15-TLV
+1 NOTE Fonte derivada; relacoes e datas a partir dos avos permanecem hipoteses.
+0 @S4@ SOUR
+1 TITL MyHeritage - Rosalina Schell
+1 AUTH MyHeritage
+1 NOTE URL: https://www.myheritage.no/names/rosalina_schell
+1 NOTE Fonte derivada; reproduz resumo de arvore e nao substitui registro original.
+0 @S5@ SOUR
+1 TITL FamilySearch - Obito de Jose Maria Kenes de Souza, 29/03/1971
+1 AUTH FamilySearch
+1 NOTE URL: https://familysearch.org/ark:/61903/1:1:6YPM-F1JQ
+1 NOTE Registro civil indexado; confirma Jose Maria como filho de Rosalvino e Carolina no conjunto familiar.
+0 @S6@ SOUR
+1 TITL FamilySearch - Obito de Manoel Jose de Souza, 21/02/1941
+1 AUTH FamilySearch
+1 NOTE URL: https://familysearch.org/ark:/61903/1:1:6RM8-HCHX
+1 NOTE Registro civil indexado; evento confirmado, parentesco de Raimundo ainda parcial.
+0 @S7@ SOUR
+1 TITL FamilySearch - Imagem original do obito de Barao do Triunfo, filme 004208553
+1 AUTH FamilySearch
+1 NOTE URL: https://familysearch.org/ark:/61903/3:1:3QS7-99GW-1966
+1 NOTE Imagem original localizada; manuscrito ainda nao transcrito integralmente.
+0 @S8@ SOUR
+1 TITL FamilySearch - Rio Grande do Sul, Brazil, Civil Registration, 1810-2022
+1 AUTH FamilySearch
+1 NOTE URL: https://www.familysearch.org/en/search/collection/3741255
+1 NOTE Colecao civil consultada nominalmente para Rosalina Schell em 1906; busca exata e busca sem localidade retornaram zero resultados.
+0 @S9@ SOUR
+1 TITL FamilySearch - Rio Grande do Sul, Brazil, Catholic Church Records, 1738-1952
+1 AUTH FamilySearch
+1 NOTE URL: https://www.familysearch.org/en/search/collection/2177295
+1 NOTE Colecao catolica consultada nominalmente e por imagens; busca de Rosalina em 1906 retornou zero e waypoints de Tapes, Camaqua e Sao Jeronimo nao cobrem batismo de 1906.
+0 @S10@ SOUR
+1 TITL APERS - Busca publica por Rosalvino em 1940 e 1929-1948
+1 AUTH Arquivo Publico do Estado do Rio Grande do Sul
+1 NOTE URL: https://buscadocumentos.apers.rs.gov.br/pesquisa-documentos?semHeaders=true
+1 NOTE Busca nominal estruturada; homonimos foram descartados e nao houve ocorrencia em Tapes, Guaiba, Cerro Grande ou Schel/Schell.
+0 @S11@ SOUR
+1 TITL FamilySearch - Busca civil de Rosalvino Schell/Schel, 1940
+1 AUTH FamilySearch
+1 NOTE URL: https://www.familysearch.org/en/search/collection/3741255
+1 NOTE Busca nominal exata e por prenome; Schell, Schel e apenas Rosalvino retornaram zero em 1940. A faixa 1938-1942 retornou homonimos.
+0 @S12@ SOUR
+1 TITL FamilySearch - Busca de casamento Raimundo Souza + Alicia Schell
+1 AUTH FamilySearch
+1 NOTE URL: https://www.familysearch.org/en/search/collection/3741255
+1 NOTE Consultas civil e catolica, com e sem conjuge/local, retornaram zero resultados para 1930-1945.
+0 @S13@ SOUR
+1 TITL APERS - Busca de Raimundo/Alicia/Schell em 1929-1948
+1 AUTH Arquivo Publico do Estado do Rio Grande do Sul
+1 NOTE URL: https://buscadocumentos.apers.rs.gov.br/pesquisa-documentos?semHeaders=true
+1 NOTE Busca estruturada: Alicia Schell zero; Tapes exibiu apenas homonimos Licia/Acacia e Raimundos sem Alicia; imagens das caixas S ficaram restritas no FamilySearch.
+0 @S14@ SOUR
+1 TITL APERS - Buscas historicas por Regino, Carlos Schell e Anna Schell
+1 AUTH Arquivo Publico do Estado do Rio Grande do Sul
+1 NOTE URL: https://buscadocumentos.apers.rs.gov.br/pesquisa-documentos?semHeaders=true
+1 NOTE Consultas entre 1870 e 1968; sem ocorrencia de Regino/Schell no Cartorio de Tapes ou Cerro Grande. Homonimos de outras comarcas foram descartados.
+0 @S15@ SOUR
+1 TITL FamilySearch - Busca de Regino Schell nas colecoes civil e catolica
+1 AUTH FamilySearch
+1 NOTE URL: https://www.familysearch.org/en/search/collection/3741255
+1 NOTE Regino Schell retornou zero na colecao civil 3741255 e na colecao catolica 2177295.
+0 @I1@ INDI
+1 NAME Jonathan Robert /Silveira De Souza/
+1 SEX M
+1 NOTE FamilySearch ID: GK15-TLV
+1 NOTE Status: referencia da pesquisa; identidade informada pelo usuario/arvore FamilySearch.
+1 NOTE Pessoa de referencia da arvore independente. Nenhuma alteracao foi feita na arvore original do FamilySearch.
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Valdeci Kenes /de Souza/
+1 SEX M
+1 NOTE FamilySearch ID: P4KK-B9S
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 NOTE Filiacao a Rosalvino Schell de Souza e Carolina Augusta Kenes de Souza ainda nao confirmada por registro primario.
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Ana /Paula/
+1 SEX F
+1 NOTE FamilySearch ID: P42Q-ZRT
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 NOTE Conjuge de Valdeci conforme arvore; nome incompleto e sem confirmacao documental.
+1 FAMS @F1@
+0 @I4@ INDI
+1 NAME Rosalvino Schell /de Souza/
+1 SEX M
+1 NOTE FamilySearch ID: P4KK-1QH
+1 NOTE Status: hipotese de identidade e filiacao; eventos ainda sem certidao primaria lida.
+1 BIRT
+2 DATE 06 OCT 1940
+2 PLAC Tapes, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 DEAT
+2 DATE 17 OCT 2014
+2 PLAC Guaiba, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 NOTE Nascimento e obito vem do cartao FamilySearch e permanecem sem fontes diretas lidas.
+1 NOTE A certidao de nascimento de Rosalvino e prioridade documental.
+1 NOTE Buscas nominais FamilySearch civil em 1940, com Schell, Schel e apenas Rosalvino, retornaram zero; faixa 1938-1942 produziu homonimos sem correspondencia a Tapes/Guaiba ou aos pais Raimundo/Alicia.
+1 NOTE Busca APERS em 1940 e ampliada entre 1929-1948 nao encontrou Rosalvino Schel/Schell em Tapes, Guaiba ou Cerro Grande.
+1 SOUR @S3@
+1 SOUR @S10@
+1 SOUR @S11@
+1 FAMS @F2@
+1 FAMC @F3@
+0 @I5@ INDI
+1 NAME Carolina Augusta Kenes /de Souza/
+1 SEX F
+1 NOTE FamilySearch ID: P42Q-FT6
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 NOTE Conjuge de Rosalvino conforme arvore. O obito indexado de Jose Maria confirma Carolina no conjunto familiar, mas nao confirma todos os dados biograficos.
+1 SOUR @S3@
+1 FAMS @F2@
+0 @I6@ INDI
+1 NAME Raimundo Jose /de Souza/
+1 SEX M
+1 NOTE FamilySearch ID: GV4D-D91
+1 NOTE Status: hipotese de filiacao; pessoa aparece em fonte civil indexada.
+1 BIRT
+2 DATE 1914
+2 SOUR @S3@
+1 DEAT
+2 DATE 1983
+2 SOUR @S3@
+1 NOTE A arvore o apresenta como pai de Rosalvino. O obito de Manoel de 1941 menciona Raimundo, mas a filiacao de Rosalvino ainda nao foi lida em fonte primaria.
+1 NOTE Buscas APERS e FamilySearch civil/catolica nao localizaram casamento indexado com Alicia Schell em 1930-1945; a Caixa 20 de habilitacoes de Tapes esta com imagem restrita.
+1 SOUR @S12@
+1 SOUR @S13@
+1 SOUR @S3@
+1 SOUR @S6@
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Alicia Schell /de Souza/
+1 SEX F
+1 NOTE FamilySearch ID: GV54-K3Q
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 NOTE Conjuge de Raimundo conforme arvore; casamento em Cerro Grande/Tapes ainda nao localizado.
+1 NOTE Busca exata Alicia Schell no APERS retornou zero; os resultados de Alicia em Tapes eram homonimos Licia/Acacia. FamilySearch civil e catolico tambem retornaram zero para o casal.
+1 SOUR @S12@
+1 SOUR @S13@
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Manoel Jose /de Souza/
+1 SEX M
+1 NOTE FamilySearch ID: GV4D-FLS
+1 NOTE Status: evento de obito confirmado por indice; filiacao de Raimundo ainda nao confirmada.
+1 BIRT
+2 DATE 1879
+2 SOUR @S3@
+1 DEAT
+2 DATE 21 FEB 1941
+2 PLAC Barao do Triunfo, Sao Jeronimo, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 NOTE A arvore o apresenta como pai de Raimundo e conjuge de Maria Candida Tavares. O indice civil confirma o obito e menciona Raimundo, mas a imagem manuscrita ainda nao foi lida em alta resolucao.
+1 SOUR @S3@
+1 SOUR @S6@
+1 FAMS @F4@
+0 @I9@ INDI
+1 NAME Maria Candida /Tavares/
+1 SEX F
+1 NOTE FamilySearch ID: GV46-7JK
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1895
+2 SOUR @S3@
+1 DEAT
+2 DATE 1956
+2 SOUR @S3@
+1 NOTE Conjuge e possivel mae de Raimundo conforme arvore; ainda sem certidao primaria lida.
+1 SOUR @S3@
+1 SOUR @S6@
+1 FAMS @F4@
+0 @I10@ INDI
+1 NAME Alvino Paulino /de Souza/
+1 SEX M
+1 NOTE FamilySearch ID: LZGD-TYJ
+1 NOTE Status: nascimento e casamento confirmados por habilitacao APERS; datas da arvore conflitam.
+1 BIRT
+2 DATE 23 FEB 1897
+2 PLAC Americana, 3o distrito de Tapes, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 NOTE A arvore FamilySearch indicava 1891-1977; a certidao anexada ao APERS no 180190 registra nascimento em 23/02/1897.
+1 NOTE Filho legitimo de Geremias de Souza e Anna Joaquina Paulino de Souza.
+1 NOTE Avos paternos: Alexandrino de Oliveira e Souza e Felicia Rodrigues de Souza. Avos maternos: Joaquim Paulino Tavares e Victoria Tavares.
+1 SOUR @S1@
+1 FAMS @F5@
+1 FAMC @F6@
+0 @I11@ INDI
+1 NAME Rosalina /Schell/
+1 SEX F
+1 NOTE FamilySearch ID: LXVC-28B
+1 NOTE Status: nascimento, pai e casamento confirmados por habilitacao APERS; data da arvore conflita.
+1 BIRT
+2 DATE 16 DEC 1906
+2 PLAC Americana, 3o distrito de Tapes, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 NOTE A arvore FamilySearch/MyHeritage indicava 1899-1993; a certidao anexada ao APERS no 180190 registra nascimento em 16/12/1906.
+1 NOTE Filha legitima de Regino Schell. O nome da mae nao ficou legivel com seguranca na leitura atual.
+1 NOTE Depois do casamento, passou a assinar Rosalina Schell de Souza.
+1 NOTE Buscas nominais FamilySearch nas colecoes civil 3741255 e catolica 2177295, em 1906, retornaram zero resultados; waypoints de Tapes, Camaqua e Sao Jeronimo nao cobrem batismo de 1906.
+1 NOTE A certidao anexada ao APERS menciona Carlos Schell e Anna Schell como avos; o papel exato deles na linha e sua ligacao a Regino ainda precisam ser confirmados em assento original.
+1 SOUR @S1@
+1 SOUR @S8@
+1 SOUR @S9@
+1 SOUR @S14@
+1 SOUR @S15@
+1 FAMS @F5@
+1 FAMC @F7@
+0 @I12@ INDI
+1 NAME Geremias /de Souza/
+1 SEX M
+1 NOTE Status: pai de Alvino confirmado pela certidao anexada ao APERS no 180190.
+1 NOTE Nenhum identificador FamilySearch foi localizado na pesquisa atual. Origem europeia ainda nao demonstrada.
+1 SOUR @S1@
+1 FAMS @F6@
+0 @I13@ INDI
+1 NAME Anna Joaquina Paulino /de Souza/
+1 SEX F
+1 NOTE Status: mae de Alvino confirmada pela certidao anexada ao APERS no 180190.
+1 NOTE Nenhum identificador FamilySearch foi localizado na pesquisa atual.
+1 SOUR @S1@
+1 FAMS @F6@
+0 @I14@ INDI
+1 NAME Regino /Schell/
+1 SEX M
+1 NOTE Status: pai de Rosalina confirmado pela certidao anexada ao APERS no 180190.
+1 NOTE Primeiro ancestral Schell nominalmente confirmado na linha de Rosalina. Origem europeia ainda nao demonstrada.
+1 NOTE Buscas APERS por Regino/Regino Schell/Schell entre 1890 e 1968 e buscas FamilySearch civil/catolica por Regino Schell nao localizaram registro indexado em Tapes/Cerro Grande.
+1 SOUR @S1@
+1 SOUR @S14@
+1 SOUR @S15@
+1 FAMS @F7@
+0 @I15@ INDI
+1 NAME [Mae de Rosalina nao identificada]
+1 SEX F
+1 NOTE Status: placeholder; nome nao legivel na certidao anexada ao APERS.
+1 NOTE Nao tratar como pessoa identificada. Deve ser substituida pelo nome do assento original de nascimento de Rosalina.
+1 SOUR @S1@
+1 SOUR @S14@
+1 SOUR @S15@
+1 FAMS @F7@
+0 @I16@ INDI
+1 NAME Alexandrino de Oliveira /e Souza/
+1 SEX M
+1 NOTE Status: avo paterno de Alvino, conforme certidao anexada ao APERS no 180190.
+1 NOTE Origem europeia nao demonstrada.
+1 SOUR @S1@
+0 @I17@ INDI
+1 NAME Felicia /Rodrigues de Souza/
+1 SEX F
+1 NOTE Status: avo paterna de Alvino, conforme certidao anexada ao APERS no 180190.
+1 NOTE Origem europeia nao demonstrada.
+1 SOUR @S1@
+0 @I18@ INDI
+1 NAME Joaquim Paulino /Tavares/
+1 SEX M
+1 NOTE Status: avo materno de Alvino, conforme certidao anexada ao APERS no 180190.
+1 NOTE Origem europeia nao demonstrada.
+1 SOUR @S1@
+0 @I19@ INDI
+1 NAME Victoria /Tavares/
+1 SEX F
+1 NOTE Status: avo materna de Alvino, conforme certidao anexada ao APERS no 180190.
+1 NOTE Origem europeia nao demonstrada.
+1 SOUR @S1@
+0 @I20@ INDI
+1 NAME Jose Maria Kenes /de Souza/
+1 SEX M
+1 NOTE Status: filho de Rosalvino e Carolina confirmado por registro de obito indexado.
+1 BIRT
+2 DATE 13 MAR 1971
+2 PLAC Guaiba, Rio Grande do Sul, Brasil
+1 DEAT
+2 DATE 29 MAR 1971
+2 PLAC Guaiba, Rio Grande do Sul, Brasil
+1 NOTE Registro FamilySearch informa 16 dias de idade, filho de Rosalvino Schel de Souza; Carolina aparece no conjunto familiar.
+1 SOUR @S5@
+0 @I21@ INDI
+1 NAME Flauliano Brasil /Kenes/
+1 SEX M
+1 NOTE FamilySearch ID: P7NS-NVL
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1923
+2 SOUR @S3@
+1 DEAT
+2 DATE 2001
+2 SOUR @S3@
+1 NOTE Casamento com Eva Silveira indicado em 28/07/1948, Capela Velha, Camaqua; sem confirmacao documental.
+1 SOUR @S3@
+1 FAMS @F8@
+0 @I22@ INDI
+1 NAME Eva /Silveira/
+1 SEX F
+1 NOTE FamilySearch ID: PH4B-XS2
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1927
+2 SOUR @S3@
+1 NOTE Nao confundir com Eva Pereira da Silveira, homonima distinta identificada no APERS.
+1 SOUR @S3@
+1 FAMS @F8@
+0 @I23@ INDI
+1 NAME Manoel Geraldo /Kenes/
+1 SEX M
+1 NOTE FamilySearch ID: PMXJ-2SR
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1904
+2 SOUR @S3@
+1 NOTE Ramo lateral da arvore; casamento com Dorvalina indicado em Capela Velha em 1948, sem confirmacao documental.
+1 SOUR @S3@
+1 FAMS @F9@
+0 @I24@ INDI
+1 NAME Dorvalina Ferreira /Kenes/
+1 SEX F
+1 NOTE FamilySearch ID: G56B-32T
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1905
+2 SOUR @S3@
+1 DEAT
+2 DATE 1939
+2 SOUR @S3@
+1 SOUR @S3@
+1 FAMS @F9@
+0 @I25@ INDI
+1 NAME Antonio Manoel /Silveira/
+1 SEX M
+1 NOTE FamilySearch ID: PH4B-JD1
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1897
+2 SOUR @S3@
+1 NOTE Ramo lateral da arvore; relacao nao confirmada documentalmente.
+1 SOUR @S3@
+1 FAMS @F10@
+0 @I26@ INDI
+1 NAME Tomazia /Silveira/
+1 SEX F
+1 NOTE FamilySearch ID: PH4B-ZRX
+1 NOTE Status: hipotese derivada da arvore FamilySearch.
+1 BIRT
+2 DATE 1898
+2 SOUR @S3@
+1 SOUR @S3@
+1 FAMS @F10@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE Valdeci e Ana Paula sao apresentados como pais de Jonathan; relacao ainda nao foi validada com certidao.
+0 @F2@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I2@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE A arvore apresenta Rosalvino e Carolina como pais de Valdeci. O obito de Jose Maria confirma que o casal teve ao menos um filho, mas nao prova especificamente Valdeci.
+0 @F3@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I4@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE Raimundo e Alicia sao apresentados como pais de Rosalvino; casamento em Cerro Grande/Tapes ainda nao localizado.
+0 @F4@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I6@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE Manoel e Maria Candida sao apresentados como pais de Raimundo. O obito de Manoel menciona Raimundo, mas a filiacao precisa ser lida na imagem original.
+0 @F5@ FAM
+1 HUSB @I10@
+1 WIFE @I11@
+1 MARR Y
+2 DATE 17 APR 1955
+2 PLAC Vila Cerro Grande, 3o distrito de Tapes, Rio Grande do Sul, Brasil
+2 SOUR @S1@
+2 SOUR @S2@
+1 NOTE Status: confirmada por fonte primaria.
+1 NOTE Processo APERS no 180190. A peticao registra que Rosalina passaria a assinar Rosalina Schell de Souza. O indice CSV exibe 01/01/1955 como data-padrao do ano.
+1 NOTE A familia derivada de MyHeritage menciona quatro filhas, mas nenhuma filha sem nome foi inserida como individuo ate existir identificacao documental.
+0 @F6@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I10@
+1 NOTE Status: filiacao confirmada por fonte primaria.
+1 NOTE Certidao de nascimento de Alvino anexada ao APERS no 180190.
+0 @F7@ FAM
+1 HUSB @I14@
+1 WIFE @I15@
+1 CHIL @I11@
+1 NOTE Status: pai confirmado; mae placeholder.
+1 NOTE Certidao de nascimento de Rosalina anexada ao APERS no 180190. O nome da mae nao ficou legivel; nao tratar o placeholder como identificacao definitiva.
+0 @F8@ FAM
+1 HUSB @I21@
+1 WIFE @I22@
+1 MARR Y
+2 DATE 28 JUL 1948
+2 PLAC Capela Velha, Camaqua, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE Casamento indicado pela arvore; sem confirmacao documental. Nao confundir Eva com homonima Eva Pereira da Silveira.
+0 @F9@ FAM
+1 HUSB @I23@
+1 WIFE @I24@
+1 MARR Y
+2 DATE 28 JUL 1948
+2 PLAC Capela Velha, Camaqua, Rio Grande do Sul, Brasil
+2 SOUR @S3@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE Ramo lateral; casamento indicado pela arvore, sem confirmacao documental.
+0 @F10@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 NOTE Status: hipotese da arvore FamilySearch.
+1 NOTE Ramo lateral; relacao sem confirmacao documental.
