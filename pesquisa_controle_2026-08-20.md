@@ -96,3 +96,10 @@ Essa é uma evidência de desambiguação muito forte: a Rosalina mãe de Celani
 | Rosalina Trott/Schell, cluster regional | 1892–1971 | Associada a Theodor Schell; Gramado/Igrejinha/Taquara | Páginas públicas FamilySearch e inventário de Gramado | Cluster colateral de baixa confiança; sem conexão com as duas Rosalinas de Tapes. |
 
 A convergência regional — todas as ocorrências mencionam o sul do Brasil e o sobrenome Schell — é insuficiente para provar parentesco. A diferença entre 1897 e 1906 constitui a evidência mais forte desta rodada para rejeitar a fusão automática das duas Rosalinas de Tapes.
+
+
+## Evidência adicional fornecida pelo usuário — testemunho familiar direto
+
+O usuário informou que conheceu pessoalmente **Rosalvino**, identificando-o como seu avô. Essa informação é uma evidência de primeira mão para a identidade de Rosalvino e para o vínculo familiar vivido pelo usuário; ela reduz fortemente o risco de que o perfil `P4KK-1QH` seja um homônimo sem relação com a família conhecida.
+
+Metodologicamente, o testemunho deve ser separado em três níveis: (1) **identidade de Rosalvino como avô do usuário: confirmada por testemunho familiar direto**; (2) datas, local de nascimento e filiação de Rosalvino: ainda dependentes de registro documental; (3) origem europeia do ramo Schell: não demonstrada. O testemunho não deve ser usado para inferir automaticamente que Raimundo e Alicia são os pais de Rosalvino, nem para conectar Rosalvino à Rosalina Schell de 1906.
