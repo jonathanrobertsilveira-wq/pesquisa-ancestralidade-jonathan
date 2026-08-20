@@ -184,3 +184,13 @@ A regra de integridade principal é: **não fundir Rosalina A com Rosalina B; n�
 [17]: https://www.familysearch.org/en/blog/civil-registration-and-brazil-records "FamilySearch — Civil Registration and Other Brazilian Records"
 [18]: ../pessoas_evidencias.csv "Inventário local de pessoas e evidências"
 [19]: ../registro_pesquisa_familysearch.md "Diário local — consulta enviada ao Registro Civil de Tapes em 20/08/2026"
+
+## 11. Atualização de 20/08/2026 — óbito de Rosalvino localizado
+
+A busca paga no Portal Oficial Registro Civil localizou um registro de óbito para **Rosalvino Schell De Souza** no cartório de Guaiba/RS. O resultado informa ocorrido e registro em **17/10/2014**, matrícula `09804601552014400021276001229792`, acervo `01`, livro `00021`, folha `276` e número de registro `0012297` [20].
+
+Esse achado confirma a localização cartorial e a data provável do falecimento, mas ainda é um resultado de pesquisa, não a certidão integral. O painel apresenta uma linha de filiação como `—` e outra como `Alice Schell DE Souza`, sem informar o papel parental. Portanto, Alice deve ser registrada como **nome exibido na filiação do resultado, com relação ainda não determinada**; não deve ser fundida automaticamente com Alicia Schell, Alicia Schell de Souza, Carolina ou qualquer outra pessoa da árvore.
+
+O próximo teste documental é solicitar a certidão ou cópia integral do assento já localizado. A leitura deve extrair idade, naturalidade, filiação completa, estado civil, cônjuge, declarante, residência, profissão, causa ou observações quando disponíveis e averbações. O óbito localizado também oferece uma base mais precisa para pesquisar o casamento de Rosalvino e Carolina.
+
+[20]: ../resultado_obito_rosalvino_guaiba_2026-08-20.md "Resultado localizado do óbito de Rosalvino em Guaíba — Portal Registro Civil"
