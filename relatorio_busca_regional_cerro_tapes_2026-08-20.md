@@ -74,15 +74,31 @@ A separação entre **Rosalina A**, mãe de Alvina e Celanira, e **Rosalina B**,
 | Flaubiano em Capela Velha | Localidade na ficha automática | **Jurisdição confirmada como 2º Distrito de Camaquã no grupo de matrimônios** |
 | Rosalina/Alvina/Celanira no FamilySearch | Busca nominal ainda pouco testada | Grafias exatas retornaram zero; **prioridade transferida para APERS e imagens não indexadas** |
 
-## 7. Próximas buscas em ordem de retorno provável
+## 7. Resultado da busca direta nas coleções paroquiais
 
-A primeira prioridade é consultar os livros de nascimento do antigo 3º Distrito de Tapes/Vila Cerro Grande, procurando Rosalvino com todas as variantes de nome e sem depender do filtro relacional de pais. A janela temporal deve ser definida pela ficha de Rosalvino e pelos registros de seus filhos, mas a busca precisa incluir Tapes e Cerro Grande do Sul como formas históricas e modernas.
+A coleção correta de registros católicos do Rio Grande do Sul é a de **1738–1952**, coleção 2177295, com 730.994 registros e 184.012 imagens. O FamilySearch informa que a coleção é apenas parcialmente indexada e que os batismos podem conter data e local de nascimento, pais, residência e padrinhos [11].
 
-A segunda prioridade é procurar o casamento ou o óbito de Rosalvino em Tapes, Cerro Grande, Camaquã ou Guaíba. O assento de óbito de Guaíba localizado anteriormente continua sendo um alvo de alto valor, mas a certidão integral seria necessária para extrair filiação, naturalidade, cônjuge, declarante e residência; nenhuma solicitação paga foi feita nesta rodada.
+A navegação por imagens mostrou que Tapes possui a Paróquia **Nossa Senhora das Dores**. Os batismos disponíveis vão de dezembro de 1826 a setembro de 1898; os matrimônios chegam a 1904 e os óbitos a 1890 [12]. Portanto, esses volumes não alcançam diretamente o nascimento provável de Rosalvino, mas podem ajudar a investigar pais e avós mais antigos do ramo Souza/Schell.
 
-A terceira prioridade é localizar o nascimento ou casamento de Carolina Augusta/Corolina Kenes de Souza. Os dois registros de Guaíba de 1971 fornecem variantes do nome, cônjuge, filhos e números de certificado, mas ainda não mostram os pais de Carolina.
+Camaquã possui a Paróquia **São João Batista**. Os batismos disponíveis cobrem 1856–1901, os matrimônios 1856–1928 e os óbitos chegam a 1900 [13]. Essa cobertura é útil para a geração anterior de Flaubiano, Doralina/Dorvalina, Raimundo, Alicia e outros Schell/Souza, mas também não alcança diretamente Carolina ou Rosalvino adultos.
 
-A quarta prioridade é ler em alta resolução a imagem 84 do casamento de Capela Velha e localizar nascimento, óbito e descendentes de Flaubiano/Flauliano. Essa frente pode resolver o conflito Lena/Eva e testar diretamente se Carolina pertence ao casal.
+A coleção de registros diversos de Tapes possui a **Caixa 18, letras S, 1900–1928**, uma faixa temporal potencialmente útil para habilitações de famílias Schell/Souza. Entretanto, o volume está marcado como **Image Restricted**, e não foi possível visualizar as páginas nesta sessão [14]. Esse é um alvo concreto para consulta no APERS, em Centro do FamilySearch ou por cópia autorizada.
+
+## 8. Resultados negativos e falsos positivos importantes
+
+As buscas nominais na coleção paroquial não produziram uma ficha confiável para Rosalvino. `Rosalvino Schell` retornou zero; `Rosalvino Schel` retornou 362 resultados genéricos apenas com o nome `Schel`, sem Rosalvino identificável; e `Rosalvino de Souza` retornou 64.947 homônimos, como Gondivino e Somervino, sem correspondência segura [15]. Esses resultados não devem ser incorporados como provas.
+
+A busca paroquial por `Carolina Kenes` retornou 75 resultados fragmentados e homônimos, sem Carolina Augusta Kenes de Souza identificável. Na coleção civil, `Carolina` como filha de **Flaubiano Brasil** retornou zero, e a repetição com a variante **Flauliano Brasil** também retornou zero [16]. Isso não elimina a filiação, mas mostra que o elo Carolina → Flaubiano precisa ser pesquisado em imagens, registros laterais e variantes de sobrenome.
+
+## 9. Próximas buscas em ordem de retorno provável
+
+A primeira prioridade permanece localizar imagens de nascimento do antigo 3º Distrito de Tapes/Vila Cerro Grande para Rosalvino, sem exigir o filtro de pais. A ausência de livros civis livres e a restrição da Caixa 18 indicam que o próximo passo efetivo pode ser uma consulta institucional ao APERS ou a um Centro do FamilySearch, não novas buscas nominais amplas.
+
+A segunda prioridade é obter ou consultar o casamento de Raimundo José de Souza com Alicia Schell. Esse ato pode indicar naturalidade, idade, pais, residência e local de origem do casal, e pode ser mais provável de aparecer em habilitações do que o nascimento de Rosalvino.
+
+A terceira prioridade é localizar o casamento, nascimento dos filhos e óbito de Flaubiano/Flauliano em Capela Velha/Camaquã. Esses registros podem resolver o conflito entre Lena e Eva e verificar se Carolina Augusta/Corolina pertence ao casal.
+
+A quarta prioridade é o óbito integral de Rosalvino em Guaíba. A ficha indexada já associa Rosalvino e Carolina, mas a certidão integral pode trazer filiação, naturalidade, residência e declarante. Nenhum documento pago foi solicitado nesta rodada.
 
 ## Referências
 
@@ -105,3 +121,15 @@ A quarta prioridade é ler em alta resolução a imagem 84 do casamento de Capel
 [9]: ../docs/02_matriz_evidencias_2026-08-20.csv "Matriz de evidências atualizada, com E28 e E29"
 
 [10]: ../busca_regiao_cerro_tapes_2026-08-20.md "Caderno completo da busca regional, com consultas e resultados negativos"
+
+[11]: https://www.familysearch.org/en/search/collection/2177295 "FamilySearch — Rio Grande do Sul, Registros da Igreja Católica, 1738–1952"
+
+[12]: https://www.familysearch.org/en/search/image/index?owc=M78X-SZW%3A371565901%2C371565902%3Fcc%3D2177295&cc=2177295 "FamilySearch — Tapes, Paróquia Nossa Senhora das Dores, registros paroquiais"
+
+[13]: https://www.familysearch.org/en/search/image/index?owc=M78X-3WR%3A371568801%3Fcc%3D2177295&cc=2177295 "FamilySearch — Camaquã, Paróquia São João Batista, registros paroquiais"
+
+[14]: https://www.familysearch.org/ark:/61903/3:1:3QS7-99KD-14VV?wc=QZS2-GP8%3A1073785701%2C1073792401%26cc%3D1985805&cc=1985805&lang=en "FamilySearch — Tapes, Caixa 18, habilitações de matrimônio, letras S, 1900–1928; imagem restrita"
+
+[15]: ../busca_regiao_cerro_tapes_2026-08-20.md "Caderno regional — variantes Rosalvino/Schel/Souza e falsos positivos do índice paroquial"
+
+[16]: https://www.familysearch.org/en/search/record/results?f.collectionId=3741255&q.fatherGivenName=Flauliano&q.fatherSurname=Brasil&q.givenName=Carolina "FamilySearch — busca relacional Carolina filha de Flauliano Brasil; resultado zero"

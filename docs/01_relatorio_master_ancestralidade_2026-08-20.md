@@ -218,3 +218,19 @@ A prioridade regional passa a ser consultar imagens de nascimento, casamento e �
 [29]: https://www.familysearch.org/ark:/61903/3:1:3QHV-V3D4-6S3C-Q?view=index&lang=en "FamilySearch — grupo de imagens Camaquã/Capela Velha, matrimônios 1947–1950, imagem 84"
 [30]: https://www.turismo.rs.gov.br/turismo/municipio/visualizar/81 "Turismo no Rio Grande do Sul — histórico de Cerro Grande do Sul e 3º distrito de Tapes"
 [31]: ../busca_regiao_cerro_tapes_2026-08-20.md "Caderno local da busca regional — Cerro Grande do Sul, Tapes e entorno"
+
+## 13. Atualização paroquial — coleção do Rio Grande do Sul, 1738–1952
+
+A coleção católica do Rio Grande do Sul, coleção FamilySearch 2177295, possui imagens parcialmente indexadas. A navegação confirmou que Tapes está representada pela Paróquia Nossa Senhora das Dores, com batismos de 1826 a 1898, matrimônios até 1904 e óbitos até 1890. Camaquã está representada pela Paróquia São João Batista, com batismos de 1856 a 1901, matrimônios até 1928 e óbitos até 1900. Essas séries são úteis para gerações anteriores, mas não alcançam diretamente o nascimento provável de Rosalvino ou Carolina.
+
+A Caixa 18 de Tapes, habilitações de matrimônio, letras S, 1900–1928, é um alvo potencial para Schell/Schel/Souza, mas o FamilySearch marcou as imagens como **restritas**. Não foi possível ler suas páginas nesta rodada. O alvo deve ser consultado no APERS, em Centro do FamilySearch ou por cópia autorizada.
+
+As buscas textuais paroquiais não produziram prova nova: `Rosalvino Schell` retornou zero; `Rosalvino Schel` apresentou apenas resultados genéricos com o sobrenome; `Rosalvino de Souza` apresentou dezenas de milhares de homônimos; e `Carolina Kenes` apresentou homônimos fragmentados. Na coleção civil, Carolina como filha de Flaubiano Brasil e como filha de Flauliano Brasil retornou zero. Esses resultados são controles de pesquisa, não refutações.
+
+A regra de integridade permanece: **não tratar índice relaxado como correspondência, não tratar busca zero como inexistência e não fundir Carolina ao ramo Flaubiano/Lena/Eva sem um registro que nomeie os pais ou outra cadeia documental independente**.
+
+[32]: https://www.familysearch.org/en/search/collection/2177295 "FamilySearch — Rio Grande do Sul, Registros da Igreja Católica, 1738–1952"
+[33]: https://www.familysearch.org/en/search/image/index?owc=M78X-SZW%3A371565901%2C371565902%3Fcc%3D2177295&cc=2177295 "FamilySearch — Tapes, Nossa Senhora das Dores, registros paroquiais"
+[34]: https://www.familysearch.org/en/search/image/index?owc=M78X-3WR%3A371568801%3Fcc%3D2177295&cc=2177295 "FamilySearch — Camaquã, São João Batista, registros paroquiais"
+[35]: https://www.familysearch.org/ark:/61903/3:1:3QS7-99KD-14VV?wc=QZS2-GP8%3A1073785701%2C1073792401%26cc%3D1985805&cc=1985805&lang=en "FamilySearch — Tapes, Caixa 18, letras S, 1900–1928; imagem restrita"
+[36]: ../busca_regiao_cerro_tapes_2026-08-20.md "Caderno regional atualizado — buscas paroquiais, resultados negativos e restrições"

@@ -76,3 +76,12 @@ Nenhuma busca negativa deve ser tratada como prova de inexistência. A coleção
 
 Fonte do casamento: https://www.familysearch.org/ark:/61903/1:1:X9YR-4ZTN
 Fonte da ficha de Manoel/Raimundo: https://www.familysearch.org/ark:/61903/1:1:XSXL-4W2G
+
+
+## Atualização paroquial — coleção 2177295
+
+A coleção `Brasil, Rio Grande do Sul, Registros da Igreja Católica, 1738–1952` foi consultada por waypoints. Tapes possui a Paróquia Nossa Senhora das Dores, com batismos de 1826 a 1898, matrimônios até 1904 e óbitos até 1890. Camaquã possui a Paróquia São João Batista, com batismos de 1856 a 1901, matrimônios até 1928 e óbitos até 1900. Essas séries são úteis para gerações anteriores, mas não alcançam diretamente o nascimento provável de Rosalvino ou Carolina.
+
+A Caixa 18 de Tapes, habilitações de matrimônio, letras S, 1900–1928, é um alvo prioritário para Schell/Schel/Souza, porém está marcada como imagem restrita. Deve ser consultada no APERS, em um Centro do FamilySearch ou por cópia autorizada; não houve solicitação ou pagamento nesta rodada.
+
+As buscas nominais paroquiais por Rosalvino e Carolina produziram zero confiável ou falsos positivos por relaxamento do filtro. A regra operacional passa a ser trabalhar com livros, períodos e jurisdições históricas, registrando buscas nominais amplas apenas como controles de indexação, nunca como prova de inexistência.
