@@ -1,0 +1,73 @@
+---
+title: "Resumo da linha direta — Jonathan Silveira"
+---
+flowchart LR
+  classDef direto fill:#dbeafe,stroke:#2563a6,color:#102a43,stroke-width:3px;
+  classDef documento fill:#dcfce7,stroke:#2f7d32,color:#153b16,stroke-width:2px;
+  classDef hipotese fill:#fef3c7,stroke:#b8860b,color:#4c3b00,stroke-width:2px;
+  classDef conflito fill:#fee2e2,stroke:#a33a45,color:#4a1117,stroke-width:2px;
+  classDef nota fill:#f8fafc,stroke:#64748b,color:#334155,stroke-width:1px;
+  classDef fonte fill:#dbeafe,stroke:#2563eb,color:#0f2b5b,stroke-width:1px;
+
+  J["Jonathan Robert<br/>Silveira de Souza"]:::direto
+  V["Valdeci Kenes<br/>de Souza"]:::direto
+  J -->|filho de — confirmado por certidão privada e conhecimento direto| V
+
+  subgraph AV[Avós confirmados no escopo privado]
+    direction TB
+    Rv["Rosalvino Schell<br/>de Souza"]:::direto
+    C["Carolina Augusta<br/>Kenes de Souza"]:::direto
+    Rv ---|casal| C
+  end
+  V -->|filho de| Rv
+  V -->|filho de| C
+
+  JM["José Maria Kenes<br/>de Souza<br/>óbito: 29/03/1971"]:::documento
+  Rv -->|pai| JM
+  C -->|mãe| JM
+
+  subgraph P[O que ainda falta fechar na linha direta]
+    direction TB
+    R["Raimundo José<br/>de Souza"]:::hipotese
+    A["Alicia Schell"]:::hipotese
+    Rv -.->|pais alegados, sem registro primário localizado| R
+    Rv -.->|mãe alegada, sem registro primário localizado| A
+    M["Manoel José<br/>de Souza<br/>óbito: 1941"]:::documento
+    MC["Maria Candida<br/>Tavares"]:::hipotese
+    R -.->|filho alegado| M
+    M -.->|casal alegado| MC
+  end
+
+  subgraph S[Dois núcleos Schell documentais — relacionados ao projeto, mas não fundidos]
+    direction TB
+    RB["Rosalina B — esposa de Alvino<br/>16/12/1906 · filha de Regino<br/>casamento APERS 180190: 17/04/1955"]:::documento
+    RA["Rosalina A — mãe de Alvina/Celanira<br/>data declarada: 16/12/1897<br/>APERS 180603 e 180674"]:::conflito
+    RB -.->|não fundir automaticamente| RA
+    D1["Alvino Paulino de Souza<br/>nasc.: 23/02/1897"]:::documento
+    D2["Alvina Schell + Ademar Leal<br/>casamento: 04/10/1947"]:::documento
+    D3["Celanira Schell + Cravilino Nogueira<br/>casamento: 31/10/1953"]:::documento
+    D1 ---|casal documentado| RB
+    RA -->|mãe| D2
+    RA -->|mãe| D3
+  end
+
+  subgraph K[O ramo Kenes e a origem europeia permanecem como hipótese]
+    direction TB
+    F["Flauliano Brasil Kenes"]:::hipotese
+    E["Eva Silveira"]:::hipotese
+    MG["Manoel Geraldo Kenes"]:::hipotese
+    JK["João Kenne"]:::hipotese
+    F -.->|pai alegado de| C
+    E -.->|mãe alegada de| C
+    F ---|casal alegado| E
+    F -.-> MG
+    MG -.-> JK
+    N["Alemanha / Suíça / Europa:<br/>não demonstrado por fonte primária"]:::nota
+    JK -.-> N
+  end
+
+  L["Como ler: azul = linha direta confirmada; verde = documento compartilhado; amarelo = hipótese; vermelho = identidade em conflito"]:::nota
+  style AV fill:#eff6ff,stroke:#2563a6,stroke-width:2px
+  style P fill:#fffbeb,stroke:#b8860b,stroke-width:2px
+  style S fill:#fff1f2,stroke:#a33a45,stroke-width:2px
+  style K fill:#fffbeb,stroke:#b8860b,stroke-width:2px
