@@ -146,3 +146,7 @@ O ARK `https://www.familysearch.org/ark:/61903/3:1:3QS7-89LD-W9MW-Z` abriu o fil
 A imagem mostra um termo manuscrito em duas páginas, com marca d’água `SEM VALOR`. A captura inicial ainda não permite transcrever com segurança os campos de filiação e avós; será necessário ampliar regiões específicas e preservar qualquer incerteza. Nenhuma informação sobre João Kenne ou Alemanha foi inferida da miniatura geral.
 
 O painel inferior foi fechado e o comando `Download` foi acionado para obter uma cópia local da imagem 24. O visualizador passou a mostrar o termo manuscrito em maior área, mas a escrita ainda é pequena na captura integral. A cópia baixada deverá ser confirmada em `Downloads` e, se disponível, analisada em recortes ampliados; nenhuma transcrição nova foi feita nesta etapa.
+
+## Arquivo histórico preservado
+
+A versão extensa deste diário, anterior à consulta ao Registro Civil de Tapes, foi preservada em [`archives/registro_pesquisa_familysearch_historico_2026-08-20.md`](archives/registro_pesquisa_familysearch_historico_2026-08-20.md). Ela corresponde ao estado do arquivo no commit `9244b268cf5e449b0edee98ba9a155e54e87e29e`, possui 948 linhas e deve ser consultada para recuperar o histórico detalhado de tentativas, bloqueios, fontes e decisões anteriores. O arquivo atual permanece como diário de trabalho resumido e atualizado; nenhum dos dois deve substituir o outro.

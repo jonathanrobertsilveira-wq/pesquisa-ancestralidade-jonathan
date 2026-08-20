@@ -11,6 +11,8 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | 3 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
 | 4 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
 | 5 | [`../notas_pesquisa_externa_2026-08-20.md`](../notas_pesquisa_externa_2026-08-20.md) | Caderno cronológico das fontes institucionais e leituras visuais realizadas nesta rodada. |
+| 6 | [`../registro_pesquisa_familysearch.md`](../registro_pesquisa_familysearch.md) | Diário de trabalho atual, com as consultas mais recentes e o vínculo para o histórico preservado. |
+| 7 | [`../archives/registro_pesquisa_familysearch_historico_2026-08-20.md`](../archives/registro_pesquisa_familysearch_historico_2026-08-20.md) | Diário extenso recuperado do commit anterior à truncagem; consultar para auditoria histórica detalhada. |
 
 ## Fontes primárias locais
 
@@ -30,4 +32,4 @@ A certidão de nascimento privada de Jonathan é tratada como fonte primária di
 
 ## Verificação técnica
 
-O GEDCOM independente foi validado com 40 indivíduos, 17 famílias, 28 fontes, zero referências desconhecidas e zero erros de sintaxe. A árvore colaborativa não foi alterada.
+O GEDCOM independente foi validado com 40 indivíduos, 17 famílias, 28 fontes, zero referências desconhecidas e zero erros de sintaxe. A árvore colaborativa não foi alterada. O diário FamilySearch possui uma versão de trabalho atual e uma cópia histórica separada em `archives/`; a cópia histórica não deve ser sobrescrita nem excluída.

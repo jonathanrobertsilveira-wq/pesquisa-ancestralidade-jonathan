@@ -22,6 +22,8 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `relatorio_ancestralidade_parcial.md` | Relatório consolidado da pesquisa |
 | `arvore_provisoria_evidencias.md` | Quadro de afirmações, fontes, confiança e conflitos |
 | `registro_pesquisa_familysearch.md` | Diário cronológico de pesquisas, bloqueios e decisões de privacidade |
+| `archives/registro_pesquisa_familysearch_historico_2026-08-20.md` | Cópia histórica de 948 linhas do diário anterior à truncagem, preservada para auditoria e recuperação |
+| `archives/LEIA-ME.md` | Explicação dos arquivos históricos, sua origem e regras de preservação |
 | `bloqueios_pesquisa_genealogia.md` | Inventário de bloqueios técnicos e genealógicos |
 | `pesquisa_nova_2026-08-20/` | PDFs e artefatos brutos da nova rodada |
 | `criar_arvore_gedcom.py` | Gerador reproduzível da árvore independente |
@@ -34,7 +36,7 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 
 ## Organização atualizada
 
-A rodada de 20/08/2026 acrescentou uma documentação organizada em `docs/`. O ponto de entrada é `docs/00_indice_projeto_2026-08-20.md`; o relatório-mestre está em `docs/01_relatorio_master_ancestralidade_2026-08-20.md`. A matriz CSV registra cada afirmação como comprovada, fortemente indicada, hipótese, conflito, provavelmente distinta ou não demonstrada. O mapa visual mantém separadas Rosalina A, Rosalina B e o cluster Schell/Trott.
+A rodada de 20/08/2026 acrescentou uma documentação organizada em `docs/`. O ponto de entrada é `docs/00_indice_projeto_2026-08-20.md`; o relatório-mestre está em `docs/01_relatorio_master_ancestralidade_2026-08-20.md`. A matriz CSV registra cada afirmação como comprovada, fortemente indicada, hipótese, conflito, provavelmente distinta ou não demonstrada. O mapa visual mantém separadas Rosalina A, Rosalina B e o cluster Schell/Trott. O diário histórico anterior à consulta ao cartório foi recuperado em `archives/registro_pesquisa_familysearch_historico_2026-08-20.md`, sem substituir o diário atual.
 
 ## Privacidade
 
