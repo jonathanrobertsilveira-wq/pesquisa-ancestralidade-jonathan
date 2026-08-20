@@ -6,7 +6,9 @@ Este repositório privado reúne os arquivos da pesquisa documental de ancestral
 
 A habilitação APERS nº 180190 confirma o casamento de Alvino Paulino de Souza e Rosalina Schell em 17/04/1955 e fornece as filiações documentais de Alvino e Rosalina B. Nesta rodada, os processos APERS nº 180603 e 180674 confirmaram outra Rosalina Schell como mãe de Alvina Schell e Celanira Schell. Essas identidades permanecem separadas: não há prova de que a Rosalina mãe de Alvina/Celanira seja a mesma Rosalina nascida em 1906 e casada com Alvino.
 
-A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma pista e não comprova Alemanha, Suíça ou qualquer outro país. Dados da árvore colaborativa do FamilySearch a partir dos avós continuam marcados como hipóteses até confirmação por fontes primárias.
+Por conhecimento familiar pessoal e direto, Jonathan confirma que Valdeci é seu pai e que Rosalvino e Carolina são seus avós. Esses vínculos não devem ser classificados como mera hipótese. Os registros civis ainda serão buscados como documentação complementar, para auditoria externa, datas e filiações formais.
+
+A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma pista e não comprova Alemanha, Suíça ou qualquer outro país. Os vínculos familiares diretos de Jonathan com Valdeci, Rosalvino e Carolina são confirmados por conhecimento pessoal; já os dados de gerações anteriores e a origem europeia continuam dependendo de fontes primárias.
 
 ## Conteúdo principal
 

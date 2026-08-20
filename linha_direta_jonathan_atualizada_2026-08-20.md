@@ -4,16 +4,16 @@
 
 Na genealogia, a linha é organizada começando pela pessoa pesquisada e caminhando para trás: **você → pais → avós → bisavós → trisavós**. Cada geração para trás aumenta um grau de ancestralidade.
 
-A árvore abaixo combina memória familiar, registros civis já localizados e dados da árvore colaborativa do FamilySearch. Por isso, cada ligação está marcada como **confirmada**, **fortemente indicada** ou **a confirmar**.
+A árvore abaixo combina conhecimento familiar direto, a certidão de nascimento privada de Jonathan — não compartilhada por segurança —, registros civis já localizados e dados da árvore colaborativa do FamilySearch. Os vínculos vividos diretamente por Jonathan e registrados em sua certidão são marcados como **confirmados documentalmente em fonte privada e por testemunho familiar direto**; os demais registros civis são mantidos como documentação complementar e as relações de gerações anteriores continuam classificadas por evidência.
 
 ## Linha principal até o ramo Kenne/Kenes
 
 | Geração | Pessoa | Ligação com Jonathan | Situação atual |
 |---|---|---|---|
 | 1 | **Jonathan Robert Silveira de Souza** | Pessoa pesquisada | Identidade informada pelo próprio Jonathan. |
-| 2 | **Valdeci Kenes de Souza** | Pai | Ligação familiar conhecida; falta localizar registro civil que confirme a filiação. |
-| 3 | **Rosalvino Schell/Schel de Souza** | Avô paterno | Identidade confirmada por memória familiar; registro de óbito ainda não localizado. |
-| 3 | **Carolina Augusta Kenes de Souza** | Avó paterna | Avó viva; não devemos investigar dados pessoais diretamente sem necessidade. A presença dela como esposa de Rosalvino aparece no registro civil de José Maria de 1971. [1] |
+| 2 | **Valdeci Kenes de Souza** | Pai | **Confirmado pela certidão de nascimento privada de Jonathan e por conhecimento familiar direto**; o documento não foi compartilhado e o registro público permanece complementar. |
+| 3 | **Rosalvino Schell/Schel de Souza** | Avô paterno | **Confirmado pela certidão de nascimento privada de Jonathan e por conhecimento pessoal direto**; registro civil de óbito e nascimento permanece complementar. |
+| 3 | **Carolina Augusta Kenes de Souza** | Avó paterna | **Confirmada pela certidão de nascimento privada de Jonathan e por conhecimento familiar direto**; avó viva, portanto não devemos investigar dados pessoais diretamente sem necessidade. A presença dela como esposa de Rosalvino aparece no registro civil de José Maria de 1971. [1] |
 | 4 | **Flauliano Brasil Kenes** | Pai de Carolina | Indicado no perfil de Carolina, ID `P7NS-NVL`; casamento com Eva em 28/07/1948 aparece na árvore. |
 | 4 | **Eva Silveira** | Mãe de Carolina | Indicada no perfil de Carolina, ID `PH4B-XS2`; filiação ainda precisa de registro original. |
 | 5 | **Manoel Geraldo Kenes/Lemes** | Pai de Flauliano | Indicado na árvore, ID `PMXJ-2SR`; falta certidão primária. |
@@ -47,7 +47,7 @@ O óbito de Manoel José de Souza, em 21/02/1941, confirma o evento e menciona R
 
 ## O que já está mais comprovado
 
-O elo mais bem documentado da linha recente é o registro de José Maria Kenes de Souza, falecido em Guaíba em 29/03/1971, no qual Rosalvino Schel de Souza aparece como pai e Carolina Augusta Kenes de Souza aparece como esposa de Rosalvino. Esse documento confirma o casal no núcleo familiar, mas não substitui a certidão de nascimento ou casamento de Valdeci. [1]
+O vínculo familiar mais seguro da linha recente é confirmado por duas camadas: a **certidão de nascimento privada de Jonathan**, que registra Valdeci como pai e Rosalvino e Carolina como avós, e o **conhecimento pessoal direto de Jonathan**. A certidão não foi compartilhada nem anexada. O registro de José Maria Kenes de Souza, falecido em Guaíba em 29/03/1971, acrescenta uma correlação documental independente, pois apresenta Rosalvino Schel de Souza como pai e Carolina Augusta Kenes de Souza no conjunto familiar como esposa de Rosalvino. [1]
 
 No ramo Kenne, a página pública de Ana Ventura Kenne confirma Cândido Sandálio Kenne e Anna Maria Ugo como seus pais e lista vários irmãos. Outra fonte associada ao nascimento de José Conceição Kenne anota que seu avô João Kenne era natural da Alemanha “conforme registro”. Ainda assim, a sequência **Carolina → Flauliano → Manoel → João** precisa ser confirmada geração por geração com imagens originais.
 
@@ -55,7 +55,7 @@ No ramo Kenne, a página pública de Ana Ventura Kenne confirma Cândido Sandál
 
 A pesquisa deve avançar nesta ordem:
 
-1. **Valdeci Kenes de Souza:** localizar nascimento ou outro registro que o apresente como filho de Rosalvino e Carolina.
+1. **Valdeci Kenes de Souza:** localizar nascimento ou outro registro que documente externamente a filiação já confirmada por Jonathan, apresentando-o como filho de Rosalvino e Carolina.
 2. **Casamento ou nascimento de Carolina:** usar o registro de Flauliano e Eva de 1948 para obter filiação e localidade.
 3. **Flauliano Brasil Kenes:** localizar nascimento em 1923 e confirmar Manoel Geraldo e Dorvalina como pais.
 4. **Manoel Geraldo Kenes/Lemes:** localizar nascimento, casamento ou óbito para confirmar João Kenne e Marcolina.

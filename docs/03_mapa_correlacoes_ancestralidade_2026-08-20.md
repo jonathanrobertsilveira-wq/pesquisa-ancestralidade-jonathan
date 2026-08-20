@@ -6,6 +6,7 @@ Este arquivo transforma a árvore provisória em uma rede de **pessoas, eventos 
 
 | Marcador | Interpretação |
 |---|---|
+| **Azul** | Vínculo confirmado pela certidão privada de Jonathan, não compartilhada, e pelo conhecimento familiar direto; nenhum dado identificável da certidão é publicado. |
 | **Verde** | Elo ou evento confirmado por fonte primária ou por registro documental direto. |
 | **Amarelo** | Hipótese ou relação forte ainda dependente de registro adicional. |
 | **Vermelho** | Conflito de identidade, homônimo ou fusão não permitida. |
@@ -13,7 +14,7 @@ Este arquivo transforma a árvore provisória em uma rede de **pessoas, eventos 
 
 ## Correlações positivas mais fortes
 
-A correlação mais forte do projeto é o conjunto formado por **Alvino Paulino de Souza + Rosalina Schell**, a habilitação de casamento APERS nº 180190, a data de 17/04/1955, a localidade de Vila Cerro Grande e as certidões anexadas com filiação. É um núcleo documental coerente e primário.
+A correlação mais forte para a identidade familiar de Jonathan é o núcleo **Jonathan → Valdeci → Rosalvino + Carolina**, confirmado pela certidão de nascimento privada de Jonathan — não compartilhada — e pelo conhecimento pessoal direto. A correlação documental compartilhada mais forte é o conjunto formado por **Alvino Paulino de Souza + Rosalina Schell**, a habilitação de casamento APERS nº 180190, a data de 17/04/1955, a localidade de Vila Cerro Grande e as certidões anexadas com filiação. São camadas diferentes de prova e a certidão privada é mantida fora do repositório por segurança.
 
 A segunda correlação forte é o núcleo **Rosalina A → Alvina/Celanira**, sustentado por dois processos distintos, de 1947 e 1953, ambos no 3º distrito de Tapes. Esse conjunto prova a maternidade, mas não identifica a mãe como a mesma Rosalina B de 1906.
 

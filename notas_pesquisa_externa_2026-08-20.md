@@ -110,3 +110,15 @@ Aplicação à pesquisa: a estratégia deve avançar de forma encadeada. Primeir
 Foram testadas combinações abertas de `Regino Schell`, `Regina Schell` com Tapes/Alvina/Celanira e `Carlos Schell`/`Anna Schell` com Rio Grande do Sul. Não foi encontrado resultado público confiável que identifique esses nomes na linha pesquisada. Os poucos resultados exibidos eram homônimos, páginas não genealógicas ou nomes sem relação territorial/documental demonstrada.
 
 Interpretação: o resultado é **não informativo** quanto à existência ou inexistência dos registros. Ele mantém como prioridade a consulta de assentos civis/paróquias e de imagens não indexadas, sem incorporar qualquer homônimo.
+
+## Verificação visual da correção — 20/08/2026
+
+O gráfico `docs/assets/resumo_status_evidencias_2026-08-20.png` foi regenerado a partir da matriz CSV corrigida e apresenta cinco regimes: 8 afirmações com comprovação documental, 6 como hipótese ou indício, 4 como distinção/refutação, 3 não demonstradas e 3 confirmadas por testemunho familiar direto. A legenda informa que o testemunho direto confirma o vínculo familiar e que a documentação cartorial serve à auditoria externa.
+
+O mapa `docs/assets/mapa_correlacoes_ancestralidade_2026-08-20.png` foi regenerado com Jonathan, Valdeci, Rosalvino e Carolina em azul, representando confirmação por conhecimento familiar direto; Alvino, Rosalina B, Regino e os demais elos documentais aparecem em verde; hipóteses permanecem amarelas; a separação das Rosalinas permanece em vermelho; e o cluster Schell/Trott continua cinza e desconectado.
+
+## Fonte documental privada informada pelo usuário — 20/08/2026
+
+Jonathan informou que possui sua própria certidão de nascimento e que ela registra **Valdeci como seu pai** e **Rosalvino e Carolina como seus avós**. Por segurança, o documento não foi enviado, copiado, anexado ou solicitado. A pesquisa passa a registrar essa fonte como **documento civil primário disponível ao titular, não compartilhado**, suficiente para classificar esses vínculos como documentalmente confirmados no escopo privado do projeto.
+
+A referência não deve ser publicada com número de termo, livro, folha, cartório, imagem, QR code, CPF ou qualquer outro identificador. Uma eventual futura auditoria externa poderá ser feita pelo próprio titular, sem necessidade de expor a certidão ao repositório.

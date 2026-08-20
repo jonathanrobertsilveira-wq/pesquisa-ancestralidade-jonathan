@@ -2,7 +2,7 @@
 
 ## Escopo atual
 
-Este registro foi elaborado a partir da visualização paisagem do FamilySearch associada à pessoa `GK15-TLV` e de páginas públicas consultadas em 19 de agosto de 2026. A árvore colaborativa e o resumo do MyHeritage são tratados como **fontes derivadas**. Nenhum elo abaixo foi elevado a confirmado sem certidão, registro paroquial, imagem de arquivo ou conjunto independente de evidências.
+Este registro foi elaborado a partir da visualização paisagem do FamilySearch associada à pessoa `GK15-TLV`, de páginas públicas consultadas em 19 de agosto de 2026 e do conhecimento familiar direto declarado por Jonathan. A árvore colaborativa e o resumo do MyHeritage são tratados como **fontes derivadas**. Os vínculos **Jonathan → Valdeci**, **Jonathan → Rosalvino** e **Jonathan → Carolina** são confirmados como fatos familiares vividos pelo testemunho pessoal direto de Jonathan; os documentos civis continuam sendo buscados para auditoria externa, datas e filiações formais. Os elos de gerações anteriores continuam dependendo de certidão, registro paroquial, imagem de arquivo ou conjunto independente de evidências.
 
 ## Árvore de trabalho
 
@@ -41,8 +41,9 @@ A disposição acima reproduz os cartões visíveis, mas a captura textual não 
 
 | Afirmação | Fonte atual | Qualidade | Confiança atual | Próxima validação |
 |---|---|---|---|---|
-| Rosalvino nasceu em 06/10/1940 em Tapes | Painel da árvore FamilySearch, `P4KK-1QH`; fontes civis associadas não correspondem diretamente ao nascimento | Perfil ainda mostra `Birth • 0 Sources` | Possível | Registro civil de Tapes ou batismo |
-| Rosalvino morreu em 17/10/2014 em Guaíba | Painel da árvore FamilySearch, `P4KK-1QH` | Derivada; óbito com 0 fontes exibidas | Possível | Registro civil de Guaíba, obituário ou sepultamento |
+| Jonathan identifica Rosalvino como seu avô e Carolina como sua avó | Conhecimento pessoal direto de Jonathan; registro indexado de José Maria acrescenta correlação do casal | Testemunho familiar direto + correlação civil | **Confirmado por testemunho familiar direto**; documentação cartorial complementar | Localizar registros apenas para auditoria externa |
+| Rosalvino nasceu em 06/10/1940 em Tapes | Painel da árvore FamilySearch, `P4KK-1QH`; fontes civis associadas não correspondem diretamente ao nascimento | Perfil ainda mostra `Birth • 0 Sources` | Hipótese documental; não afeta a confirmação da identidade familiar de Rosalvino | Registro civil de Tapes ou batismo |
+| Rosalvino morreu em 17/10/2014 em Guaíba | Painel da árvore FamilySearch, `P4KK-1QH` | Derivada; óbito com 0 fontes exibidas | Possível como dado documental pendente | Registro civil de Guaíba, obituário ou sepultamento |
 | Rosalvino ocupação: agricultor | Painel FamilySearch; 1 fonte não identificada | Derivada | Possível | Identificar a fonte e conferir a imagem |
 | Rosalvino é associado a Raimundo José de Souza e Alicia Schell de Souza | Árvore FamilySearch, IDs `GV4D-D91` e `GV54-K3Q` | Árvore colaborativa | Possível | Registro de nascimento/casamento/óbito que informe filiação |
 | Raimundo e Alicia casaram em Cerro Grande, Tapes | Perfil autenticado de Raimundo `GV4D-D91`; casamento listado em Cerro Grande, Tapes | Árvore colaborativa; fontes civis lidas até agora não são o casamento | Possível | Habilitação ou assento de casamento em Tapes/Cerro Grande do Sul |

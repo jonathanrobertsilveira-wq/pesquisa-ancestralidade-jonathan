@@ -1,6 +1,6 @@
 # Índice do projeto de ancestralidade
 
-Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Souza** por função. A regra geral é começar pelo relatório-mestre, consultar a matriz para o detalhe de cada afirmação e só depois abrir o documento ou a imagem original.
+Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Souza** por função. A regra geral é começar pelo relatório-mestre, consultar a matriz para o detalhe de cada afirmação e só depois abrir o documento ou a imagem original. A certidão de nascimento de Jonathan, que confirma Valdeci como pai e Rosalvino e Carolina como avós, permanece fora do repositório por decisão de segurança do titular.
 
 ## Ordem recomendada de leitura
 
@@ -26,7 +26,7 @@ O projeto utiliza APERS, FamilySearch, IBGE, Prefeitura de Cerro Grande do Sul, 
 
 ## Regras de integridade
 
-A árvore do FamilySearch é tratada como fonte derivada, não como prova final. O GEDCOM independente é uma árvore de pesquisa e deve manter separados: **Rosalina A**, mãe de Alvina/Celanira; **Rosalina B**, filha de Regino e esposa de Alvino; e o **cluster Schell/Trott** de Gramado–Igrejinha–Taquara. Não se deve atribuir nacionalidade pela aparência do sobrenome nem considerar um resultado de busca zero como refutação.
+A certidão de nascimento privada de Jonathan é tratada como fonte primária disponível ao titular, mas não é armazenada no GitHub. A árvore do FamilySearch é tratada como fonte derivada, não como prova final. O GEDCOM independente é uma árvore de pesquisa e deve manter separados: **Rosalina A**, mãe de Alvina/Celanira; **Rosalina B**, filha de Regino e esposa de Alvino; e o **cluster Schell/Trott** de Gramado–Igrejinha–Taquara. Não se deve atribuir nacionalidade pela aparência do sobrenome nem considerar um resultado de busca zero como refutação.
 
 ## Verificação técnica
 

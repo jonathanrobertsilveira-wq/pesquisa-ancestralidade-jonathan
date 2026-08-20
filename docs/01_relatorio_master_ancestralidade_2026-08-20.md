@@ -14,21 +14,25 @@ A pesquisa **prova documentalmente** o casamento de **Alvino Paulino de Souza e 
 
 A pesquisa também **prova a existência de outro núcleo Schell** em Vila Cerro Grande/Tapes. As habilitações APERS nº 180603 e nº 180674 confirmam, respectivamente, que Alvina Schell e Celanira Schell eram filhas de uma mulher chamada Rosalina Schell. No processo 180674, a mãe é declarada como nascida em 16 de dezembro de 1897. Isso torna **provável** que a Rosalina mãe de Alvina/Celanira seja pessoa distinta da Rosalina nascida em 1906 e casada com Alvino em 1955; contudo, a distinção só será definitiva quando os assentos originais de nascimento, filiação e residência forem localizados [3] [4].
 
-A pesquisa **não prova**, até o corte atual, os elos centrais **Jonathan → Valdeci → Rosalvino** por certidões primárias, nem prova que Rosalvino seja filho de Raimundo José de Souza e Alicia Schell. O registro indexado do óbito de José Maria Kenes de Souza em 1971 confirma Rosalvino e Carolina Augusta Kenes de Souza como um casal com pelo menos um filho, mas não prova que Valdeci seja filho deles nem que Rosalvino tenha os pais exibidos na árvore colaborativa [5].
+Pelo **testemunho familiar direto e conhecimento pessoal do próprio Jonathan**, os vínculos **Jonathan → Valdeci**, **Jonathan → Rosalvino** e **Jonathan → Carolina** estão confirmados como fatos familiares vividos: Valdeci é o pai de Jonathan; Rosalvino é seu avô; e Carolina é sua avó. Além disso, Jonathan informa que sua própria **certidão de nascimento** registra Valdeci como pai e Rosalvino e Carolina como avós. Essa certidão é uma fonte civil primária privada, disponível ao titular, mas não compartilhada por segurança; por isso, a documentação é considerada confirmada no escopo privado do projeto, sem expor número de termo, livro, folha, cartório ou imagem. A árvore colaborativa não é a base desses vínculos e eles não devem ser descritos como mera hipótese.
+
+O que permanece pendente é apenas a **corroboração documental pública ou arquivística independente** desses vínculos, necessária para auditoria por terceiros, conferência de detalhes formais e preservação institucional. O registro indexado do óbito de José Maria Kenes de Souza em 1971 fornece ainda uma correlação documental independente entre Rosalvino e Carolina como casal com pelo menos um filho [5]. A filiação de Rosalvino a Raimundo José de Souza e Alicia Schell continua documentalmente aberta, porque essa geração anterior não foi confirmada por certidão primária legível.
 
 A pesquisa **não demonstra origem europeia específica**. O sobrenome Schell, as páginas de árvores e o contexto étnico regional não bastam para afirmar Alemanha, Suíça ou qualquer outro país. Para essa conclusão, é necessário um registro brasileiro ou migratório que identifique sem ambiguidade a pessoa da linha direta e declare naturalidade, nacionalidade, imigração, filiação ou procedência estrangeira [6] [7] [8].
 
-> **Conclusão executiva:** a linha brasileira Alvino–Rosalina–Regino está documentalmente bem estabelecida; o núcleo Schell local de 1897 está comprovado como família paralela, provavelmente distinto; a linha direta de Jonathan até Rosalvino permanece plausível, mas não fechada por registros primários; a origem europeia permanece não demonstrada.
+> **Conclusão executiva:** a linha familiar **Jonathan → Valdeci → Rosalvino + Carolina** está confirmada pelo conhecimento pessoal direto de Jonathan e pela certidão de nascimento privada do titular, que não será anexada por segurança; a linha brasileira **Alvino–Rosalina–Regino** está documentalmente bem estabelecida; o núcleo Schell local de 1897 está comprovado como família paralela, provavelmente distinto; a documentação pública/arquivística da linha direta permanece opcional e complementar para auditoria externa; a origem europeia permanece não demonstrada.
 
 ## 2. Escala de evidência utilizada
 
-A classificação abaixo evita transformar uma árvore colaborativa ou uma coincidência de sobrenome em prova. “Não demonstrado” significa que a pesquisa ainda não fechou a questão; não significa que a hipótese foi refutada.
+A classificação abaixo separa **certeza familiar direta**, **prova documental** e **pistas derivadas**. O testemunho pessoal de Jonathan é a base adequada para afirmar quem é seu pai e quem são seus avós, porque ele conheceu essas pessoas e relata diretamente o vínculo. A documentação cartorial tem outra função: registrar o fato em fonte externa, preservar datas e filiações e permitir auditoria por terceiros. “Não demonstrado” significa que a pesquisa documental ainda não fechou a questão; não significa que o fato familiar vivido foi colocado em dúvida.
 
 | Classe | Significado operacional | Exigência mínima |
 |---|---|---|
-| **Comprovado** | O evento ou elo aparece em fonte primária legível, ou em duas fontes independentes coerentes. | Registro civil, habilitação, batismo, casamento, óbito ou documento arquivístico direto. |
+| **Confirmado por documento privado não compartilhado** | O titular informa que sua certidão civil primária registra o vínculo; o arquivo permanece privado e não auditável por terceiros no repositório. | Existência e conteúdo essencial declarados pelo titular, sem coleta ou publicação do documento. |
+| **Confirmado por testemunho familiar direto** | O vínculo é afirmado por conhecimento pessoal direto do descendente ou por testemunho familiar de primeira mão. | Declaração explícita da pessoa de referência, com identificação do vínculo vivido. |
+| **Comprovado documentalmente** | O evento ou elo aparece em fonte primária legível, ou em duas fontes independentes coerentes. | Registro civil, habilitação, batismo, casamento, óbito ou documento arquivístico direto. |
 | **Fortemente indicado** | Há fonte primária que confirma o evento ou o núcleo familiar, mas ainda falta demonstrar o elo exato entre duas gerações. | Exemplo: óbito que identifica o casal, mas não a filiação do descendente pesquisado. |
-| **Hipótese plausível** | A relação aparece em árvore derivada, testemunho ou índice, com coerência parcial, porém sem fonte primária suficiente. | Requer registro original e comparação de filiação, localidade, idade e cônjuge. |
+| **Hipótese plausível** | A relação aparece em árvore derivada ou índice, com coerência parcial, porém sem fonte primária suficiente e sem testemunho direto equivalente. | Requer registro original e comparação de filiação, localidade, idade e cônjuge. |
 | **Provavelmente distinto** | Evidências independentes apontam para homonímia ou conflito estrutural, embora falte o assento definitivo de desambiguação. | Datas, papéis familiares, residências ou filiações incompatíveis. |
 | **Não demonstrado** | Não há fonte suficiente para aceitar ou negar a proposição. | Manter separado e definir busca específica. |
 | **Refutado como correspondência** | Um candidato foi testado e contradito por filiação, cônjuge, localidade, idade ou evento incompatível. | Exemplo: homônimo de Eva Pereira da Silveira ligado a outro marido e pais. |
@@ -39,9 +43,9 @@ A tabela é a síntese principal para decidir o que pode ser afirmado hoje. O n�
 
 | Elo ou afirmação | Bases que sustentam | Correlação positiva | Contradições ou lacunas | Resultado atual |
 |---|---|---|---|---|
-| Jonathan é filho de Valdeci | Identidade familiar e árvore FamilySearch | O caminho é coerente com a pesquisa familiar e com a pessoa de referência. | Não há certidão primária anexada ao projeto para filiação. | **Plausível, não comprovado**. |
-| Valdeci é filho de Rosalvino e Carolina | Árvore colaborativa; testemunho familiar sobre Rosalvino como avô | Os nomes e o núcleo familiar são consistentes com o perfil pesquisado. | Falta nascimento, casamento ou óbito de Valdeci com filiação legível. | **Hipótese forte, não comprovada**. |
-| Rosalvino e Carolina formavam um casal | Óbito indexado de José Maria Kenes de Souza, 1971 | O registro apresenta Rosalvino como pai e Carolina no conjunto familiar como esposa; confirma ao menos um filho do casal. | O registro consultado não substitui o nascimento de Valdeci nem informa os pais de Rosalvino. | **Núcleo do casal fortemente indicado; elo com Valdeci pendente** [5]. |
+| Jonathan é filho de Valdeci | Certidão de nascimento privada de Jonathan, não compartilhada; conhecimento pessoal direto; árvore FamilySearch apenas como apoio secundário | A certidão do titular registra Valdeci como pai, e Jonathan confirma diretamente o vínculo vivido. | O arquivo não será anexado ao repositório; terceiros não poderão auditar a imagem. | **Confirmado documentalmente em fonte privada e por testemunho direto**. |
+| Valdeci é filho de Rosalvino e Carolina | Certidão de nascimento privada de Jonathan, não compartilhada; conhecimento familiar direto; óbito indexado de José Maria como correlação do casal | A certidão do titular registra Rosalvino e Carolina como avós, e Jonathan identifica Valdeci como seu pai. | A certidão de Jonathan não é o assento de nascimento de Valdeci; a imagem não será publicada. | **Confirmado documentalmente em fonte privada e por testemunho direto**. |
+| Rosalvino e Carolina eram os avós de Jonathan | Certidão de nascimento privada de Jonathan, não compartilhada; conhecimento pessoal direto; FamilySearch ARK 6YPM-F1JQ, óbito de José Maria, 1971 | A certidão registra ambos como avós; Jonathan conheceu Rosalvino e identifica Carolina como sua avó; o registro de 1971 correlaciona o casal [5]. | A imagem privada não será anexada; o registro indexado de 1971 não nomeia Valdeci como filho. | **Confirmado documentalmente em fonte privada e por testemunho direto; casal corroborado por índice civil**. |
 | Rosalvino é filho de Raimundo José e Alicia Schell | Perfil FamilySearch e árvore derivada | A árvore apresenta os nomes como pais e localiza o ramo em Tapes/Cerro Grande. | Não foi localizado nascimento, casamento ou óbito primário de Rosalvino com esses pais; buscas nominais retornaram zero ou resultados não informativos. | **Hipótese não comprovada**. |
 | Raimundo é filho de Manoel José de Souza e Maria Candida Tavares | Árvore; óbito de Manoel em 1941 menciona Raimundo | O evento de óbito de Manoel é civilmente documentado e Raimundo aparece no conjunto de participantes. | A filiação exata precisa ser lida no manuscrito ou confirmada em nascimento/casamento/óbito. | **Evento de Manoel comprovado; filiação de Raimundo apenas forte indício** [9] [10]. |
 | Alvino casou com Rosalina Schell | Habilitação APERS nº 180190, com certidão final | Nome, cartório, distrito, tramitação e data de 17/04/1955 convergem no mesmo processo primário. | O assento integral ainda pode acrescentar livro, folha, termo e averbações. | **Comprovado** [1] [2]. |
@@ -60,7 +64,7 @@ A tabela é a síntese principal para decidir o que pode ser afirmado hoje. O n�
 
 ![Distribuição dos status documentais](assets/resumo_status_evidencias_2026-08-20.png)
 
-A distribuição acima é uma contagem das 24 afirmações da matriz, não uma porcentagem de certeza genealógica. Ela mostra que o projeto já possui um núcleo importante de eventos comprovados, mas ainda concentra hipóteses e lacunas nos elos da linha direta recente e na origem dos ancestrais Schell/Kenne.
+A distribuição acima é uma contagem das 24 afirmações da matriz, não uma porcentagem de certeza genealógica. Ela mostra que o projeto possui três vínculos confirmados pela **certidão privada do titular e pelo testemunho familiar direto**, oito afirmações com comprovação documental compartilhada no projeto e ainda concentra hipóteses e lacunas nas gerações anteriores e na origem dos ancestrais Schell/Kenne. A documentação pública adicional da linha direta recente é complementar para auditoria, não uma condição para reconhecer os fatos familiares vividos por Jonathan.
 
 ## 4. Desambiguação das Rosalinas Schell
 
@@ -78,11 +82,11 @@ A coincidência do dia e mês — 16 de dezembro — não prova identidade. A di
 
 ### 5.1 Hipótese H1 — a linha principal está essencialmente correta
 
-A sequência Jonathan → Valdeci → Rosalvino é **plausível**, porque coincide com a memória familiar e com a árvore de trabalho. Entretanto, a base documental independente ainda não fecha Jonathan–Valdeci nem Valdeci–Rosalvino. A hipótese deve permanecer ativa, mas não pode ser apresentada como descendência comprovada.
+A sequência **Jonathan → Valdeci → Rosalvino** não deve ser apresentada como mera hipótese: ela é **confirmada pelo conhecimento familiar direto de Jonathan e pela sua certidão de nascimento privada**, que não será compartilhada no projeto. O documento registra Valdeci como pai e Rosalvino e Carolina como avós. A árvore colaborativa deixa de ser a base principal desses três vínculos; a busca de registros adicionais passa a ter finalidade de auditoria externa e preservação institucional, não de decidir se os vínculos são verdadeiros.
 
 ### 5.2 Hipótese H2 — houve mistura de homônimos na linha principal
 
-Essa hipótese permanece aberta. Ela seria confirmada se um nascimento, casamento ou óbito de Valdeci, Rosalvino ou seus pais apresentasse filiação, cônjuge ou localidade incompatível com a árvore. Até o momento, nenhum documento primário contradisse diretamente a identidade familiar de Rosalvino; o problema é a ausência de prova dos elos anteriores, não uma refutação positiva.
+A hipótese de mistura de homônimos permanece relevante apenas para as gerações documentais anteriores ou para perfis de terceiros. Ela não deve ser usada para questionar a identidade familiar de Valdeci, Rosalvino ou Carolina, já confirmada pelo conhecimento pessoal direto de Jonathan. Um registro incompatível poderá contradizer uma data, filiação documental ou pessoa homônima apresentada na árvore, mas não apaga o vínculo familiar vivido; nesse caso, será necessário investigar erro registral, variação nominal ou mistura de perfis.
 
 ### 5.3 Hipótese H3 — o ramo Schell de Tapes é correto, mas a conexão com Rosalina/Regino está aberta
 
@@ -127,7 +131,7 @@ A única refutação operacional forte realizada até agora é contra a incorpor
 
 ## 8. Plano de validação por ordem de retorno documental
 
-A primeira frente deve fechar a linha viva e recente: obter, com autorização familiar e observância de privacidade, o registro que mostre **Jonathan → Valdeci** e o registro que mostre **Valdeci → Rosalvino/Carolina**. Para cada documento, devem ser extraídos nome integral, data e local, filiação, idade, profissão, residência, cônjuge e testemunhas.
+A primeira frente pode, se for conveniente ao titular, **documentar externamente uma linha familiar já confirmada**: localizar registros públicos ou arquivísticos que correspondam a **Jonathan → Valdeci** e **Valdeci → Rosalvino/Carolina**. Essa busca não existe para decidir se os vínculos são verdadeiros, porque a certidão privada e o conhecimento direto de Jonathan já os confirmam; serve apenas para preservação institucional, detalhes formais e eventual auditoria por terceiros. A certidão privada não deve ser anexada, enviada ou reproduzida no repositório.
 
 A segunda frente deve resolver **Rosalvino → Raimundo/Alicia**. O alvo mais eficiente é nascimento, casamento ou óbito de Rosalvino em Tapes/Guaíba, seguido de busca do casamento de Raimundo e Alicia. Se o registro de Rosalvino indicar outros pais, a hipótese da árvore será negada para aquele perfil; se indicar Raimundo e Alicia, H1/H3 avançarão para confirmação parcial.
 
@@ -155,7 +159,7 @@ A validação local do GEDCOM retornou 40 indivíduos, 17 famílias, 28 fontes, 
 
 ## 10. Limitações, privacidade e regra de integridade
 
-O projeto contém nomes e dados de pessoas vivas. A árvore colaborativa não deve ser editada ou mesclada enquanto as fontes não forem conferidas. Informações de parentes vivos devem ser usadas apenas quando necessárias para a pesquisa, e qualquer futura publicação deve remover identificadores e dados pessoais não essenciais.
+O projeto contém nomes e dados de pessoas vivas. A árvore colaborativa não deve ser editada ou mesclada enquanto as fontes não forem conferidas. Informações de parentes vivos devem ser usadas apenas quando necessárias para a pesquisa, e qualquer futura publicação deve remover identificadores e dados pessoais não essenciais. A certidão de nascimento de Jonathan foi deliberadamente mantida fora do repositório: sua existência e conteúdo essencial são registrados apenas por declaração do titular, sem imagem, número, QR code, livro, folha ou cartório.
 
 A regra de integridade principal é: **não fundir Rosalina A com Rosalina B; não ligar o cluster Schell/Trott à linha de Tapes; não converter o sobrenome em nacionalidade; não converter índice em imagem primária; e não tratar busca zero como prova de inexistência**.
 
