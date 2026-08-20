@@ -138,3 +138,18 @@ A árvore independente atualizada está em `/home/ubuntu/gedcom_pesquisa_jonatha
 | As duas Rosalinas são a mesma pessoa | Nenhuma fonte; as datas diferem em nove anos e os papéis familiares são distintos | **Hipótese fortemente enfraquecida; manter separadas** |
 
 A coincidência do dia e mês, com diferença de nove anos, não é suficiente para unificar as pessoas. Até localização dos assentos originais, a identidade deve ser tratada como **provavelmente distinta**, não como vínculo confirmado.
+
+## Atualização do foco — ascendentes acima dos avós — 20/08/2026
+
+| Afirmação | Fonte/achado novo | Qualidade | Classificação atual |
+|---|---|---|---|
+| Manoel Geraldo Lemes/Kens e Doralina/Dorvalina Ferreira Kenes/Kens são pais de Flauliano | Casamento de 28/07/1948, Capela Velha, certificado 664; duas indexações, ARKs `X9YR-4ZTN` e `6XV2-83D1`, com imagem original acessível | Registro civil indexado duplicado e imagem disponível | **Forte indício documental; confirmar pela leitura integral do termo** |
+| Lena Silveira foi esposa de Flauliano no evento de 28/07/1948 | Mesmos ARKs e painel do documento original | Registro civil indexado | **Indício forte; conflita com Eva Silveira exibida na árvore** |
+| Eva Silveira é a mesma pessoa que Lena Silveira | Eva aparece no perfil colaborativo; Lena aparece no casamento de 1948 | Conflito de fontes | **Não demonstrado; não substituir nem mesclar** |
+| Manoel Geraldo é filho de Marcolina Ferraz Leite | Perfil `PMXJ-2SR` e perfil de Marcolina `MRWF-1WZ` | Árvore colaborativa com fontes associadas | **Hipótese reforçada, ainda sem certidão primária lida** |
+| Marcolina é filha de Cândido Ferraz Leite e Brígida Antonia da Silva | Perfil `MRWF-1WZ`; nascimento 04/01/1852, batismo em 24/03/1860 em Encruzilhada do Sul | Perfil com múltiplas fontes, imagem original não conferida nesta rodada | **Hipótese de trabalho** |
+| João Kenne é marido de Marcolina e pai indicado de Manoel | Perfis `GQMT-NZP` e `MRWF-1WZ` | Árvore colaborativa | **Hipótese forte, pendente de registro de casamento/nascimento** |
+| João Kenne nasceu na Alemanha | Perfil `GQMT-NZP` e título de fonte sobre óbito de Cândido Sandálio | Fonte descrita por usuário; imagem restrita | **Pista relevante, não confirmação independente** |
+| Manoel José de Souza é pai de Raimundo José de Souza | Ficha `XSXL-4W2G` o identifica como filho; original `3QS7-99GW-1966` não indexado | Índice automático + imagem sem transcrição | **Forte indício; confirmar paleograficamente** |
+
+O foco da investigação foi alterado para os ascendentes dos avós. O elo com Valdeci não é prioridade nesta etapa e não deve orientar a ordem de pesquisa enquanto houver lacunas documentais acima de Rosalvino e Carolina.

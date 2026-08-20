@@ -62,6 +62,22 @@ A pesquisa deve avançar nesta ordem:
 5. **João Kenne:** conferir a fonte do nascimento de José Conceição e o óbito restrito de Cândido Sandálio, procurando a menção direta à Alemanha.
 6. **Ramo Rosalvino:** localizar o nascimento, casamento ou óbito de Rosalvino e confirmar Raimundo José e Alicia Schell como pais.
 
+## Reorientação da pesquisa — acima dos avós
+
+A partir de 20/08/2026, o foco principal passa a ser a ascendência dos avós **Rosalvino Schell de Souza** e **Carolina Augusta Kenes de Souza**. O elo com Valdeci permanece como contexto familiar, mas não será usado para definir a ordem de investigação enquanto houver lacunas nas gerações superiores.
+
+A rota prioritária ficou assim:
+
+> **Carolina → Flauliano Brasil Kenes → Manoel Geraldo Lemes/Kens + Doralina/Dorvalina Ferreira Kenes/Kens → Marcolina Ferraz Leite + João Kenne → Cândido Ferraz Leite + Brígida Antonia da Silva / possível linha europeia de João**
+
+No outro ramo:
+
+> **Rosalvino → Raimundo José de Souza + Alicia Schell de Souza → Manoel José de Souza + Maria Candida Tavares**
+
+O casamento de Flauliano em Capela Velha, em 28/07/1948, fornece o melhor avanço documental desta etapa: duas indexações repetem seus pais e o certificado nº 664. A esposa aparece como Lena Silveira no registro, em conflito com Eva Silveira na árvore; as duas identidades devem permanecer separadas até nova prova.
+
+A possível Alemanha de João Kenne é uma pista relevante, mas não deve ser apresentada como origem comprovada enquanto o documento restrito do óbito de Cândido Sandálio não puder ser consultado ou enquanto outra fonte primária não declarar a naturalidade.
+
 ## Referências
 
 [1]: https://www.familysearch.org/ark:/61903/1:1:6YPM-F1JQ "FamilySearch — óbito de José Maria Kenes de Souza, 29/03/1971"

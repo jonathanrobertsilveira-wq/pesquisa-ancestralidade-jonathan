@@ -17,6 +17,7 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `gedcom_pesquisa_jonathan/` | GEDCOM independente, inventário CSV, README e PDFs primários APERS |
 | `resultado_continuacao_pesquisa_2026-08-20.md` | Relatório desta rodada e novos achados Schell |
 | `resultado_continuacao_pesquisa_2026-08-20_2.md` | Verificação das fontes civis de Rosalvino e Carolina |
+| `resultado_ascendentes_acima_dos_avos_2026-08-20.md` | Síntese focada nos avós e gerações anteriores |
 | `notas_browser_rosalvino_2026-08-20.md` | Notas técnicas da consulta autenticada ao FamilySearch |
 | `relatorio_ancestralidade_parcial.md` | Relatório consolidado da pesquisa |
 | `arvore_provisoria_evidencias.md` | Quadro de afirmações, fontes, confiança e conflitos |
