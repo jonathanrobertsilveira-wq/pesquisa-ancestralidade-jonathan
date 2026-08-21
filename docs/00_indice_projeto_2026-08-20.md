@@ -8,6 +8,8 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 |---:|---|---|
 | 1 | [`01_relatorio_master_ancestralidade_2026-08-20.md`](01_relatorio_master_ancestralidade_2026-08-20.md) | Resposta consolidada sobre o que está comprovado, provável, conflitante ou não demonstrado. |
 | 2 | [`../relatorio_auditoria_lacunas_novas_provas_2026-08-20.md`](../relatorio_auditoria_lacunas_novas_provas_2026-08-20.md) | Auditoria do que ainda falta, do que ficou mais forte com as novas provas e da ordem recomendada para continuar. |
+| 2A | [`../resultado_execucao_plano_2026-08-21.md`](../resultado_execucao_plano_2026-08-21.md) | Resultado formal da rodada dirigida: buscas, achados, correções de interpretação e próximos testes. |
+| 2B | [`../registro_execucao_plano_2026-08-21.md`](../registro_execucao_plano_2026-08-21.md) | Diário técnico da execução no FamilySearch, com variantes consultadas e resultados preservados. |
 | 3 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular atualizado de 29 afirmações com fonte, correlação, lacuna, status e próximo teste. |
 | 4 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
 | 5 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
