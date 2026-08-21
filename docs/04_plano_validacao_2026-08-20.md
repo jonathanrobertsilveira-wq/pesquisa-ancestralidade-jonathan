@@ -54,3 +54,34 @@ Uma busca sem resultado deve registrar nome pesquisado, variações, coleção, 
 ## Comunicação institucional já registrada
 
 Em 20/08/2026, foi enviada mensagem ao Registro Civil de Tapes solicitando apenas orientação inicial sobre o nascimento de Rosalvino e o casamento de Raimundo/Alicia, sem pedido de certidão paga e sem autorização de cobrança. Qualquer resposta deve ser preservada no diário e avaliada quanto à natureza: orientação administrativa não é prova; imagem ou certidão identificada pode ser fonte primária.
+
+## Atualização pós-novas provas — 20/08/2026
+
+O casamento de Flaubiano/Flauliano Brasil em Capela Velha, Camaquã, em 28/07/1948, certificado nº 664, foi localizado no FamilySearch com Manoel Geraldo Lemes/Kens e Doralina/Dorvalina Ferreira Kenes/Kens como pais e Lena Silveira como esposa. A filiação de Flauliano passou a **forte indício documental**, pendente de leitura da imagem original; a esposa Lena entra em conflito documental com Eva Silveira na árvore e as duas identidades não devem ser fundidas.
+
+A ficha `XSXL-4W2G` também associa Raimundo José de Souza ao óbito de Manoel José de Souza com relação textual de filho. O elo Manoel → Raimundo subiu para **forte indício documental**, ainda dependente de leitura paleográfica do original não indexado.
+
+A ordem operacional passa a ser:
+
+1. Solicitar ou localizar a certidão integral do óbito de Rosalvino em Guaíba, já identificado por município, data provável e metadados cartoriais.
+2. Localizar o nascimento de Rosalvino, provavelmente em 06/10/1940, em Tapes/Vila Cerro Grande/Cerro Grande do Sul, para testar diretamente Raimundo + Alicia.
+3. Localizar nascimento, casamento ou óbito de Carolina para resolver a passagem Carolina → Flauliano e o conflito Lena/Eva.
+4. Abrir a imagem original do casamento de Flauliano e transcrever filiação, idade, naturalidade, residência, profissão e testemunhas.
+5. Localizar o nascimento de Flauliano em torno de 1923 e os registros de seus irmãos.
+6. Ler a imagem original do óbito de Manoel José e confirmar o papel de Raimundo no documento.
+7. Buscar o casamento de Raimundo e Alicia, controlando as variantes Raimundo/Raymendo, Souza/Santos e Alicia/Sebello/Schell.
+8. Só depois de fechar Manoel Geraldo → João, tentar a fonte restrita sobre a naturalidade alemã de João e iniciar pesquisa migratória.
+
+Nenhuma busca negativa deve ser tratada como prova de inexistência. A coleção civil do FamilySearch informa que parte dos registros não está indexada e que novos índices e imagens podem ser acrescentados; o APERS confirma a existência de fundos civis e habilitações relevantes para os municípios do projeto.
+
+Fonte do casamento: https://www.familysearch.org/ark:/61903/1:1:X9YR-4ZTN
+Fonte da ficha de Manoel/Raimundo: https://www.familysearch.org/ark:/61903/1:1:XSXL-4W2G
+
+
+## Atualização paroquial — coleção 2177295
+
+A coleção `Brasil, Rio Grande do Sul, Registros da Igreja Católica, 1738–1952` foi consultada por waypoints. Tapes possui a Paróquia Nossa Senhora das Dores, com batismos de 1826 a 1898, matrimônios até 1904 e óbitos até 1890. Camaquã possui a Paróquia São João Batista, com batismos de 1856 a 1901, matrimônios até 1928 e óbitos até 1900. Essas séries são úteis para gerações anteriores, mas não alcançam diretamente o nascimento provável de Rosalvino ou Carolina.
+
+A Caixa 18 de Tapes, habilitações de matrimônio, letras S, 1900–1928, é um alvo prioritário para Schell/Schel/Souza, porém está marcada como imagem restrita. Deve ser consultada no APERS, em um Centro do FamilySearch ou por cópia autorizada; não houve solicitação ou pagamento nesta rodada.
+
+As buscas nominais paroquiais por Rosalvino e Carolina produziram zero confiável ou falsos positivos por relaxamento do filtro. A regra operacional passa a ser trabalhar com livros, períodos e jurisdições históricas, registrando buscas nominais amplas apenas como controles de indexação, nunca como prova de inexistência.

@@ -7,12 +7,13 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | Ordem | Arquivo | Para que serve |
 |---:|---|---|
 | 1 | [`01_relatorio_master_ancestralidade_2026-08-20.md`](01_relatorio_master_ancestralidade_2026-08-20.md) | Resposta consolidada sobre o que está comprovado, provável, conflitante ou não demonstrado. |
-| 2 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular de 24 afirmações com fonte, correlação, lacuna, status e próximo teste. |
-| 3 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
-| 4 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
-| 5 | [`../notas_pesquisa_externa_2026-08-20.md`](../notas_pesquisa_externa_2026-08-20.md) | Caderno cronológico das fontes institucionais e leituras visuais realizadas nesta rodada. |
-| 6 | [`../registro_pesquisa_familysearch.md`](../registro_pesquisa_familysearch.md) | Diário de trabalho atual, com as consultas mais recentes e o vínculo para o histórico preservado. |
-| 7 | [`../archives/registro_pesquisa_familysearch_historico_2026-08-20.md`](../archives/registro_pesquisa_familysearch_historico_2026-08-20.md) | Diário extenso recuperado do commit anterior à truncagem; consultar para auditoria histórica detalhada. |
+| 2 | [`../relatorio_auditoria_lacunas_novas_provas_2026-08-20.md`](../relatorio_auditoria_lacunas_novas_provas_2026-08-20.md) | Auditoria do que ainda falta, do que ficou mais forte com as novas provas e da ordem recomendada para continuar. |
+| 3 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular atualizado de 29 afirmações com fonte, correlação, lacuna, status e próximo teste. |
+| 4 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
+| 5 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
+| 6 | [`../notas_pesquisa_externa_2026-08-20.md`](../notas_pesquisa_externa_2026-08-20.md) | Caderno cronológico das fontes institucionais e leituras visuais realizadas nesta rodada. |
+| 7 | [`../registro_pesquisa_familysearch.md`](../registro_pesquisa_familysearch.md) | Diário de trabalho atual, com as consultas mais recentes e o vínculo para o histórico preservado. |
+| 8 | [`../archives/registro_pesquisa_familysearch_historico_2026-08-20.md`](../archives/registro_pesquisa_familysearch_historico_2026-08-20.md) | Diário extenso recuperado do commit anterior à truncagem; consultar para auditoria histórica detalhada. |
 
 ## Fontes primárias locais
 
