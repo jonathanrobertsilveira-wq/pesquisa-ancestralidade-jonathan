@@ -12,6 +12,8 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | 2B | [`../registro_execucao_plano_2026-08-21.md`](../registro_execucao_plano_2026-08-21.md) | Diário técnico da execução no FamilySearch, com variantes consultadas e resultados preservados. |
 | 2C | [`../resultado_execucao_gratuita_2026-08-21.md`](../resultado_execucao_gratuita_2026-08-21.md) | Relatório consolidado da rodada gratuita: Manoel–Raimundo, Raimundo–Alicia, buscas negativas e limitações do APERS. |
 | 2D | [`../registro_execucao_gratuita_2026-08-21.md`](../registro_execucao_gratuita_2026-08-21.md) | Diário das consultas públicas, tentativas no APERS e decisões de integridade desta rodada. |
+| 2E | [`05_relatorio_linha_materna_ana_paula_2026-08-21.md`](05_relatorio_linha_materna_ana_paula_2026-08-21.md) | Relatório detalhado da linha Jonathan → Ana Paula → Miriam → Onilia/Alvicio, com evidências, variantes, limitações e ponte para a Europa. |
+| 2F | [`06_matriz_linha_materna_ana_paula_2026-08-21.md`](06_matriz_linha_materna_ana_paula_2026-08-21.md) | Matriz auditável dos elos maternos, eventos, fontes, níveis de confiança e próximos testes. |
 | 3 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular atualizado de 29 afirmações com fonte, correlação, lacuna, status e próximo teste. |
 | 4 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
 | 5 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
