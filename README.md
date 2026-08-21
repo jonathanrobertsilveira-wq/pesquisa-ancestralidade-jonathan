@@ -17,6 +17,9 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `gedcom_pesquisa_jonathan/` | GEDCOM independente, inventário CSV, README e PDFs primários APERS |
 | `resultado_continuacao_pesquisa_2026-08-20.md` | Relatório desta rodada e novos achados Schell |
 | `resultado_continuacao_pesquisa_2026-08-20_2.md` | Verificação das fontes civis de Rosalvino e Carolina |
+| `resultado_execucao_pesquisa_2026-08-21.md` | Resultado da rodada gratuita sobre Rosalvino, Raimundo e Alicia |
+| `registro_pesquisa_familysearch_2026-08-21.md` | Registro cronológico da execução autenticada de 21/08/2026 |
+| `notas_execucao_pesquisa_2026-08-21.md` | Diário técnico das consultas, resultados e limitações |
 | `resultado_ascendentes_acima_dos_avos_2026-08-20.md` | Síntese focada nos avós e gerações anteriores |
 | `notas_browser_rosalvino_2026-08-20.md` | Notas técnicas da consulta autenticada ao FamilySearch |
 | `relatorio_ancestralidade_parcial.md` | Relatório consolidado da pesquisa |
@@ -36,7 +39,7 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 
 ## Organização atualizada
 
-A rodada de 20/08/2026 acrescentou uma documentação organizada em `docs/`. O ponto de entrada é `docs/00_indice_projeto_2026-08-20.md`; o relatório-mestre está em `docs/01_relatorio_master_ancestralidade_2026-08-20.md`. A matriz CSV registra cada afirmação como comprovada, fortemente indicada, hipótese, conflito, provavelmente distinta ou não demonstrada. O mapa visual mantém separadas Rosalina A, Rosalina B e o cluster Schell/Trott. O diário histórico anterior à consulta ao cartório foi recuperado em `archives/registro_pesquisa_familysearch_historico_2026-08-20.md`, sem substituir o diário atual.
+A rodada de 20/08/2026 acrescentou uma documentação organizada em `docs/`. A execução gratuita de 21/08/2026 encontrou o registro indexado do óbito de Raimundo José de Souza em 09/09/1983, com Alicia Schell de Souza como esposa e Manoel José de Souza e Maria Candida Tavares relacionados; esse achado fortalece o casal Raimundo–Alicia, mas ainda não confirma que Rosalvino seja filho deles. O relatório, o diário técnico e o registro cronológico da nova rodada estão listados acima. O ponto de entrada continua sendo `docs/00_indice_projeto_2026-08-20.md`; o relatório-mestre está em `docs/01_relatorio_master_ancestralidade_2026-08-20.md`. A matriz CSV registra cada afirmação como comprovada, fortemente indicada, hipótese, conflito, provavelmente distinta ou não demonstrada. O mapa visual mantém separadas Rosalina A, Rosalina B e o cluster Schell/Trott. O diário histórico anterior à consulta ao cartório foi recuperado em `archives/registro_pesquisa_familysearch_historico_2026-08-20.md`, sem substituir o diário atual.
 
 ## Privacidade
 
