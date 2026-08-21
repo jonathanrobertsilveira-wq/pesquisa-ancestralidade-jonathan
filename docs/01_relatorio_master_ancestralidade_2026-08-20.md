@@ -47,7 +47,9 @@ A tabela é a síntese principal para decidir o que pode ser afirmado hoje. O n�
 | Valdeci é filho de Rosalvino e Carolina | Certidão de nascimento privada de Jonathan, não compartilhada; conhecimento familiar direto; óbito indexado de José Maria como correlação do casal | A certidão do titular registra Rosalvino e Carolina como avós, e Jonathan identifica Valdeci como seu pai. | A certidão de Jonathan não é o assento de nascimento de Valdeci; a imagem não será publicada. | **Confirmado documentalmente em fonte privada e por testemunho direto**. |
 | Rosalvino e Carolina eram os avós de Jonathan | Certidão de nascimento privada de Jonathan, não compartilhada; conhecimento pessoal direto; FamilySearch ARK 6YPM-F1JQ, óbito de José Maria, 1971 | A certidão registra ambos como avós; Jonathan conheceu Rosalvino e identifica Carolina como sua avó; o registro de 1971 correlaciona o casal [5]. | A imagem privada não será anexada; o registro indexado de 1971 não nomeia Valdeci como filho. | **Confirmado documentalmente em fonte privada e por testemunho direto; casal corroborado por índice civil**. |
 | Rosalvino é filho de Raimundo José e Alicia Schell | Perfil FamilySearch e árvore derivada | A árvore apresenta os nomes como pais e localiza o ramo em Tapes/Cerro Grande. | Não foi localizado nascimento, casamento ou óbito primário de Rosalvino com esses pais; buscas nominais retornaram zero ou resultados não informativos. | **Hipótese não comprovada**. |
-| Raimundo é filho de Manoel José de Souza e Maria Candida Tavares | Árvore; óbito de Manoel em 1941 menciona Raimundo | O evento de óbito de Manoel é civilmente documentado e Raimundo aparece no conjunto de participantes. | A filiação exata precisa ser lida no manuscrito ou confirmada em nascimento/casamento/óbito. | **Evento de Manoel comprovado; filiação de Raimundo apenas forte indício** [9] [10]. |
+| Raimundo é filho de Manoel José de Souza e Maria Candida Tavares | Óbito de Manoel em 1941 (`XSXL-4W2G`, `XSXL-4W25`); óbito de Raimundo em 1983 (`68DD-YZVY/68DD-YZVR`); fontes da rodada de Maria | Raimundo aparece no núcleo de Manoel, e Maria Candida é explicitamente mencionada como mãe de Raimundo no registro de 1983; Maria e Manoel são repetidos como casal em registros de filhos e no óbito de Manoel. | Ainda falta localizar/ler um nascimento ou casamento de Raimundo que declare a filiação sem ruído de indexação. | **Vínculo fortemente indicado; identidade de Maria e o casal parental documentados, filiação direta de Raimundo ainda não fechada em assento próprio**. |
+| Maria Candida é a mulher nascida/batizada em Tapes em 1895, esposa de Manoel José e mãe do núcleo Souza | Batismo `XV3V-XJ4` e `6NVN-MNS1`; óbitos de Virgilina `6RM8-X1H5/XSXL-9T17`, Amarolina `65YP-KCW4` e Raimundo `68DD-YZVY`; casamento de Juvelina `XSXL-YW8Z`; óbito de Manoel `XSXL-4W2G`; relatório formal `resultado_maria_candida_2026-08-20.md` | As fontes repetem Maria/Candida Tavares, marido Manoel, filhos, Barão do Triunfo/São Jerônimo/Tapes e os pais Manoel Osorio Tavares e Gertrudes Ignacia Martins. As variantes Cavares/Lavares/Tonares, Tovares/Pavares, Candida Maria Tavares de Carvalho e Dom A foram testadas e classificadas. | Casamento próprio e óbito de Maria em 1956 ainda não foram localizados em imagem inequívoca; algumas fichas têm naturalidade São Paulo e nomes corrompidos. | **Comprovado documentalmente como identidade e núcleo familiar; eventos biográficos específicos ainda abertos**. |
+| Manoel Osorio Tavares e Gertrudes Ignacia Martins são os pais de Maria Candida | Batismo `XV3V-XJ4`/`6NVN-MNS1`; óbito de Manoel `XSX8-4D5X`; rodada formal de Gertrudes | O batismo nomeia ambos; o óbito de 1952 identifica Maria como filha e Gertrudes como mãe, além de situar Manoel em Cerro Grande/Tapes. | Nascimento e óbito próprios de Gertrudes não foram localizados; casamento de 1894 é forte, mas o termo original exato ainda não foi transcrito integralmente. | **Filiação de Maria comprovada; Gertrudes encerrada como identidade conjugal/materna, com lacunas próprias registradas**. |
 | Alvino casou com Rosalina Schell | Habilitação APERS nº 180190, com certidão final | Nome, cartório, distrito, tramitação e data de 17/04/1955 convergem no mesmo processo primário. | O assento integral ainda pode acrescentar livro, folha, termo e averbações. | **Comprovado** [1] [2]. |
 | Alvino nasceu em 23/02/1897 e é filho de Geremias e Anna Joaquina | Certidão de nascimento transcrita no APERS 180190 | Data, distrito, filiação e avós aparecem na certidão anexada. | O assento original ainda deve ser preservado ou conferido em imagem independente. | **Comprovado pelo processo; conferir no assento original** [1]. |
 | Rosalina esposa de Alvino nasceu em 16/12/1906 e é filha de Regino Schell | Certidão de nascimento transcrita no APERS 180190 | Data, local de Americana/3º distrito de Tapes, pai Regino e nomes Schell no quadro de avós aparecem no documento. | Mãe e papel exato de Carlos/Anna precisam de leitura do assento original. | **Comprovado como declaração documental do processo** [1]. |
@@ -194,3 +196,74 @@ Esse achado confirma a localização cartorial e a data provável do falecimento
 O próximo teste documental é solicitar a certidão ou cópia integral do assento já localizado. A leitura deve extrair idade, naturalidade, filiação completa, estado civil, cônjuge, declarante, residência, profissão, causa ou observações quando disponíveis e averbações. O óbito localizado também oferece uma base mais precisa para pesquisar o casamento de Rosalvino e Carolina.
 
 [20]: ../resultado_obito_rosalvino_guaiba_2026-08-20.md "Resultado localizado do óbito de Rosalvino em Guaíba — Portal Registro Civil"
+
+## 12. Encerramentos formais de Maria Candida e Manoel Osorio — 20/08/2026
+
+A rodada de **Maria Candida Tavares** (`GV46-7JK`) foi formalmente encerrada. A identidade da mulher nascida em 8/4/1895 e batizada em 31/8/1895 em Nossa Senhora das Dores, Tapes, como filha de Manoel Izorio/Osorio Tavares e Geltrudes/Gertrudes Ignacia Martins, fica comprovada por batismo, registros civis de filhos, óbitos de Manoel José e Raimundo e pelo termo paroquial nº 722 de janeiro de 1944. Nesse termo, a qualificação de Cormelina/Carmelina José de Souza lê-se como filha legítima de Manoel José de Souza e sua mulher Dona Maria Candida Tavares [21] [22].
+
+O casamento próprio de Maria Candida e Manoel José e o óbito de Maria indicado para 1/3/1956 continuam sem assento original inequívoco. As formas `Cavares`, `Lavares`, `Tonares`, `Tovares`, `Pavares`, `Candida Maria Tavares de Carvalho` e `Dom A Maria Candida Tavares` foram separadas como variantes de índice ou pistas corrompidas; não foram fundidos homônimos de Lavras do Sul, São Borja ou outros municípios. O arquivo detalhado é `resultado_maria_candida_2026-08-20.md` [21].
+
+A rodada de **Manoel Osorio Tavares de Carvalho** (`9N2V-HKT`) também foi encerrada. O casamento de 31/5/1894 e o batismo de Domingos em 1898 confirmam Manoel como marido de Gertrudes Ignacia Martins, filho de Severino Gulart Pinto e Maria Tavares de Carvalho e integrante do núcleo de Cerro Grande/Tapes. O óbito de 31/5/1952 confirma Manoel como agricultor de 86 anos, natural de Cerro Grande/Tapes, esposo de Gertrudes e pai de Maria Candida; seus pais aparecem como Maria Tavares e Manoel Tavares [23] [24].
+
+| Pessoa ou elo | Estado após a rodada | Próximo uso |
+|---|---|---|
+| Maria Candida Tavares | Identidade e núcleo familiar comprovados; casamento e óbito próprios ainda abertos | Manter lacunas sem reabrir a identidade; Gertrudes encerrada; avançar para os pais de Manoel e Gertrudes |
+| Manoel Osorio Tavares | Identidade, casamento, pais e vários filhos comprovados por registros convergentes | Encerrado; usar Severino/Maria como próximos alvos ancestrais |
+| Gertrudes Ignacia Martins | Esposa de Manoel e mãe de Maria confirmada; pais Maximiano/Gregoria identificados; nascimento e óbito próprios não localizados | **Encerrada formalmente**; manter lacunas e homônimos separados |
+| Manoel `. Oro Rio Tavares` de `XSXY-SFTK` | Homônimo/misassociação; original é óbito de 1962–1971 em Barra do Ribeiro | Não incorporar à linha principal |
+| Manoel Tavares dos Santos de `XSXL-RN52` | Núcleo próprio com filho Gregorio e esposa Maria Gertrudes; possível colateral | Não incorporar sem ponte primária |
+
+As 24 fontes do perfil de Manoel foram abertas e classificadas. As fontes de filhos incluem Domingos, Luiz, Amaniza, João Emílio, Manoel/Manuel, Aparicio, Severino, Ananiza e Antonia, além de pistas indiretas de João Balduino e Ismael. As fontes de 2000 `6ZB6-4VRC` e `6JRK-DP2C` foram diferenciadas: a primeira é o óbito de Luiz Manoel Osorio, cujo original abriu no grupo de Porto Alegre, imagem 17/212; a segunda é uma indexação sem imagem do nascimento de Ismael, apresentado como neto de Manoel [25] [26].
+
+A entrada anômala `XSXY-SFTK`, exibida no perfil como 1810, foi desambiguada pelo original: o grupo é **Barra do Ribeiro — Death Records, 30/12/1962–13/7/1971**, imagem 214/225. O nome corrompido `Manoel . Oro rio Tavares` aparece com esposa Gertrudes Ignácio Marins e filho Domingos Manoel Ozório. A data 1810 e os campos de idade/nascimento são erros de indexação; o núcleo não pode ser o homem falecido em 1952 [27].
+
+As buscas APERS para `Manoel Osorio Tavares`, `Manoel Ozorio Tavares`, `Manoel Izorio Tavares` e `Manoel Osório Tavares` retornaram apenas 4 ou 5 registros homônimos, criminais, inventários ou administrativos, sem o núcleo de Tapes/Cerro Grande. O resultado é negativo controlado, limitado pelo aviso do APERS de que o acervo não está totalmente indexado ou digitalizado [28].
+
+A fila passa agora para **Severino Gulart Pinto** e **Maria Tavares de Carvalho**, pais de Manoel Osorio Tavares, e depois para **Maximiano Martins** e **Gregoria dos Santos**, pais de Gertrudes. Listas de passageiros e registros de imigração permanecem uma rota posterior: os documentos atuais apontam para um núcleo brasileiro em Cerro Grande/Tapes, sem declaração de naturalidade estrangeira, e não há base responsável para pesquisar um sobrenome isolado como prova de origem europeia.
+
+## Referências adicionais do encerramento de 20/08/2026
+
+[21]: ../resultado_maria_candida_2026-08-20.md "Encerramento formal de Maria Candida Tavares"
+
+[22]: https://www.familysearch.org/ark:/61903/3:1:3QHV-B3PW-98LM "FamilySearch — original do termo nº 722, casamento de Cormelina/Carmelina José de Souza"
+
+[23]: ../resultado_manoel_osorio_2026-08-20.md "Encerramento formal de Manoel Osorio Tavares"
+
+[24]: https://www.familysearch.org/ark:/61903/1:1:XSX8-4D5Z "FamilySearch — óbito de Manoel Osorio Tavares, Tapes, 31/05/1952"
+
+[25]: https://www.familysearch.org/ark:/61903/1:1:6ZB6-4VRC "FamilySearch — óbito de Luiz Manoel Osorio, 01/08/2000"
+
+[26]: https://www.familysearch.org/ark:/61903/1:1:6JRK-DP2C "FamilySearch — nascimento indexado de Ismael Ozorio Tavares, 1943"
+
+[27]: https://www.familysearch.org/ark:/61903/3:1:3QS7-99GC-4LNL "FamilySearch — original do homônimo Manoel . Oro rio Tavares, Barra do Ribeiro, imagem 214"
+
+[28]: https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true "APERS — resultados das buscas nominais de Manoel Osorio/Ozorio/Izorio/Osório Tavares"
+
+
+## 13. Encerramento formal de Gertrudes Ignacia Martins — 20/08/2026
+
+A rodada de **Gertrudes Ignacia Martins** (`9N2V-HK1`) foi formalmente encerrada como identidade conjugal e materna. As 25 fontes exibidas no perfil foram classificadas individualmente, incluindo duplicatas matrimoniais, batismos e nascimentos de filhos, casamentos e óbitos tardios, a fonte anômala de 1810 e as associações automáticas de 2000. O resultado detalhado está em `resultado_gertrudes_2026-08-20.md` [29].
+
+O casamento de **31/05/1894**, em Nossa Senhora das Dores, Tapes, confirma Gertrudes como esposa de **Manoel Osorio Tavares de Carvalho** e informa seus pais como **Maximiano Martins** e **Gregoria dos Santos** [30] [31]. Os batismos de Maria Candida, em 1895, e Domingos, em 1898, repetem o núcleo e os pais maternos, com as formas `Geltrudes`, `Martins`, `Maximiano Ignacio Martins`, `Maximiano Martins`, `Gregoria Ignacia dos Santos` e `Gregoria Maria dos Santos` [32] [33]. Registros civis de 1897, 1912 e 1915, casamentos de filhos em 1922, 1924 e 1934, o óbito de Aparicio em 1930, o óbito de Manoel em 1952 e os óbitos de Ananiza e Antonia em 1981 e 1995 fornecem continuidade independente do casal e da maternidade.
+
+A fonte indexada como **1810 `Gertrudes Ignácio Marins`** foi excluída como misassociação: o original pertence a óbitos de Barra do Ribeiro de 1962–1971 e mostra outro núcleo com Manoel e Domingos. O casamento de `Geltrudes Ignacia Martins` em 27/07/1907, embora ocorrido em Barão do Triunfo, foi separado como homônima porque a mulher declarou-se solteira, filha de **Gregoria Maria de Lima** e **Maximiano Jgnacio Martins**, e casou-se com Geltendes Tavares de Carvalho [34]. A associação automática ao perfil não supera essas contradições de filiação, estado civil e cônjuge.
+
+As buscas APERS testaram `Gertrudes Ignacia Martins`, `Gertrudes Ignácio Martins`, `Geltrudes Ignacia Martins`, `Gertrudes Inacia Martins`, `Gertrudes Ignacia Martines`, `Gertrudes Ignacia Martino`, `Gertrudos Ignácio Martino`, `Gertrudes Maria Martins`, `Dom A Gertrudes Maria Martins` e `Gertrudes Martinnascida`. Os resultados foram homônimos ou colaterais de São Sebastião do Caí, Dom Pedrito, São José do Norte, São Leopoldo, Porto Alegre, Taquari e outras comarcas; nenhum combinou o núcleo Tapes/Camaquam–Barão do Triunfo, Manoel Osorio Tavares e os filhos documentados [35].
+
+| Estado da pessoa | Resultado documental | Limite mantido |
+|---|---|---|
+| Identidade | Gertrudes Ignacia Martins é a mulher casada com Manoel Osorio Tavares em 1894 | A árvore colaborativa não foi usada como prova primária |
+| Filiação | Maximiano Martins e Gregoria dos Santos confirmados por casamento e batismos dos filhos | Não foi localizado o batismo próprio de Gertrudes |
+| Maternidade | Maria Candida, Domingos, Luiz, Amaniza, Aparicio, Ananiza, Antonia e outros filhos aparecem em registros convergentes | Luiz/Severino em registros de 1934 permanece conflito aberto |
+| Cronologia própria | O perfil indica 1874–1952, usado somente como intervalo operacional | Nascimento e óbito próprios ainda não comprovados |
+| Próximos alvos | Severino Gulart Pinto, Maria Tavares de Carvalho, Maximiano Martins e Gregoria dos Santos | Cada pessoa deverá ter sua própria rodada e arquivo de encerramento |
+
+A fila operacional passa, portanto, para **Severino Gulart Pinto** e **Maria Tavares de Carvalho**, pais de Manoel Osorio Tavares, e depois para **Maximiano Martins** e **Gregoria dos Santos**, pais de Gertrudes. Listas de passageiros e naturalização somente serão acionadas quando um ancestral estrangeiro ou uma ponte migratória estiver documentalmente delimitada; o sobrenome isolado não será tratado como prova de origem.
+
+[29]: ../resultado_gertrudes_2026-08-20.md "Encerramento formal de Gertrudes Ignacia Martins"
+[30]: https://www.familysearch.org/ark:/61903/1:1:XN5L-FDL "Casamento de Manoel Osorio Tavares de Carvalho e Gertrudes Ignacia Martins, 31/05/1894"
+[31]: https://www.familysearch.org/ark:/61903/1:1:XN5L-FDV "Duplicata matrimonial de 1894"
+[32]: https://www.familysearch.org/ark:/61903/1:1:XV3V-XJ4 "Batismo de Maria Candida Tavares, 1895"
+[33]: https://www.familysearch.org/ark:/61903/1:1:XJ72-ZVQ "Batismo de Domingos de Carvalho, 1898"
+[34]: https://www.familysearch.org/ark:/61903/1:1:XSF3-16B3 "Casamento da homônima Geltrudes Ignacia Martins, 27/07/1907"
+[35]: https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true "Resultados APERS das variantes de Gertrudes Martins"

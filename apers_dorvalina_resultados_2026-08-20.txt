@@ -1,0 +1,434 @@
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO AUGUSTO | FERREIRA | LURDES MARIA | PECCIN | 01/01/1953 | Antônio Prado | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | OTACILIO MACHADO | PEREIRA | DORVALINA SOARES | FERREIRA | 01/01/1941 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | PONCIANO RODRIGUES | FERREIRA | DORVALINA SILVEIRA | VARGAS | 01/01/1938 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FRANKLIM FERNANDES | PEREIRA | DORALINA MACHADO | PEREIRA | 01/01/1912 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | BARNABÉ SOARES | MEDEIROS | DORVALINA PEREIRA | FAGUNDES | 01/01/1948 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ATHAYDE PEREIRA | MACHADO | DORVALINA LINO DE | FREITAS | 01/01/1937 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DIRCEU | FERREIRA | DORALINA DE | ALMEIDA | 01/01/1952 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO MARIO | GERMI | ADILIS SILVA | FERREIRA | 01/01/1939 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | VASCO | RODRIGUES NETTO | DORALINA RODRIGUES | FERREIRA | 01/01/1918 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | BRAULIO | PEREIRA | DORALINA DA | SILVA | 01/01/1951 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ACACÍO | BECK | DORALINA DE ALMEIDES | PEREIRA | 01/01/1941 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORALINO PEREIRA DA | SILVA | GUIOMAR SOUZA | MACHADO | 01/01/1953 | Cachoeira do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | PEDRO | CASTRO | DORALINA | FERREIRA | 01/01/1921 | Camaquã | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ILDENFONSO ANTONIO | PEREIRA | DORALINA FARIAS | FAGUNDES | 01/01/1923 | Camaquã | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÃO VALERIANO | DIAS | MARIA DORVALINA | PEREIRA | 01/01/1970 | Canela | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ARI PEREIRA DE | AZEVEDO | DORVALINA SILVA DE | FREITAS | 01/01/1961 | Canela | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | VALENTIM | PEREIRA | DORALINA LOPES DOS | SANTOS | 01/01/1960 | Canela | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ADELINO | PEREIRA | DORALINA CORRÊA DA | SILVA | 01/01/1972 | Canela | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | PANTALEÃO | PEREIRA | DORVALINA BRIÃO | MACHADO | 01/01/1949 | Caçapava do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO PEREIRA DE | MELO | JORJA BRASIL | BICA | 01/01/1935 | Caçapava do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO ALVES DA | ROSA | BENTA PEREIRA DA | SILVA | 01/01/1941 | Caçapava do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ATALIBIO | FERREIRA | DORVALINA | SILVEIRA | 01/01/1918 | Encruzilhada do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO JOSÉ | RODRIGUES | GENORINA MARIA | PEREIRA | 01/01/1927 | Encruzilhada do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MAXIMO MERENCIO | MARQUES | DORVALINA FERREIRA DE | OLIVEIRA | 01/01/1933 | Gravataí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | EUFRASIO CARDOSO DE | LIMA PRIMO | DORVALINA FERREIRA DE | LIMA | 01/01/1914 | Gravataí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | EVANIRO | FERREIRA | DORVALINA DE CAMPOS | FERNANDES | 01/01/1976 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MARCELINO | CORRÊA | DORVALINA PEREIRA DA | SILVA | 01/01/1959 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | PEDRO NELSES DA | CUNHA | DORVALINA | PEREIRA | 01/01/1951 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | AGOSTINHO PITHAN DOS | SANTOS | DORVALINA PEREIRA | MARTINS | 01/01/1959 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ARISTIDES PEREIRA DOS | SANTOS | DORALINA PEREIRA DA | LUZ | 01/01/1917 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FRANCISCO AVILA DE | SOUZA | DORALINA PEREIRA DE | SOUZA | 01/01/1939 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO DA | SILVA | OSVALDINA FERREIRA DE | FREITAS | 01/01/1946 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOAQUIM MENDES DE | OLIVEIRA | DORALINA FERREIRA | DIAS | 01/01/1949 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO | PEREIRA | ZILDA | VIERA | 01/01/1952 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MIGUEL CORRÊA DA | CRUZ | DORALINA FERREIRA DE | FREITAS | 01/01/1947 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ALCIDES PEREIRA | HENRIQUE | DORALINA DA SILVA | SOUTO | 01/01/1959 | Ijuí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÃO PEREIRA | DIAS | DORVALINA RODRIGUES DE | JESUS | 01/01/1922 | Lagoa Vermelha | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | IGNACIO MIGUEL DE | CHAVES | DORVALINA FERREIRA DO | CARMO | 01/01/1932 | Lagoa Vermelha | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | LEONÇO JERÔNYMO | FERREIRA | DORVALINA TELLES DOS | SANTOS | 01/01/1928 | Lagoa Vermelha | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOSÉ CANDIDO | IZIDORO | MARIA  DORVALINA | PEREIRA | 01/01/1923 | Lavras do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOSÉ PEDRO | BELLES | DORALINA | PEREIRA | 01/01/1904 | Lavras do Sul | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÃO MARIA FERREIRA DE | BARROS | MARIA DORALINA | RODRIGUES | 01/01/1927 | Palmeira das Missões | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOSINO JOSÉ DOS | SANTOS | DORALINA PEREIRA DE | QUADROS | 01/01/1908 | Passo Fundo | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ANTENOR  FARIA DA | SILVA | DORALINA | FERREIRA | 01/01/1929 | Pinheiro Machado | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ESTEVES | TORELLY | DORVALINA PEREIRA DA | SILVA | 01/01/1909 | Porto Alegre | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | PEDRO PEREIRA DA | ROSA | DORALINA DE | MOURA | 01/01/1900 | Porto Alegre | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ISRAEL  FERREIRA DE | ARAUJO | DORVALINA  SILVA | COSTA | 01/01/1919 | Rio Grande | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MANICO DE ARAUJO | CHAVES | DORVALINA RODRIGUES | PEREIRA | 01/01/1907 | Rio Grande | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO  FRANCISCO | HERREIRA | ADELINA | PINTO | 01/01/1911 | Rio Grande | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | AURELIO | MOURA | DORVALINA | FERREIRA | 01/01/1927 | Santa Maria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | HUGO | CHELINI | DORVALINA PEREIRA | SOARES | 01/01/1927 | Santa Maria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ABILIO JOSE | GREFF | DORALINA FERREIRA DE | ARAUJO | 01/01/1917 | Santa Maria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FAVORINO | SIQUEIRA | DORALINA PEREIRA DA | SILVA | 01/01/1923 | Santa Maria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FRANKLIM  ANTONIO  DE | BITENCOURT | DORALINA  PEREIRA DA | COSTA | 01/01/1894 | Santa Maria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORALINO | PEREIRA | MARIA DA GLÓRIA | SOUZA | 01/01/1930 | Santa Maria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | SENON VICTOR | TERRA | DORVALINA PEREIRA DE | SOUZA | 01/01/1912 | Santa Vitória do Palmar | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | PEDRO FELICISSIMO   DIAS DE | OLIVEIRA | DORVALINA THIMOTEA | PEREIRA | 01/01/1911 | Santa Vitória do Palmar | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FLÔR EDUARDO PEREIRA DA | TERRA | DORALINA | MONTES | 01/01/1923 | Santa Vitória do Palmar | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORALINO DA SILVA | CASTRO | CLEMENCIA | FERREIRA | 01/01/1921 | Santa Vitória do Palmar | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORADO FERREIRA | PRESTES | DORVALINA EVARISTO | MATOS | 01/01/1934 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÃO | MACIEL | DORVALINA PEREIRA | PINTO | 01/01/1921 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MANOEL ANDRADE DE | OLIVEIRA | DORVALINA PEREIRA DA | LUZ | 01/01/1925 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | OTACILIO RODRIGUES | MARTINS | DORALINA FERREIRA | LOPES | 01/01/1934 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ASSUMPÇÃO PRESTES DE | MATTOS | DORALINA FERREIRA DE | MATTOS | 01/01/1925 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | CURCINO FERRAZ DE ALMEIDA | CAMPOS | DORALINA PEREIRA DE | ALBUQUERQUE | 01/01/1938 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ADOLFO FERREIRA | NENE | DORCELINA SENA DE | MOURA | 01/01/1942 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÁO PEREIRA DE | LIMA | DORALINA SATURNINO | FLORES | 01/01/1929 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | GUILHERME DOS SANTOS | LIMA | DORALINA PEREIRA | BARBOSA | 01/01/1925 | Santiago | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÃO PEREIRA | CARDOSO | DORVALINA SILVEIRA DA | LUZ | 01/01/1924 | Santo Antônio da Patrulha | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO ANTONIO DOS | SANTOS | ERNESTA FERREIRA DA | SILVA | 01/01/1922 | Santo Antônio da Patrulha | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | THADEU FERREIRA DE | LIMA | DORVALINA MARQUES DOS | SANTOS | 01/01/1912 | Santo Ângelo | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | JOÃO CANDIDO | BARBOSA | DORALINA | FERREIRA | 01/01/1939 | Santo Ângelo | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FRANCISCO LINO | FERREIRA | DORVALINA GONÇALVES MORAES DOS | SANTOS | 01/01/1925 | Santo Ângelo | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | VIRGELINO MATHEUS DE | OLIVEIRA | DORVALINA PEREIRA DA | SILVA | 01/01/1920 | Santo Ângelo | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MANOEL ANTONIO FERREIRA | FERNANDES | DORVALINA WEBER | GAUDENCIO | 01/01/1948 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ERNESTO | MACHADO | DORVALINA | PEREIRA | 01/01/1943 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FRANCISCO | MORAES | DORVALINA IGNACIA | PEREIRA | 01/01/1931 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | EDELMIRO DE LIMA | FERNANDES | DORVALINA ALMEIDA | PEREIRA | 01/01/1946 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ERICO MENDES DE | CASTRO | DORVALINA PEREIRA | DORNELLES | 01/01/1936 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | SALVIO DOS SANTOS | PEREIRA | DORVALINA GARCIA | DORNELLES | 01/01/1916 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO PEREIRA | AQUINO | MARIA DEMETRIA | ROMERO | 01/01/1929 | São Borja | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | AVELINO RODRIGUES | ROZA | DORCELINA FERREIRA | MARTINS | 01/01/1919 | São Sebastião do Caí | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | WALDOMIRO DOS | SANTOS | DORVALINA BONILHA | PEREIRA | 01/01/1950 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ABRILINO CURTINÁZ | SILVEIRA | DORVALINA PEREIRA | VIANNA | 01/01/1927 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FLORÊNCIO PEREIRA | JORGE | DORVALINA THOMÁZIA DO | NASCIMENTO | 01/01/1927 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | DORVALINO PEREIRA | SCHUMACHER | ANTÔNIA RODRIGUES DOS | SANTOS | 01/01/1917 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | FRANCISCO JOSÉ | PEREIRA FILHO | DORALINA DE | LIMA | 01/01/1926 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | MARCIANO PEREIRA | FRAGA | NORMALINA | CURTINAZ | 01/01/1925 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | IDONCÍRIO DE ABREU | NOGUEIRA | DORALINA | PEREIRA | 01/01/1950 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ANGELINO LOPES | CARDOSO | DORALINA PEREIRA | DUARTE | 01/01/1937 | Tapes | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | ROMÃO ALVES DOS | SANTOS | DORVALINA RODRIGUES | FERREIRA | 01/01/1924 | Vacaria | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | OLMIRO PEREIRA | GARCIA | DORALINA F. | GOMES | 01/01/1927 | Venâncio Aires | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | TIGRINO | PEREIRA | DORVALINA JORGE DA | ROSA | 01/01/1927 | Venâncio Aires | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | OZÓRIO PEREIRA | GARCIA | DORALINA DA | SILVA | 01/01/1927 | Venâncio Aires | 
+COLUNAS: ['', 'Prenome noivo', 'Nome noivo', 'Prenome noiva', 'Nome noiva', 'Ano do processo', 'Município', 'Particularidade']
+LINHA:  | OLINTO FERREIRA | NUNES | DORALINA FRANCISCA DA | ROCHA | 01/01/1918 | Viamão | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2743 | ISAIAS GERMANO - JOSÉ FRANCISCO DE - LEONEL DUARTE - ALFREDO - JOSÉ PEREIRA DA - OSVALDO COELHO DOS - ORPHELINO - DAVID - HUGO THEOBALDO - GODOFREDO - MARCOS RODRIGUES - HILDEFONSO THEODOLINO - PEDRO - DORALINO DE OLIVEIRA  - SERAFIM HENRIQUE DA - EUGENIO - JOSÉ DAVID DE - LÉO - LEOPOLDO JACOB - LEONEL MIRANDA DA | SCHILLING - SANTOS - PACHECO - HULLER - ROCHA - SANTOS - FERREIRA - SCHAFFER - KORN - HULLER - SARAIVA - BECKER - TOCCHETO - REIS - COSTA - KLEIN - AZEVEDO - VIANDTS - ARNT - SILVA | 01/01/1926 | Taquari | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2742 | THOMAZ ASSUMPÇÃO - REYNALDO - GERMANO GERALDO - LÍLIO - JOSÉ SABINO DA - PEDRO KESTINGER - JOSÉ JOAQUIM DE - DANIEL DUARTE - BRAZ DA SILVA - SATURNINO GONÇALVES - JULIO - GOMERCINDO - DEVALÉCIO DE ANDRADA - DORVALINO DE - ALFREDO - AVELINO - EUGENIO - JOSÉ MARTINS -  HILDEFONSO PINTO -  OSVALDO | PEREIRA - FALLER - HOST - SARAIVA - SILVA - REMES - FREITAS - PACHECO - GRAVINA - AGRA - HACKERMAN - LOURENZ - VILLA - OLIVEIRA - HOFFTTAALER - MACHADO - FALLER - BIZARRO - CEZIMBRA - MICHEL | 21/12/1926 | Taquari | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do agravado', 'Nome do agravado', 'Prenome do agravante', 'Nome do agravante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 7657 | UNIÃO FEDERAL - INSTITUTO DE APOSENTADORIA E PENSÕES DOS FERROVIÁRIOS E EMPREGADOS EM SERVIÇOS PÚBLICOS | - | ARY BENTO - FERNANDO S. - THEOPHILO - SIDNEY - ALFREDO BENINSGHAUS - NEY DOMINGOS - HERMOGENES ARAÚJO - TERTULIANO VALENTE DOS - HENRIQUE - DIONISIO AUGUSTO - JOÃO - CARLOS LEONARDO - DORVALINA PEREIRA - DARCI - RELMA IZIDORA VIEIRA - NESTOR ALONSO - ENIO CARDOSO - ISSA - MILTON PADILHA - ALVARO PINTO DE - EDY CARLOS NUNES DA - LEONSINA - ARACY ANCHIETA - ONDINA FONSECA - RUBENS FERNANDES DA - ANTONIO FONSECA - ELIRIA BRAYER - CÍCERO JOSÉ - ZAIDA DO MONTE - ALBA CASTRO DE - DAHYR REIS - HÉLIO ARAÚJO - IRALDINO - JÚLIO EDUARDO - AMOACY MENDONÇA - MANOEL JOSÉ NUNES DO -HERMANN FRITZ - JOAQUIM - EMONDINO - ERNANI MACIEL DA - GERMANO A. C. - ALVINO - EDSON COUTINHO DA - ARISTIDES MARTINS - RUBENS FRESTEIRO - ANA CRUZ - PAULO FERNANDO - DARCI DE SOUZA - HÉLIO DE OLIVEIRA - NESTOR DE OLIVEIRA - ODYR L. - ARGOS MILTON - JOSÉ MARTIMAR - NORALDO RODRIGUES DE - JORGE ARI - MOISES - JOSÉ - EARLE - EMY DE ASSIS - LEOPOLDO DA CUNHA - AMADEU - EUCLYDES DA SILVA - ERNANI PEDRO DO VALLE - WALTER - OSMAR DA COSTA - HECTOR CORREA DA - MAURO - WALTER JOSÉ DE SOUZA - JOSÉ MOISES A. DA - HUMBERTO - LEONÍDEO - JOAQUIM LOPES - JOSÉ RIBEIRO - ANTONIO ADMAR - VOLNEI CARLOS DOS - NESTOR TAVARES DA - WILSON BORGES DE - ELOY - DOMINGOS DA CRUZ - JOÃO - TRADEMAR - GERMANO DE PINHO | PINHEIRO - ROHNELT - SANDER - RONDELLI - BLANK - RODRIGUES - GUIMARÃES - SANTOS - FARIAS - PEREIRA - FERREIRA - WIENKE - CAETANO - CALDEIRA - SILVA - GOMES - PEREIRA - COSTA - MANO - CARVALHO - SILVA - COSTA - PRATES - SANTOS - PONTE - SANTOS - GOULART - FORTUNATO - LEIVAS - CARVALHO - FANAYA - MACHADO - ANTONIAZZI - REYES - DETROYAT JÚNIOR - NASCIMENTO - MIRESCH - PEREIRA - RIBEIRO - SILVA - BERGMANN - GARCIA - SILVA - VIANNA - SILVA - FARIAS - LOURENÇO - MEDINA - CARNEIRO - BASTOS - WOJCIECHOVSKI - DUARTE - FERREIRA - MOURA - SOUZA - COHEN - ALTAMER - BARROS - GONÇALVES - GOULART - PINTO - GARCIA - ZOGBI - PLANTOJA - CORREA - SILVEIRA - CABRERA - MARQUES - CONCEIÇÃO - GENARO - MANCZACK - PAREJO - FURTADO - FURTADO - SANTOS - ROSA - MELLO - BRIÃO - DIAS - LIMA - VAZ - COIMBRA | 01/01/1964 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do agravado', 'Nome do agravado', 'Prenome do agravante', 'Nome do agravante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 7221 | UNIÃO FEDERAL | - | JOSÉ - PEDRO - DORVALINO ANTÔNIO DE - FRANCELINO PEREIRA - OCTÁVIO - SATURNINO - OLEGÁRIO - MANOEL DIVINO - EUGÊNIO - MÁRIO - JOSÉ MARCÍLIO - BENJAMIN - ACIMAR DE - AUGUSTO DA - JOÃO IGNÁCIO - ANANIAS DOS - OLEGARIO - WALTER CARVALHO DE - JOÃO MARTINS DA - ONEVIO - OSVALDO - DORIVAL ALVES DOS - WALTER - DELCIO - JORGE ANTÔNIO - DINARTE MACHADO - ALCIBIADES G. - LUIZ CARLOS DA - RUY - MANOEL MARCIANO - PEDRO - JUAN - JOÃO RODRIGUES - JACOB - PAULO | STREITENBERGER - HEIRICH - OLIVEIRA - ALVES - RODRIGUES - PEREIRA - GERHARDT - GALEÃO - SANTOS - GAMA - GOMES - BARBOSA - LIMA - SILVA - AGUIAR - SANTOS - OLIVEIRA - LIMA - SILVA - LOPES - PEDROSO - SANTOS - SALINO - OLIVEIRA - RODRIGUES - SALAZAR - BARCELOS - SILVA - OLIVEIRA - GOMES - SCHNEIDER - RUSNAC - SACRAMENTO - FRANK - KLIM | 01/01/1957 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 13334 | MANOEL ULISSES | FERREIRA | CLEA DORVALINA LOPES | FERREIRA | 01/01/1967 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 13161 | DORALINO PEREIRA | LOPES |  |  | 01/01/1967 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 12565 | MANOEL ULISSES | FERREIRA | CLÉA DORVALINA LOPES | FERREIRA | 01/01/1967 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 11174 | DORVALINO FERREIRA DOS | SANTOS | MARIA CONCEIÇÃO SILVA DOS | SANTOS | 01/01/1966 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 6809 | MANOEL ULISSES | FERREIRA | CLÉA DORVALINA LOPES | FERREIRA | 01/01/1961 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 6698 | HEITOR SANCHEZ | PEREIRA | DORVALINA DA SILVA | PEREIRA | 01/01/1961 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4864 | JOSE LUIZ | FERREIRA | DORCELINA AMELIA | FERREIRA | 01/01/1959 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome do  Apelado', 'Nome do Apelado', 'Prenome  do Apelante', 'Nome do Apelante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3330 | MANOEL MARIA | FERREIRA | DORVALINA MARTINS | FERREIRA | 01/01/1957 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome requerido', 'Nome requerido', 'Prenome requerente', 'Nome requente', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 13957 | DORVALINO PEREIRA DA | COSTA | JANUARIO PEREIRA DA | COSTA | 01/01/1965 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome requerido', 'Nome requerido', 'Prenome requerente', 'Nome requente', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 11010 | MANOEL EDWINO - CAIXA ECONÔMICA FEDERAL | MILÃO | DORVALINA FERREIRA DA | SILVA | 01/01/1965 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome suplicante', 'Nome suplicante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 8342 | RICARDO - FORTUNATO FRANCISCO - MANOEL PEDRO TEIXEIRA - FERNANDO COSTA DE - WILSON - JOÃO DE DEUS RODRIGUES - ENEDINO GONÇALVES DE - DORVALINO SIQUEIRA - ALBERTO CARLOS - CLEMENCEAU MARTINS - ALLAN KARDEC DA - HIGINO EUGÊNIO - DELFINO SOARES - ADELINO LUIZ - CELSO DE - EURICO - JOSÉ DE ÁVILLA - NERO CASTANHO DA SILVA - LONGINO - LAURINDO JACOBY DOS - ARGEMIRO PEREIRA DA - WALFRIDO DE - JOSÉ PEDRO - STIEL - FREI FERREIRA - OMAR - OSÓRIO LUIZ - RODOLFO - DINARTE LOPES DE - ALFREDO BERNARDES - BERNARDO - HOMERO - PODALIRTO DOS SANTOS - | WODTKE - TONELLI - KLIPPEL - MORAES - PORTINHO - FURTADO - OLIVEIRA - DUARTE - GUINTER - BRUM - SILVA - SALAMI - GOULART - GIUGNO - DEUS - ALMADA - FERREIRA - MOTTA - SILVA - SANTOS - SILVA - MENDONÇA - VERDUN - DRUMMOND - BUENO - FERREIRA - CRUZ - MARTINS - CASTRO - TÔRRES - ELIZALDE - CASTRO - GONÇALVES - | 01/01/1959 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Prenom inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 182 | ELSEVIR DIAS DE CARVALHO | GUIMARÃES | DORALINA PEREIRA DA | LUZ | 01/01/1917 | Ijuí | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Prenom inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 954 | DORVALINA RODRIGUES | FERREIRA | JOÃO FRANCISCO | FERREIRA | 01/01/1943 | Pelotas | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Prenom inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 156 | DORVALINO PEREIRA | TERRA | OLINDINA DUARTE | TERRA | 01/01/1960 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Prenom inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3265 | DORALINA RAMOS | PEREIRA | SANTIAGO RODRIGUES | PEREIRA | 01/01/1947 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Prenom inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3221 | CARLOS DE PAULA | PINTO | DORVALINA PEREIRA | PINTO | 01/01/1932 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Prenom inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3164 | APARICIO DOS SANTOS | FERREIRA | DORVALINA DOS SANTOS | FERREIRA | 01/01/1952 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome suplicante', 'Nome suplicante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 321 | DORVALINO PEREIRA | TORELLY | 01/01/1937 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome suplicado', 'Nome suplicado', 'Prenome suplicante', 'Nome suplicante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 863 | SEBASTIANA MARIA DO | NASCIMENTO | IDALINA MARIA - ALZIRA - DORALINA | FERREIRA | 01/01/1916 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome deprecado', 'Nome deprecado', 'Prenome deprecante', 'Nome deprecante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3704 | VIAÇÃO FÉRREA DO RIO GRANDE DO SUL | - | DORVALINA SANTOS | MARTIS | 01/01/1957 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome deprecado', 'Nome deprecado', 'Prenome deprecante', 'Nome deprecante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2680 | VIA FERREA DO RIO GRANDE DO SUL | - | DORVALINA DE SOUZA | GOBBO | 01/01/1956 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome deprecado', 'Nome deprecado', 'Prenome deprecante', 'Nome deprecante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 120 | - | - | DORALINA PEREIRA FLORES DE | ANDRADE | 01/01/1950 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome credor', 'Nome credor', 'Prenome devedor', 'Nome devedor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 531 | JOAQUIM DO NASCIMENTO ALVES | NOBREGA | MARIA ALDINA -  MARIA IZABEL - FRANCELINA - CYPRIANO - FRANCISCO  DE PAULA - PORCINA - MANOEL LUIS - DORALINA | FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA | 22/02/1870 | Santana do Livramento | 
+COLUNAS: ['', 'Nº do processo', 'Prenome credor', 'Nome credor', 'Prenome devedor', 'Nome devedor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 527 | HIPOLITO GOMES | MARTINS | MARIA ALDINA -  MARIA IZABEL - FRANCELINA - CYPRIANO - FRANCISCO  DE PAULA - PORCINA - MANOEL LUIS - DORALINA | FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA - FERREIRA | 27/05/1870 | Santana do Livramento | 
+COLUNAS: ['', 'Nº do processo', 'Prenome credor', 'Nome credor', 'Prenome devedor', 'Nome devedor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 525 | MARCELINO VALERIO JOSÉ DE - AMALIA DE CASTRO | SOUZA - OLESPUS | FLANBIANO MACHADO - VASCO MACHADO - DORALINA MACHADO - DINARTE MACHADO - VIRGILINA MACHADO - ISMAEL MACHADO - QUINTINO JOSÉ - LEONEL MACHADO - JOSÉ FÉLIX - FAVORINO FÉLIX - ANAMELIA FÉLIX - CRISTINO BENTO - JACQUES - RITA - RITA DA SILVA - CALISTA CORREA DE - FERNANDO JOSÉ DO - FERNANDA HIBANO DE - LIBERATO MACIEL DOS - BENEDITO MARTINS DE - MIGUEL GONÇALVES DOS - MANOEL GONÇALVES DOS - MANOEL FERNANDO - ANTONIO CIRTINHO - ROBERTO MACHADO - ANNA MARTINS DE - FELIPE MARTINS DE - TRISTÃO GONÇALVES DOS - FRANKLIN JOSÉ DA - JOSEPHINA - SILVÉRIO JOSÉ DOS - JOÃO FÉLIX DA - CAROLINA MARTINS DE - GESEVINO JOSÉ | PEREIRA - PEREIRA - PEREIRA - PEREIRA - PEREIRA - PEREIRA - MACHADO - LEÃO - GARCIA - GARCIA - GARCIA - MARTINS - BIDORNY - RIOS - TRINDADE - SOUZA - NASCIMENTO - OLIVEIRA - SANTOS - SIQUEIRA - SANTOS - SANTOS NETO - ALBANO - PEREIRA - PEREIRA - SIQUEIRA - SIQUEIRA - SANTOS - CUNHA - MACHADO - SANTOS - FONTOURA - SIQUEIRA - MACHADO | 07/12/1903 | Caçapava do Sul | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 215 | DORALINO MACHADO | PEREIRA | PRUDENCIO | MESQUITA | 02/10/1928 | Cachoeira do Sul | Homicídio
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 41 | ADVERSINO LOPES | FERREIRA | DORVALINA PIRES DA | SILVA | 16/02/1935 | Candelária | Sedução
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 32 | ADVERSINO LOPES | FERREIRA | DORVALINA PIRES DA | SILVA | 23/09/1935 | Candelária | Sedução Jornal Doc. em alemão
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1662 | DORALINA MOREIRA - ANTONIO - ADELINO | FERREIRA - JACOBSEN - PEREIRA | AYRES DIAS | LONGARAY | 01/01/1931 | Camaquã | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 247 | ORLANDO PEREIRA DA - DORVALINO RODRIGUES DA | SILVA - SILVA | FAUSTO | PINTO | 01/01/1952 | Cruz Alta | Violência contra menor
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2219 | FRANCISCO ANTONIO - LOURENÇO ANTONIO - DORALINO ANTONIO | MACHADO - MACHADO - MACHADO | JOÃO RENUNCIO | PEREIRA | 05/12/1927 | Dom Pedrito | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2146 | JANUARIO FERREIRA DE | ANDRADE | ORVALINA | GOULART | 18/05/1921 | Dom Pedrito | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 26 | DORVALINO DA SILVA - ESMERALDO - OSVANO - IVALINO DE PAULA - GUILHERMINO | GUEDES - PEREIRA - TEIXEIRA - NETTO - RIGO | ANIBALDO - BRUNO - JOÃO EDMUNDO | ALTAUS - RONCHETTI - MOHR | 24/12/1943 | Erechim | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 54 | OZORIO FERREIRA DE - JOSÉ FERREIRA DE - MIGUEL CORREA DA - ALVARINA CARVALHO DE - DORALINA DE FREITAS | FREITAS - FREITAS - CRUZ - FREITAS - CRUZ |  |  | 01/01/1952 | Ijuí | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 223 | JOÃO EUGENIO DA | SILVA | DORALINA FERREIRA DA | SILVA | 09/07/1940 | Jaguari | Sedução
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 218 | JOSÉ JOÃO - DORALINA DA ROSA - ELSA DOS | BAUCE - FERREIRA - SANTOS | - | - | 05/12/1944 | Jaguari | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 347 | DORVALINA FERREIRA DOS | SANTOS | - | - | 22/02/1926 | Lagoa Vermelha | Suicídio
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4438 | DORVALINO LEOPOLDINO | FERREIRA | JOSÉ LUIZ RODRIGUES DA | SILVA | 18/03/1937 | Montenegro | Lesão corporal grave
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2993 | VIVALDINO FERREIRA DA | SILVA | DORVALINO TIBLES DOS | SANTOS | 15/01/1943 | Passo Fundo | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 160 | ARTIDOR ALVES | PEREIRA | DORVALINO XAVIER | SIMÕES | 14/01/1932 | Passo Fundo | Homicídio
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 10718 | ORLANDO PEREIRA | DOMINGUES | DORVALINA DIMAS | PRREIRA | 01/01/1960 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 8253 | DORVALINA FERNANDES DE | MATOS | DORA PEREIRA | MELLO | 01/01/1957 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 5586 | IGNORADO | IGNORADO | DORVALINO PEREIRA DA | SILVA | 01/01/1960 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4955 | ALFREDO MARTINS DE - ANTONIO CARDOSO DA - NELSON FERREIRA DE - ARY RAMOS - GABRIEL VELOSO DA - DORVALINO DOS - GABRIEL - JOSE - JHOANES KARL AUGUST - BALDUINO - BENJAMIM C. | CASTRO - SILVA - MAGALAES - MAIA - GAMA - SANTOS - PLETNITZKI - MOLLE - LASSWICH - WEBER - MIRANDA | - | - | 01/01/1949 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4472 | HERALDO - DORALINO HIGINIO | FERREIRA - OLIVEIRA | WALDOMIRO - JOSÉ MARCELINO DOS | SOUZA - SANTOS | 01/01/1950 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4449 | GLAUCO VERZILO | FAGUNDES | DORVALINA ALVES | PEREIRA | 01/01/1950 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4352 | DORVALINO FERREIRA DOS | SANTOS | SYNESIO | CAMPANI | 01/01/1963 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3763 | DORALINA PEREIRA DE - IVO PEREIRA DE - DORIVAL ALVES DOS - IVANIR PEREIRA DE | MELLO - MELLO - SANTOS - MELLO | - | - | 01/01/1960 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3272 | JOÃO DE DEUS | PEREIRA | ARMANDO - JOÃO DE DEUS  - OSVALDO NUNES - PEDRO CLAUDIO JARDIM DE - DORVALINO- SANTIAGO  - JOSÉ OSI ALVES - JOÃO DE SOUZA | DROECH - PEREIRA - GOMES - VASCONCELLOS - ALVES - QUERUBIM - NUNES - FERREIRA | 01/01/1957 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2514 | DORVALINO PEREIRA | AZEVEDO | - | - | 01/01/1954 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2511 | DORVALINO JOAQUIM | PEREIRA | - | - | 01/01/1952 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2502 | DORALINA | PEREIRA | JOÃO CARLOS DE | OLIVEIRA | 01/01/1953 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2431 | MARIA DA CONCEIÇÃO | PIRES | OTACILIA MARIA DOS-DORALINA | SANTOS-PEREIRA | 01/01/1950 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2272 | VIRISSIMO PEREIRA | FRAGA | DORVALINA DOS | SANTOS | 01/01/1954 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2142 | ROSALINA - EDWIRGES PEREIRA | FLORES - BARCELLOS | DORVALINA | CARDOSO | 01/01/1954 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2004 | DORALINA CAMARGO DA | SILVA | LUCEIR FERREIRA DOS | SANTOS | 01/01/1955 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1977 | REYNALDO | NORMANN | DORALINA MARIA | FERREIRA | 01/01/1926 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1836 | PEDRO INACIO DE - MARIA ZEFERINA DA - DORALINA | ANDRADE - COSTA - MERENCE | MARIA REGINA | PEREIRA | 29/04/1954 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1337 | MANOEL DOS | SANTOS | DORALINA ALVES | PEREIRA | 01/01/1954 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1216 | ANTONIO LISBÔA - GOMERCINDO DO JOSÉ DE - DORVALINO | ELENTHERIO - OLIVEIRA - PEREIRA | - | - | 01/01/1921 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1145 | DORVALINA | PEREIRA | - | - | 01/01/1953 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 503 | PEDRO - OTACÍLIO LAURINDO DE - DORVALINO PEREIRA | MORAWSKI - OLIVEIRA - LOPES | - | - | 01/01/1949 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 295 | DORVALINO   FERREIRA DE-JOÃO GILBERTO DOS | LIMA-SANTOS | JOAO MARTINS | SOBRINHO | 01/01/1911 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 237 | DORALINA | PEREIRA | JOSÉ LUIZ | SOARES | 01/01/1960 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 233 | ANGÉLICO GONÇALVES DOS | SANTOS | DORALINA | PEREIRA | 01/01/1951 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 187 | DORVALINO BATISTA DOS | SANTOS | ALBERTO PEREIRA | KRUGER | 01/01/1953 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 55 | IRACEMA PEREIRA DE - DORALINA ROSA DE | BORBA - AZEVEDO | - | - | 01/01/1958 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 8 | DORVALINO MARQUES DA | SILVA | JOAQUIM FERREIRA | PALMA | 01/01/1934 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 436 | OSVALDO PEREIRA | BASTOS | DORALINA | AMARO | 01/01/1947 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 71 | DORVALINO - EMILIO PEREIRA | PEREIRA - LOUZADA | - | - | 01/01/1919 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 19 | ANTONIO | VALDIGIM | DORVALINO PEREIRA DE | FREITAS | 01/01/1929 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2036 | ADAUTO | PAZ | DORALINA | PEREIRA | 03/05/1934 | Santa Maria | Estupro Pedofilia
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1975 | PEDRO DO | NASCIMENTO | DORALINA | PEREIRA | 17/10/1931 | Santa Maria | Pedofilia Jornal Estupro
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 231 | DORVALINO FERREIRA | CHAVES | PEDROLINA LIMA DE | SOUZA | 09/05/1934 | São Pedro do Sul | Sedução
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 547 | POLICARPO   LEANDRO | FERREIRA SOBRINHO | DORALINA CORREA | SOARES | 01/01/1932 | São Gabriel | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3258 | CARLOS | BLAUKE | DORALINA FERREIRA | MACIEL | 01/01/1916 | São Leopoldo | 
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 163 | LORENO DA SILVA - MARIA TRINDADE | SALLES - NEVES | MARIA DORVALINA | FERREIRA | 23/07/1918 | São Francisco de Paula | Sedução
+COLUNAS: ['', 'Nº do processo', 'Prenome réu', 'Nome réu', 'Prenome vítima', 'Nome vítima', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 1725 | LYRIA - DORALINA DA | COSTA - SILVA | AUGUSTO - ADÃO | WILBERTH - FERREIRA | 15/09/1933 | Taquara | Furto em residência
+COLUNAS: ['', 'Número do processo', 'Prenome paciente', 'Nome paciente', 'Prenome curador', 'Nome curador', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 12903 | HERMENEGILDO FERREIRA | MATTOS | DORVALINA FERREIRA | TOMPA | 01/01/1967 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome paciente', 'Nome paciente', 'Prenome curador', 'Nome curador', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 11161 | EUNÍCE IOLANDA FERREIRA DA | SILVA | DORALINA BATISTA | BITENCOURT | 01/01/1965 | Porto Alegre | 
+COLUNAS: ['', 'Número do processo', 'Prenome paciente', 'Nome paciente', 'Prenome curador', 'Nome curador', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 9030 | ORLANDO FERREIRA | MACHADO | DORVALINA DE OLIVEIRA | MACHADO | 01/01/1963 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Prenome requerido', 'Nome requerido', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 63 | ORESTES | COMEL | DORVALINA PEREIRA | LEITE | 03/07/1935 | Encantado | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Prenome requerido', 'Nome requerido', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2275 | ADÃO PEREIRA - DARCILIA - MARIA ALZIRA - SUELY | VIEIRA - VIEIRA - VIEIRA - VIEIRA | DORALINA DE MATTOS | VIEIRA | 10/04/1929 | Montenegro | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Prenome requerido', 'Nome requerido', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 649 | MARIA DORVALINA | FERREIRA | LUIZ ERNESTO | KESSLER | 01/01/1918 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Prenome requerido', 'Nome requerido', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 604 | INNOCENCIO PEREIRA | LOPES | DORVALINA DE OLIVEIRA | LOPES | 01/01/1914 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome requerente', 'Nome requerente', 'Prenome requerido', 'Nome requerido', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 543 | DORVALINA VELOSO | MACHADO | RUI FERREIRA | MACHADO | 01/01/1940 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do réu', 'Nome do réu', 'Prenome do autor', 'Nome do autor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 23828 | DORALINA | ARDUIN | GENEZ PEREIRA | LEAL | 06/03/1969 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 9285 | VITOR PEREIRA DA | SILVA | DORVALINA COSTA DA | SILVA | 01/01/1964 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 8977 | VITOR PEREIRA DA | SILVA | DORVALINA COSTA DA | SILVA | 01/01/1964 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2361 | DORVALINO FERREIRA | RODRIGUES | MARIA DA GLORIA | MIRANDA | 01/01/1954 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 127 | ANTONIO DE | CASTRO | DORVALINA PEREIRA DA | SILVA | 01/01/1921 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 16 | MARIO PINHEIRO | BASTOS | DORVALINA FERREIRA | BASTOS | 01/01/1933 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 12 | RAYMUNDO MARTINS DE | QUADROS | DORVALINA PEREIRA DE | QUADROS | 01/01/1932 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome da parte 1', 'Nome da parte 1', 'Prenome da parte 2', 'Nome da parte 2', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 99 | DORVALINA PEREIRA DE | QUADROS | RAYMUNDO MARTINS DE | QUADROS | 01/01/1930 | Viamão | 
+COLUNAS: ['', 'Nº do processo', 'Prenome executado', 'Nome executado', 'Prenome executante', 'Nome executante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 813 | DORCELINA PIMENTA | FERREIRA |  | INSTITUTO DE APOSENTADORIA E PENSÕES DOS COMERCIÁRIOS | 01/01/1946 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome executado', 'Nome executado', 'Prenome executante', 'Nome executante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 86 | DORALINA | FERREIRA | FAZENDA DO ESTADO | - | 24/09/1928 | Pinheiro Machado | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 44 | DORALINA RAMOS | PEREIRA | ARÃO LUIS | PEREIRA | 01/01/1932 | São Francisco de Assis | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 35 | AMERICO JOSÉ DOS | SANTOS | MARIA CLAUDINA FERREIRA DOS | SANTOS | 12/02/1930 | Pinheiro Machado | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 14569 | DORVALINO FERREIRA - CECI LIMA | LIMA - COELHO | ADAUTO DA SILVA | GONÇALVES | 01/01/1965 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 8487 | MARCOS AVELINO DE | ANDRADE | DORALINA PEREIRA FLORES DE | OLIVEIRA | 01/01/1963 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 473 | MARCIANO PEREIRA DE | MELLO | DORVALINA DIAS PEREIRA DE | MELLO | 01/01/1930 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 393 | JOSE FERREIRA DA | ROCHA | DORVALINA DA SILVA | ROCHA | 01/01/1921 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 5201 | DORVALINA FERREIRA | SIMÕES | RAUL CORREA - ANAROLINO FERREIRA | SIMÕES - LEÃO | 01/01/1930 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 5195 | DORVALINA PEREIRA DAS | NEVES | DEOLINDO PEREIRA DAS | NEVES | 01/01/1919 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 202 | DORALINA PEREIRA | SARAIVA | ROBERTO | SARAIVA | 30/08/1923 | Santa Maria | 
+COLUNAS: ['', 'Nº do processo', 'Prenome inventariado', 'Nome inventariado', 'Pren. inventariante', 'Nome inventariante', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 183 | DORALINA JOAQUINA DA | SILVEIRA | ELEUTHERIO PEREIRA DA | SILVEIRA | 01/01/1939 | Viamão | 
+COLUNAS: ['', 'Número do processo', 'Prenome requerido', 'Nome requerido', 'Prenome requerente', 'Nome requerente', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 4 | DORVALINA PEREIRA DE | QUADROS | RAYMUNDO MARTINS DE | QUADROS | 01/01/1930 | Viamão | 
+COLUNAS: ['', 'Número do processo', 'Prenome  requerente', 'Nome requerente', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 149 | DOMINGO JOSÉ | FERREIRA | 26/12/1922 | Lagoa Vermelha | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do réu', 'Nome do réu', 'Prenome do autor', 'Nome do autor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2360 | DORALINA CAMARGO DA | SILVA | LUCEI FERREIRA DOS | SANTOS | 01/01/1956 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do réu', 'Nome do réu', 'Prenome do autor', 'Nome do autor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2294 | ADMAR FERREIRA | BICA | DORVALINO FERREIRA DA | COSTA | 01/01/1945 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do réu', 'Nome do réu', 'Prenome do autor', 'Nome do autor', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 184 | DORALINA - JOSÉ | PEREIRA - MACHADO | - | - | 01/01/1951 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 11087 | DORALINA FERREIRA | BINICOSKI | NORMA TEREZINHA | VARGAS | 01/01/1966 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 9073 | GASTÃO | WOELFERT | SOELI DORVALINA ALVES | FERREIRA | 01/01/1963 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 3269 | JOÃO DE LYRA DE | FARIA | MARIA DORVALINA PEREIRA | GUINIZ | 01/01/1957 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2518 | DORALINA FERREIRA | BINICOSKI | MARIA DIONE - NORMA TEREZINHA | VARGAS - VARGAS | 01/01/1956 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 2315 | DORVALINA | PEREIRA | IRIA - ILMA | SILVA - SILVA | 01/01/1955 | Porto Alegre | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 472 | DORVALINO | ALVARES | ANTONIETTA | PEREIRA | 01/01/1930 | Rio Grande | 
+COLUNAS: ['', 'Nº do processo', 'Prenome do tutor', 'Nome do tutor', 'Prenome do tutelado', 'Nome do tutelado', 'Data do processo', 'Município', 'Particularidade']
+LINHA:  | 168 | ARMANDO BRAZ DE | MIRANDA | DORALINA PEREIRA DAS | NEVES | 01/01/1919 | Rio Grande | 

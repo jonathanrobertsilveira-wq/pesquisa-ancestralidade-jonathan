@@ -1,0 +1,239 @@
+FILE: /home/ubuntu/upload/www.familysearch.org_en_search_record_results_count_20_q.birthLikeDate.from_1870_q.birthLikeDate.to__1787273629826.html
+HREF: /ark:/61903/1:1:66GZ-1YDQ?lang=en
+TEXT: Augusto María Gertrudes Martins
+CONTEXT: Augusto María Gertrudes Martins
+HREF: /ark:/61903/1:1:66Y4-GLGY?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:66YG-BC7G?lang=en
+TEXT: Gertrudes d'Avila Martins
+CONTEXT: Gertrudes d'Avila Martins
+HREF: /ark:/61903/1:1:6DG8-LV69?lang=en
+TEXT: Gertrudes Martins Da Silva
+CONTEXT: Gertrudes Martins Da Silva
+HREF: /ark:/61903/1:1:66NT-76JJ?lang=en
+TEXT: Gertrudes Pinto Martins
+CONTEXT: Gertrudes Pinto Martins
+HREF: /ark:/61903/1:1:66YG-BC7F?lang=en
+TEXT: Gertrudes d'Avila Martins
+CONTEXT: Gertrudes d'Avila Martins
+HREF: /ark:/61903/1:1:66YW-GHZW?lang=en
+TEXT: Gertrude S. Martins
+CONTEXT: Gertrude S. Martins
+HREF: /ark:/61903/1:1:6NVF-BTML?lang=en
+TEXT: Gertrudes d'Esta y de Martins
+CONTEXT: Gertrudes d'Esta y de Martins
+HREF: /ark:/61903/1:1:6NVN-MN39?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:66Y6-N7C3?lang=en
+TEXT: Martins de Oliveira
+CONTEXT: Martins de Oliveira
+HREF: /ark:/61903/1:1:66YD-J4LV?lang=en
+TEXT: Martins Da Silva
+CONTEXT: Martins Da Silva
+HREF: /ark:/61903/1:1:66YD-5BNM?lang=en
+TEXT: Martins Da Silva
+CONTEXT: Martins Da Silva
+HREF: /ark:/61903/1:1:6J29-RTDX?lang=en
+TEXT: Martins Da Silva
+CONTEXT: Martins Da Silva
+HREF: /ark:/61903/1:1:6NVD-D16S?lang=en
+TEXT: Martins Da Silva
+CONTEXT: Martins Da Silva
+HREF: /ark:/61903/1:1:6XMY-6D2K?lang=en
+TEXT: Martins de Moura
+CONTEXT: Martins de Moura
+HREF: /ark:/61903/1:1:66YC-C61R?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:66YF-J4MT?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:66YW-7R85?lang=en
+TEXT: Martins
+CONTEXT: Martins
+
+FILE: /home/ubuntu/upload/www.familysearch.org_en_search_record_results_count_20_q.collectionId_2177295_q.givenName_Gertrudes__1787273522634.html
+HREF: /ark:/61903/1:1:6BGJ-1KG3?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:66GZ-1YDQ?lang=en
+TEXT: Augusto María Gertrudes Martins
+CONTEXT: Augusto María Gertrudes Martins
+HREF: /ark:/61903/1:1:66Y4-GLGY?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:66YG-BC7G?lang=en
+TEXT: Gertrudes d'Avila Martins
+CONTEXT: Gertrudes d'Avila Martins
+HREF: /ark:/61903/1:1:6DG8-LV69?lang=en
+TEXT: Gertrudes Martins Da Silva
+CONTEXT: Gertrudes Martins Da Silva
+HREF: /ark:/61903/1:1:66NT-76JJ?lang=en
+TEXT: Gertrudes Pinto Martins
+CONTEXT: Gertrudes Pinto Martins
+HREF: /ark:/61903/1:1:66YG-BC7F?lang=en
+TEXT: Gertrudes d'Avila Martins
+CONTEXT: Gertrudes d'Avila Martins
+HREF: /ark:/61903/1:1:66YW-GHZW?lang=en
+TEXT: Gertrude S. Martins
+CONTEXT: Gertrude S. Martins
+HREF: /ark:/61903/1:1:66NP-Q319?lang=en
+TEXT: Gertrudes Martiman
+CONTEXT: Gertrudes Martiman
+HREF: /ark:/61903/1:1:6NVF-BTML?lang=en
+TEXT: Gertrudes d'Esta y de Martins
+CONTEXT: Gertrudes d'Esta y de Martins
+HREF: /ark:/61903/1:1:6NV8-VDDZ?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:66YG-LB8F?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:66YH-TN96?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:6XMY-6D2K?lang=en
+TEXT: Martins de Moura
+CONTEXT: Martins de Moura
+HREF: /ark:/61903/1:1:6DGX-G5TJ?lang=en
+TEXT: Martins
+CONTEXT: Martins
+HREF: /ark:/61903/1:1:6NVN-CDL8?lang=en
+TEXT: Gomes Martins
+CONTEXT: Gomes Martins
+HREF: /ark:/61903/1:1:6X93-GBHD?lang=en
+TEXT: Alves D' Oliveira Mariolina Martins Da Rocha
+CONTEXT: Alves D' Oliveira Mariolina Martins Da Rocha
+HREF: /ark:/61903/1:1:6JP4-4FC1?lang=en
+TEXT: Martins de Oliveira
+CONTEXT: Martins de Oliveira
+HREF: /ark:/61903/1:1:6NVN-JCVP?lang=en
+TEXT: Gomes Martins
+CONTEXT: Gomes Martins
+
+FILE: /home/ubuntu/upload/www.familysearch.org_en_search_record_results_count_20_q.givenName_Gertrudes_q.surname_Martins_q.bir_1787273400681.html
+HREF: /ark:/61903/1:1:X9YX-1Z8G?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:XSXK-J2L3?lang=en
+TEXT: Dom A Gertrudes Maria Martins
+CONTEXT: Dom A Gertrudes Maria Martins
+HREF: /ark:/61903/1:1:XSFQ-RKDS?lang=en
+TEXT: Gertrudes Martins de Oliveira
+CONTEXT: Gertrudes Martins de Oliveira
+HREF: /ark:/61903/1:1:6RMJ-6KY3?lang=en
+TEXT: Gertrudes Martins de Oliveira Portes
+CONTEXT: Gertrudes Martins de Oliveira Portes
+HREF: /ark:/61903/1:1:XSXY-NB4C?lang=en
+TEXT: Gertrudes Martins Da Silva
+CONTEXT: Gertrudes Martins Da Silva
+HREF: /ark:/61903/1:1:X9Y7-42WJ?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:6BGJ-1KG3?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:X9B7-P1PT?lang=en
+TEXT: Gertrudes Inácia Martins
+CONTEXT: Gertrudes Inácia Martins
+HREF: /ark:/61903/1:1:65YW-JGX4?lang=en
+TEXT: Gertrudes Martins Bandeira
+CONTEXT: Gertrudes Martins Bandeira
+HREF: /ark:/61903/1:1:XSX2-9RDQ?lang=en
+TEXT: Gertrudes Moraes Martins
+CONTEXT: Gertrudes Moraes Martins
+HREF: /ark:/61903/1:1:X9BZ-HRX1?lang=en
+TEXT: Gertrudes Martins Da Silva
+CONTEXT: Gertrudes Martins Da Silva
+HREF: /ark:/61903/1:1:6YPN-6G2C?lang=en
+TEXT: Gertrudes Maria Martins
+CONTEXT: Gertrudes Maria Martins
+HREF: /ark:/61903/1:1:6YPC-F8RB?lang=en
+TEXT: Gertrudes Rodrigues Martins
+CONTEXT: Gertrudes Rodrigues Martins
+HREF: /ark:/61903/1:1:XSFC-8DTN?lang=en
+TEXT: Maria Gertrudes Loreto Martins
+CONTEXT: Maria Gertrudes Loreto Martins
+HREF: /ark:/61903/1:1:65N1-BCTT?lang=en
+TEXT: Gertrudes Maria Martins
+CONTEXT: Gertrudes Maria Martins
+HREF: /ark:/61903/1:1:XSXB-62WV?lang=en
+TEXT: Gertrudes Pereira Martins
+CONTEXT: Gertrudes Pereira Martins
+HREF: /ark:/61903/1:1:XSXX-8LMV?lang=en
+TEXT: Gertrudes Martins de Lima
+CONTEXT: Gertrudes Martins de Lima
+HREF: /ark:/61903/1:1:6YP6-HY1B?lang=en
+TEXT: Gertrudes Rodrigues Martins
+CONTEXT: Gertrudes Rodrigues Martins
+HREF: /ark:/61903/1:1:X9B7-2VKR?lang=en
+TEXT: Gertrudes Martins de Oliveira
+CONTEXT: Gertrudes Martins de Oliveira
+HREF: /ark:/61903/1:1:65BM-SGGN?lang=en
+TEXT: Gertrudes Carolina Da Silveira Martins
+CONTEXT: Gertrudes Carolina Da Silveira Martins
+
+FILE: /home/ubuntu/upload/www.familysearch.org_en_search_record_results_count_20_q.givenName_Gertrudes_q.surname_Martins_q.bir_1787273350894.html
+HREF: /ark:/61903/1:1:X9YX-1Z8G?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:XSXK-J2L3?lang=en
+TEXT: Dom A Gertrudes Maria Martins
+CONTEXT: Dom A Gertrudes Maria Martins
+HREF: /ark:/61903/1:1:XSFQ-RKDS?lang=en
+TEXT: Gertrudes Martins de Oliveira
+CONTEXT: Gertrudes Martins de Oliveira
+HREF: /ark:/61903/1:1:6RMJ-6KY3?lang=en
+TEXT: Gertrudes Martins de Oliveira Portes
+CONTEXT: Gertrudes Martins de Oliveira Portes
+HREF: /ark:/61903/1:1:XSXY-NB4C?lang=en
+TEXT: Gertrudes Martins Da Silva
+CONTEXT: Gertrudes Martins Da Silva
+HREF: /ark:/61903/1:1:X9Y7-42WJ?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:6BGJ-1KG3?lang=en
+TEXT: Gertrudes Martins
+CONTEXT: Gertrudes Martins
+HREF: /ark:/61903/1:1:X9B7-P1PT?lang=en
+TEXT: Gertrudes Inácia Martins
+CONTEXT: Gertrudes Inácia Martins
+HREF: /ark:/61903/1:1:65YW-JGX4?lang=en
+TEXT: Gertrudes Martins Bandeira
+CONTEXT: Gertrudes Martins Bandeira
+HREF: /ark:/61903/1:1:XSX2-9RDQ?lang=en
+TEXT: Gertrudes Moraes Martins
+CONTEXT: Gertrudes Moraes Martins
+HREF: /ark:/61903/1:1:X9BZ-HRX1?lang=en
+TEXT: Gertrudes Martins Da Silva
+CONTEXT: Gertrudes Martins Da Silva
+HREF: /ark:/61903/1:1:6YPN-6G2C?lang=en
+TEXT: Gertrudes Maria Martins
+CONTEXT: Gertrudes Maria Martins
+HREF: /ark:/61903/1:1:6YPC-F8RB?lang=en
+TEXT: Gertrudes Rodrigues Martins
+CONTEXT: Gertrudes Rodrigues Martins
+HREF: /ark:/61903/1:1:XSFC-8DTN?lang=en
+TEXT: Maria Gertrudes Loreto Martins
+CONTEXT: Maria Gertrudes Loreto Martins
+HREF: /ark:/61903/1:1:65N1-BCTT?lang=en
+TEXT: Gertrudes Maria Martins
+CONTEXT: Gertrudes Maria Martins
+HREF: /ark:/61903/1:1:XSXB-62WV?lang=en
+TEXT: Gertrudes Pereira Martins
+CONTEXT: Gertrudes Pereira Martins
+HREF: /ark:/61903/1:1:XSXX-8LMV?lang=en
+TEXT: Gertrudes Martins de Lima
+CONTEXT: Gertrudes Martins de Lima
+HREF: /ark:/61903/1:1:6YP6-HY1B?lang=en
+TEXT: Gertrudes Rodrigues Martins
+CONTEXT: Gertrudes Rodrigues Martins
+HREF: /ark:/61903/1:1:X9B7-2VKR?lang=en
+TEXT: Gertrudes Martins de Oliveira
+CONTEXT: Gertrudes Martins de Oliveira
+HREF: /ark:/61903/1:1:65BM-SGGN?lang=en
+TEXT: Gertrudes Carolina Da Silveira Martins
+CONTEXT: Gertrudes Carolina Da Silveira Martins
+
