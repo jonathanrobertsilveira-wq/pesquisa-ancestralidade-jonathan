@@ -8,7 +8,7 @@ A habilitação APERS nº 180190 confirma o casamento de Alvino Paulino de Souza
 
 Por conhecimento familiar pessoal e direto, Jonathan confirma que Valdeci é seu pai e que Rosalvino e Carolina são seus avós. Esses vínculos não devem ser classificados como mera hipótese. Os registros civis ainda serão buscados como documentação complementar, para auditoria externa, datas e filiações formais.
 
-A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma pista e não comprova Alemanha, Suíça ou qualquer outro país. Os vínculos familiares diretos de Jonathan com Valdeci, Rosalvino e Carolina são confirmados por conhecimento pessoal; já os dados de gerações anteriores e a origem europeia continuam dependendo de fontes primárias.
+A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma pista e não comprova Alemanha, Suíça ou qualquer outro país. Os vínculos familiares diretos de Jonathan com Valdeci, Rosalvino e Carolina são confirmados por conhecimento pessoal; já os dados de gerações anteriores e a origem europeia continuam dependendo de fontes primárias. O relatório `docs/relatorio_descendencia_alema_familysearch_2026-08-21.md` também conclui que, mesmo supondo uma origem alemã, a transmissão automática de cidadania até Jonathan provavelmente teria sido interrompida ou permanece não demonstrada, especialmente nos pontos Karl → Regina e Regina → Rosalina.
 
 ## Conteúdo principal
 
@@ -36,6 +36,8 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `docs/02_matriz_evidencias_2026-08-20.csv` | Matriz de 24 afirmações, fontes, correlações e próximos testes |
 | `docs/03_mapa_correlacoes_ancestralidade_2026-08-20.md` | Mapa textual e visual das correlações entre pessoas e fontes |
 | `docs/04_plano_validacao_2026-08-20.md` | Plano de validação dos elos ainda abertos |
+| `docs/relatorio_descendencia_alema_familysearch_2026-08-21.md` | Análise da possível ascendência alemã e da transmissão histórica de cidadania |
+| `docs/notas_analise_alema_familysearch_2026-08-21.md` | Notas verificáveis da consulta FamilySearch e das fontes jurídicas oficiais |
 
 ## Organização atualizada
 
