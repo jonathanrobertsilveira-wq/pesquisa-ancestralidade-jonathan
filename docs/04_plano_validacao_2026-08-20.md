@@ -65,7 +65,7 @@ A ordem operacional passa a ser:
 
 1. Solicitar ou localizar a certidão integral do óbito de Rosalvino em Guaíba, já identificado por município, data provável e metadados cartoriais.
 2. Localizar o nascimento de Rosalvino, provavelmente em 06/10/1940, em Tapes/Vila Cerro Grande/Cerro Grande do Sul, para testar diretamente Raimundo + Alicia.
-3. Localizar nascimento, casamento ou óbito de Carolina para resolver a passagem Carolina → Flauliano e o conflito Lena/Eva.
+3. Localizar nascimento, casamento e outros registros civis disponíveis de Carolina para resolver a passagem Carolina → Flauliano e o conflito Lena/Eva. Carolina está viva; não buscar seu óbito.
 4. Abrir a imagem original do casamento de Flauliano e transcrever filiação, idade, naturalidade, residência, profissão e testemunhas.
 5. Localizar o nascimento de Flauliano em torno de 1923 e os registros de seus irmãos.
 6. Ler a imagem original do óbito de Manoel José e confirmar o papel de Raimundo no documento.

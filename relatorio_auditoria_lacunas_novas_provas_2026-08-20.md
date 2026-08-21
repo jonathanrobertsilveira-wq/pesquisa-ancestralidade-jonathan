@@ -35,7 +35,7 @@ A coleção civil do FamilySearch também informa que nem todos os registros est
 | **P0** | Solicitar ou obter a certidão/cópia integral do óbito de Rosalvino em Guaíba | Já existe município, data provável e metadados de matrícula, livro, folha e registro | Pode trazer pais, cônjuge, idade, naturalidade, residência, declarante e confirmar ou negar a leitura “Alice Schell de Souza” |
 | **P0** | Localizar o nascimento de Rosalvino, provavelmente em 06/10/1940, em Tapes/Vila Cerro Grande/Cerro Grande do Sul | A identidade recente está confirmada e a faixa temporal/localidade foi estreitada | É o documento com maior potencial para fechar diretamente **Raimundo + Alicia → Rosalvino** |
 | **P0** | Localizar o nascimento, casamento ou óbito de Valdeci | O vínculo já é confirmado privadamente por Jonathan, mas não há assento público no repositório | Permite documentar externamente **Valdeci → Rosalvino + Carolina**, sem expor a certidão privada de Jonathan |
-| **P0** | Localizar nascimento, casamento ou óbito de Carolina | A filiação a Flauliano e Eva/Lena ainda depende de árvore e correlações | Pode resolver simultaneamente se a mãe foi Eva ou Lena, além de informar idade, localidade e pais |
+| **P0** | Localizar nascimento, casamento e outros registros civis disponíveis de Carolina; ela está viva, portanto não buscar óbito | A filiação a Flauliano e Eva/Lena ainda depende de árvore e correlações | Pode resolver simultaneamente se a mãe foi Eva ou Lena, além de informar localidade e pais |
 
 A certidão privada de Jonathan não deve ser anexada, enviada ou reproduzida. A pesquisa pública desses registros serve para auditoria externa, preservação e detalhes formais, e não para colocar em dúvida o vínculo familiar que Jonathan conhece diretamente.
 
@@ -82,7 +82,7 @@ A ordem mais eficiente, considerando valor probatório e o que as novas provas t
 |---:|---|---|
 | **1** | Obter o óbito integral de Rosalvino em Guaíba | Tem identificação cartorial já localizada e pode revelar pais ou cônjuge; baixo risco de uma busca totalmente difusa |
 | **2** | Pesquisar o nascimento de Rosalvino em Tapes/Cerro Grande | É o teste mais direto do elo Rosalvino → Raimundo/Alicia |
-| **3** | Buscar nascimento/casamento/óbito de Carolina | Resolve a passagem para o ramo Kenes e testa Lena contra Eva |
+| **3** | Buscar nascimento, casamento e outros registros civis disponíveis de Carolina; não buscar óbito, pois ela está viva | Resolve a passagem para o ramo Kenes e testa Lena contra Eva |
 | **4** | Ler a imagem original do casamento de Flauliano | Confirma a filiação nova e registra todas as grafias, testemunhas e naturalidades |
 | **5** | Localizar o nascimento de Flauliano em 1923 | Pode confirmar pais, avós, residência e eventual informação religiosa ou de naturalidade |
 | **6** | Ler a imagem do óbito de Manoel José | Pode transformar o elo Manoel → Raimundo em confirmação e esclarecer os nomes presentes |

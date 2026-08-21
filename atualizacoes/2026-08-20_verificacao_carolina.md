@@ -44,7 +44,7 @@ Os documentos APERS 180190, 180603 e 180674 continuam relacionados às identidad
 
 ## Próxima validação recomendada
 
-A prioridade documental é obter uma certidão de nascimento, casamento ou óbito de Carolina que informe seus pais. Para resolver a divergência entre os ramos, é necessário localizar um documento que identifique explicitamente Valdeci, seus pais e sua esposa. Até lá, este repositório deve manter as duas estruturas com seus IDs originais e com a distinção acima.
+A prioridade documental é obter uma certidão de nascimento, casamento ou outro registro civil disponível de Carolina que informe seus pais. Carolina está viva; portanto, não se deve buscar nem solicitar seu óbito. Para resolver a divergência entre os ramos, é necessário localizar um documento que identifique explicitamente Valdeci, seus pais e sua esposa. Até lá, este repositório deve manter as duas estruturas com seus IDs originais e com a distinção acima.
 
 ## Referências
 
