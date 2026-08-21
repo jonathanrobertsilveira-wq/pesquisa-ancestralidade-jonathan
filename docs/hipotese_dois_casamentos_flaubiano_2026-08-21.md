@@ -1,8 +1,8 @@
 # Hipótese de dois casamentos de Flaubiano/Flauliano
 
-**Data:** 21 de agosto de 2026  
-**Pessoa:** Flaubiano/Flauliano Brasil — variantes `Flaubiano Brasil Zenes`, `Flauviano Brazil Kens` e `Flauliano Brasil Kenes`  
-**Relação pesquisada:** possível pai de Carolina Augusta Kenes de Souza  
+**Data:** 21 de agosto de 2026
+**Pessoa:** Flaubiano/Flauliano Brasil — variantes `Flaubiano Brasil Zenes`, `Flauviano Brazil Kens` e `Flauliano Brasil Kenes`
+**Relação pesquisada:** possível pai de Carolina Augusta Kenes de Souza
 **Status:** hipótese aberta; não confirmada
 
 ## Conclusão atual
@@ -83,3 +83,25 @@ Enquanto o conflito permanecer aberto, a filiação de Carolina a Flaubiano/Flau
 [5]: https://github.com/jonathanrobertsilveira-wq/pesquisa-ancestralidade-jonathan/blob/main/resultado_flauliano_2026-08-20.md "Resultado documental de Flaubiano/Flauliano no projeto"
 
 [6]: https://github.com/jonathanrobertsilveira-wq/pesquisa-ancestralidade-jonathan/blob/main/docs/02_matriz_evidencias_2026-08-20.csv "Matriz de evidências — conflito Lena × Eva"
+
+
+## Atualização probatória — associação Lena/Eva no FamilySearch
+
+A investigação das fontes anexadas aos perfis alterou a classificação do conflito. O certificado nº 664, de 28/07/1948, em Capela Velha/Camaquã, aparece em duas indexações: `X9YR-4ZTN` e `6XV2-83D1`. Ambas identificam o evento como casamento de Flaubiano/Flauliano Brasil com **Lena Silveira**, e ambas apresentam Lena como esposa, com pais Antonio Manoel Silveira e Romazia/Tomazia Silveira [7] [8].
+
+As fichas individuais da participante Lena (`X9YR-4ZTK` e `6XV2-8363`) também identificam Lena como esposa de Flaubiano e repetem o certificado nº 664. O FamilySearch, entretanto, mostra as duas fichas individuais de Lena como anexadas ao perfil de árvore **Eva Silveira**, `PH4B-XS2` [9] [10].
+
+A página de fontes do perfil de Eva lista duas entradas de 1948, ambas intituladas **“Lena Silveira, Brasil, Rio Grande do Sul, Registro Civil, 1810–2022”**. A primeira informa que a fonte não foi anexada a todas as pessoas do registro e exibe “UNFINISHED ATTACHMENTS” [11]. O original visualizado do livro de Capela Velha repete no painel estruturado: Lena Silveira, esposo Flauviano Brazil Kens, pais Antonio Manoel Silveira e Tomazia Silveira, com o perfil Eva Silveira como anexo na árvore [12].
+
+### Nova classificação
+
+O resultado correto passa a ser: **associação incorreta comprovada no FamilySearch**. O registro civil de 1948 documenta Lena Silveira; a árvore anexou esse registro ao perfil que chama Eva Silveira. A ocorrência prova o erro de identificação/anexação no FamilySearch, mas não decide sozinha se Eva e Lena eram duas pessoas distintas em toda a vida civil, se Lena usava outro nome ou se houve outro casamento. Essas proposições continuam abertas até a localização de registros independentes.
+
+Consequentemente, a fonte de 1948 não pode mais ser usada como prova de que Eva foi esposa de Flaubiano ou mãe de Carolina. A filiação Carolina → Flaubiano + Eva permanece hipótese derivada; o casamento Flaubiano + Lena em 28/07/1948 permanece comprovado por registro civil/indexação e original visualizado.
+
+[7]: https://www.familysearch.org/ark:/61903/1:1:X9YR-4ZTN "FamilySearch — casamento de Flaubiano Brasil Zenes, certificado 664"
+[8]: https://www.familysearch.org/ark:/61903/1:1:6XV2-83D1 "FamilySearch — casamento de Flauviano Brazil Kens, certificado 664"
+[9]: https://www.familysearch.org/ark:/61903/1:1:X9YR-4ZTK "FamilySearch — ficha de Lena Silveira, certificado 664"
+[10]: https://www.familysearch.org/ark:/61903/1:1:6XV2-8363 "FamilySearch — ficha duplicada de Lena Silveira, certificado 664"
+[11]: https://www.familysearch.org/en/tree/person/sources/PH4B-XS2 "FamilySearch — fontes anexadas ao perfil de Eva Silveira"
+[12]: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9G4-7H6B?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6XV2-8363&action=view&cc=3741255&lang=en "FamilySearch — imagem original do casamento de Capela Velha"

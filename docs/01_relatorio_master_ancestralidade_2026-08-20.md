@@ -263,3 +263,19 @@ A fila operacional passa, portanto, para **Severino Gulart Pinto** e **Maria Tav
 [41]: https://www.familysearch.org/ark:/61903/1:1:XJ72-ZVQ "Batismo de Domingos de Carvalho, 1898"
 [42]: https://www.familysearch.org/ark:/61903/1:1:XSF3-16B3 "Casamento da homônima Geltrudes Ignacia Martins, 27/07/1907"
 [43]: https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true "Resultados APERS das variantes de Gertrudes Martins"
+
+
+## Atualização de 21/08/2026 — associação incorreta de Lena ao perfil de Eva
+
+A investigação aprofundada do conflito Eva–Lena comprovou um erro de identificação/anexação no FamilySearch. O certificado nº 664, de 28/07/1948, em Capela Velha/Camaquã, aparece nas indexações `X9YR-4ZTN` e `6XV2-83D1`. As duas fichas identificam **Lena Silveira** como esposa de Flaubiano/Flauliano Brasil e registram Antonio Manoel Silveira e Romazia/Tomazia Silveira como pais da participante Lena [41] [42].
+
+As fichas individuais `X9YR-4ZTK` e `6XV2-8363` também são intituladas Lena Silveira, repetem o certificado nº 664 e aparecem anexadas ao perfil de árvore **Eva Silveira**, `PH4B-XS2` [43] [44]. A página de fontes do perfil de Eva lista duas entradas de 1948 intituladas “Lena Silveira”, sendo que a primeira declara que a fonte não foi anexada a todas as pessoas do registro e apresenta “UNFINISHED ATTACHMENTS” [45]. O original visualizado do livro mantém no painel Lena como nome, Flauviano como esposo e Antonio Manoel/Tomazia como pais, enquanto mostra Eva como perfil anexado na árvore [46].
+
+A classificação correta é: **associação incorreta comprovada no FamilySearch**. O achado prova que o registro de Lena Silveira foi anexado ao perfil que a árvore chama Eva Silveira. Ele não prova, isoladamente, se Eva e Lena eram duas pessoas distintas em toda a documentação civil, se Lena usava outro nome ou se houve outro casamento. Portanto, a fonte de 1948 deixa de sustentar Eva como esposa de Flaubiano ou mãe de Carolina. O casamento de Flaubiano com Lena em 28/07/1948 permanece comprovado; a filiação Carolina → Flaubiano + Eva continua hipótese derivada até surgir fonte independente.
+
+[41]: https://www.familysearch.org/ark:/61903/1:1:X9YR-4ZTN "FamilySearch — casamento de Flaubiano Brasil Zenes, certificado 664"
+[42]: https://www.familysearch.org/ark:/61903/1:1:6XV2-83D1 "FamilySearch — casamento de Flauviano Brazil Kens, certificado 664"
+[43]: https://www.familysearch.org/ark:/61903/1:1:X9YR-4ZTK "FamilySearch — ficha de Lena Silveira, certificado 664"
+[44]: https://www.familysearch.org/ark:/61903/1:1:6XV2-8363 "FamilySearch — ficha duplicada de Lena Silveira, certificado 664"
+[45]: https://www.familysearch.org/en/tree/person/sources/PH4B-XS2 "FamilySearch — fontes anexadas ao perfil de Eva Silveira"
+[46]: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9G4-7H6B?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6XV2-8363&action=view&cc=3741255&lang=en "FamilySearch — original do livro de casamentos de Capela Velha"
