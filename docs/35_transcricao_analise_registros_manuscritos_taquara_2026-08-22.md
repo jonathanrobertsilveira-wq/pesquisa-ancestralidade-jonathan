@@ -380,7 +380,17 @@ A quarta ação é pesquisar o óbito N.º 9 como porta de entrada para o núcle
 
 A quinta ação é manter o fragmento superior esquerdo em uma ficha provisória, com todas as variantes nominais, até que a fonte original seja localizada. Não usar `Hammenmacher`, `Krummenauer`, `Beckmann` ou `Herrmann` como chave definitiva para uma busca genealógica de identidade.
 
-## 9. Privacidade, qualidade da fonte e limitações
+## 9. Resultado da investigação arquivística desta rodada
+
+A revisão do repositório, as buscas nominais e as consultas a catálogos públicos não localizaram, até esta rodada, o ARK, o grupo de imagens, o livro, a folha ou o cartório que originaram as duas fotografias. Portanto, a identificação textual dos assentos continua baseada no que é legível nas imagens recebidas, e não em uma referência arquivística completa.
+
+O **Arquivo Público do Estado do Rio Grande do Sul (APERS)** informa que mantém fundos de registro civil de diversos municípios, incluindo Taquara, e que seus processos de habilitação de casamento abrangem o período de 1890 a 1985. A mesma instituição informa que os acervos de registro civil e tabelionatos não estão completamente indexados ou digitalizados, e orienta o contato com a Sala de Pesquisa para solicitar consulta ou cópias [4] [5]. Isso torna o APERS uma rota plausível para investigação, especialmente para o casamento de 1894, mas **não prova que as imagens recebidas sejam do APERS** nem que os livros de 1913 estejam disponíveis em cópia digital pública.
+
+Como pista contextual independente, o texto do Recenseamento do Brasil de 1920 disponível no Internet Archive contém uma ocorrência de `João Guilherme Hoppen` no contexto de Taquara. Essa ocorrência não identifica o óbito N.º 9, não informa filiação e não substitui o registro civil; deve ser usada apenas para orientar uma busca de identidade [6].
+
+Foi preparado o documento [`38_pedido_referencia_e_paginas_taquara_2026-08-22.md`](38_pedido_referencia_e_paginas_taquara_2026-08-22.md), com um pedido institucional detalhado para localizar as imagens e recuperar as páginas anterior e posterior. Até que esse pedido produza uma referência ou novas imagens, os trechos cortados permanecem indisponíveis e as variantes `Hoppen/Köppen`, `Hammenmacher/Krummenauer` e `Obitz/Opitz` devem continuar separadas.
+
+## 10. Privacidade, qualidade da fonte e limitações
 
 As imagens e este relatório foram adicionados ao repositório privado do projeto. O material contém nomes de pessoas históricas e não inclui, nesta análise, documentos de pessoas vivas, números pessoais ou endereços atuais. A transcrição não substitui a certidão integral, a cópia autenticada ou a consulta ao acervo original.
 
@@ -391,3 +401,6 @@ A imagem é uma fonte primária visual, mas está recortada, contém marca d'ág
 [1]: ../sources/recebidos_2026-08-22/imagens_manuscritas/registro_casamentos_taquara.webp "Imagem original recebida: página com registros de casamento de Taquara do Mundo Novo"
 [2]: ../sources/recebidos_2026-08-22/imagens_manuscritas/registros_obitos_taquara.webp "Imagem original recebida: páginas com registros de óbito de Taquara do Mundo Novo"
 [3]: ../sources/recebidos_2026-08-22/imagens_manuscritas/SHA256SUMS.txt "Hashes SHA-256 das imagens preservadas"
+[4]: https://www.apers.rs.gov.br/acervo-registro-civil "APERS — Acervo de Registro Civil"
+[5]: https://www.apers.rs.gov.br/pesquisa-no-acervo "APERS — Pesquisa no Acervo"
+[6]: https://archive.org/stream/recen211920bras/recen211920bras_djvu.txt "Internet Archive — Recenseamento do Brazil, 1920"

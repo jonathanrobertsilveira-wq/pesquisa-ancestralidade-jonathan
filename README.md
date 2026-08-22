@@ -42,6 +42,10 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `docs/34_analise_anexos_recebidos_2026-08-22.md` | Análise dos quatro anexos recebidos, com separação entre provas, pistas e imagens ainda não identificadas |
 | `docs/35_transcricao_analise_registros_manuscritos_taquara_2026-08-22.md` | Transcrição diplomática e análise dos registros manuscritos de Taquara do Mundo Novo |
 | `docs/36_matriz_evidencias_registros_taquara_2026-08-22.csv` | Matriz auditável de proposições, fontes, status, conflitos de leitura e próximos testes |
+| `docs/37_diario_investigacao_taquara_2026-08-22.md` | Diário das buscas arquivísticas, fontes institucionais, candidatos e resultados negativos |
+| `docs/38_pedido_referencia_e_paginas_taquara_2026-08-22.md` | Pedido institucional pronto para solicitar ao APERS a referência e as páginas contíguas |
+| `docs/39_avaliacao_ponte_schell_taquara_2026-08-22.md` | Avaliação da possível ponte entre João Schell de Taquara e Rosalina Schell |
+| `docs/40_status_rodada_taquara_2026-08-22.md` | Síntese final da rodada, classificações e próxima ação recomendada |
 | `sources/recebidos_2026-08-22/` | Cópias originais dos quatro anexos e manifesto SHA-256 |
 | `sources/recebidos_2026-08-22/imagens_manuscritas/` | Imagens WebP originais desta rodada, renomeadas e acompanhadas de hashes SHA-256 |
 | `pesquisa_alema_2026-08-22.md` | Diário completo das consultas públicas alemãs, resultados, links e limitações |
