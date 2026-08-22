@@ -571,3 +571,32 @@ O rascunho do LHA Koblenz foi ampliado com as instruções oficiais de APERTUS, 
 ## Registro 86 — execução detalhada Archion/LHA
 
 A etapa documental detalhada foi consolidada em `docs/41_dossie_documental_archion_lha_schell_2026-08-22.md` e `docs/42_relatorio_execucao_detalhada_archion_lha_2026-08-22.md`. Foram rechecados publicamente os volumes Archion 268205 e 268206, as assinaturas 146/7-58 e 146/5-58, o período 1824–1875, a abrangência de Oberbrombach, a marca de transcrição completa e o bloqueio do visualizador. Foram verificadas as orientações EKiR/Boppard sobre digitalizações e pedidos escritos, e as páginas LAV/LHA sobre APERTUS, Lesesaal, prazo mínimo, gratuidade, orçamento e contato. O rascunho Archion foi criado com as imagens 735, 782, 886 e 117; o rascunho LHA foi ampliado com o procedimento oficial e a exigência de não iniciar pesquisa paga sem orçamento e consentimento. Nenhum pedido foi enviado.
+
+
+## Registro 87 — busca pública ampliada para a lacuna 1810–1825
+
+A busca pública alemã ampliada encontrou o registro oficial RPB `929t093432` de Gerd Küssner com título completo: *Rekonstruktion der fehlenden Geburtsregister: 1810–1825; erstellt durch die Konfirmationsregister der Jahre 1824–1839; Evangelische Kirche zu Niederbrombach*. O catálogo confirma autoria, publicação em 2006, Kronweiler, autoedição, 50 páginas, classificação genealógica, foco em Niederbrombach e existência em apenas uma biblioteca no catálogo consultado. Não foi localizada cópia digital aberta, índice nominal ou sumário de páginas.
+
+Uma discussão pública de genealogia regional reproduz os metadados da obra e aponta o Verein für Heimatkunde im Landkreis Birkenfeld como rota local, mas não contém transcrição de Schell. A mesma discussão alerta que registros civis posteriores podem depender da jurisdição de Birkenfeld; isso é pista operacional, não prova do caso Schell.
+
+Fontes: https://rpb.lobid.org/929t093432 ; https://forum.genealogy.net/index.php?thread/38639-familienbuch-der-ev-pfarrei-nohen-birkenfeld/.
+
+## Registro 88 — jurisdição histórica e cautela sobre fonte civil
+
+Fonte regional do Landschaftsverband Rheinland confirma que o Fürstentum Birkenfeld passou a Oldenburg em 1817 e que o Amt Birkenfeld abrangia, entre outras, as Bürgermeistereien Birkenfeld, Leisel e Niederbrombach. KuLaDig confirma a existência histórica do Fürstentum entre 1817 e 1937/1946 e inclui Oberbrombach e Niederbrombach na área. Isso ajuda a formular o pedido administrativo, mas não prova que existisse um Zivilstandsregister de nascimento de 1812 para Oberbrombach.
+
+A página de referência geral sobre Personenstandsregister distingue os registros civis franceses, em geral ligados a territórios sob administração francesa, dos registros de estado civil posteriores. Portanto, para 1812 em Oberbrombach não se deve presumir cobertura civil; é necessário perguntar ao LHA/arquivo municipal pela jurisdição e pela existência de livro ou segunda via. A rota paroquial e a reconstrução de Küssner permanecem prioritárias.
+
+Fontes: https://www.rheinische-geschichte.lvr.de/Epochen-und-Themen/Themen/birkenfeld-oldenburgischer-landesteil/DE-2086/lido/582355eb8a62c4.45505693 ; https://www.kuladig.de/Objektansicht/KLD-250744 ; https://genwiki.genealogy.net/Personenstandsregister.
+
+
+## Registro 89 — catálogos federados da obra de Küssner
+
+Foram testadas buscas nominais da obra de Küssner em catálogos federados alemães e internacionais por título completo e variantes. Não foi localizada segunda cópia digital, sumário nominal ou reprodução aberta além do registro RPB e da referência ao exemplar LBZ. Resultado negativo limitado: confirma a dependência operacional do exemplar `C2008A/613` e do Arbeitsgruppe/Landesmuseum, mas não significa que a obra não exista em outra coleção não indexada.
+
+
+## Registro 90 — consolidação integral da lacuna 1810–1825
+
+A rodada solicitada foi executada até o limite das fontes públicas e das consultas não pagas. Foram incorporados à matriz os registros DE36–DE40 sobre: a obra de Küssner e seu registro RPB; a busca negativa em catálogos federados; a jurisdição histórica do Fürstentum Birkenfeld/Amt Birkenfeld/Niederbrombach; a rota civil não demonstrada para Oberbrombach em 1812; e a referência regional ao Verein für Heimatkunde. Foi criado o relatório `43_relatorio_execucao_integral_lacuna_1810_1825_2026-08-22.md`, que reúne o resultado, critérios de decisão, fontes, pendências e os limites de prova.
+
+A conclusão não foi promovida além de `fortemente indicado`: a obra de Küssner é a rota secundária especializada para a lacuna, mas não foi lida; as imagens Archion 735/782/886/117 não foram acessadas; o processo LHA `Best. 393 Nr. 859` não foi obtido. Nenhum e-mail, compra, contratação ou pedido pago foi realizado.
