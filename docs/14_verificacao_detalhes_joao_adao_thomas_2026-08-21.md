@@ -55,3 +55,21 @@ Antes de pesquisar a Alemanha, deve-se abrir as quatro fontes do evento de nasci
 ## Referência
 
 [1]: https://www.familysearch.org/en/tree/person/details/KJ8D-X45 "FamilySearch — João Adão Thomas, KJ8D-X45"
+
+
+## Abertura do grupo “Birth • 4 Sources”
+
+Ao abrir o grupo de fontes do nascimento, o FamilySearch mostrou quatro entradas:
+
+| Fonte exibida | Local/valor associado |
+|---|---|
+| `João Adão Thomas`, Registro Civil do Rio Grande do Sul, 1810–2022 | 1815 |
+| `João Adão Romale el Verprica Therana`, Registro Civil do Rio Grande do Sul, 1810–2022 | `Allemanha` |
+| `Adão Thomás`, Registro Civil do Rio Grande do Sul, 1810–2022 | Santa Cruz do Sul, Rio Grande do Sul, Brasil |
+| `João Thomás`, Registro Civil do Rio Grande do Sul, 1810–2022 | Santa Cruz do Sul |
+
+O próprio painel do fato exibe a advertência: **“The standard ‘Germany’ (ID: 222) is used for dates from 1871 onward. This conflicts with the birth date of 1815.”** Em português: o padrão de localidade `Germany` é usado para datas a partir de 1871, o que entra em conflito com o nascimento registrado como 1815.
+
+Este é um achado decisivo. As quatro fontes não são quatro registros alemães independentes: são entradas do registro civil brasileiro e uma delas tem nome muito diferente (`Romale el Verprica Therana`). A presença de `Allemanha` pode resultar de um registro brasileiro que menciona uma pessoa estrangeira, de indexação defeituosa ou de homônimo; o painel não demonstra que se trate do mesmo João Adão Thomas de 1815–1891.
+
+**Classificação atual:** a origem alemã de João Adão continua **não demonstrada para a pessoa correta**. O conflito de padronização reforça a necessidade de abrir cada registro original e reconstruir os nomes, papéis, idade, cônjuge, filhos, residência e a pessoa a quem a palavra `Allemanha` se refere.
