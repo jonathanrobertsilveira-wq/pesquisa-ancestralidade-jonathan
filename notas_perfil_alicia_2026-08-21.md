@@ -210,3 +210,11 @@ O painel público do Portal Oficial Registro Civil foi aberto diretamente, sem s
 O painel **não informa o papel de Alice**: ela pode ser mãe, pai, cônjuge, declarante ou outro campo de filiação, e o nome pode ser uma variante de Alicia. Portanto, o resultado é uma pista importante para a identidade de Alice/Alicia, mas não confirma sozinho o parentesco nem sua data de nascimento. A certidão/inteiro teor seria necessária para ler o campo completo; nenhuma solicitação foi feita.
 
 URL: https://www.registrocivil.org.br/search-detail/99e34885-9cd9-11f1-b8ec-06a75f30aeeb
+
+## Busca ampla Alicia Schell + Raimundo Souza
+A consulta na coleção civil com `Alicia Schell` e cônjuge `Raimundo Souza`, sem restringir o evento, retornou **115 resultados**. A primeira ocorrência é `Alicia Schell de Souza` como cônjuge de `Raimundo José de Souza`, com Manoel José de Souza e Maria Candida Tavares como outras pessoas; ela coincide com o óbito de Raimundo de 09/09/1983.
+
+Também apareceu uma ocorrência indexada apenas como `Schell`, mulher, esposa de `Raimundo de Souza Finão Maniculta`, com filho `de Souza`; ela corresponde à pista do óbito do bebê de 21/06/1949, já registrada neste caderno, e não é uma nova criança. Os demais resultados são homônimos ou grafias sem compatibilidade territorial/familiar, incluindo diversos Schell de Porto Alegre, Taquara e outras localidades.
+
+A busca ampla não encontrou um casamento próprio de Alicia e Raimundo nem um quinto filho demonstrado. Ela reforça o núcleo já identificado, mas não acrescenta uma relação familiar nova confirmada.
+URL: https://www.familysearch.org/en/search/record/results?f.collectionId=3741255&q.givenName=Alicia&q.surname=Schell&q.spouseGivenName=Raimundo&q.spouseSurname=Souza
