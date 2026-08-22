@@ -488,3 +488,29 @@ A matriz `29_matriz_execucao_pesquisas_alema_2026-08-22.csv` foi ampliada com as
 ## Registro 73 — relatório de execução por linha
 
 Foi criado `docs/38_relatorio_execucao_plano_por_linha_2026-08-22.md`, consolidando a primeira execução do plano aprovado. O relatório registra o estado de cada linha, os documentos discriminantes, os avanços da rodada, a próxima ordem de pesquisa, os critérios de fechamento/refutação/esgotamento qualificado e as dependências de autorização. A prioridade permanece: (1) imagens 735/782/117 e Küssner para Schell; (2) transcrição dos atos brasileiros já localizados para Thomas/Klaus antes de novas buscas alemãs; (3) batismo de Maria Margaretha e livros Veeck/Foeck; (4) batismo de Johann Karl e família de Philipp Karl; (5) desambiguação dos clusters brasileiros. A matriz foi ampliada para DE19–DE28 e validada com nove campos por linha. Nenhuma publicação externa, contato institucional, compra ou alteração de árvore foi realizada nesta execução.
+
+
+## Registro 74 — bases alemãs de emigração e limite de cobertura
+
+Foram consultadas páginas alemãs da MAUS/Bremen, do Institut für Geschichtliche Landeskunde Rheinland-Pfalz e do MARCHIVUM. A MAUS informa que o projeto conjunto com a Câmara de Comércio e o Staatsarchiv Bremen produziu bases distintas para listas de passageiros, emigração de cidadãos de Bremen (1608–1874), passaportes (1862–1936) e saídas de viagens (1834–1939), com fontes e coberturas próprias. Isso explica por que a ausência de Kenes/Kenne, Thomas/Klaus ou Johann Nikolaus na DAD/Bremen não refuta um processo regional do Birkenfeld. A página de Rheinland-Pfalz descreve a rota histórica Bremen/Bremerhaven–Rio de Janeiro–Rio Grande do Sul, e o MARCHIVUM contextualiza a imigração do sudoeste alemão para São Leopoldo a partir de 1824. Essas páginas são contexto e delimitam cobertura; não identificam indivíduos dos ramos pesquisados.
+
+Fontes: https://die-maus-bremen.info/index.php?id=542&L=1 ; https://www.auswanderung-rlp.de/ziele-der-auswanderung/auswanderung-nach-brasilien/19-jahrhundert/reise-und-ankunft-in-brasilien.html ; https://www.marchivum.de/de/geschichte/blog/200-jahre-auswanderung-nach-brasilien-aus-suedwestdeutschland-1824-2024.
+
+
+## Registro 75 — perfis públicos Thomas/Klaus reabertos
+
+As páginas públicas Ancestors/FamilySearch de João Adão Thomas (KJ8D-X45), Clara Klaus (KJ8D-XXC) e Gertrudes Thomas (GSBT-PFG) foram extraídas. João Adão aparece na árvore como nascido em 1815 na Alemanha, filho de Joao Thomas e Barbara Miller, casado com Clara Klaus por volta de 1850 no Rio Grande do Sul, pai de seis filhos e falecido em 16/05/1891. Clara aparece como nascida em 1821 na Alemanha, filha de Johann Klaus e Marina Gesner, casada com João Adão e falecida em 18/08/1886. Gertrudes aparece como nascida em 04/01/1857, filha de João Adão e Clara, casada com Clemens Hillesheim em 23/04/1874 e falecida em 07/06/1944. Os perfis listam dezenas de fontes civis brasileiras, mas o texto exibido mistura perfil/árvore e registros derivados; não foi localizada fonte alemã nem imagem de nascimento de João Adão ou Clara. Há uma inconsistência de idade: Gertrudes é exibida como filha de João Adão de 42 anos e Clara de 36, enquanto o perfil do casal apresenta Clara com 1821–1886 e João Adão com 1815–1891; isso não refuta o casal, mas exige leitura dos assentos originais. A naturalidade alemã continua um atributo de árvore, não prova independente.
+
+
+## Registro 76 — fechamento das linhas de controle e baixa prioridade
+
+A rodada pública de Kenes/Kenne não encontrou candidato alemão individual compatível. As consultas retornaram apenas material geral sobre imigração alemã no Brasil, enquanto o passageiro Kenes previamente localizado na base de Bremen continua identificado como Petrene Kenes, de Kispest, com nacionalidade húngara e destino Nova York em 1931; ele permanece homônimo distinto. O resultado não refuta uma origem alemã para João Kenne, mas não fornece qualquer ponte.
+
+A fonte regional *Hillesheim no Brasil* foi usada somente como controle: ela fornece a origem Briedel/Rheinland-Pfalz para famílias Hillesheim e a referência do casamento de Gertrudes Thomas com Clemens Hillesheim em 23/04/1874, fl. 22 do livro de Matrimônios 1872/1882 de Santa Cruz do Sul. Isso confirma a utilidade da fonte para o ramo Hillesheim, mas não transforma João Adão Thomas ou Clara Klaus em alemães. Eva, Raimundo, Carolina e os demais candidatos sem localidade alemã continuam aguardando um ato brasileiro que informe naturalidade, filiação, local de nascimento ou imigração; buscas alemãs adicionais sem esse filtro seriam de baixa evidência.
+
+
+## Registro 77 — encerramento da execução integral do plano
+
+A execução integral do plano por linha foi consolidada em `docs/40_relatorio_final_execucao_integral_plano_2026-08-22.md`. Foram revisitadas todas as linhas prioritárias: Schell direto; Thomas/Thomaz–Klaus/Klus; Maria Margaretha–Gosert–Veeck/Foeck; Philipp Karl–Johann Karl; Schell–Trott–Fillmann e Rosalinas; Hillesheim; Kenes/Kenne e candidatos sem localidade alemã. A pesquisa pública chegou ao critério de esgotamento qualificado: as rotas, bases, jurisdições e limitações estão registradas, mas os documentos decisivos pagos/restritos ou institucionais não foram obtidos.
+
+Resultado final: Schell direto permanece fortemente indicado, sem ponte primária independente; Thomas/Klaus permanece não demonstrado quanto à Alemanha; Maria Margaretha permanece hipótese plausível; Johann Karl permanece núcleo paralelo provavelmente distinto; Schell–Trott–Fillmann é cluster brasileiro consistente sem prova alemã; Hillesheim é controle regional; Kenes/Kenne não tem ponte e o passageiro húngaro é distinto. Nenhum contato institucional, compra, assinatura, alteração de árvore ou publicação externa foi realizado nesta etapa.
