@@ -102,3 +102,10 @@ A busca pública encontrou perfis FamilySearch derivados dos irmãos atribuídos
 Essa convergência de três perfis públicos torna a hipótese genealógica `Regina Shell Becker → filha de Karl Schell + Anna Becker` internamente consistente, e amplia as localidades a pesquisar para Taquara, Igrejinha e Três Coroas. Todavia, os perfis continuam derivados da mesma árvore FamilySearch e não substituem o assento de nascimento/batismo de Rosalina nem o de Regina.
 
 A pista de maior valor agora é procurar o batismo de **Rosalina Schell/Thomaz, 16/12/1899, filha de Felippe Thomaz e Regina Shell Becker**, nos livros paroquiais de Taquara/Mundo Novo, Igrejinha e Três Coroas, e também pesquisar o casamento de Felippe e Regina. Os perfis dos irmãos de Regina não exibem um identificador público de imagem original do nascimento de Rosalina.
+
+
+## Checagem por fontes genealógicas independentes
+
+Foram feitas buscas abertas combinando `Karl Schell`, `Anna Becker`, `Regina Shell Becker`, `Felippe Thomaz`, `Rosalina Schell` e `Taquara`. Os resultados úteis repetiram os perfis públicos do FamilySearch de Johannes, Adolpho e Rosalina; não apareceu uma página independente com transcrição, número de livro, imagem ou referência arquivística do nascimento/batismo de Rosalina.
+
+A repetição dos perfis confirma apenas a consistência interna da árvore colaborativa. Não aumenta a independência da evidência e não transforma a data de 16/12/1899 em assento original.
