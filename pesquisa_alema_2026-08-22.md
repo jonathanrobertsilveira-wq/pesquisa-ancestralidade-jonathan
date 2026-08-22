@@ -698,3 +698,22 @@ A página do [Landesmuseum Birkenfeld sobre as publicações de Reiner Schmitt](
 A página do [Institut für Geschichtliche Landeskunde Rheinland-Pfalz — listas de emigrantes](https://www.auswanderung-rlp.de/quellen-zu-auswanderern/listen-zu-auswanderern.html) explica que listas de emigração são fontes centrais para a pesquisa migratória e que muitos documentos permanecem nos arquivos locais, municipais ou estaduais. Ela aponta o **Landesarchiv Koblenz** e o sistema [APERTUS](https://apertus.rlp.de/) como rotas de pesquisa, além de mencionar livros paroquiais e listas temáticas para a emigração a países da América do Sul. A própria página alerta que o conteúdo do portal é antigo e pode não refletir todo o estado atual da pesquisa.
 
 A página institucional da [Landesarchivverwaltung Rheinland-Pfalz](https://lav.rlp.de/) confirma que o **Landeshauptarchiv Koblenz** é o arquivo regional responsável pelo norte da Renânia-Palatinado e apresenta o APERTUS como sala de leitura virtual para pesquisa de acervos analógicos e digitais. Esses dados reforçam que `Best. 393 Nr. 859` é uma referência arquivística plausível a ser solicitada ou pesquisada, mas o documento não foi aberto nesta rodada.
+
+
+### Contradição OGF × FamilySearch a resolver
+
+A fonte OGF lista a esposa de Johann Nicolaus como **Charlotte Catharina Schmid**, nascida em **13/03/1818**, e cinco filhos, enquanto o perfil FamilySearch `LB7K-T66` a apresenta como **Charlotte Katharina Schmidt**, nascida em **1821**, e o perfil de Johann Nicolaus informa seis filhos. `Schmid/Schmidt` pode ser variante ortográfica, mas a diferença de ano e a discrepância no número de filhos impedem tratar a família OGF como identidade já comprovada. O ponto mais robusto da convergência é a combinação de nome Johann Nicolaus, nascimento em Oberbrombach em 1812, Niederbrombach como paróquia, emigração para o Rio Grande do Sul em 1856 e filho Karl nascido em 1843; ainda assim, a esposa, o filho e o ato brasileiro precisam ser confrontados com originais.
+
+
+## Ficha familiar OGF F34931 — datas dos filhos de Johann Nicolaus
+
+A ficha [Familienblatt F34931](http://auswanderer-oldenburg.de/familygroup.php?familyID=F34931&tree=Auswanderer) detalha a família **Schell, Johann Nikolaus / Schmid, Charlotte Catharina**. Ela registra Johann Nicolaus nascido em **13/09/1812 em Oberbrombach** e batizado após essa data em Niederbrombach; Charlotte Catharina Schmid nascida em **13/03/1818** e batizada após essa data em Niederbrombach.
+
+Os cinco filhos listados são: **Karl Schell**, nascido em 24/12/1843 e batizado em 07/01/1844 em Niederbrombach; **Friedrich Schell**, nascido em 05/11/1845 e batizado em 16/11/1845; **Jakob Schell**, nascido em 05/01/1848 e batizado em 16/01/1848; **Luisa Schell**, nascida em 15/02/1850 e batizada em 03/03/1850; e **Marie Schell**, nascida em 29/06/1854 e batizada em 16/07/1854. Todos os eventos são apresentados como ocorridos em Oberbrombach/Niederbrombach.
+
+A ficha familiar confirma o dado essencial de Karl com maior precisão e resolve a aparente ausência de data de batismo no resumo individual. Ela também confirma que a base OGF deliberadamente lista cinco filhos, enquanto o FamilySearch mostra seis filhos no perfil de Johann Nicolaus; essa diferença continua sendo uma contradição a resolver, não um motivo para escolher automaticamente uma das bases.
+
+
+## Limitação da consulta no APERTUS
+
+O portal público [APERTUS](https://apertus.rlp.de/) foi aberto e mostrou a busca simples, mas a interface dinâmica atualizou continuamente e rejeitou as tentativas de inserir `Schell` por índice/coordenação instável. A busca nominal no acervo estadual, portanto, **não foi executada**. Não houve login, criação de conta, pagamento, inclusão de item no carrinho ou tentativa de contornar controles técnicos. A referência `Landeshauptarchiv Koblenz, Best. 393, Nr. 859`, fornecida pela OGF, permanece como próxima rota documental.

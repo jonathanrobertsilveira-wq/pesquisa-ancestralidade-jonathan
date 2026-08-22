@@ -1,7 +1,7 @@
-total_linhas 106
+total_linhas 109
 candidatos_com_linhas 39
 A01 16 João Adão Thomas/Thomaz
-A23 13 Karl Schell
+A23 16 Karl Schell
 A03 7 João Thomas
 A09 6 Regina Shell Becker
 A37 6 Joh Tobias Schell
