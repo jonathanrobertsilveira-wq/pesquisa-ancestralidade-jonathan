@@ -73,3 +73,23 @@ O próprio painel do fato exibe a advertência: **“The standard ‘Germany’ 
 Este é um achado decisivo. As quatro fontes não são quatro registros alemães independentes: são entradas do registro civil brasileiro e uma delas tem nome muito diferente (`Romale el Verprica Therana`). A presença de `Allemanha` pode resultar de um registro brasileiro que menciona uma pessoa estrangeira, de indexação defeituosa ou de homônimo; o painel não demonstra que se trate do mesmo João Adão Thomas de 1815–1891.
 
 **Classificação atual:** a origem alemã de João Adão continua **não demonstrada para a pessoa correta**. O conflito de padronização reforça a necessidade de abrir cada registro original e reconstruir os nomes, papéis, idade, cônjuge, filhos, residência e a pessoa a quem a palavra `Allemanha` se refere.
+
+
+## Fonte individual com “Allemanha”
+
+A abertura da segunda fonte do grupo revelou os dados de citação:
+
+| Campo | Conteúdo observado |
+|---|---|
+| Título indexado | `João Adão Romale el Verprica Therana` |
+| Coleção | Brasil, Rio Grande do Sul, Registro Civil, 1810–2022 |
+| Data da fonte | 04/08/1908 |
+| ARK da ficha | [XSFC-CVG3](https://www.familysearch.org/ark:/61903/1:1:XSFC-CVG3) |
+| Citação | Entrada para **José Steir e Felippe Steir**, de 4 de agosto de 1908 |
+| Local exibido no fato | `Allemanha` |
+
+A fonte está vinculada ao fato de nascimento de João Adão Thomas, mas o nome indexado não coincide de forma normal com `João Adão Thomas`. A própria citação informa que o evento é uma entrada para José Steir e Felippe Steir, o que deixa aberta a possibilidade de que João Adão seja pai, declarante, testemunha ou outra pessoa mencionada — e não necessariamente o indivíduo nascido em 1815.
+
+O registro de 1908 é, portanto, uma **pista documental ambígua de origem alemã**, não uma prova da nacionalidade de João Adão Thomas. A leitura da ficha e da imagem original precisa identificar literalmente o papel de `João Adão Romale el Verprica Therana`, quem é a pessoa descrita como natural de `Allemanha`, seus pais, idade, cônjuge e residência.
+
+A combinação `João Adão Thomas (1815–1891) + Clara Klaus` não foi demonstrada nessa citação. Até a desambiguação, o candidato de 1908 permanece separado do perfil KJ8D-X45.
