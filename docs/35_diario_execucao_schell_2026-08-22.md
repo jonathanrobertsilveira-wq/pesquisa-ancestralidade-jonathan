@@ -507,3 +507,324 @@ A branch local `main` está alinhada com `origin/main`, no commit acima, e o rep
 **Referências citadas pela própria ficha:** `Kirchenbuch Niederbrombach, Konfirmationen 1824–75 — Archion Bild 117`; Reiner Schmitt, *Auswanderungen aus dem Fürstentum Birkenfeld 1817–1937*, p. 350 e p. 514, nº 3465; e [Landeshauptarchiv Koblenz, Auswandererakten, Best. 393, Nr. 859](https://apertus.rlp.de/).
 **Conflitos:** a árvore FamilySearch apresenta Karl em 23/12/1843 e Charlotte como nascida em 1821, enquanto a ficha OGF apresenta 24/12/1843 e 13/03/1818. A ficha OGF também lista cinco filhos, enquanto a árvore lista seis filhos de Johann/Charlotte, incluindo Anna Lisette nascida em 1860. Esses conflitos devem ser preservados até consulta aos registros paroquiais e ao processo de emigração.
 **Avaliação:** a ficha é uma fonte secundária independente, mais forte que uma árvore colaborativa porque cita Archion, bibliografia e processo arquivístico, mas ainda não substitui o batismo de 1812, o livro familiar original ou o processo do LHA. Reforça fortemente a hipótese da origem em Oberbrombach/Niederbrombach e da migração ao Rio Grande do Sul, mas não fecha sozinha a cadeia até o usuário.
+
+## Registro E-75 — verificação da resposta do Landeshauptarchiv
+
+**Data:** 2026-08-22
+**Procedimento:** consulta de leitura na thread do Gmail correspondente ao assunto da pesquisa de Johann Nicolaus Schell e `Best. 393 Nr. 859`.
+**Resultado:** a thread contém a mensagem original enviada pelo pesquisador ao Landeshauptarchiv; não há resposta do arquivo até o momento da consulta.
+**Privacidade:** o endereço eletrônico, identificadores internos e o corpo integral da mensagem não foram reproduzidos no repositório público. Nenhuma resposta foi enviada e nenhuma mensagem foi modificada.
+
+## Registro E-76 — confirmação de que Boppard não foi contatada
+
+**Data:** 2026-08-22
+**Procedimento:** busca de leitura no Gmail por `archivstelle.boppard`, `Niederbrombach` e `EKiR`.
+**Resultado:** nenhuma thread encontrada. O rascunho para a Archivstelle Boppard/EKiR permanece não enviado. Não houve contato externo adicional.
+
+## Registro E-77 — disponibilidade do batismo de Carlos Schnell de 1878
+
+**Data:** 2026-08-22
+**Fonte:** [FamilySearch — ARK HKHL-VG3Z](https://www.familysearch.org/ark:/61903/1:1:HKHL-VG3Z).
+**Resultado:** o registro individual mostra Carlos Schnell, nascido em 14/05/1878 e batizado em 01/09/1878 em Santa Cristina, com pai Carlos Schnell, mãe Anna Beiker, avós maternos Joao Beiker e Gertrud Haubenthal, avô paterno Nicolas Schnell e avó paterna Catharina Schmitt. O FamilySearch informa que os dados vieram de um grupo de imagens e oferece as opções `PESQUISAR POR TEXTO COMPLETO` e `PESQUISAR O FILME`; a imagem não é exibida diretamente nessa página.
+**Avaliação:** o índice apresenta os avós paternos e a relação com o perfil K2VV-DYC, mas a confirmação paleográfica continua pendente. Não houve edição da árvore nem anexação de fonte.
+
+## Registro E-78 — transcrição do batismo de Maria, 1871
+
+**Fonte:** [FamilySearch — Santa Cristina, Batismos 1864–1872, imagem 159/206, item 2, grupo M9SH-RV9](https://www.familysearch.org/ark:/61903/3:1:939N-7CRZ-S?view=fullText&keywords=Schell&searchForm=advanced&lang=pt&groupId=M9SH-RV9).
+**Texto retornado pelo painel de transcrição:** “Aos dez de Janeiro de mil oitocentos e setenta e um nesta Matriz de Santa Christina baptisei solemnemente a Maria nascida a trez de Maio do anno passado, filha legítima de Carlos Schell e Anna Beler, naturaes, elle da Allemanha e ella desta; e forão padrinhos Leopoldo Sandes e Maria Himuez.”
+**Dados extraídos:** Maria teria nascido em 03/05/1870 e sido batizada em 10/01/1871; o assento identifica Carlos Schell como natural da Alemanha e Anna Beler como natural da localidade (“desta”), com padrinhos Leopoldo Sandes e Maria Himuez.
+**Classificação:** transcrição exibida pelo FamilySearch sobre imagem de grupo; é uma evidência documental muito relevante, mas deve ser citada como transcrição do visor até que a caligrafia seja conferida por resolução ampliada ou cópia original. Não houve edição da árvore.
+
+## Registro E-79 — transcrição do batismo de Regina, 1874
+
+**Fonte:** [FamilySearch — Santa Cristina, Batismos 1872–1876, imagem 52/110, item 3, grupo M9SH-RVS](https://www.familysearch.org/ark:/61903/3:1:939N-7CR3-Y?view=fullText&keywords=Schell&searchForm=advanced&lang=pt&groupId=M9SH-RVS).
+**Texto retornado pelo painel de transcrição:** “E para constar fiz este assento que assigno O Vigário Antonio Guedes de Ariz Aos trinta dias do mez de Abril do anno de mil oitocentos setenta e quatro, na Capella de Santa Roza desta parochia de Santa Christina do Pinhal o Reverendo Guilherme Vaerteman mencionario baptizou e pôs os Santos Oleos no innocente Regina, nascida a vinte e trez de Abril deste anno, filha legítima de Carlos Schell, e Anna Becker; assistendo como padrinhos Jacobo Breias, e como testemunha Quibo Braus.”
+**Dados extraídos:** Regina teria nascido em 23/04/1874 e sido batizada em 30/04/1874 na Capela de Santa Rosa, paróquia de Santa Cristina do Pinhal; os pais são Carlos Schell e Anna Becker.
+**Classificação:** transcrição exibida pelo FamilySearch sobre imagem de grupo; reforça a existência do casal Carlos/Anna em Santa Cristina, mas não acrescenta avós ou naturalidade. Não houve edição da árvore.
+
+## Registro E-80 — transcrição do batismo de Carlos, 1878
+
+**Fonte:** [FamilySearch — Santa Cristina, Batismos 22/04/1876–25/12/1879, imagem 61/106, item 4, grupo M9SH-RV3](https://www.familysearch.org/ark:/61903/3:1:939N-7CRJ-9?view=fullText&keywords=Schell&searchForm=advanced&lang=pt&groupId=M9SH-RV3).
+**Texto retornado pelo painel de transcrição:** “Eugenio Steinhart baptizou solemnemente as seguintes crianças: ao Carlos nascido aos quatorze de Maio deste anno supra em Santa Maria, filho legítimo de Carlos Sepell e Anna Britez, neto paterno de Nicolao Schell e Catharina Solemitt, materno de São Becker e Gertrud Haubenthal, sendo padrinhos Felippe Roos, Catharina Glaser e assistindo João Benen e Dorothea Brenno ...”
+**Campos indexados do mesmo registro:** Carlos Schnell, nascido em 14/05/1878 e batizado em 01/09/1878; pai Carlos Schnell; mãe Anna Beiker; avós paternos Nicolas Schnell e Catharina Schmitt; avós maternos Joao Beiker e Gertrud Haubenthal; local original indicado como Santa Cristina, Rio Grande do Sul.
+**Avaliação:** a transcrição do visor contém erros prováveis de OCR (“Sepell”, “Britez”, “Solemitt” e “São Becker”), enquanto os campos indexados apresentam formas mais coerentes. O conjunto reforça a repetição do casal Nicolas/Nicolau Schell–Catharina Schmitt, mas a grafia final deve ser conferida diretamente na imagem ampliada ou em cópia original. Não houve edição da árvore.
+
+## Registro E-81 — localização do batismo de Guilherme, 1881
+
+**Fonte:** [FamilySearch — ARK HK41-ZZT2](https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2).
+**Campos indexados:** Guilherme Schell nasceu em 26/11/1880 e foi batizado em 03/04/1881 em Santa Cristina, Parobé; pai Carlos Schell; mãe Anna Becker; avô paterno Nicolau Schell; avó paterna Catharina Schmitt; avô materno Joao Becker; avó materna Gertrudes Hanbenthal.
+**Procedimento:** o FamilySearch informou que o registro provém de um grupo de imagens e ofereceu a busca de texto completo, que foi aberta para localizar a ocorrência textual de 1881.
+**Avaliação:** o índice repete o núcleo nominal de 1878 e reforça a hipótese de continuidade Carlos/Anna–Nicolau/Catharina. A leitura direta da página de 1881 ainda será tentada no visor; não houve alteração da árvore.
+
+## Registro E-82 — busca textual dirigida para Guilherme, 1881
+
+**Fonte:** [FamilySearch — resultados de texto completo no DGS 004634183](https://www.familysearch.org/pt/search/full-text/results?count=20&q.fullName=Guilherme+Schell&q.groupName=004634183).
+**Resultado:** a busca por `Guilherme Schell` retornou 112 ocorrências e incluiu resultados dos volumes 1876–1879, 1872–1876, 1864–1872 e 1880–1882. O trecho específico exibido para 1878 confirma o padrão de OCR com erros nos nomes; nenhum trecho específico do batismo de 1881 foi aberto nesta sequência.
+**Limitação:** a busca nominal ampla mistura ocorrências genéricas e não permite concluir que a imagem de 1881 tenha sido localizada; o índice HK41-ZZT2 continua sendo a referência mais precisa disponível para esse assento.
+
+## Registro E-83 — teste de Nicolau no intervalo 1880–1882
+
+**Fonte:** [FamilySearch — texto completo, DGS 004634183, `Nicolau`, 1880–1882](https://www.familysearch.org/pt/search/full-text/results?count=100&q.anyDate.from=1880&q.anyDate.to=1882&q.groupName=004634183&q.text=Nicolau).
+**Resultado:** a consulta retornou quatro ocorrências. O primeiro resultado pertence ao volume 1880–1882, mas o trecho visível refere-se a “Luiza Escrava” e “Nicolau Petre”, sem relação aparente com Carlos/Anna Schell. Os demais resultados visíveis pertencem a volumes diferentes e posteriores. O batismo de Guilherme não foi localizado por essa variante literal.
+**Classificação:** resultado negativo limitado do OCR; não prova ausência do assento, pois a grafia pode ter sido reconhecida de outra forma ou o trecho pode não conter a palavra buscada.
+
+## Registro E-84 — descarte da ocorrência de Nicolau em 1880–1882
+
+**Fonte:** [FamilySearch — Santa Cristina, Batismos 1880–1882, imagem 89/106, item 5, grupo M9SH-RVQ](https://www.familysearch.org/ark:/61903/3:1:939N-7CR4-Y?view=fullText&keywords=Nicolau&searchForm=advanced&lang=pt&groupId=M9SH-RVQ).
+**Resultado:** a ocorrência encontrada pelo OCR refere-se a Paulina, filha parda natural de Luiza Escrava de Nicolau Petre, com padrinhos José Maurício e outros; não contém Carlos Schell, Anna Becker, Guilherme ou Catharina Schmitt.
+**Avaliação:** ocorrência descartada como homônimo/contexto não relacionado. A busca textual por `Nicolau` no volume 1880–1882 não localizou o batismo de Guilherme; permanece a necessidade de localizar o assento pela sequência manual ou por cópia arquivística.
+
+## Registro E-85 — teste de Carlos no ano de 1881
+
+**Fonte:** [FamilySearch — texto completo, DGS 004634183, `Carlos`, 1881](https://www.familysearch.org/pt/search/full-text/results?count=100&q.anyDate.from=1881&q.anyDate.to=1881&q.groupName=004634183&q.text=Carlos).
+**Resultado:** a consulta retornou 24 ocorrências. O volume Santa Cristina 1880–1882 apareceu várias vezes, mas os trechos visíveis referiam-se a homônimos como Carlos Miller, Carlos Hirthe e outros, sem identificação de Carlos Schell/Anna Becker no primeiro conjunto de resultados.
+**Avaliação:** o teste nominal não localizou diretamente o batismo de Guilherme. O índice HK41-ZZT2 continua mais informativo para pais e avós; o OCR do volume permanece incompleto ou ruidoso para essa entrada.
+
+## Registro E-86 — descarte de ocorrência Carlos em 1881
+
+**Fonte:** [FamilySearch — Santa Cristina, Batismos 1880–1882, item 5, imagem 62, grupo M9SH-RVQ](https://www.familysearch.org/ark:/61903/3:1:939N-7CRP-3?view=fullText&keywords=Carlos&searchForm=advanced&lang=pt&groupId=M9SH-RVQ).
+**Resultado:** a primeira ocorrência aberta pela busca `Carlos` em 1881 mostrou no painel textos sobre outros registros e outros homônimos, sem a palavra `Schell` nem a combinação Carlos/Anna/Guilherme do núcleo pesquisado.
+**Avaliação:** ocorrência descartada. A busca textual por nomes dos pais não localizou a imagem do batismo de Guilherme; o índice HK41-ZZT2 permanece a referência principal, com imagem original ainda não transcrita nesta execução.
+
+## Registro E-87 — cobertura institucional do APERS para a etapa civil
+
+**Fonte:** [APERS — Registro Civil](https://www.apers.rs.gov.br/acervo-registro-civil).
+**Resultado:** a página oficial informa que o acervo possui livros de nascimentos, casamentos e óbitos datados de 1929 a 1975, além de processos de habilitação de casamento de 1890 a 1985; o quadro inclui o fundo do Cartório do Registro Civil de Taquara.
+**Avaliação:** o APERS é rota relevante para habilitações e registros posteriores, mas não se deve presumir que os assentos civis de 1894 ou 1913 estejam na série pública de livros indicada ou que as imagens recebidas tenham origem comprovada no APERS. A referência arquivística das imagens de Taquara continua pendente.
+
+## Registro E-88 — original do óbito de Adolfo no FamilySearch
+
+**Fonte:** [FamilySearch — Charrua, registros de óbito junho de 1941–setembro de 1945](https://www.familysearch.org/ark:/61903/3:1:3QHV-P3NF-974B?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A65Y8-6429&action=view&cc=3741255&lang=pt), grupo de imagens `3741255`, imagem 151/224.
+**Resultado:** o documento original foi aberto no visor autenticado. O painel identifica o evento como óbito de Adolfo Schell, em Charrua/Getúlio Vargas, e lista Ana Becker Schell como esposa; a imagem manuscrita é a fonte primária visual. O índice do FamilySearch apresenta leituras automatizadas conflitantes, inclusive idade de 22 anos/nascimento em 1872, enquanto a leitura anterior da imagem e do visor no projeto indica 72 anos; a idade indexada não deve ser usada sem conferência paleográfica.
+**Avaliação:** o original confirma a existência do assento e a combinação Adolfo–Ana Becker–Carlos Schell no contexto do registro, mas a naturalidade de Carlos permanece em tensão com o batismo de Maria de 1871 e exige leitura direta em cópia de maior resolução ou certidão arquivística. A associação automática ao perfil `K2VV-DYC` não é prova independente.
+
+## Registro E-89 — busca ampla de Adolfo Schell no registro civil
+
+**Fonte:** [FamilySearch — busca de registros para Adolfo Schell no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Adolfo&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a busca retornou muitos homônimos, incluindo dois registros de óbito de 1944 em Charrua/Getúlio Vargas com pais indexados como Carlos Schell e Ana Becker Schell, e um registro de casamento de 10/09/1910 em Três Capões/Cruz Alta no qual Adolfo Schell aparece com nascimento estimado em 1871, pais Anna Schell e Carlos Schell e cônjuge Catharina Trein.
+**Avaliação:** o casamento de 1910 é um alvo documental prioritário porque pode confirmar a filiação do mesmo Adolfo antes do óbito de 1944; por enquanto, todos os campos vêm do índice automatizado e não foram tratados como prova independente. A busca contém muitos homônimos e leituras OCR defeituosas; a imagem original e a cronologia com o assento de 1944 devem ser confrontadas.
+
+## Registro E-90 — busca ampla de Carlos Schell no registro civil
+
+**Fonte:** [FamilySearch — busca de registros para Carlos Schell no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Carlos&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta retornou 688 resultados. Entre as ocorrências indexadas aparecem: um registro de Carlos Schell como pai de Adolfo, com cônjuge Ana Becker Schell, em Charrua/Getúlio Vargas; registros em que Carlos Schell aparece como cônjuge de Anna/Ana Schell e pai de Regina, Pedro, Theodoro, Adolfo, Albino e João; e vários homônimos sem relação demonstrada. Também surgiu uma ocorrência de batismo de um Carlos Schell em 10/01/1871, com pais Nicolau Schell e Maria Keller, aparentemente distinta do Carlos pai de Maria, Regina e outros.
+
+**Avaliação:** os agrupamentos com Anna/Ana Becker e vários filhos são pistas fortes para localizar imagens civis de casamento, nascimento e óbito, mas a busca combina papéis de registros distintos e transcrição automatizada. A coincidência dos filhos não basta para fundir os eventos; cada ocorrência precisa de imagem, data, local, cônjuge e filiação. O Carlos nascido em 1835 na Alemanha, falecido em Porto Alegre em 1927 e filho de Carlos Wilde foi mantido como provável homônimo até prova em contrário.
+
+## Registro E-91 — casamento de Adolfo Schell e Catharina Trein, 1910
+
+**Fonte:** [FamilySearch — Três Capões, registros de casamento janeiro de 1906–maio de 1916, item 10, grupo M9S9-BL9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LD-7ZB1?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A81GS-PSPZ&action=view&lang=pt&groupId=M9S9-BL9), imagem 74/240, referência de filme `#004090851`.
+**Resultado:** o visor autenticado abriu a imagem manuscrita do assento e o painel de indexação identifica Adolfo Schell, nascido em 1871, com 39 anos no ato, pai Carlos Schell, mãe Anna Schell e cônjuge Catharina Trein. A página está visível como fonte primária visual, embora a escrita ainda esteja pequena para uma transcrição diplomática segura nesta rodada.
+**Avaliação:** a combinação de nome, idade, pais, cônjuge, local e cronologia é altamente compatível com o Adolfo do óbito de 1944 em Charrua, mas a equivalência deve ser classificada como forte identificação provável até a leitura integral do manuscrito. O download JPG foi tentado pelo próprio FamilySearch, mas não apareceu no diretório de downloads do sandbox; não houve contorno de restrição. A associação ao perfil `LBCP-1TY` é apenas índice/árvore.
+
+## Registro E-92 — detalhes indexados do casamento de Adolfo, ID 81GS-PSPZ
+
+**Fonte:** [FamilySearch — registro `81GS-PSPZ`](https://www.familysearch.org/ark:/61903/1:1:81GS-PSPZ?lang=pt).
+**Resultado:** o registro individual informa Adolfo Schell, sexo masculino, 39 anos, nascimento estimado em 1871, casamento registrado em 10/09/1910 em Três Capões, Cruz Alta, Rio Grande do Sul, certificado n.º 25. Os pais indexados são Anna Schell e Carlos Schell; a cônjuge é Catharina Trein, 27 anos; outras pessoas são João Trein e Margarida Catharina Trein.
+**Avaliação:** o registro de índice e a imagem do item 10, imagem 74/240, formam um conjunto de alta utilidade para identificar o Adolfo do núcleo Carlos–Anna, mas a transcrição integral do manuscrito ainda é necessária para elevar a classificação a prova paleográfica completa. O FamilySearch informa que a indexação foi feita por voluntário e a árvore `LBCP-1TY` é apenas associação colaborativa.
+
+## Registro E-93 — casamento indexado de Theodoro Schell, 1911
+
+**Fonte:** [FamilySearch — busca de registros para Theodoro Schell no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Theodoro&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** o primeiro resultado informa casamento de Theodoro Schell em 25/02/1911, em Três Capões, Cruz Alta, Rio Grande do Sul; nascimento estimado em 1889; pais Carlos Schell e Anna Schell; cônjuge Rosalina Trott.
+**Avaliação:** a ocorrência é compatível com o filho Theodoro/Teodoro listado no núcleo Carlos–Anna e amplia a cronologia civil do grupo. O resultado é índice de voluntário e contém outros homônimos e registros de diferentes localidades; a imagem original e o ID individual ainda precisam ser abertos antes de elevar a classificação.
+
+## Registro E-94 — original do casamento de Theodoro Schell, 1911
+
+**Fonte:** [FamilySearch — Três Capões, registros de casamento janeiro de 1906–maio de 1916, item 10, grupo M9S9-BL9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LD-7CBN?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A81L5-19ZM&action=view&lang=pt&groupId=M9S9-BL9), imagem 83/240, referência de filme `#004090851`.
+**Resultado:** o visor autenticado abriu a página manuscrita. O painel identifica Theodoro Schell, idade indexada de 22 anos, pais Carlos Schell e Anna Schell, cônjuge Rosalina Trott e o perfil colaborativo `K2VJ-JTT` (1888–1969).
+**Avaliação:** a página original acessível e o índice reforçam que um Theodoro do núcleo Carlos–Anna casou em Três Capões em 25/02/1911. A idade indexada deve ser tratada com cautela, pois o casamento aparece associado a nascimento estimado em 1889; a filiação é ainda uma leitura do índice, e a transcrição paleográfica integral da imagem permanece pendente.
+
+## Registro E-95 — detalhes indexados do casamento de Theodoro, ID 81L5-19ZM
+
+**Fonte:** [FamilySearch — registro `81L5-19ZM`](https://www.familysearch.org/ark:/61903/1:1:81L5-19ZM?lang=pt).
+**Resultado:** o registro individual informa Theodoro Schell, sexo masculino, 22 anos, nascimento estimado em 1889, casamento em 25/02/1911 em Três Capões, Cruz Alta, Rio Grande do Sul, certificado n.º 10. Os pais indexados são Carlos Schell e Anna Schell; a cônjuge é Rosalina Trott, 18 anos; os demais nomes no registro são Frederico Trott e Emilia Trott. A indexação foi feita por voluntário.
+**Avaliação:** o ID estável confirma a referência do evento e a consistência nominal/territorial com o núcleo Carlos–Anna. A página original do grupo `M9S9-BL9`, item 10, imagem 83/240, foi aberta; a conclusão sobre filiação continua dependente da leitura do manuscrito e não deve ser confundida com a associação ao perfil `K2VJ-JTT`.
+
+## Registro E-96 — filtro Carlos Schell + Anna no registro civil
+
+**Fonte:** [FamilySearch — busca de Carlos Schell com cônjuge Anna no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Carlos&q.surname=Schell&q.spouseGivenName=Anna&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta retornou 545 resultados, mas os primeiros concentraram cinco ocorrências em que Carlos Schell aparece como `Father Of Groom`, cônjuge Anna Schell e pai de Pedro, Theodoro, Adolfo, Albino e João, além de ocorrências com filho Armin e com filha Regina. Também reapareceram as fichas paroquiais de Maria, Regina e Guilherme com variantes Anna Buker/Becker e a filiação paterna Nicolau Schell/Catharina Schmitt.
+**Avaliação:** a repetição coordenada do casal e dos filhos é um indício consistente de que os índices civis provêm de vários atos do mesmo núcleo, mas não constitui cinco provas independentes: as fichas podem compartilhar a mesma indexação/árvore. Os próximos testes devem abrir os registros individuais e imagens, especialmente os de Pedro, Albino e João, para buscar naturalidade, residência e cronologia.
+
+## Registro E-97 — original associado ao casamento de Pedro Schell, 1911
+
+**Fonte:** [FamilySearch — Mariana Pimentel, registros de casamento 1907–1914, grupo M9SS-Q66](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9LX-JBS?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A68YS-1MVX&action=view&cc=3741255&lang=pt&groupId=M9SS-Q66), filme `#004093330`, item 8, imagem 122/234.
+**Resultado:** o visor do documento original foi aberto. O painel identifica Carlos Schell como pessoa mencionada no registro de Pedro Schell: cônjuge Anna Schell e filho Pedro Schell. O índice individual associado informa Pedro com 28 anos, nascimento estimado em 1883, casamento em 24/05/1911, certificado n.º 17, local geral Rio Grande do Sul, e cônjuge Dominga Grassotti Marcos, 26 anos; João Grassotti e Victoria Grassotti aparecem como demais pessoas.
+**Avaliação:** este é um terceiro casamento civil de filho atribuído ao casal Carlos–Anna, com imagem original acessível. O título do livro indica Mariana Pimentel, enquanto o índice individual fornece apenas Rio Grande do Sul; essa diferença de granularidade deve ser preservada. Há também uma discrepância técnica de referência: a URL aberta usa `68YS-1MVX`, enquanto a citação exibida pelo FamilySearch usa `68YS-1MV6`; ambas devem ser mantidas até conferência independente. A imagem ainda não foi transcrita integralmente.
+
+## Registro E-98 — casamento indexado de Albino Schell, 1909
+
+**Fonte:** [FamilySearch — busca de registros para Albino Schell no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Albino&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** o terceiro resultado informa casamento de Albino Schell em 02/10/1909, em Três Capões, Cruz Alta, Rio Grande do Sul; nascimento estimado em 1885; pais Carlos Schell e Anna Schell; cônjuge Catharina Laurinda Trott. A busca também mostra um registro posterior de Albino com nascimento em 27/06/1886 e cônjuge Laurinda Christina, mas sem filiação completa no trecho exibido.
+**Avaliação:** o casamento de 1909 é um alvo de alto valor por repetir o casal parental, a localidade e a cronologia do grupo; ainda é índice até que o ID e a imagem sejam conferidos. A diferença entre Catharina Laurinda Trott e Laurinda Christina deve ser preservada como variante/possível normalização, não resolvida por suposição.
+
+## Registro E-99 — detalhes indexados do casamento de Albino, ID D9QQ-JS6Z
+
+**Fonte:** [FamilySearch — registro `D9QQ-JS6Z`](https://www.familysearch.org/ark:/61903/1:1:D9QQ-JS6Z?lang=pt).
+**Resultado:** Albino Schell aparece com 24 anos e nascimento estimado em 1885; casamento em 02/10/1909, em Três Capões, Cruz Alta, Rio Grande do Sul, certificado n.º 23. Os pais indexados são Carlos Schell e Anna Schell; a cônjuge é Catharina Laurinda Trott, 19 anos; Frederico Trott e Emilia Trott aparecem como demais pessoas do registro.
+**Avaliação:** o registro individual e a miniatura do documento no FamilySearch reforçam a identificação do Albino como filho do casal Carlos–Anna e são compatíveis com o perfil colaborativo `K2VJ-JT5` (Albin Schell, 1886–1945). A miniatura/original do item foi localizada no visor, mas a transcrição do manuscrito e a leitura de naturalidade ainda não foram concluídas; a grafia Catharina Laurinda/Catarina Laurinda e a variante Laurinda Christina devem permanecer como variantes documentais.
+
+## Registro E-100 — original do casamento de Albino, imagem acessível
+
+**Fonte:** [FamilySearch — Três Capões, registros de casamento janeiro de 1906–maio de 1916, grupo M9S9-BL9](https://www.familysearch.org/ark:/61903/3:1:3QS7-99LD-7Z1D?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AD9QQ-JS6Z&action=view&cc=3741255&lang=pt&groupId=M9S9-BL9), filme `#004090851`, item 10, imagem 60/240.
+**Resultado:** o visor autenticado abriu a página manuscrita e o painel identifica Albino Schell, idade 24, cônjuge Catharina Laurinda Trott e pais Anna Schell e Carlos Schell. A imagem de grupo é visualmente acessível, embora a escrita esteja pequena no enquadramento padrão e não tenha sido transcrita integralmente nesta rodada.
+**Avaliação:** a fonte primária visual está localizada e pode ser revisitada para leitura ampliada; a referência do registro individual `D9QQ-JS6Z` e a imagem do grupo devem ser citadas conjuntamente. O original não resolve, por si, a naturalidade de Carlos nem a ponte com Alicia/Rosalvino.
+
+## Registro E-101 — ocorrências civis de Rosalvino Schell/Schel de Souza
+
+**Fonte:** [FamilySearch — busca de Rosalvino Schell no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Rosalvino&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a busca retornou 552 resultados. Entre os primeiros, há uma ocorrência `Rosalvino Schele de Souza`, no papel de pai, com cônjuge Carolina de Souza e filha Magda Renes de Souza; e outra `Rosalvino Schel de Souza`, também pai, com cônjuge Carolina Augusta Kenes de Souza e filho José Maria Kenes de Souza. O resultado não exibe data ou filiação parental de Rosalvino.
+**Avaliação:** as variantes `Schele`, `Schel` e `Schell` aparecem em atos civis e são compatíveis com o avô informado na linha direta, mas os registros devem ser abertos individualmente para confirmar identidade, local, data, declarante e pais. A primeira ocorrência pode ser uma família relacionada ou outro homônimo; não deve ser fundida automaticamente com o registro de José Maria nem com o perfil `P4KK-1QH`.
+
+## Registro E-102 — ID de ocorrência Rosalvino Schele de Souza
+
+**Fonte:** [FamilySearch — registro `XSF9-NC8N`](https://www.familysearch.org/ark:/61903/1:1:XSF9-NC8N?lang=pt), identificado a partir da busca de Rosalvino Schell/Schel no Rio Grande do Sul.
+**Resultado:** o primeiro registro relevante da busca, indexado como Rosalvino Schele de Souza, é apresentado como pai, com cônjuge Carolina de Souza e filha Magda Renes de Souza. O ID individual foi localizado, mas seus detalhes completos e a imagem original ainda precisam ser abertos.
+**Avaliação:** a variante `Schele` e a presença de Carolina são compatíveis com o ramo informado, porém o nome da filha Magda e a ausência de data/localidade impedem a fusão imediata com Rosalvino Schel de Souza, cônjuge Carolina Augusta Kenes de Souza, ou com o perfil `P4KK-1QH`.
+
+## Registro E-103 — óbito indexado de Magda e menção a Rosalvino, ID XSF9-NC8N
+
+**Fonte:** [FamilySearch — registro `XSF9-NC8N`](https://www.familysearch.org/ark:/61903/1:1:XSF9-NC8N?lang=pt).
+**Resultado:** o registro individual mostra que `Rosalvino Schele de Souza` foi mencionado no óbito de sua filha `Magda Renes de Souza`. A filha aparece com idade de 2 dias, nascimento indexado em 1977, local de nascimento no Estado do Rio Grande do Sul, evento de morte em Guaíba e menção a hospital e cemitério; `Carolina de Souza` e `Carolina Kenes de Souza` aparecem no conjunto. A citação exibida pelo FamilySearch traz a data de evento como 10/01/1810, evidentemente incompatível com a criança de 1977 e com a cronologia da família.
+**Avaliação:** o registro é útil para confirmar que a indexação relaciona Rosalvino Schele de Souza a uma filha chamada Magda e a Carolina, e a página o associa ao perfil `P4KK-1QH`; porém as datas e vários campos estão corrompidos. Deve ser tratado como índice de computador/pista, não como prova de identidade ou filiação de Rosalvino. A imagem original precisa ser lida para recuperar a data real e o texto do assento.
+
+## Registro E-104 — transcrição automática do óbito de Magda, 1979
+
+**Fonte:** [FamilySearch — Guaíba, registros de óbito 1975–1980, grupo M9S5-QQ2](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9GW-1WS4?view=fullText&action=view&cc=3741255&lang=pt&groupId=M9S5-QQ2), filme `#004208550`, item 2, imagem 260/334; ocorrência vinculada ao índice `XSF9-NC8N`.
+**Resultado:** a aba `TRANSCRIÇÃO` do FamilySearch exibe texto automático sobre o assento. O trecho visível indica a data **19 de janeiro de 1979**, menciona a cidade de Guaíba e o Hospital Nossa Senhora do Juramento, apresenta `Carolina Kenes de Souza` no contexto do registro e cita atestado de óbito firmado por Dirceu Francisco de Mario Rodrigues, com causa de morte lida como insuficiência respiratória. O trecho termina com a declaração de que faleceu `Magda Renes de Souza`.
+**Avaliação:** a transcrição automática fornece uma correção plausível e forte para a data corrompida `10/01/1810` exibida na ficha indexada, mas não substitui leitura paleográfica nem certidão. A imagem original está muito clara/estourada e o texto automático contém erros (`Guaíba` aparece deformado, entre outros); conservar a data de 19/01/1979 como leitura automática a confirmar. O registro fortalece a associação de Rosalvino Schele/Schel de Souza e Carolina Kenes de Souza ao núcleo familiar, mas ainda não revela os pais de Rosalvino.
+
+## Registro E-105 — ID da ocorrência Rosalvino Schel de Souza e José Maria
+
+**Fonte:** [FamilySearch — registro `6YPM-F1JQ`](https://www.familysearch.org/ark:/61903/1:1:6YPM-F1JQ?lang=pt), identificado no resultado da busca de Rosalvino Schell/Schel no Rio Grande do Sul.
+**Resultado:** o registro indexado apresenta `Rosalvino Schel de Souza` como pai, cônjuge `Carolina Augusta Kenes de Souza` e filho `José Maria Kenes de Souza`. O identificador individual foi localizado; a data, local, tipo de evento e imagem original ainda precisam ser conferidos.
+**Avaliação:** esta é a ocorrência mais alinhada ao núcleo privado de Rosalvino e Carolina, mas a repetição do perfil `P4KK-1QH` e a indexação computacional não substituem o assento original. O registro continua sem qualquer indicação dos pais de Rosalvino e sem ponte documental para Regino ou Carlos/Karl Schell.
+
+## Registro E-106 — óbito de José Maria e confirmação do núcleo Rosalvino–Carolina, ID 6YPM-F1JQ
+
+**Fonte:** [FamilySearch — registro `6YPM-F1JQ`](https://www.familysearch.org/ark:/61903/1:1:6YPM-F1JQ?lang=pt); a citação interna exibida na página aparece como `6YPM-F1J3`.
+**Resultado:** o registro é o óbito de `José Maria Kenes de Souza`, em **29/03/1971**, em Guaíba, Rio Grande do Sul, certificado n.º 599. José Maria tinha 16 dias e nasceu em **13/03/1971**, também em Guaíba. O registro associa `Rosalvino Schel de Souza` como pai e `Carolina Augusta Kenes de Souza` como esposa/mãe no conjunto familiar; a ocorrência está anexada pelo FamilySearch ao perfil `P4KK-1QH` de Rosalvino Schell de Souza (1940–2014).
+**Avaliação:** é a evidência civil indexada mais nítida, nesta rodada, para a composição do núcleo Rosalvino–Carolina e é coerente com o dado já encontrado no perfil familiar. Continua sendo indexação computacional e não informa os pais de Rosalvino; a imagem original deve ser lida para confirmar a grafia e o conteúdo completo. Não acrescenta qualquer elo com Alicia, Regino, Carlos/Karl ou Johann Nicolaus.
+
+## Registro E-107 — transcrição automática e campos do original de José Maria, óbito 5999
+
+**Fonte:** [FamilySearch — Guaíba, registros de óbito março–dezembro de 1971, grupo visualizado pelo registro `6YPM-F1JQ`](https://www.familysearch.org/ark:/61903/3:1:3QHV-L3N2-M9F3-8?view=fullText&action=view&cc=3741255&lang=pt), imagem 19/206.
+**Resultado:** a aba de transcrição automática reproduz o cabeçalho `Registro Civil de Nascimentos e Óbitos`, talão C-31, óbito n.º **5999**, e informa que foi lavrado no livro C-12, folha 157, o assento de **José Maria Kenes de Souza**, falecido em **29/03/1971 às 14h**, nesta cidade, do sexo masculino, de cor branca, com 16 dias de idade. O texto o declara filho legítimo de **Rosalvino Schel de Souza**, agricultor e residente nesta cidade, e de **Carolina Augusta Kenes de Souza**; a transcrição também inicia a naturalidade de Rosalvino, mas o trecho visível fica incompleto.
+**Avaliação:** esta é uma confirmação visual/textual mais forte do núcleo Rosalvino–Carolina do que a ficha isolada: o original está localizado e o texto automático conserva número do óbito, livro, folha, data, hora, filiação e ocupação. Ainda é necessário revisar o manuscrito em resolução ampliada e recuperar a continuação do campo de naturalidade de Rosalvino. O ato não informa os pais de Rosalvino e não liga o núcleo à Alicia, Regino, Carlos/Karl ou Johann Nicolaus.
+
+## Registro E-108 — busca combinada por Alicia Schell e Raimundo Souza
+
+**Fonte:** [FamilySearch — busca Alicia Schell com cônjuge Raimundo Souza no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Alicia&q.surname=Schell&q.spouseGivenName=Raimundo&q.spouseSurname=Souza&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta exibiu **0 resultados** para a combinação nominal Alicia Schell + Raimundo Souza, com local do evento no Rio Grande do Sul.
+**Avaliação:** o resultado é um **negativo limitado** da coleção/índice consultado. Não exclui variações de prenome (`Alícia`, `Elicia`, `Lícia`), sobrenome (`Schel`, `Schele`, `Shell`), ausência de indexação, registro paroquial não indexado, casamento em outra jurisdição ou erro do indexador. Continua sem localizar documento público que prove que Rosalvino é filho de Alicia e Raimundo.
+
+## Registro E-109 — variante acentuada Alícia Schell
+
+**Fonte:** [FamilySearch — busca `Alícia Schell` no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Al%C3%ADcia&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta com o prenome acentuado `Alícia` e sobrenome `Schell` exibiu **0 resultados**.
+**Avaliação:** este é outro negativo limitado do índice civil/paroquial consultado. Não elimina `Alicia/Alícia` com sobrenomes `Schel`, `Schele`, `Shell`, grafias sem indexação, registros paroquiais ou atos em jurisdição diferente. A ponte Alicia–Rosalvino continua não demonstrada por fonte pública localizada.
+
+## Registro E-110 — variante Alicia Schel
+
+**Fonte:** [FamilySearch — busca `Alicia Schel` no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Alicia&q.surname=Schel&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta com a variante de sobrenome `Schel` exibiu **0 resultados**.
+**Avaliação:** o resultado continua sendo negativo limitado da coleção indexada. É compatível com a hipótese de que o ato de Alicia esteja sob `Schell`, `Schele`, `Shell`, prenome diferente, somente em imagem não indexada ou em cartório/paróquia de outra jurisdição. Não altera a classificação do elo Alicia–Rosalvino, que permanece não demonstrado publicamente.
+
+## Registro E-111 — busca direta por Regino Schell
+
+**Fonte:** [FamilySearch — busca `Regino Schell` no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Regino&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta nominal exibiu **0 resultados** para Regino Schell no Rio Grande do Sul.
+**Avaliação:** o negativo é limitado à coleção e às grafias consultadas. Deve ser complementado por `Regina`, `Reginaldo`, `Regin`, `Schel`, `Schele`, `Shell`, `Schnell`, buscas sem sobrenome e consulta direta aos processos APERS 180190/180603/180674. Não altera o fato de que o processo APERS 180190 já declara Regino como pai de Rosalina; a filiação anterior de Regino segue aberta.
+
+## Registro E-112 — busca direta por Regina Schell
+
+**Fonte:** [FamilySearch — busca `Regina Schell` no Rio Grande do Sul](https://www.familysearch.org/pt/search/record/results?q.givenName=Regina&q.surname=Schell&q.anyPlace=Rio%20Grande%20do%20Sul).
+**Resultado:** a consulta exibiu **0 resultados** para Regina Schell.
+**Avaliação:** não há, nesta coleção indexada, registro nominal recuperado para Regina Schell. O resultado deve ser mantido como negativo limitado: a leitura APERS de `Regina` em documento de 1953 ainda é uma pista paleográfica, e pode corresponder a `Regino`, outro prenome ou pessoa sem índice. Não se deve criar a relação Regina/Regino–Rosalina–Carlos sem o assento original ou outra fonte independente.
+
+## Registro E-113 — APERS 180190 revela Regina Schell e avós maternos Carlos/Anna
+
+**Fonte:** [transcrição visual do processo APERS nº 180190](../docs/10_transcricao_integral_obtemdadosservlet_2026-08-21.md), especialmente pp. 4 e 8 do PDF `BRAZ0070D-Tapes-Cerro-Grande-Fundo-65-Caixa-37-Letras--1939-195501174` e `...195501178`.
+**Resultado:** no termo de declarações de 01/04/1955, Rosalina Schell é declarada **filha ilegítima de Regina Schell**, natural do Estado, doméstica, nascida em **1872**. Na certidão de nascimento anexada de Rosalina, o campo transcrito informa que os **avós maternos eram Carlos Schell e Anna Schell**; os campos dos avós paternos aparecem sem preenchimento. A mesma certidão situa o nascimento de Rosalina em 16/12/1906, em Americana, 3.º distrito de Tapes/Cerro Grande.
+**Avaliação:** este é um achado novo de alto valor para a pesquisa dos clusters, porque, se a leitura da certidão estiver correta, documenta a cadeia **Carlos Schell + Anna Schell → Regina Schell → Rosalina Schell**. Há, porém, três cautelas: (1) a fonte disponível é a reprodução/transcrição visual de uma certidão anexada a uma habilitação, não o livro original; (2) a data de Regina (1872) conflita com o batismo FamilySearch de Regina filha de Carlos/Anna em 23/04/1874; (3) essa cadeia envolve **Regina/Rosalina**, não Alicia/Rosalvino, portanto não pode ser usada para completar a linha direta de Jonathan. A hipótese de que Carlos/Anna do APERS sejam o mesmo casal do núcleo Santa Cristina/Taquara deve ser testada por localidades, idades, cônjuge e imagens, mantendo a ponte com Alicia e Rosalvino separada.
+
+## Registro E-114 — auditoria do ID FamilySearch XJ1K-N5D
+
+**Fonte:** [FamilySearch — perfil `XJ1K-N5D`](https://www.familysearch.org/pt/tree/person/details/XJ1K-N5D?lang=pt), consultado em 22/08/2026.
+**Resultado:** o endereço atualmente abre como `[Nome desconhecido]`, sexo desconhecido, com a mensagem `Pessoa não encontrada`, sem eventos, parentes ou fontes visíveis.
+**Avaliação:** o identificador que havia sido associado anteriormente a Regina não pode ser usado nesta rodada como perfil válido ou como confirmação de filiação. O batismo de Regina de 1874 deve ser citado pelo registro/imagem do livro e pelo grupo FamilySearch, não por esse ID de árvore. Isso reforça a necessidade de recuperar a página original e confrontá-la com a certidão de Rosalina do APERS.
+
+## Registro E-115 — batismo de Regina, Santa Cristina, imagem 52/110
+
+**Fonte:** [FamilySearch — Santa Cristina, batismos 1872–1876, DGS `004634183`, item 3, imagem 52/110, grupo `M9SH-RVS`](https://www.familysearch.org/ark:/61903/3:1:939N-7CR3-Y?view=fullText&keywords=Regina&searchForm=advanced&lang=pt&groupId=M9SH-RVS).
+**Transcrição automática exibida pelo visor:** “Aos trinta dias do mez de Abril do anno de mil oitocentos setenta e quatro, na Capella de Santa Roza desta parochia de Santa Christina do Pinhal [...] baptizou e pôs os Santos Oleos no innocente Regina, nascida a vinte e trez de Abril deste anno, filha legítima de Carlos Schell, e Anna Becker; assistindo como padrinhos Jacobo Breias, e como testemunha Quibo Braus.”
+**Avaliação:** a imagem do livro e o texto automático localizam um batismo de `Regina`, nascida em 23/04/1874 e batizada em 30/04/1874, filha legítima de **Carlos Schell e Anna Becker**. A leitura automática contém erros e não substitui transcrição paleográfica; a imagem deve ser conferida em resolução ampliada. O assento fornece uma prova forte do núcleo Carlos–Anna e cria uma tensão com o processo APERS 180190, que declara Rosalina filha de Regina Schell nascida em 1872 e lista Carlos/Anna como avós maternos. Ainda não demonstra que esta Regina seja a mesma pessoa da mãe de Rosalina; a diferença de data, o intervalo de idade e a ausência de sobrenome no batismo exigem teste documental adicional.
+
+## Registro E-116 — conferência visual da certidão de Rosalina no APERS 180190
+
+**Fonte:** [PDF APERS 180190](../sources/apers_processo_180190.pdf), p. 8 do processo; identificador de imagem `BRAZ0070D-Tapes-Cerro-Grande-Fundo-65-Caixa-37-Letras--1939-195501178`.
+**Leitura visual:** a certidão do Registro Civil do Município de Tapes, 3.º distrito de Cerro Grande, registra `Rosalina Schell`, nascida em **16 de dezembro de 1906**, em Americana, neste distrito, do sexo feminino e de cor branca, filha de **Regina Schell**. Os campos de avós paternos estão em branco; nos campos de avós maternos, a página mostra **Carlos Schell** e **Anna Schell**. A observação manuscrita reforça que a registranda é filha ilegítima de Regina Schell.
+**Avaliação:** a imagem confirma que a menção a Carlos e Anna não foi criada apenas pelo OCR: eles estão efetivamente no campo de avós maternos da certidão anexada. Isso sustenta documentalmente a cadeia local **Carlos Schell/Anna Schell → Regina Schell → Rosalina Schell**, mas não prova que esses Carlos e Anna sejam o casal do batismo de Regina de 23/04/1874 ou do núcleo Santa Cristina/Taquara; a certidão não fornece, nessa página, a idade de Carlos/Anna, a naturalidade deles, o nome do cônjuge de Regina além de sua condição de mãe, nem uma ligação a Alicia/Rosalvino.
+
+## Registro E-117 — limite de acesso ao detalhe do Portal Registro Civil
+
+**Fonte:** [Portal Registro Civil — detalhe de Rosalina Schell de Souza](https://www.registrocivil.org.br/search-detail/3c9f521b-9db5-11f1-b8ec-06a75f30aeeb).
+**Resultado:** ao reabrir o endereço em 22/08/2026, o portal redirecionou para o `Sistema de Autenticação Eletrônica do Registro Civil – IdRC`, oferecendo entrada por IdRC, ICP-Brasil ou Gov.br. Não foi iniciado login, emissão, compra ou solicitação de certidão.
+**Avaliação:** os metadados públicos já preservados no repositório continuam sendo evidência de localização do assento de Rosalina em Guaíba (14/07/1993, matrícula e filiação exibida como Regina Schell), mas o detalhe não pôde ser revalidado nesta sessão sem autenticação. O acesso autenticado não é necessário para continuar a pesquisa em APERS, FamilySearch e fontes paroquiais; se o usuário quiser obter inteiro teor, deverá fazê-lo pessoalmente no portal, sem compartilhar credenciais.
+
+## Registro E-118 — busca APERS por Regino Schell, 1890–1910
+
+**Fonte:** [APERS — resultado público da busca](https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true), consulta `Regino Schell`, anos 1890–1910, realizada em 22/08/2026.
+**Resultado:** o índice informou **3 registros em 1 página**, todos classificados como processos/habilitações de casamento e agrupados por aproximação fonética: Tânia Regina Schell, em Canela, processo de 1978; Lourinha Regina Scholl, em Canela, processo de 1977; e Regina Luiza Schul, em Ijuí, processo de 1931. Não apareceu Regino Schell, Regina Schell do ramo de Tapes ou documento em Cerro Grande/Tapes.
+**Avaliação:** o APERS não produziu, nesta consulta, um documento do cluster de Tapes. Os três resultados são homônimos/variações sem conexão demonstrada e não devem ser usados como pistas genealógicas do ramo. O resultado é limitado pela aproximação fonética, cobertura incompleta e pelo intervalo consultado; a filiação de Regino permanece aberta.
+
+## Registro E-119 — busca APERS por Regina Schell, 1870–1890
+
+**Fonte:** [APERS — resultado público](https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true), consulta livre `Regina Schell`, intervalo informado 1870–1890, em 22/08/2026.
+**Resultado:** o portal informou 3 registros em 1 página, todos processos/habilitações de casamento agrupados por aproximação fonética: Tânia Regina Schell, Canela, 1978; Lourinha Regina Scholl, Canela, 1977; e Regina Luiza Schul, Ijuí, 1931. Nenhuma ocorrência corresponde nominalmente à mãe de Rosalina em Tapes/Cerro Grande.
+**Limitação de filtro:** apesar de o formulário ter recebido 1870 e 1890, os anos mostrados nas linhas são 1931, 1977 e 1978; isso indica que a interface pode estar agrupando por aproximação ou não aplicando o intervalo de forma estrita. O resultado deve ser lido como controle de busca fonética, não como exclusão de documentos de 1870–1890. Nenhum desses três homônimos foi incorporado ao ramo.
+
+## Registro E-120 — APERS avançado: Schell em Tapes
+
+**Fonte:** [APERS — resultado da pesquisa avançada](https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true), consulta `Schell`, município `Tapes - RS - Brasil`, intervalo informado 1890–1910, em 22/08/2026.
+**Resultado:** o índice retornou **4 registros**, todos do tipo processo/habilitação para casamento, no Cartório do Registro Civil de Tapes: **Ademar Antunes Leal + Alvina Schell** (ano exibido 1947), **Alvino Paulino de Souza + Rosalina Schell** (1955), **Cravilino Nogueira + Celanira Schell** (1953) e Gabriel Pedro Leopoldo Schiehll + Maria Pereira (1945).
+**Avaliação:** os três primeiros confirmam a concentração do cluster Schell de Tapes em habilitações já identificadas nos processos APERS 180603, 180190 e 180674; não apareceu Regino, Regina ou Alicia como nubente no índice. Os anos das linhas não obedecem ao intervalo 1890–1910 informado, repetindo a limitação observada no filtro do APERS; por isso a busca é útil para mapear documentos e não para excluir atos por período. O resultado não fornece filiação de Regino nem ponte com Carlos/Karl, mas confirma os alvos documentais laterais.
+
+## Registro E-121 — FamilySearch: Rosalvino Schell em Guaíba
+
+**Fonte:** [FamilySearch — busca de registros](https://www.familysearch.org/pt/search/record/results?q.givenName=Rosalvino&q.surname=Schell&q.anyPlace=Gua%C3%ADba%2C%20Rio%20Grande%20do%20Sul), realizada sem filtro de cônjuge, em 22/08/2026.
+**Resultado:** o FamilySearch exibiu **0 resultados** para `Rosalvino Schell` com local Guaíba, embora buscas menos restritas anteriormente tenham recuperado óbitos de descendentes em que aparece a variante `Rosalvino Schel/Schele de Souza`.
+**Avaliação:** o zero é negativo apenas para o conjunto indexado e para essa grafia/localidade. Não exclui `Rosalvino Schel`, `Rosalvino Schele`, registros sem local, atos não indexados ou certidões em cartórios de jurisdição diferente. O resultado não resolve a filiação de Rosalvino nem a identidade de sua mãe Alicia Schell.
+
+## Registro E-122 — FamilySearch: variante Rosalvino Schel sem local
+
+**Fonte:** [FamilySearch — busca de registros](https://www.familysearch.org/pt/search/record/results?q.givenName=Rosalvino&q.surname=Schel), realizada em 22/08/2026.
+**Resultado:** a consulta ampla por `Rosalvino Schel`, sem localidade, retornou **0 resultados** no índice de registros históricos.
+**Avaliação:** o resultado não elimina os registros já vistos de descendentes que transcrevem o pai como `Rosalvino Schel de Souza` ou `Rosalvino Schele de Souza`, pois a busca por sobrenome composto, acentos, indexação de parentes e normalização do FamilySearch não é uniforme. Permanece sem prova primária o nascimento, casamento e a filiação de Rosalvino.
+
+## Registro E-123 — FamilySearch: Rosalvino Schele de Souza
+
+**Fonte:** [FamilySearch — busca de registros](https://www.familysearch.org/pt/search/record/results?q.givenName=Rosalvino&q.surname=Schele%20de%20Souza), realizada em 22/08/2026, sem localidade.
+**Resultado:** a pesquisa exibiu **0 resultados** para `Rosalvino Schele de Souza`.
+**Avaliação:** a ausência no índice não contradiz os óbitos de José Maria e Magda, nos quais a variante aparece como nome do pai; nesses atos, Rosalvino surge como parente indexado e não como pessoa principal. O nascimento, casamento e filiação de Rosalvino continuam sem assento próprio localizado. O resultado reforça a prioridade de localizar livros de Guaíba/Tapes/Cerro Grande por consulta de imagem, pedido cartorial ou índice alternativo.
+
+## Registro E-124 — controle APERS por `Regina` sem filtros
+
+**Fonte:** [APERS — resultado público](https://buscadocumentos.apers.rs.gov.br/lista-documentos?semHeaders=true), busca avançada por `Regina` sem município, espécie ou intervalo efetivamente restritivo, em 22/08/2026.
+**Resultado:** o portal informou **2.304 registros em 2 páginas**, abrangendo boletins, cartas, processos e numerosos nomes comuns. A primeira página exibida contém ocorrências administrativas e homônimos; a busca textual no conteúdo carregado não localizou `Rosalina`.
+**Avaliação:** esta consulta é apenas um controle de amplitude e não tem valor genealógico para o ramo Schell. O volume de homônimos torna inviável inferir qualquer vínculo por `Regina` isoladamente. A pesquisa útil permanece a consulta por `Schell` em Tapes, os processos APERS já recebidos e os livros paroquiais/civis.
+
+## Registro E-125 — FamilySearch: Alicia Schell sem localidade
+
+**Fonte:** [FamilySearch — busca de registros](https://www.familysearch.org/pt/search/record/results?q.givenName=Alicia&q.surname=Schell), realizada em 22/08/2026.
+**Resultado:** a consulta por `Alicia Schell`, sem localidade ou evento adicional, exibiu **0 resultados** no índice de registros históricos.
+**Avaliação:** o resultado é negativo apenas para o índice e para essa grafia. Não exclui `Alícia`, `Alicia Schel/Shell`, nome de casada, registros em que Alicia aparece como mãe/parente ou livros ainda não indexados. Até este ponto, não há fonte primária pública ligando Alicia Schell a Rosalvino ou identificando seus pais.
+
+## Registro E-126 — fechamento da fase consular e invenio
+
+A auditoria da documentação já produzida confirma que a fase de matrículas consulares foi executada em camadas. Foram examinadas as listas remanescentes do Ministério Federal das Relações Externas para Porto Alegre A–F, G–K, L–R e S–Z, com OCR e buscas por `Schell`, `Schnell`, `Schel` e `Shell`, além de variantes de prenome e do casal (`Nicolaus`, `Nikolaus`, `Nicolau`, `Johann`, `Johannes`, `Karl`, `Carlos` e `Becker`). Não houve ocorrência legível do sobrenome-alvo nos blocos de Porto Alegre. Planilhas de Belém, Joinville, Juiz de Fora, Recife, Rio de Janeiro, Santos e São Paulo também foram pesquisadas automaticamente; os resultados nominais aparentes eram falsos positivos por prenomes ou sobrenomes próximos, não uma entrada Schell/Schnell confirmada.
+
+O resultado é **negativo limitado**, pois as listas são remanescentes, alguns PDFs são escaneados, o OCR pode falhar e uma matrícula posterior à emigração não é requisito para a existência do imigrante. No [invenio do Politisches Archiv](https://politisches-archiv.diplo.de/invenio/main.xhtml), a busca simples por `Schell` retornou 181 ocorrências contextuais; o resultado aparentemente nominal em `Auslandsvertretungen R–S` foi `RAV 251 — Konsulat Strömstadt`, 1936–1945, sem compatibilidade temporal ou geográfica demonstrada com Johann Nicolaus Schell e o núcleo brasileiro. Não foi encontrado documento consular que ligue Johann, Carlos/Karl, Anna Becker, Alicia ou Rosalvino.
+
+**Conclusão da fase:** as fontes consulares e o invenio não acrescentaram elo documental à cadeia. Permanecem úteis apenas como controles negativos e como indicação de que outros documentos alemães — especialmente o processo LHA `Best. 393 Nr. 859` e o livro paroquial ausente — têm maior poder probatório.

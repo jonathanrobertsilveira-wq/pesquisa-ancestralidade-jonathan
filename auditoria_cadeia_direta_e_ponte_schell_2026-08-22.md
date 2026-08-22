@@ -1,92 +1,95 @@
 # Auditoria da cadeia direta e da ponte Schell
 
 **Data de corte:** 22 de agosto de 2026
-**Pergunta:** a linha direta de Jonathan Robert Silveira de Souza está documentalmente ligada ao ramo Karl/Carlos Schell–Johann Nicolaus Schell pesquisado em Santa Cristina, Taquara e Oberbrombach?
+**Pergunta:** a linha direta de Jonathan está documentalmente ligada ao ramo Karl/Carlos Schell–Johann Nicolaus Schell pesquisado em Santa Cristina, Taquara, Tapes/Cerro Grande e Oberbrombach?
 
 ## Conclusão executiva
 
-A auditoria confirma, por conhecimento familiar direto e por documentação privada não publicada, os elos recentes **Jonathan → Valdeci Kenes de Souza → Rosalvino Schell/Schel de Souza**. A árvore colaborativa do FamilySearch acrescenta a hipótese de que Rosalvino seja filho de **Raimundo José de Souza e Alicia Schell de Souza**, mas esse elo ainda precisa de certidão ou registro original.
+Os elos recentes `Jonathan → Valdeci → Rosalvino` estão confirmados no âmbito privado do projeto, por documentação e conhecimento familiar do pesquisador. A árvore colaborativa atribui a Rosalvino os pais Raimundo José de Souza e Alicia Schell de Souza, mas esse elo continua sem certidão ou registro original público localizado.
 
-A pesquisa do ramo **Karl/Carlos Schell → Johann Nicolaus/Nicolau Schell** produziu uma hipótese independente e forte: registros paroquiais brasileiros indexados entre 1871 e 1881, a ficha OGF I169502 e a árvore FamilySearch apontam para Carlos/Karl, filho de Johann Nicolaus, associado a Oberbrombach e emigrado para o Rio Grande do Sul em 1856. Contudo, **não foi localizado até o momento nenhum documento que ligue Alicia Schell, Regino Schell ou Rosalvino Schell ao casal Karl/Carlos–Anna Becker ou a Johann Nicolaus**.
+A pesquisa do cluster `Karl/Carlos Schell–Anna Becker–Nicolau/Catharina` foi fortalecida por imagens de grupo dos batismos brasileiros de Maria (1871), Regina (1874) e Carlos (1878), por atos civis indexados de filhos e pela repetição dos nomes Nicolau/Nicolas Schell e Catharina Schmitt como avós paternos. Uma fonte brasileira adicional, a habilitação APERS de 1955, declara que Rosalina Schell era filha de Regina Schell e que Carlos Schell e Anna Schell eram seus avós maternos. Isso cria uma **ponte candidata** entre Tapes/Cerro Grande e Carlos/Anna, mas não liga ainda essa Regina a Alicia, Rosalvino ou Jonathan.
 
-Portanto, os dois conjuntos devem permanecer como **clusters Schell paralelos**, e não como uma única linhagem. O resultado atual permite investigar uma possível conexão, mas não afirmar que Johann Nicolaus seja ancestral direto de Jonathan.
+A ponte também não está fechada internamente: a habilitação de 1955 declara Regina nascida em 1872, enquanto o batismo localizado no FamilySearch informa Regina nascida em 23/04/1874 e filha de Carlos Schell e Anna Becker. A diferença de dois anos exige localizar o ato próprio de Regina antes de fundir as identidades.
 
-> **Regra de identificação adotada:** coincidência do sobrenome Schell, por si só, não une pessoas. A fusão de clusters exige combinação de nomes, datas, localidade, cônjuge, filiação e ao menos uma fonte primária ou conjunto independente de fontes convergentes.
+> **Conclusão:** Johann Nicolaus pode ser o Nicolau brasileiro e o núcleo Carlos/Anna pode ter uma relação real com Rosalina/Regina, mas Johann Nicolaus ainda não está demonstrado como ancestral direto de Jonathan. A auditoria é genealógica; não conclui cidadania alemã ou elegibilidade jurídica.
 
 ## Cadeia direta atualmente auditada
 
 | Elo | Pessoa ou relação | Evidência atual | Classificação | Lacuna discriminante |
 |---|---|---|---|---|
-| 1 | Jonathan → Valdeci Kenes de Souza | Certidão de nascimento privada de Jonathan e conhecimento pessoal direto | **Confirmado no âmbito privado** | Obter registro público para auditoria externa, se necessário |
-| 2 | Jonathan → Rosalvino Schell/Schel de Souza | Certidão de nascimento privada de Jonathan e conhecimento pessoal direto | **Confirmado no âmbito privado** | Localizar nascimento/óbito/casamento de Rosalvino para confirmação pública |
-| 3 | Rosalvino → Raimundo José de Souza + Alicia Schell de Souza | Árvore FamilySearch; perfis `GV4D-D91` e `GV54-K3Q` | **Hipótese documental** | Registro de nascimento, casamento ou óbito de Rosalvino que declare os pais |
-| 4 | Raimundo José de Souza → Manoel José de Souza + Maria Candida Tavares | Árvore e registros civis indexados; manuscrito ainda não transcrito com segurança | **Forte indício** | Ler o assento original e confirmar a filiação |
-| 5 | Alicia Schell → família Schell anterior | Nenhum registro primário ligando Alicia a Regino, Carlos ou Johann foi localizado | **Não demonstrado** | Nascimento, casamento ou óbito de Alicia com filiação completa |
+| 1 | Jonathan → Valdeci Kenes de Souza | Documentação privada e conhecimento familiar direto | **Confirmado no âmbito privado** | Registro público não reproduzido no repositório |
+| 2 | Valdeci → Rosalvino Schell/Schel de Souza | Documentação privada e conhecimento familiar direto | **Confirmado no âmbito privado** | Nascimento, casamento ou óbito público de Rosalvino |
+| 3 | Rosalvino → Raimundo José de Souza + Alicia Schell de Souza | Árvore colaborativa e referências de trabalho | **Hipótese documental** | Registro próprio de Rosalvino declarando os pais |
+| 4 | Alicia Schell → família Schell anterior | Nenhuma fonte primária localizada | **Não demonstrado** | Nascimento, casamento ou óbito de Alicia com filiação completa |
+| 5 | Rosalvino/Alicia → Regina/Rosalina de Tapes | Nenhuma fonte encontrada | **Não demonstrado** | Documento que ligue nomes, datas, localidade e parentesco |
 
-A linha de trabalho, portanto, é:
+A linha de trabalho permanece:
 
 > **Jonathan → Valdeci → Rosalvino → (hipótese) Raimundo José + Alicia Schell**
 
-O trecho depois de Alicia permanece aberto. Não se deve substituir Alicia por Rosalina, Alvina, Celanira ou qualquer outra pessoa Schell apenas por semelhança nominal.
+Não se deve substituir Alicia por Rosalina, Alvina, Celanira ou outra pessoa Schell por semelhança nominal.
 
-## Cluster Schell de Karl/Carlos e Johann Nicolaus
+## Cluster brasileiro Carlos/Anna e possível ponte Tapes
 
-| Elo | Pessoa ou relação | Evidência atual | Classificação | Lacuna discriminante |
-|---|---|---|---|---|
-| A | Johann Nicolaus Schell, nascido em 13/09/1812 em Oberbrombach | Ficha OGF I169502 e perfil FamilySearch `LBHB-QJH` | **Forte indício secundário** | Batismo original de 1812 |
-| B | Johann Nicolaus → Karl/Carlos Schell | Árvore FamilySearch `K2VV-DYC`, ficha OGF e datas/nomes compatíveis | **Forte indício** | Registro alemão ou brasileiro que nomeie a filiação |
-| C | Carlos/Karl → filhos em Santa Cristina | Índices/assentos de Maria (1871), Regina (1874), Carlos (1878) e Guilherme (1881) | **Forte indício reforçado** | Transcrição e conferência sistemática das imagens originais |
-| D | Carlos/Karl → Nicolau/Catharina como geração anterior | Batismos indexados de 1878 e 1881 repetem Nicolas/Nicolau Schell e Catharina Schmitt como avós paternos | **Forte indício de núcleo** | Imagens originais e identificação nominal completa |
-| E | Johann Nicolaus → Brasil | Ficha OGF; pedido de emigração de 27/03/1856; referência `Best. 393 Nr. 859` | **Forte indício** | Resposta e eventual cópia do processo do LHA Koblenz |
-| F | Johann Nicolaus/Karl → Alicia ou Rosalvino | Nenhuma fonte localizada | **Não demonstrado** | Documento-ponte que nomeie Alicia, Regino, Rosalvino ou uma geração intermediária |
-
-## Por que os clusters não podem ser unidos ainda
-
-A linha Jonathan contém **Alicia Schell de Souza** como mãe presumida de Rosalvino, enquanto o cluster europeu-brasileiro pesquisado contém **Carlos/Karl Schell**, sua esposa Anna Becker e o pai de Carlos, **Johann Nicolaus/Nicolau Schell**. Os nomes são compatíveis apenas no sobrenome; faltam sobreposição documental de localidade, datas, cônjuges, filhos ou filiação.
-
-Há ainda um terceiro conjunto regional envolvendo **Rosalina Schell**, **Regino Schell** e documentos do APERS em Tapes/Cerro Grande. A certidão anexada ao processo APERS nº 180190 identifica Regino como pai de Rosalina, mas a relação de Regino com Carlos/Karl ou Johann Nicolaus não foi demonstrada. Esse cluster também deve permanecer separado.
-
-| Cluster | Pessoas centrais | Evidência principal | Relação com o cluster Karl/Johann |
+| Elo | Evidência | Classificação | Observação |
 |---|---|---|---|
-| Linha direta Jonathan | Jonathan, Valdeci, Rosalvino, Raimundo, Alicia | Certidão privada, conhecimento direto e árvore FamilySearch | **Sem ponte documental localizada** |
-| Schell de Tapes/Cerro Grande | Rosalina, Regino, Alvina, Celanira e descendentes | Processos APERS nº 180190, 180603 e 180674 | **Possível trilha intermediária, ainda não ligada** |
-| Schell de Santa Cristina/Taquara | Karl/Carlos, Anna Becker, seus filhos e Nicolau/Catharina | Batismos FamilySearch 1871–1881, casamento de João, óbito de Adolfo | **Cluster-alvo da pesquisa alemã** |
-| Schell de Oberbrombach | Johann Nicolaus, Charlotte Catharina e filhos | OGF I169502, Archion e processo LHA citado | **Origem alemã provável, ainda não primária** |
+| Carlos/Anna formam um núcleo em Santa Cristina/Parobé | Batismos de Maria, Regina e Carlos; atos civis posteriores de filhos | **Forte indício reforçado** | Grafias variam entre Schell/Schnell e Becker/Beler/Beiker |
+| Maria é filha de Carlos e Anna | DGS 004634183, item 2, imagem 159/206, texto exibido pelo visor | **Forte indício; imagem acessível** | O texto lê `elle da Allemanha`; falta leitura paleográfica independente |
+| Regina de 1874 é filha de Carlos e Anna | DGS 004634183, item 3, imagem 52/110 | **Forte indício; imagem acessível** | Pode ser a mãe de Rosalina, mas a data de 1872 no APERS entra em conflito |
+| Carlos de 1878 é filho de Carlos e Anna | DGS 004634183, item 4, imagem 61/106 | **Forte indício reforçado** | Avós paternos aparecem como Nicolau/Nicolas e Catharina; OCR contém erros |
+| Guilherme de 1881 é filho de Carlos e Anna | ARK HK41-ZZT2, índice FamilySearch | **Forte indício de núcleo** | Página original específica ainda não localizada |
+| Rosalina é filha de Regina | Certidão anexada à habilitação APERS 180190, 1955 | **Comprovado pelo documento recebido** | Regina é declarada nascida em 1872 |
+| Carlos/Anna são avós maternos de Rosalina | Certidão anexada à habilitação APERS 180190, 1955 | **Comprovado pelo documento recebido** | O documento usa Anna Schell; o batismo usa Anna Becker |
+| Regina de 1872 = Regina batizada em 1874 | Comparação APERS–FamilySearch | **Hipótese plausível, não demonstrada** | Diferença de dois anos e falta de ato próprio de Regina |
 
-## Próximos documentos de maior poder discriminante
+## Cluster alemão Johann Nicolaus
 
-| Ordem | Documento-alvo | Hipótese que testa | Resultado que permitiria avançar |
+| Elo | Evidência | Classificação | Lacuna |
+|---|---|---|---|
+| Johann Nicolaus nasceu em 13/09/1812 em Oberbrombach | OGF I169502 e perfil FamilySearch LBHB-QJH | **Forte indício secundário** | Batismo original no volume de 1809–1824 |
+| Johann era filho de Joh Tobias Schell e Christina Ruppental | Árvore FamilySearch | **Hipótese forte** | Confirmação no Kirchenbuch |
+| Johann emigrou para o Brasil em 1856 | OGF e referência a `Best. 393 Nr. 859` | **Forte indício secundário** | Resposta/cópia do processo LHA Koblenz |
+| Johann Nicolaus = Nicolau brasileiro | Coerência de nomes, cônjuge, filho Karl/Carlos e repetição de avós | **Hipótese forte** | Documento contemporâneo que una as duas identidades |
+| Johann Nicolaus = ancestral direto de Jonathan | Nenhuma cadeia completa localizada | **Não demonstrado** | Fechar Alicia/Rosalvino e os elos intermediários |
+
+## Clusters que devem permanecer separados
+
+| Cluster | Pessoas centrais | Evidência principal | Relação atual com Johann/Carlos |
+|---|---|---|---|
+| Linha direta de Jonathan | Jonathan, Valdeci, Rosalvino, Raimundo, Alicia | Documentação privada, conhecimento direto e árvore colaborativa | Sem ponte documental fechada |
+| Tapes/Cerro Grande | Rosalina, Regina, Alvina, Celanira e descendentes | Habilitações e certidões APERS, incluindo o processo 180190 | Ponte candidata para Carlos/Anna, mas não para Alicia/Rosalvino |
+| Santa Cristina/Taquara | Carlos/Karl, Anna Becker, filhos, Nicolau/Catharina | Batismos e registros civis do FamilySearch | Cluster brasileiro-alemão investigado |
+| Oberbrombach/Niederbrombach | Johann Nicolaus, Charlotte Catharina e família | OGF, Archion e processo LHA citado | Origem alemã provável, ainda sem fonte primária |
+| Regino Schell | Regino e possíveis descendentes de Tapes/Cerro Grande | Buscas APERS e documentos laterais | Não ligado a Carlos/Anna ou Johann |
+
+## Documentos de maior poder discriminante
+
+| Ordem | Documento-alvo | Hipótese testada | Resultado que mudaria a classificação |
 |---:|---|---|---|
-| 1 | Nascimento/casamento/óbito de Alicia Schell de Souza | Quem eram os pais de Alicia | Se trouxer Carlos, Nicolau, Regino ou localidade compatível, pode abrir a ponte |
-| 2 | Nascimento/óbito/casamento de Rosalvino Schell de Souza | Se Rosalvino era realmente filho de Alicia e Raimundo | Confirmação pública do elo central da linha direta |
-| 3 | Nascimento e casamento de Regino Schell | Origem do cluster de Tapes/Cerro Grande | Pode revelar pais e aproximar ou separar Regino de Karl/Carlos |
-| 4 | Imagens dos batismos de Carlos (1878) e Guilherme (1881) | Se os avós paternos foram transcritos corretamente | Confirma Nicolau/Catharina e a grafia do núcleo |
-| 5 | Processo `Best. 393 Nr. 859` do LHA Koblenz | Johann, família, destino e data de saída | Pode confirmar a família alemã e o embarque para o RS |
-| 6 | Batismo de Johann Nicolaus em Niederbrombach/Oberbrombach | Pais, data e local exatos | Transforma a origem alemã em evidência primária |
+| 1 | Nascimento, casamento ou óbito de Alicia Schell de Souza | Pais e identidade de Alicia | Ligação com Carlos, Nicolau, Regina ou localidade compatível |
+| 2 | Registro próprio de Rosalvino Schel/Schele de Souza | Pais de Rosalvino | Confirmação pública do elo central da linha direta |
+| 3 | Registro próprio de Regina Schell | Regina 1872 versus 1874 | Compatibilidade de pais, idade, cônjuge e residência |
+| 4 | Livro de nascimento de Rosalina e outros atos de Cerro Grande/Tapes | Consistência da ponte APERS | Repetição independente de Carlos/Anna e da filiação de Regina |
+| 5 | Imagens de Carlos 1878 e Guilherme 1881 | Grafia e avós paternos | Confirmação paleográfica de Nicolau/Catharina |
+| 6 | Batismo de Johann e processo `Best. 393 Nr. 859` | Origem, família e emigração | Prova primária da identidade alemã e da migração |
 
-## Conclusão sobre eventual cidadania
+## Cidadania e limites
 
-Esta auditoria é genealógica e não conclui cidadania alemã. Mesmo que o batismo de Johann Nicolaus e o processo de emigração sejam confirmados, ainda será necessário provar cada elo da descendência até Jonathan e analisar a situação jurídica de cada geração, inclusive regras históricas de nacionalidade, naturalização e eventual perda ou manutenção da cidadania. A página oficial alemã sobre matrícula consular também informa que documentos brasileiros que apenas descrevem alguém como alemão, como regra, não bastam sozinhos para a análise consular [1].
+Mesmo que o batismo de Johann e o processo de emigração sejam confirmados, ainda seria necessário provar cada elo da descendência até Jonathan e analisar a legislação e a situação jurídica de cada geração. A matrícula consular e uma declaração brasileira de naturalidade podem ser pistas importantes, mas não substituem essa análise. Este documento não afirma cidadania alemã, elegibilidade ou transmissão jurídica.
 
 ## Privacidade e integridade
 
-Os dados privados de Jonathan e o endereço usado em contato arquivístico não são reproduzidos. A árvore FamilySearch não foi alterada. Nenhuma pessoa viva foi investigada além do necessário para organizar a cadeia informada pelo próprio pesquisador.
+Dados privados de Jonathan, endereço usado em contato arquivístico, documentos de pessoas vivas, credenciais e material de sessão não são reproduzidos. A árvore FamilySearch não foi alterada e nenhuma fonte foi anexada. Os rascunhos destinados ao Boppard/EKiR e ao APERS permanecem não enviados.
 
 ## Referências
 
-[1]: https://brasil.diplo.de/br-pt/servicos/nacionalidade/matriculaconsular-2602058 "Ministério Federal das Relações Externas — Matrícula Consular"
-[2]: https://www.familysearch.org/pt/tree/person/details/K2VV-DYC "FamilySearch — Karl/Carlos Schell, K2VV-DYC"
-[3]: https://www.familysearch.org/pt/tree/person/details/LBHB-QJH "FamilySearch — Johann Nicolaus Schell, LBHB-QJH"
-[4]: https://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer "OGF Auswanderer — Johann Nikolaus Schell, I169502"
-[5]: https://www.familysearch.org/ark:/61903/1:1:HKHL-VG3Z "FamilySearch — batismo indexado de Carlos Schnell, 1878"
-[6]: https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2 "FamilySearch — batismo indexado de Guilherme Schell, 1881"
-[7]: https://www.familysearch.org/ark:/61903/1:1:685Y-WFH6 "FamilySearch — óbito indexado de Jacob Schell, 1913"
-[8]: https://apertus.rlp.de/ "APERTUS — Landesarchivverwaltung Rheinland-Pfalz"
-
-## Documentos internos relacionados
-
-- `linha_direta_jonathan_atualizada_2026-08-20.md`
-- `arvore_provisoria_evidencias.md`
-- `matriz_evidencias_ramo_schell_2026-08-22.md`
-- `relatorio_continuacao_pesquisa_2026-08-22.md`
-- `docs/35_diario_execucao_schell_2026-08-22.md`
+[1]: https://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer "OGF Auswanderer — Johann Nikolaus Schell, I169502"
+[2]: https://www.familysearch.org/ark:/61903/3:1:939N-7CRZ-S?view=fullText&keywords=Schell&searchForm=advanced&lang=pt&groupId=M9SH-RV9 "FamilySearch — Santa Cristina, batismos 1864–1872, imagem 159"
+[3]: https://www.familysearch.org/ark:/61903/3:1:939N-7CR3-Y?view=fullText&keywords=Regina&searchForm=advanced&lang=pt&groupId=M9SH-RVS "FamilySearch — Santa Cristina, batismos 1872–1876, imagem 52"
+[4]: https://www.familysearch.org/ark:/61903/3:1:939N-7CRJ-9?view=fullText&keywords=Schell&searchForm=advanced&lang=pt&groupId=M9SH-RV3 "FamilySearch — Santa Cristina, batismos 1876–1879, imagem 61"
+[5]: https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2 "FamilySearch — Guilherme Schell, ARK HK41-ZZT2"
+[6]: [Processo APERS 180190](sources/apers_processo_180190.pdf) "Habilitação de casamento de Alvino Paulino de Souza e Rosalina Schell, 1955; certidão anexada"
+[7]: https://archiv.ekir.de/inhalt/evangelische-archivstelle-boppard/ "Archivstelle Boppard/EKiR"
+[8]: https://www.archion.de/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach/371321 "Archion — Niederbrombach/Oberbrombach e lacuna 1809–1824"
+[9]: https://brasil.diplo.de/br-pt/servicos/nacionalidade/matriculaconsular-2602058 "Ministério Federal das Relações Externas — Matrícula Consular"
+[10]: https://politisches-archiv.diplo.de/invenio/main.xhtml "invenio — Politisches Archiv do Auswärtiges Amt"
