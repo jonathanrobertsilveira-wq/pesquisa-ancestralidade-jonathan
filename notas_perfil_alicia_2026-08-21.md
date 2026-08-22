@@ -193,3 +193,20 @@ O perfil FamilySearch `P99P-N9F` foi aberto diretamente. Ele identifica **Waldem
 O perfil confirma a estrutura de quatro filhos mostrada no perfil de Alicia: Rosalvino, Jovenil, Manoel e Waldemar. A grafia `Wildemar` na fonte deve ser tratada como variante; a relação com Alicia é reforçada pela árvore e pela fonte civil, mas a imagem original deve ser consultada para confirmar o prenome e a filiação.
 
 URL: https://www.familysearch.org/en/tree/person/about/P99P-N9F
+
+## Verificação direta do Portal Registro Civil — Rosalvino e Alice
+O painel público do Portal Oficial Registro Civil foi aberto diretamente, sem solicitar certidão, pagamento ou envio de dados. O resultado mostra:
+
+| Campo | Valor observado |
+|---|---|
+| Tipo | Óbito |
+| Município/cartório | Guaíba/RS |
+| Nome registrado | Rosalvino Schell DE Souza |
+| Data do óbito e do registro | 17/10/2014 |
+| Matrícula | 09804601552014400021276001229792 |
+| Livro/folha/registro | Livro 00021, folha 276, registro 0012297 |
+| Filiação exibida | uma linha `-` e outra `Alice Schell DE Souza` |
+
+O painel **não informa o papel de Alice**: ela pode ser mãe, pai, cônjuge, declarante ou outro campo de filiação, e o nome pode ser uma variante de Alicia. Portanto, o resultado é uma pista importante para a identidade de Alice/Alicia, mas não confirma sozinho o parentesco nem sua data de nascimento. A certidão/inteiro teor seria necessária para ler o campo completo; nenhuma solicitação foi feita.
+
+URL: https://www.registrocivil.org.br/search-detail/99e34885-9cd9-11f1-b8ec-06a75f30aeeb
