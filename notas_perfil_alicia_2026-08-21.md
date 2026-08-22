@@ -152,3 +152,22 @@ O relatório `relatorio_alice_shell_de_souza.md`, já existente no GitHub, regis
 O mesmo relatório registra uma pista adicional: um óbito de bebê em Tapes, em **30/06/1949**, no qual uma mulher indexada como `Schell` aparece como esposa de `Raimundo de Souza Finão Maniculta`, com um bebê `de Souza` de 9 dias. A fonte é muito corrompida e não prova que seja Alicia nem que o bebê seja filho do casal, mas é uma rota prioritária para testar se houve um filho falecido além dos quatro listados na árvore. Identificador citado no relatório: `65NF-2VD9`.
 
 A correção de 1963 aumenta a coerência da cronologia: Jovenit/Jovenil nasceu provavelmente antes de 23/04/1963 e morreu com cerca de 1 ano, enquanto a árvore o lista como 1948–1963; ainda é necessário conferir a imagem original para decidir entre 1948 e 1962/1963.
+
+## Registro civil de 1949 — possível identificação de Manoel
+A ficha FamilySearch aberta pela rota `65NF-2VD9` redirecionou para o registro `65NF-2VD9`/referência `65NF-2V81`, com evento em **30/06/1949**, em Tapes, São Francisco dos Casais, Rio Grande do Sul. O registro identifica:
+
+| Papel | Nome/dado indexado |
+|---|---|
+| Criança | `de Souza`, masculino, sem prenome preservado na indexação |
+| Nascimento | 21/06/1949, Tapes/São Francisco dos Casais |
+| Falecimento | 30/06/1949, com 9 dias de idade |
+| Mãe | `Schell`, feminina |
+| Marido da mãe / pessoa relacionada | `Raimundo de Souza Finão Maniculta` |
+| Perfil de árvore anexado | Alicia Schell de Souza (GV54-K3Q) |
+
+A data de nascimento coincide exatamente com o perfil `Manoel de Souza` (P4LK-52C), listado na árvore como filho de Alicia e Raimundo, nascido em 21/06/1949 e falecido em 1949. A mãe `Schell` e o marido com nome corrompido `Raimundo de Souza Finão Maniculta` também são compatíveis com Alicia Schell de Souza e Raimundo José de Souza. Contudo, o registro não preserva o prenome Manoel, o pai aparece com grafia muito corrompida e a indexação foi feita por computador; por isso, a identificação é **fortemente indicada, ainda não confirmação definitiva**.
+
+Esta é a melhor pista nova para um filho do casal além de Rosalvino: provavelmente corresponde ao Manoel listado na árvore, não necessariamente a um quinto filho. A imagem original deve ser conferida para ler o prenome e a filiação.
+
+URL: https://www.familysearch.org/ark:/61903/1:1:65NF-2VD9?lang=pt
+Referência exibida na ficha: https://www.familysearch.org/ark:/61903/1:1:65NF-2V81
