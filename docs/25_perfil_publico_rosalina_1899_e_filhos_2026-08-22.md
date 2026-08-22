@@ -80,3 +80,12 @@ Nenhuma alteração foi feita na árvore colaborativa.
 [3]: ../sources/apers_processo_180190.pdf "APERS 180190 — habilitação de casamento de Alvino Paulino de Souza e Rosalina Schell"
 [4]: ../gedcom_pesquisa_jonathan/apers_processo_180603.pdf "APERS 180603 — habilitação de casamento de Alvina Schell"
 [5]: ../gedcom_pesquisa_jonathan/apers_processo_180674.pdf "APERS 180674 — habilitação de casamento de Celanira Schell"
+
+
+## Confirmação cruzada por um irmão
+
+Foi consultado o perfil público de **Adolpho Thomaz** (`G7RX-HLY`), irmão atribuído de Rosalina. A página informa que Adolpho nasceu em 04/12/1912 em Tapes, filho de **Felippe Thomaz** e **Regina Shell Becker**, e lista entre seus irmãos `Rosalina Schell`, nascida em 16/12/1899. O perfil repete a mesma família de onze irmãos indicada no perfil de Rosalina.
+
+Essa segunda página pública aumenta a consistência interna da árvore para a hipótese `Felippe Thomaz + Regina Shell Becker → Rosalina Schell (1899)`, mas continua sendo evidência derivada da mesma árvore FamilySearch, não um assento civil ou batismo independente. Não foi localizada na página de Adolpho uma imagem original do nascimento de Rosalina.
+
+**Referência adicional:** [FamilySearch Ancestors — Adolpho Thomaz, G7RX-HLY](https://ancestors.familysearch.org/en/G7RX-HLY/adolpho-thomaz-1912-1973).
