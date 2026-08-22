@@ -8,7 +8,7 @@ A habilitação APERS nº 180190 confirma o casamento de Alvino Paulino de Souza
 
 Por conhecimento familiar pessoal e direto, Jonathan confirma que Valdeci é seu pai e que Rosalvino e Carolina são seus avós. Esses vínculos não devem ser classificados como mera hipótese. Os registros civis ainda serão buscados como documentação complementar, para auditoria externa, datas e filiações formais.
 
-A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma pista e não comprova Alemanha, Suíça ou qualquer outro país. Os vínculos familiares diretos de Jonathan com Valdeci, Rosalvino e Carolina são confirmados por conhecimento pessoal; já os dados de gerações anteriores e a origem europeia continuam dependendo de fontes primárias. O relatório `docs/relatorio_descendencia_alema_familysearch_2026-08-21.md` também conclui que, mesmo supondo uma origem alemã, a transmissão automática de cidadania até Jonathan provavelmente teria sido interrompida ou permanece não demonstrada, especialmente nos pontos Karl → Regina e Regina → Rosalina.
+A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma pista e não comprova Alemanha, Suíça ou qualquer outro país. A rodada de 22/08/2026 consultou fontes públicas alemãs e brasileiras, sem localizar documento que ligue a linha direta a uma pessoa nascida ou registrada na Alemanha. Os vínculos familiares diretos de Jonathan com Valdeci, Rosalvino e Carolina são confirmados por conhecimento pessoal; já os dados de gerações anteriores e a origem europeia continuam dependendo de fontes primárias. O relatório `docs/relatorio_descendencia_alema_familysearch_2026-08-21.md` também conclui que, mesmo supondo uma origem alemã, a transmissão automática de cidadania até Jonathan provavelmente teria sido interrompida ou permanece não demonstrada, especialmente nos pontos Karl → Regina e Regina → Rosalina.
 
 ## Conteúdo principal
 
@@ -38,6 +38,9 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `docs/04_plano_validacao_2026-08-20.md` | Plano de validação dos elos ainda abertos |
 | `docs/relatorio_descendencia_alema_familysearch_2026-08-21.md` | Análise da possível ascendência alemã e da transmissão histórica de cidadania |
 | `docs/notas_analise_alema_familysearch_2026-08-21.md` | Notas verificáveis da consulta FamilySearch e das fontes jurídicas oficiais |
+| `docs/relatorio_pesquisa_alema_2026-08-22.md` | Relatório desta rodada sobre DAD, Bremen, matrículas consulares, DDB e Arquivo Federal |
+| `pesquisa_alema_2026-08-22.md` | Diário completo das consultas públicas alemãs, resultados, links e limitações |
+| `fontes_matricula_consular_porto_alegre_s-z.pdf` | Cópia local do PDF oficial das matrículas consulares de Porto Alegre, faixa S–Z |
 
 ## Organização atualizada
 

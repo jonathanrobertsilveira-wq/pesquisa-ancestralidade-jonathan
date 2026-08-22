@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Strict//EN"
+       "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=utf-8'>
+<link rel="stylesheet" href="./screen.css" type="text/css">
+<link rel="shortcut icon" href="./favicon.ico">
+<link rel="icon" href="./favicon.ico">
+</head>
+<title>Bremen Passenger Lists</title>
+
+
+<body>
+<!-- ***** Seitenkopf ***** -->
+<TABLE align=center width=100%>
+	<TR>
+			<TD width=130 valign=top>
+				<A HREF="https://die-maus-bremen.info/" target="_blank">
+				<IMG SRC="./maus.gif" BORDER="0" ALT="Die Maus e.V."></A>
+			</TD>
+			<td>
+				<a href="http://staatsarchiv.bremen.de/" target="_blank"><img SRC="../auswanderung/staatsarchiv_.gif" ALT="Staatarchiv Bremen" BORDER=0 height=110></a>
+			</td>
+			<td ALIGN=CENTER VALIGN=CENTER>
+				<h2>Bremen Passenger Lists</h2>
+				<b>A Project with the Bremen Chamber of Commerce and the Bremen Staatsarchiv</b>
+			</td>
+			<td width=260 align=right>
+				<a href="http://www.handelskammer-bremen.de/" target="_blank"><img SRC="hk_bre.gif" ALT="Handelskammer Bremen" BORDER=0 height=132 width=125></a>
+			</td>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=5>				
+			<hr>
+			<table width="100%" cellspacing="2" cellpadding="0" border="0">
+				<tr>
+					<td>
+						<p class="history">
+							
+									<b><a href="/auswanderung/index.php?lang=en">Emigration</a></b>
+									&gt; <b><a href="/passagierlisten/index.php?lang=en" class=verweis>Passengerlists</a></b> 
+						</p>
+					</td>
+					
+							<td valign=middle width=190>
+								<a href="index.php?lang=de" class="verweis"><img src="./de.gif" alt="Deutsch" width=20 height=15 border=0></a>
+								<a href="index.php?lang=de" class="verweis">Deutsch</a>
+							</td>
+											</tr>
+			</table>
+		</TD>
+	</TR>
+</TABLE>
+<!-- ***** Ende Seitenkopf ***** -->
+
+<table width=100%>
+	<tr valign='top'>
+		<td align='center' class='marginalie-davor-02' width=190>
+
+<!-- ***** Navigation ***** -->
+			<table border='0' width='100%' cellpadding='2' cellspacing='0'>
+				<tr>
+					<td colspan='2' valign='top' class='marginalie-tab-02'><b class='marginalie-hd'>:: Database</b></td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+
+
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td valign='top'>
+						<FORM METHOD = 'get' ACTION = 'listen.php'>
+						<B>Family name</B><br>
+						<INPUT TYPE = 'text' SIZE = '11' MAXLENGTH = '20' NAME = 'nachname' value=''>
+						<INPUT TYPE = 'submit' VALUE = 'Search'><br>
+						<font size=-2><a href='hilfe.html'><a href="hilfe.html">help for search</a></a><BR></font>
+						<font size=-1>
+						<INPUT TYPE = 'checkbox'  NAME = 'exact_match'>exact match<br>
+						<INPUT TYPE = 'checkbox'  NAME = 'case_sensitive'>case sensitive<br>
+						<INPUT TYPE = 'checkbox'  NAME = 'soundex'>Soundex
+						<INPUT TYPE = 'hidden' NAME = 'submit_search' value='namen'>
+						<INPUT TYPE = 'hidden'  NAME = 'lang' value='en'></font>
+						</FORM>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td valign='top'>
+						<a href='./listen.php?submit_search=schiffsnamen&lang=en' class='verweis'>Shipnames</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td valign='top'>
+						<a href='./listen.php?submit_search=tage_der_abfahrten&lang=en' class='verweis'>Days of departures</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td valign='top'>
+						<a href='./listen.php?submit_search=zielhaefen&lang=en' class='verweis'>Destination harbours</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td valign='top'>
+						<a href='./listen.php?submit_search=heimatorte&b=A&lang=en' class='verweis'>Home towns</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td valign='top'>
+						<a href='./fotos.php?lang=en' class='verweis'>Group photos</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan='2' valign='top' class='marginalie-tab-02'><b class='marginalie-hd'>:: Explanations</b></td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='./original.php?lang=en' class='verweis'>Original sources</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='./description.php?lang=en' class='verweis'>Data recording</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='./quellen.php?lang=en' class='verweis'>Resources<br>Ship pictures/data</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan='2' valign='top' class='marginalie-tab-02'><b class='marginalie-hd'>:: Statistics</b></td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan='2' class='quicklink'>
+					This database contains<br><b>738102 entries</b>.<br>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan='2' valign='top' class='marginalie-tab-02'><b class='marginalie-hd'>:: More databases</b></td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='../auswanderung/abfahrtsdaten/index.php?lang=en' class='verweis'>Departures of emigration passages</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='../auswanderung/emigrationen/index.php?lang=en' class='verweis'>Emigration of Bremen citizens</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='../auswanderung/passregister/index.php?lang=en' class='verweis'>Register of Passports</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'><img src='./pfeil.png' alt='Pfeil'></td>
+					<td class='quicklink'>
+					<a href='../auswanderung/lost_and_found/index.php?lang=en' class='verweis'>Lost and found</a>
+					</td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td colspan='2' valign='top' class='marginalie-tab-02'><b class='marginalie-hd'>:: Collaboration</b></td>
+				</tr>
+				<tr>
+					<td class='quicklink' valign='top'>&nbsp;</td>
+					<td valign='top'>&nbsp;</td>
+				</tr>
+				<tr>
+					<td valign='top' colspan=2 class='quicklink'>
+						<b>Project management</b><br>
+						Karl Wesling</p>
+						<p>
+						<b>Database programming</b><br>
+						Herbert Juling</p>
+						<p>						</p>							
+					</td>
+				</tr>
+			</table>
+			<br />
+			<br />
+
+<!-- ***** Ende Navigation ***** -->
+
+    </td>
+    <td valign='top' class='inhalt'>
+<!-- ***** Ende Seitenkopf und Menue ***** -->
+
+
+<p>
+The "Ordinance with Respect to Emigration on Domestic and Foreign Ships" from 1832 in Bremen was the first state law with the
+purpose to protect emigrants. Among other things it required that the
+shipowners must maintain passenger lists.</p>
+<p> In 1851 the Bremen Chamber of Commerce established the
+"Nachweisungsbureau f&uuml;r Auswanderer" (the Information Office for
+Emigrants), where the ship captains had to deliver their lists.</p>
+
+<p> The rules and regulations of the ´Nachweisungsbureau´ considerably
+improved the quality of both the stay at Bremen prior to the sailing
+plus the seaworthiness of the ships.</p>
+<p>
+Unfortunately, all lists from 1875 - 1908 older than 3 years were destroyed due to lack of space in the Bremen Archives.</p>
+<p>
+With the exception of 3017 passenger lists for the years 1920 - 1939 all other lists were lost in World War II.</p>
+<p> These saved lists had been stowed away in a salt mine at Bernburg
+an der Saale in 1942 together with other archives for the purpose of
+protection, and were transferred into the custody of Moscow Archives at
+the end of WW II. In 1987 and 1990 those lists were given back to the
+Bremen Chamber of Commerce.</p>
+<p> An agreement of July 1999 between the Bremen Chamber of Commerce
+and the Bremen Society for Genealogical Investigation, DIE MAUS (´The
+Mouse´), provides the basis for digitizing the passenger lists by
+members of DIE MAUS (i.e., the ´e-migration mice´).</p>
+<p> Copies of lists from 1907/08 and 1913/14 had been provided for statistical evaluations in Stuttgart. After WWII some of these lists and a card index were archived at the "Bundesarchiv Koblenz" as Bremen Shiplists. They are trancribed also.
+<p>
+<b>Inquiries and/or questions</b> to the Bremen Passenger Lists will be replied by Karl Wesling <a href="http://db.genealogy.net/vereine/mail.php?uid=130323">kwesling(at)gmx.de</a> and Monika Ayers <a href="mailto://JETDOC2@aol.com">JETDOC2(at)aol.com</a>. </p>
+
+<!-- ***** Footer ***** -->
+		</td>
+		<td class='marginalie-danach-02' width=190>
+
+<!-- ***** Hinweise rechts ***** -->
+<table border='0' width='100%' cellpadding='2' cellspacing='0'>
+	<tr>
+
+
+		<td colspan='2' valign='top' class='marginalie-tab-02'><b class='marginalie-hd'>:: Remarks</b></td>
+	</tr>
+	<tr>
+		<td class='quicklink' valign='top'>&nbsp;</td>
+		<td valign='top'>&nbsp;</td>
+	</tr>
+	<tr>
+		<td class='quicklink'>
+	
+		
+	Content:
+	<ul>
+		<li>Passenger lists <br>from 1920-1939</li>
+		<li>Bremen Shiplists from <br>1907/1908 and 1913/1914</li>
+		<li>1832-1849 Friedrich Spengemann: The voyages of the ISABELLA, PAULINE, META and UHLAND.</li>
+
+		<li>1834 Bodo Heyne: Passengers of the FERDINAND and the WALLACE</li>
+		<li>1849/1850 Karl W. Kl&uuml;ber: Bremen and Hamburg emigration lists.<br>DEUTSCHLAND<br> (27 Oct 1849)<br>ITZSTEIN &amp; WELCKER<br> (27 Oct 1850)</li>
+		<li>1858 FANNY KIRCHNER to Sydney, Australia </li>
+		<li>1796 Marriages on the way to America</li>
+	</ul>
+	The database contains 690591 passengers.
+  
+		</td>
+	</tr>
+</table>
+<!-- ***** Ende Hinweise rechts ***** -->
+
+		</td>
+	</tr>
+</table>
+<div class="footer" align=center>
+<br>
+<hr width=80%>
+<p>
+
+	<table align=center><tr><td valign=top><i>&copy; 2003-2025 (<a href="mailto:juling@lesum.de?subject=Passagierlisten">ju</a>)</i></td>
+	<td valign=top><a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target=_blank><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></td></tr></table>
+	This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target=_blank>Creative Commons Attribution 4.0 International License</a>.<br>
+	<i><b>Inquiries and/or questions</b> to the Bremen Passenger Lists will be replied by Karl Wesling <a href="http://db.genealogy.net/vereine/mail.php?uid=130323">kwesling(at)gmx.de</a> and Monika Ayers <a href="mailto://JETDOC2@aol.com">JETDOC2(at)aol.com</a>.
+	</i>
+	<br>
+<br>
+<br>
+</div>
+</body>
+</html>
