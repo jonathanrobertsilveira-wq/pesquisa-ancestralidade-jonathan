@@ -7,11 +7,11 @@
 
 ## 1. Resumo executivo
 
-O inventário do repositório identificou **36 pessoas, variantes ou candidatos de homonímia** que possuem pelo menos um indício de origem alemã, história em área de colonização alemã, relação com sobrenomes associados ao espaço germânico, atributo de árvore que informa `Alemanha/Allemanha` ou potencial de abrir uma ponte documental para a Europa. A lista foi deliberadamente ampla: estar nela **não significa ser alemão**.
+O inventário do repositório identificou **37 pessoas, variantes ou candidatos de homonímia** que possuem pelo menos um indício de origem alemã, história em área de colonização alemã, relação com sobrenomes associados ao espaço germânico, atributo de árvore que informa `Alemanha/Allemanha` ou potencial de abrir uma ponte documental para a Europa. A lista foi deliberadamente ampla: estar nela **não significa ser alemão**.
 
-A prioridade mais alta recai sobre **João Adão Thomas/Thomaz (A01)** e **Clara Klaus/Hlausf (A08)**. Os perfis da árvore atribuem nascimento na Alemanha a ambos, em 1815 e 1821, e os registros brasileiros preservam o casal e seus descendentes. Contudo, as fontes específicas que sustentariam esses atributos não puderam ser auditadas nesta rodada, pois as páginas autenticadas do FamilySearch exigiram login ou foram bloqueadas por serviço de segurança. Por isso, a formulação correta é **“fortemente indicado, ainda não comprovado por documento alemão primário”**.
+A prioridade inicial recaiu sobre **João Adão Thomas/Thomaz (A01)** e **Clara Klaus/Hlausf (A08)** porque os perfis atribuem nascimento na Alemanha em 1815 e 1821. A rodada autenticada, porém, confirmou que as fontes visíveis de A01 e A08 são predominantemente brasileiras e que os atributos alemães continuam sem fonte alemã primária auditada. O indício mais novo e documentalmente promissor está no ramo **Schell–Becker**: o batismo brasileiro de Maria em 1871 declara que Carlos Schell era “da Allemanha”, e o batismo de Regina em 1874 confirma Carlos Schell e Anna Becker na mesma paróquia. A ligação é fortemente indicada, mas ainda depende de resolver a variação `Beler/Becker` e de confirmar continuidade do casal.
 
-A pesquisa localizou também um registro de 1908 com o campo `Allemanha`, mas o nome foi indexado como `Romale el Verprica Therana` e não pode ser fundido ao A01, que aparece como falecido em 1891. A matriz pública de buscas contém **84 entradas documentadas**, cobrindo consultas nominais, registros civis e paroquiais, emigração, Hemeroteca, APERS, FamilySearch, fontes regionais, exército, escola, hospital, cemitério, diretórios, naturalização e controles de homônimos. A cobertura não foi uniforme: A01 tem 16 entradas; vários candidatos têm 1 ou 2, geralmente porque são colaterais recentes, pistas derivadas ou não possuem dados suficientes para buscas mais específicas. Essa limitação é declarada expressamente; não afirmo que foram feitas dezenas de consultas individuais para cada um dos 36 nomes.
+A pesquisa também demonstrou que o registro de 1908 com `Allemanha` não pertence a A01: a citação identifica José Steir e Felippe Steir. Do mesmo modo, a fonte portuguesa de 1941 com `Alemanhã` anexada ao nascimento de Karl Schell é de Carlos Sobell S. e Ana Schall, outra família. A matriz pública de buscas contém **98 entradas documentadas** após esta rodada, cobrindo consultas nominais, registros civis e paroquiais, emigração, Hemeroteca, APERS, FamilySearch, fontes regionais, exército, escola, hospital, cemitério, diretórios, naturalização e controles de homônimos. A cobertura não foi uniforme: vários candidatos têm poucas entradas porque são colaterais recentes, pistas derivadas ou não possuem dados suficientes para buscas específicas. Não afirmo que foram feitas dezenas de consultas individuais para cada um dos 37 nomes.
 
 ## 2. Como o ranking foi calculado
 
@@ -25,63 +25,64 @@ A classificação é uma ordem de **retorno esperado da pesquisa documental**, n
 | Qualidade da fonte | Há imagem ou índice institucional, registro brasileiro, perfil derivado ou apenas snippet/árvore? |
 | Homonímia | Nome corrompido, datas incompatíveis, geração duplicada ou pessoa possivelmente distinta reduzem a prioridade. |
 
-## 3. Ranking completo dos 36 candidatos
+## 3. Ranking completo dos 37 candidatos — versão recalculada após a rodada autenticada
 
-A coluna “situação” resume a hipótese atual. **“Não demonstrado” não significa falso**; significa que o documento discriminante ainda não foi localizado.
+A tabela abaixo substitui a ordem anterior. O campo “prioridade ordinal” é uma prioridade de pesquisa documental e não uma probabilidade de nacionalidade; os scores não são probabilidades.
 
-| Rank | Código | Pessoa | Relação | Indício principal | Chance relativa de registro alemão | Situação após a rodada |
-|---:|---|---|---|---|---|---|
-| 1 | A01 | **João Adão Thomas/Thomaz** | Linha direta em potencial | Perfil atribui Alemanha em 1815; núcleo brasileiro, óbito e pista jornalística | Muito alta | Forte indicação, sem fonte alemã primária auditada |
-| 2 | A08 | **Clara Klaus/Hlausf** | Linha direta em potencial | Perfil atribui Alemanha em 1821; variantes Klaus/Klus/Hlausf | Muito alta | Forte indicação, sem cidade ou fonte alemã auditada |
-| 3 | A12 | **Regino Schell** | Linha direta em potencial | Pai confirmado de Rosalina de 1906 em documento brasileiro | Alta para localizar ponte brasileira; média para registro alemão | Origem alemã não demonstrada |
-| 4 | A03 | **João Thomas/Thomaz** | Linha direta em potencial | Filho atribuído de A01, nascido por volta de 1845 em Santa Cruz | Alta para fechar filiação; média para origem | Nascimento e filiação próprios sem assento localizado |
-| 5 | A11 | **Rosalina Schell, 16/12/1906** | Linha direta em potencial | APERS confirma filiação e traz Carlos/Anna como ascendência | Alta para rastrear pais; baixa para nascimento alemão próprio | Pessoa brasileira documentada; origem não demonstrada |
-| 6 | A06 | **Felippe Thomaz/Thomás** | Linha direta em potencial | Filho de João Thomas; pai de núcleo com Shell/Schell | Média | Elo brasileiro útil, origem não demonstrada |
-| 7 | A04 | **João Thomas/Joao Thom** | Ascendente atribuído | Casamento atribuído em 1815 na Alemanha | Média teórica | Apenas atributo de árvore, sem cidade ou assento |
-| 8 | A05 | **Barbara Miller** | Ascendente atribuída | Casamento atribuído em 1815 na Alemanha | Média teórica | Apenas atributo de árvore, sem cidade ou assento |
-| 9 | A13 | **Carlos Schell** | Avô possível de Rosalina 1906 | Nome aparece em campo de ascendência do APERS | Média | Papel e identidade precisam de imagem original |
-| 10 | A14 | **Anna Schell** | Avó possível de Rosalina 1906 | Nome aparece em campo de ascendência do APERS | Média | Papel e identidade precisam de imagem original |
-| 11 | A23 | **Karl Schell** | Ascendente colateral | Três perfis FamilySearch o apresentam como pai do cluster | Média | Relação brasileira coerente; origem europeia não localizada |
-| 12 | A24 | **Anna Becker** | Ascendente colateral | Três perfis FamilySearch a apresentam como mãe do cluster | Média | Relação brasileira coerente; origem europeia não localizada |
-| 13 | A09 | **Regina Shell Becker** | Próxima da linha direta | Filha atribuída de Karl/Anna; mãe de Adolpho e possível Rosalina | Média | Sem nascimento/casamento original localizado |
-| 14 | A21 | **Catharina Laurinda Trott/Schell** | Colateral | Nascimento atribuído em 1890 em Gramado; pais Trott/Fillmann | Média-baixa | Perfil com registros brasileiros; origem não demonstrada |
-| 15 | A22 | **Albin Schell** | Colateral | Nascimento atribuído em 1886 em Três Coroas; pais Karl/Anna | Média-baixa | Perfil com registros brasileiros; origem não demonstrada |
-| 16 | A15 | **Rosalina Schell, 16/12/1897** | Colateral próximo | APERS confirma maternidade e território | Média-baixa | Distinta provisória da Rosalina 1906 |
-| 17 | A27 | **Gertrudes Thomas** | Colateral da linha Thomas | Filha de João Adão e Clara; casamento em 1874 | Média-baixa | Relação brasileira forte; origem própria não declarada |
-| 18 | A19 | **Theodor Schell** | Colateral | Cluster Schell/Trott, nascimento aproximado em 1888 | Média-baixa | Sem filiação primária |
-| 19 | A02 | **João Adão indexado como “Romale el Verprica Therana”** | Possível homônimo | Ficha de 1908 informa `Allemanha` | Alta no indício bruto, baixa na identidade | Não fundir com A01; nome corrompido e cronologia incompatível |
-| 20 | A18 | **Rosalina Trott/Schell** | Colateral | Nascimento atribuído em 1892 no eixo Gramado–Igrejinha | Baixa | Homônima de Rosalinas Schell de Tapes |
-| 21 | A25 | **Jacob Friedrich Trott** | Colateral | Pai atribuído de Catharina; nome em cluster regional | Baixa-média | Sem local de nascimento ou fonte primária |
-| 22 | A26 | **Emilie Fillmann** | Colateral | Mãe atribuída de Catharina; irmã possível de Jacob Fillmann | Baixa-média | Sem local de nascimento ou fonte primária |
-| 23 | A16 | **Alvina Schell** | Colateral próximo | Filha de Rosalina 1897, processo APERS | Baixa | Útil para localizar avós; nascimento provavelmente brasileiro |
-| 24 | A17 | **Celanira Schell** | Colateral próximo | Filha de Rosalina 1897, processo APERS | Baixa | Útil para desambiguar o núcleo |
-| 25 | A10 | **Rosalina Schell de Souza, 1899–1993** | Linha direta em potencial | Perfil atribui Felippe/Regina como pais | Baixa | Conflita com outras Rosalinas; exige assento original |
-| 26 | A20 | **Helka Schell** | Colateral | Nascimento atribuído em 1913 em Igrejinha | Baixa | Perfil declara zero fontes anexadas; provável nascida no Brasil |
-| 27 | A33 | **Flauliano Brasil Kenes** | Ramo paralelo | Sobrenome raro e casamento atribuído em 1948 | Baixa | Sem resultado nominal público; ocorrência Kenes de Bremen é húngara e distinta |
-| 28 | A07 | **Margarida Thomas/Thomaz** | Linha direta em potencial | Cônjuge atribuída de João Thomas | Baixa | Hemeroteca tem homônima sem identificação |
-| 29 | A35 | **Manoel Geraldo Kenes** | Ramo paralelo | Casamento atribuído em 1948 | Baixa | Sem evento primário localizado |
-| 30 | A28 | **Frieda Hoff** | Colateral incerta | Pista derivada de grupo Thomaz | Baixa | Sem imagem e sem conexão fechada |
-| 31 | A29 | **Adolpho Thomaz** | Colateral incerto | Nome derivado no cluster Thomaz | Baixa | Homônimos e relação não fechada |
-| 32 | A30 | **Carolina Thomaz** | Colateral incerta | Casamento derivado com Emilio Schelle | Baixa | Sem fonte primária |
-| 33 | A31 | **Wilbald Thomaz** | Colateral incerto | Nome raro no grupo derivado | Baixa | Sem fonte primária |
-| 34 | A32 | **Emilio Schelle** | Colateral incerto | Cônjuge derivado de Carolina Thomaz | Baixa | Sem fonte primária |
-| 35 | A34 | **Eva Silveira** | Ramo paralelo | Cônjuge atribuída de Flauliano | Muito baixa | Sem indício alemão individual |
-| 36 | A36 | **Dorvalina Ferreira Kenes** | Ramo paralelo | Cônjuge atribuída de Manoel Geraldo | Muito baixa | Sem indício alemão individual |
+| Rank | Código | Pessoa | Relação | Score ordinal | Nível | Indício e ressalva |
+|---:|---|---|---|---:|---|---|
+| 1 | A23 | **Karl / Carlos Schell** | ascendente de A09 | 17 | prioridade muito alta | Batismos de Maria (1871) e Regina (1874) show Carlos Schell + Anna Becker; the 1871 page says he was da Allemanha. **Ressalva:** atributo Oberbrombach/1843 ainda não tem fonte alemã direta; fonte portuguesa de 1941 é homônimo. |
+| 2 | A37 | **Joh Tobias Schell** | ascendente Schell atribuído, elo ainda não fechado | 16 | prioridade muito alta | Batismo alemão direto em 04/04/1763; pais Georg Schell e Anna Barbara Schell; perfil o liga a Johann Nicolaus. **Ressalva:** Joh Tobias → Johann Nicolaus → Karl/Carlos → Regina ainda não demonstrado por atos independentes. |
+| 3 | A13 | **Carlos Schell** | ascendente colateral em investigação | 14 | prioridade alta | Assento paroquial de 1871 declara Carlos Schell da Allemanha; possível continuidade com o Carlos ligado a Regina e ao ramo Schell. **Ressalva:** Beler/Becker e papel de Carlos em APERS ainda precisam de prova contínua. |
+| 4 | A09 | **Regina Shell Becker** | próxima da direta | 14 | prioridade alta | Batismo original de 1874 confirma pais Carlos Schell e Anna Becker; pai é possivelmente o Carlos declarado da Allemanha em 1871. **Ressalva:** a declaração de Alemanha é do pai, não de Regina; continuidade 1871–1874 ainda deve ser demonstrada. |
+| 5 | A11 | **Rosalina Schell, 16/12/1906** | descendente útil | 13 | prioridade alta | APERS confirma filiação e avós; pode fechar a ponte brasileira para Carlos/Anna, mas é nascida no Brasil. **Ressalva:** papel de Carlos/Anna no assento ainda requer leitura e não deve ser fundido com Rosalina 1897. |
+| 6 | A08 | **Clara Klaus / Clara Hlausf** | direta em potencial | 12 | prioridade alta | Perfil diz Alemanha em 1821, mas fontes visíveis são brasileiras; filiação Johann Klaus/Marina Gesner não localizada na Alemanha. **Ressalva:** muitas variantes, ausência de fonte alemã direta e homônimos. |
+| 7 | A12 | **Regino Schell** | ascendente de A11 | 12 | prioridade alta | Pai confirmado de Rosalina 1906; pode conectar o ramo Schell a registros mais antigos. **Ressalva:** sem cidade, data completa ou fonte migratória; conexão ao Carlos de 1871 não demonstrada. |
+| 8 | A01 | **João Adão Thomas / Thomaz** | direta em potencial | 11 | prioridade média | Perfil diz Alemanha em 1815, porém fonte de 1908 com Allemanha é José/Felippe Steir e não A01. **Ressalva:** homônimos de 1852/1908 e atributo alemão sem fonte direta auditada. |
+| 9 | A03 | **João Thomas / Thomaz** | direta em potencial | 11 | prioridade média | Filho atribuído de A01/A08; pode fechar ponte entre o casal e Felippe, não há origem alemã própria. **Ressalva:** nascimento e filiação do próprio alvo sem assento; ligação alternativa não unificada. |
+| 10 | A24 | **Anna Becker** | mãe de A09 | 11 | prioridade média | No assento de 1871, a esposa de Carlos é indicada como “ella desta”; batismo de Regina confirma Anna Becker. **Ressalva:** Beler/Becker é variação a conferir; não há indicação de nascimento na Alemanha. |
+| 11 | A06 | **Felippe Thomaz / Thomás** | direta em potencial | 10 | prioridade média | Núcleo brasileiro; registros de 1901/1949 declaram Felippe e Regina naturais deste Estado. **Ressalva:** idade/paternidade conflitam e nenhuma naturalidade europeia foi localizada. |
+| 12 | A14 | **Anna Schell** | ascendente colateral em investigação | 9 | prioridade média | Nome aparece em material APERS ligado ao ramo Schell; a mãe de Regina é Anna Becker, possível conexão ainda não provada. **Ressalva:** nome/papel exatos precisam de imagem e podem ser homônimos. |
+| 13 | A21 | **Catharina Laurinda Trott / Schell** | colateral | 8 | prioridade média | Nascimento 1890 em Gramado; pais Trott/Fillmann. **Ressalva:** provável nascida no Brasil. |
+| 14 | A22 | **Albin Schell** | colateral | 8 | prioridade média | Nascimento 1886 em Três Coroas; pais Karl/Anna. **Ressalva:** provável nascido no Brasil. |
+| 15 | A15 | **Rosalina Schell, 16/12/1897** | colateral próximo | 8 | prioridade média | APERS confirma maternidade/território. **Ressalva:** distinta provisória da Rosalina 1906. |
+| 16 | A27 | **Gertrudes Thomas** | colateral da linha Thomas | 8 | prioridade média | Filha de João Adão e Clara; casamento em 1874. **Ressalva:** origem alemã do marido Hillesheim não é dela. |
+| 17 | A02 | **João Adão indexado como Romale el Verprica Therana** | possível homônimo | 7 | prioridade baixa | Ficha de 1908 informa Allemanha. **Ressalva:** nome corrompido e incompatível com óbito de A01 em 1891. |
+| 18 | A04 | **João Thomas / Joao Thom** | ascendente atribuído | 7 | prioridade baixa | Casamento atribuído em 1815 na Alemanha, mas nascimento tem 0 fontes e não há cidade. **Ressalva:** nenhum documento alemão ou brasileiro direto identificado. |
+| 19 | A05 | **Barbara Miller** | ascendente atribuído | 7 | prioridade baixa | Casamento atribuído em 1815 na Alemanha; única fonte é batismo brasileiro de 1857 de outra geração. **Ressalva:** nenhum nascimento/casamento alemão e fonte única não sustenta o atributo. |
+| 20 | A19 | **Theodor Schell** | colateral | 7 | prioridade baixa | Cluster Schell/Trott, nascimento c.1888. **Ressalva:** sem filiação primária. |
+| 21 | A18 | **Rosalina Trott / Schell** | colateral | 6 | prioridade baixa | Nascida c.1892 no eixo Gramado–Igrejinha. **Ressalva:** homônima de Rosalinas Schell de Tapes. |
+| 22 | A25 | **Jacob Friedrich Trott** | colateral | 6 | prioridade baixa | Pai atribuído de Catharina; nome germânico. **Ressalva:** sem local de nascimento. |
+| 23 | A26 | **Emilie Fillmann** | colateral | 6 | prioridade baixa | Mãe atribuída de Catharina; família Fillmann regional. **Ressalva:** sem local de nascimento. |
+| 24 | A16 | **Alvina Schell** | colateral próximo | 6 | prioridade baixa | Filha de Rosalina 1897. **Ressalva:** sem pais além da mãe. |
+| 25 | A17 | **Celanira Schell** | colateral próximo | 6 | prioridade baixa | Filha de Rosalina 1897. **Ressalva:** sem pais além da mãe. |
+| 26 | A10 | **Rosalina Schell de Souza, perfil 1899–1993** | direta em potencial | 5 | prioridade baixa | Pais atribuídos Felippe/Regina; perfil público. **Ressalva:** conflito de datas/identidade com Rosalina 1906. |
+| 27 | A20 | **Helka Schell** | colateral | 5 | prioridade baixa | Nascimento 1913 em Igrejinha; pais Theodor/Rosalina. **Ressalva:** provável nascida no Brasil. |
+| 28 | A33 | **Flauliano Brasil Kenes** | ramo paralelo | 4 | prioridade baixa | Sobrenome raro; casamento atribuído em 1948. **Ressalva:** nome e eventos brasileiros não localizados. |
+| 29 | A07 | **Margarida Thomas / Thomaz** | direta em potencial | 4 | prioridade baixa | Cônjuge atribuída de João Thomas. **Ressalva:** sem assento e ocorrência de 1906 não identificada. |
+| 30 | A35 | **Manoel Geraldo Kenes** | ramo paralelo | 2 | prioridade baixa | Casamento atribuído em 1948. **Ressalva:** sem evento primário localizado. |
+| 31 | A34 | **Eva Silveira** | ramo paralelo | 2 | prioridade baixa | Cônjuge atribuída de Flauliano. **Ressalva:** sem indício alemão individual. |
+| 32 | A36 | **Dorvalina Ferreira Kenes** | ramo paralelo | 2 | prioridade baixa | Cônjuge atribuída de Manoel Geraldo. **Ressalva:** sem indício alemão individual. |
+| 33 | A28 | **Frieda Hoff** | colateral incerto | 1 | prioridade baixa | Pista derivada de irmãos Thomaz. **Ressalva:** sem imagem e sem conexão fechada. |
+| 34 | A29 | **Adolpho Thomaz** | colateral incerto | 1 | prioridade baixa | Pista de nome no cluster Thomaz. **Ressalva:** homônimos e relação não fechada. |
+| 35 | A30 | **Carolina Thomaz** | colateral incerto | 1 | prioridade baixa | Pista de casamento com Emilio Schelle. **Ressalva:** sem fonte primária. |
+| 36 | A31 | **Wilbald Thomaz** | colateral incerto | 1 | prioridade baixa | Nome raro no cluster Thomaz. **Ressalva:** sem fonte primária. |
+| 37 | A32 | **Emilio Schelle** | colateral incerto | 1 | prioridade baixa | Cônjuge atribuído de Carolina Thomaz. **Ressalva:** sem fonte primária. |
 
-O arquivo CSV `30_classificacao_candidatos_germanicos_2026-08-22.csv` contém o score ordinal completo, o motivo do ranking e a penalidade de homonímia para cada linha.
-
+O arquivo CSV `30_classificacao_candidatos_germanicos_2026-08-22.csv` contém os cinco componentes do score e a nota metodológica completa para cada candidato.
 ## 4. Matriz de pesquisas executadas
 
-A matriz completa está em `29_matriz_execucao_pesquisas_alema_2026-08-22.csv`, com 84 linhas e os campos: pessoa, código, eixo, termos/ação, fonte, resultado, classificação, compatibilidade e próximo passo.
+A matriz completa está em `29_matriz_execucao_pesquisas_alema_2026-08-22.csv`, com 98 linhas de dados e os campos: pessoa, código, eixo, termos/ação, fonte, resultado, classificação, compatibilidade e próximo passo.
 
 | Grupo de pessoas | Tipos de pesquisa executados | Resultado consolidado |
 |---|---|---|
 | A01 João Adão Thomas/Thomaz | Busca web, variantes, Hemeroteca 1902 e 1903, militar, escola, hospital, cemitério, obituário, inventário, profissão, Hillesheim e bases alemãs de guerra/biografia | Há ocorrências jornalísticas brasileiras, mas nenhum documento de naturalidade alemã, imigração, exército, escola, hospital ou cemitério que identifique o alvo. |
 | A08 Clara Klaus/Hlausf | Variantes Klaus/Klus/Hlausf/Claus, casamento, batismo, exército, escola, hospital, cemitério, diretório, passageiros | A relação com João Adão é sustentada por registros brasileiros e uma fonte secundária; a página MyHeritage está bloqueada e não há cidade alemã. |
 | A02 | Ficha FamilySearch de 1908, buscas por Roza Thomás, nome corrompido e Allemanha | Indício literal de Alemanha, mas a identidade não fecha com A01; deve permanecer independente. |
+| A37 Joh Tobias Schell | Perfil Family Tree e registro alemão QPF7-BFF6 | Batismo alemão de 1763, com Georg Schell e Anna Barbara Schell como pais; a pessoa está comprovada no registro, mas a cadeia até o ramo brasileiro ainda é pendência. |
 | A03 João Thomas/Thomaz | Pai/filho, batismo, casamento, óbito, escola, hospital, cemitério, passageiros, Arolsen, naturalização e homônimos | A filiação a A01 é forte na árvore e em irmãos, mas o nascimento próprio não foi localizado; a ocorrência Guilherme/Felippe 1853 é conflitante. |
 | A06 Felippe Thomaz | Regina, Adolpho, FamilySearch, Hemeroteca, naturalização e emigração | O perfil de Adolpho confirma o núcleo Felippe–Regina e lista Rosalina como irmã; não há origem alemã declarada. |
-| A09–A14 | Perfis FamilySearch, APERS, buscas nominais, variações Schell/Shell/Schel, casamento, jornais e censo | O cluster brasileiro é coerente, mas Regino, Carlos e Anna carecem de ponte migratória ou alemã. |
+| A09–A14 | Perfis FamilySearch, APERS, buscas nominais, variações Schell/Shell/Schel, batismos paroquiais de 1871/1874, casamento, jornais e censo | O cluster brasileiro é coerente; Carlos Schell é declarado “da Allemanha” no assento de 1871 e Regina é confirmada como filha de Carlos e Anna Becker em 1874. A continuidade com Karl e o ramo de Rosalina ainda precisa de atos adicionais. |
 | A15–A17 | Processos APERS, buscas de filiação, jornais, escola, hospital, cemitério e variantes | APERS confirma o núcleo de 1897; buscas abertas não localizaram fonte nova. |
 | A18–A27 | Perfis FamilySearch, Hillesheim, Trott, Fillmann, Gramado, Igrejinha, Taquara e Três Coroas | Relações regionais aparecem em perfis e fontes secundárias. A origem de Hillesheim em Briedel é documentada, mas não deve ser transferida para Thomas/Klaus ou Schell/Trott. |
 | A28–A32 | Snippets MyHeritage e buscas nominais por variantes, casamento, jornais e registros sociais | Relações derivadas, sem fontes primárias acessíveis; baixa prioridade. |
@@ -98,6 +99,14 @@ Os perfis públicos de Adolpho Thomaz, Albin Schell, Adolf Schell, Johannes Sche
 A fonte pública **Hillesheim no Brasil** transcreve Gertrudes Thomas como filha de João Adão Thomas e Clara Klaus e esposa de Clemente Hillesheim em 1874. A fonte complementar detalha Briedel/Mosel/Rheinland-Pfalz e a emigração de Mathias Joseph Hillesheim para o Brasil. Isso é evidência contextual e corroboradora para Hillesheim; não prova que os Thomas ou Klaus eram alemães. [11] [12]
 
 A **Hemeroteca Digital Brasileira** apresentou `João Adão Thomaz` em uma edição de 1903, mas o trecho não informa naturalidade ou filiação; a edição de 1902 apresenta uma menção aproximada a `João Thomaz` em contexto fragmentado. Em 1906, `Margarida Thomaz, filha leg. de João Thomaz` aparece sem idade ou localidade. Todas foram classificadas como pistas/homônimos, não como prova de origem alemã. [13] [14] [15]
+
+### 4.2 Achados autenticados da rodada Schell
+
+A evidência mais forte localizada nesta continuação está no ramo Schell. O registro indexado `XJ1K-XPV` informa Maria Schell, nascida em 03/05/1870 e batizada em 10/01/1871 em Santa Cristina, filha de Carlos Schell e Anna Becker. A página original do mesmo evento (`3:1:939N-7CRZ-S`, imagem 159/206) contém a declaração “elle da Allemanha e ella desta”. Em seguida, o assento original de Regina (`3:1:939N-7CR3-Y`, imagem 52/110) confirma Regina nascida em 23/04/1874 e filha legítima de Carlos Schell e Anna Becker, na Capela de Santa Rosa, mesma paróquia.
+
+A sequência 1871–1874 torna fortemente indicada a continuidade do casal e faz de Carlos Schell o principal candidato a primeira geração alemã documentada do cluster. Ainda não é correto declarar que Karl Schell ou Regina nasceram na Alemanha: o assento de 1871 declara a naturalidade de Carlos, enquanto o de 1874 não o faz; a grafia `Beler` no primeiro e `Becker` no segundo precisa de conferência paleográfica. O perfil de Karl atribui nascimento em Oberbrombach em 1843, mas a fonte portuguesa com “Alemanha” anexada ao nascimento é, na realidade, um registro de 1941 de Carlos Sobell S., Ana Schall e Olegina Schell, homônimo distinto.
+
+Para Johann Nicolaus Schell, pai atribuído de Karl, o perfil mostra Oberbrombach em 1812 e imigração após 27/03/1856, mas a única fonte de nascimento é um fólio `Kirchenbuch` sem índice no filme 008162686, imagem 628. A imagem foi preservada apenas como miniatura pública e não foi lida de modo confiável; a geração 1812–1843 permanece hipótese plausível, não comprovação.
 
 ## 5. O que foi pesquisado por tipo de fonte
 
@@ -121,11 +130,11 @@ A matriz usou 50 eixos de investigação como protocolo. Nem todo eixo é aplic�
 
 ### 6.1 Linha Thomas–Klaus
 
-Essa é a linha com o indício mais forte. João Adão Thomas e Clara Klaus aparecem na árvore com nascimento atribuído à Alemanha e estão ligados a filhos registrados no Rio Grande do Sul. Registros de Maria e Gertrudes preservam variantes do casal; a página Hillesheim também transcreve a filiação de Gertrudes. A pesquisa, entretanto, ainda não encontrou a cidade alemã, paróquia, navio, porto, matrícula consular, naturalização ou registro de estrangeiro. O próximo documento decisivo é o nascimento/batismo de João Thomas por volta de 1845; depois, o casamento de João Adão e Clara e seus óbitos originais.
+A linha Thomas–Klaus continua sendo a de maior importância genealógica por estar no caminho direto, mas **não é mais a evidência alemã mais forte**. João Adão Thomas e Clara Klaus aparecem na árvore com nascimento atribuído à Alemanha, porém as fontes autenticadas visíveis são predominantemente brasileiras; as buscas históricas por A01 e A08 não identificaram uma combinação alemã compatível com pais, cônjuge e trajetória no Brasil. Os registros brasileiros preservam o casal e seus descendentes, mas não auditam a naturalidade. O próximo documento decisivo continua sendo o nascimento/batismo de João Thomas por volta de 1845, seguido do casamento de João Adão e Clara e dos óbitos originais.
 
 ### 6.2 Linha Schell–Becker
 
-A linha Schell–Becker tem boa coerência interna no Brasil: perfis de vários irmãos repetem Karl Schell e Anna Becker, e Adolpho Thomaz aparece como filho de Felippe Thomaz e Regina Shell Becker. Para a Rosalina de 1906, o APERS traz um documento brasileiro com Regino Schell e Carlos/Anna no campo de ascendência. O problema é a ausência de um ato que declare naturalidade, nacionalidade ou imigração. Os candidatos mais úteis são Regino, Carlos e Anna, não a própria Rosalina, que provavelmente nasceu no Brasil.
+A linha Schell–Becker agora tem a **melhor pista documental de origem alemã** do inventário, embora ainda dependa de desambiguação. O batismo de Maria em 1871 traz Carlos Schell e Anna Becker e, na página original, declara “elle da Allemanha e ella desta”; o batismo de Regina em 1874 confirma Carlos Schell e Anna Becker na mesma paróquia e cronologia. Isso torna fortemente indicada a identificação de Carlos como alemão e pai de Regina. Não se deve, contudo, transferir automaticamente a naturalidade para Regina, Karl ou todos os descendentes. O passo decisivo é comparar a grafia `Beler/Becker` na imagem, localizar o casamento e verificar outros filhos. Para a Rosalina de 1906, o APERS continua útil para fechar a ponte brasileira com Regino e Carlos/Anna.
 
 ### 6.3 Linha Schell–Trott–Fillmann
 
@@ -160,10 +169,13 @@ Não foram pesquisados prontuários de pessoas vivas nem dados privados. A categ
 
 | Arquivo | Conteúdo |
 |---|---|
-| `docs/27_inventario_candidatos_germanicos_2026-08-22.md` | Lista completa dos 36 candidatos, relações e indícios. |
+| `docs/27_inventario_candidatos_germanicos_2026-08-22.md` | Lista completa dos 37 candidatos, relações e indícios. |
 | `docs/28_catalogo_fontes_matriz_consultas_2026-08-22.md` | Catálogo de 50 eixos de pesquisa e protocolo de classificação. |
-| `docs/29_matriz_execucao_pesquisas_alema_2026-08-22.csv` | Matriz detalhada das 84 consultas/ações documentadas. |
-| `docs/30_classificacao_candidatos_germanicos_2026-08-22.csv` | Ranking ordinal completo dos 36 candidatos. |
+| `docs/29_matriz_execucao_pesquisas_alema_2026-08-22.csv` | Matriz detalhada das 98 consultas/ações documentadas. |
+| `scripts/classificar_candidatos_germanicos.py` | Classificador ordinal revisado após a rodada autenticada. |
+| `scripts/atualizar_relatorio_ranking.py` | Gerador da tabela de ranking e do adendo autenticado. |
+| `sources/karl_johann_film_008162686_img_628_thumb.jpg` | Miniatura oficial preservada do fólio 628; não é substituta da imagem de alta resolução. |
+| `docs/30_classificacao_candidatos_germanicos_2026-08-22.csv` | Ranking ordinal completo dos 37 candidatos. |
 | `docs/31_cobertura_matriz_2026-08-22.txt` | Contagem de entradas por código. |
 | `docs/32_validacao_homonimos_contradicoes_2026-08-22.md` | Auditoria de homônimos, conflitos e peso das fontes. |
 | `docs/33_relatorio_consolidado_candidatos_germanicos_2026-08-22.md` | Este relatório consolidado. |

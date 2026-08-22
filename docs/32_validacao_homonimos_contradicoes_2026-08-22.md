@@ -6,7 +6,7 @@
 
 ## 1. Como a classificação deve ser lida
 
-A ordem produzida para os 36 candidatos é uma **prioridade de pesquisa documental**, não uma porcentagem de nacionalidade. O score combina quatro elementos: força do indício alemão, potencial de localizar um registro alemão, proximidade com a linha direta e qualidade da fonte. Há desconto para homônimos, nomes corrompidos e relações sustentadas apenas por árvores colaborativas.
+A ordem produzida para os **37 candidatos** é uma **prioridade de pesquisa documental**, não uma porcentagem de nacionalidade. O score combina cinco elementos: força do indício alemão, potencial de localizar um registro alemão, proximidade com a linha direta, qualidade da fonte e penalidade por homonímia. Há desconto adicional para nomes corrompidos e relações sustentadas apenas por árvores colaborativas.
 
 > **Regra:** “nasceu na Alemanha” como atributo de uma árvore é uma pista forte, mas só se torna prova quando a fonte identificável e o documento original ou uma cadeia independente forem auditados.
 
@@ -37,7 +37,8 @@ A ordem produzida para os 36 candidatos é uma **prioridade de pesquisa document
 
 | Grupo | Pessoas | Situação após validação |
 |---|---|---|
-| Indício explícito e linha direta | A01 João Adão Thomas e A08 Clara Klaus | Maior prioridade. Alemanha aparece em atributos de perfis/árvore, mas não foi localizada a fonte original nem a cidade alemã. |
+| Registro alemão direto, elo brasileiro pendente | A37 Joh Tobias Schell | Batismo alemão de 04/04/1763 com pais Georg Schell e Anna Barbara Schell está comprovado no índice; a cadeia até Johann Nicolaus, Karl/Carlos e Regina ainda não foi demonstrada por atos independentes. |
+| Indício explícito e linha direta | A01 João Adão Thomas e A08 Clara Klaus | Alta prioridade genealógica. Alemanha aparece em atributos de perfis/árvore, mas não foi localizada fonte alemã primária compatível; as fontes autenticadas visíveis são predominantemente brasileiras. |
 | Indício explícito com identidade corrompida | A02 | Não pode ser fundido a A01; deve ser investigado como pessoa independente. |
 | Descendentes brasileiros que podem fechar a ponte | A03, A06, A07, A09, A10, A11, A12, A13, A14 | Registros brasileiros e relações familiares fornecem caminhos para pais, avós, casamentos, óbitos e naturalização. Origem alemã ainda não demonstrada. |
 | Ascendentes atribuídos sem documentos | A04, A05 | Potencial de registro alemão existe, mas a prioridade depende de encontrar primeiro o casamento/nascimento de A01. |
@@ -47,8 +48,25 @@ A ordem produzida para os 36 candidatos é uma **prioridade de pesquisa document
 
 ## 5. Conclusão da validação
 
-A hipótese mais forte para a linha direta continua sendo que **João Adão Thomas e Clara Klaus possam ter origem alemã**, porque os perfis atribuem Alemanha aos dois, a cronologia brasileira é compatível e os registros de descendentes preservam o casal e variantes Klaus/Klus. Entretanto, a evidência não atingiu o nível de confirmação porque as fontes específicas de nascimento não foram identificadas e as páginas autenticadas do FamilySearch ficaram bloqueadas por login/segurança.
+A melhor pista documental de origem alemã localizada nesta rodada está no **ramo Schell**, não na linha Thomas–Klaus: o batismo alemão de Joh Tobias Schell é direto e o assento brasileiro de 1871 declara que um Carlos Schell era “da Allemanha”, com continuidade forte até Regina em 1874. Isso ainda não prova que a cadeia Schell seja a linha direta do usuário. João Adão Thomas e Clara Klaus continuam prioritários por sua posição genealógica, mas seus atributos Alemanha permanecem não demonstrados por fonte alemã primária; as páginas autenticadas puderam ser auditadas e mostraram sobretudo registros brasileiros.
 
 O maior risco de erro é a fusão de homônimos: João Adão Thomas de 1815, João Adão Thomas de 1852 e o homem de 1908 com `Allemanha` devem permanecer separados. O segundo maior risco é atribuir a origem alemã do ramo Hillesheim a Gertrudes Thomas ou a seus pais. O terceiro é confundir as Rosalinas Schell de 1897, 1899/1993 e 1906, além da Rosalina Trott de 1892.
 
 O próximo documento de maior valor seria o batismo/nascimento de João Thomas por volta de 1845, seguido do casamento de João Adão e Clara e de seus óbitos originais. Para os Schell, o registro de Rosalina de 1906 e o casamento de Regino são as melhores portas de entrada. Para o cluster regional, os assentos de Karl Schell, Anna Becker, Jacob Trott e Emilie Fillmann devem ser localizados antes de procurar uma cidade alemã.
+
+
+## 6. Adendo autenticado — ramo Schell e desambiguações novas
+
+A rodada autenticada de 22/08/2026 alterou a avaliação do ramo Schell. O registro de batismo de Maria Schell (`XJ1K-XPV`), nascida em 03/05/1870 e batizada em 10/01/1871 em Santa Cristina, indexa **Carlos Schell e Anna Becker** como pais e está anexado ao perfil de Karl Schell (`K2VV-DYC`). A página original do mesmo evento (`3:1:939N-7CRZ-S`, imagem 159/206) contém a fórmula “naturaes, elle da Allemanha e ella desta”. O batismo de Regina em 30/04/1874 (`3:1:939N-7CR3-Y`, imagem 52/110) confirma no texto `Carlos Schell e Anna Becker`, na Capela de Santa Rosa, mesma paróquia. A continuidade de casal, localidade e cronologia torna **fortemente indicada** a identificação de Carlos Schell como pai de Regina e como o Carlos declarado alemão em 1871, embora a grafia `Beler`/`Becker` deva ser verificada em imagem e em outros atos antes de elevar a classificação a comprovada.
+
+| Item desambiguado | Evidência literal | Classificação atual |
+|---|---|---|
+| Carlos Schell + Anna Becker, Maria (1870/1871) e Regina (1874) | Dois batismos na mesma paróquia; `XJ1K-XPV` e `3:1:939N-7CR3-Y`; perfil Karl lista os mesmos cônjuges/filhos | **Fortemente indicado** como um único núcleo, sujeito a confirmação por casamento e outros filhos |
+| Naturalidade de Carlos no assento de Maria | “elle da Allemanha e ella desta” na página `3:1:939N-7CRZ-S` | **Documentalmente declarada para o Carlos do assento**, mas a transferência para A09/Karl depende da continuidade acima |
+| Carlos Sobell S. + Ana Schall, óbito de Olegina, 1941 | `65Y7-DR7B`; Olegina morreu com 68 anos em Sertão Santana/Guaíba; Carlos e Ana aparecem com naturalidade alemã | **Provavelmente distinto/refutado como correspondência** de Karl Schell (1843–1890); fonte foi anexada indevidamente ao nascimento de Karl |
+| Karl Schell, nascimento em Oberbrombach (1843) | Atributo `Birth • 5 Sources`; uma fonte de “Alemanha” era o registro português de 1941 acima; as demais visíveis são brasileiras | **Não demonstrado diretamente**; hipótese reforçada apenas pela cadeia brasileira de Carlos e pelo atributo de árvore |
+| Johann Nicolaus Schell, Oberbrombach (1812) | Perfil `LBHB-QJH`; nascimento com uma fonte intitulada `Obito`, ARK `3Q9M-CS2Q-4Q7H-2`, filme `008162686`, imagem 628, sem índice; imigração sem fonte | **Hipótese plausível/não comprovada** até identificar e ler o fólio alemão e demonstrar a conexão com Karl |
+
+A ocorrência portuguesa de 1941 não deve ser usada como prova do nascimento alemão de Karl: o índice identifica explicitamente outra pessoa, `Carlos . Sobell S.`, esposo de Ana Schall e pai de Olegina. A semelhança parcial do sobrenome e a etiqueta `Alemanhã` explicam a anexação errada, mas não superam a incompatibilidade de nome, cônjuge, evento e cronologia.
+
+A ordem de risco permanece: não fundir Carlos Schell/Anna Becker com Carlos Sobell S./Ana Schall; não transferir a declaração de naturalidade do pai para Regina automaticamente; não tratar a anexação no Family Tree como prova independente; e não aceitar `Beler = Becker` sem comparar o manuscrito, casamento e batismos adicionais. As funções de pesquisa nominal full-text também retornaram zero para `Carlos Schell`, `Anna Beler` e `Anna Buker` apesar de a página 159 conter os nomes, demonstrando que o contador da busca não pode substituir a leitura contextual do fólio.

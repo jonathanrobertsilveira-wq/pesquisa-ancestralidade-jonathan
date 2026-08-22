@@ -10,7 +10,7 @@
 
 | Código | Pessoa / variante | Identificador ou origem no repositório | Relação com a pesquisa | Indício que justifica a inclusão | Linha | Estado atual |
 |---|---|---|---|---|---|---|
-| A01 | **João Adão Thomas / Thomaz** | KJ8D-X45 | Avô paterno atribuído de João Thomas | Perfil exibe nascimento em 1815, `Alemanha`; várias fontes brasileiras o mostram no RS; há pista “Allemanha” em registro de 1908, mas com homonímia | Direta em potencial | Candidato mais forte, mas a origem ainda não está ligada sem ambiguidade a uma fonte primária |
+| A01 | **João Adão Thomas / Thomaz** | KJ8D-X45 | Avô paterno atribuído de João Thomas | Perfil exibe nascimento em 1815, `Alemanha`; várias fontes brasileiras o mostram no RS; há pista “Allemanha” em registro de 1908, mas com homonímia | Direta em potencial | Candidato de alta utilidade genealógica, mas a origem ainda não está ligada sem ambiguidade a uma fonte alemã primária |
 | A02 | **João Adão [nome indexado como Romale el Verprica Therana]** | FamilySearch ARK XSFC-CVG3 | Homem associado a Roza Thomás em registro de 1908 | A ficha indexada informa local de nascimento `Allemanha` | Possível homônimo | Indício explícito de Alemanha, mas identidade corrompida e cronologicamente incompatível com A01, falecido em 1891 |
 | A03 | **João Thomas / Thomaz** | G7J5-HPZ | Pai de Felippe Thomaz; filho atribuído de A01 | Nascimento atribuído a cerca de 1845 em Santa Cruz do Sul; filiação depende da árvore; eventual ponte para A01 | Direta em potencial | Relação familiar forte na árvore, origem alemã não declarada |
 | A04 | **João Thomas / Joao Thom** | 9J6R-DFR ou variante em fontes da árvore | Pai atribuído de A01 | A árvore atribui casamento em 1815, Alemanha, com Barbara Miller; não há assento identificado | Ascendente atribuído | Pista de árvore, baixa independência |
@@ -46,6 +46,7 @@
 | A34 | **Eva Silveira** | I22; PH4B-XS2 | Cônjuge atribuída de Flauliano | Ramo Kenes; casamento de 1948 ainda sem documento primário | Ramo paralelo | Sem indício alemão individual; incluída para fechar a identidade do casal |
 | A35 | **Manoel Geraldo Kenes** | I23; PMXJ-2SR | Ramo lateral Kenes | Casamento com Dorvalina indicado em 1948; pode fornecer pista de procedência familiar | Ramo paralelo | Origem alemã não demonstrada |
 | A36 | **Dorvalina Ferreira Kenes** | I24; G56B-32T | Cônjuge de Manoel Geraldo | Participa do ramo Kenes sem fonte primária fechada | Ramo paralelo | Origem não demonstrada |
+| A37 | **Joh Tobias Schell** | LB72-3C6; ARK alemão QPF7-BFF6 | Ascendente atribuído na cadeia Schell, ainda não ligada documentalmente ao usuário | Batismo alemão de 04/04/1763, nascimento em 02/04/1763, pais Georg Schell e Anna Barbara Schell, local original Leisel u Niederbrombach | Ascendente alemão documentado; elo brasileiro pendente | Pessoa comprovada no registro alemão; a cadeia até Johann Nicolaus, Karl/Carlos e Regina ainda requer atos independentes |
 
 ## 2. Pessoas que não entram como candidatas alemãs prioritárias
 
@@ -55,23 +56,20 @@ Jonathan, Valdeci, Rosalvino, Carolina, José Maria e os demais descendentes viv
 
 A ordem será definida na fase seguinte por **força do indício explícito**, **proximidade com a linha direta**, **antiguidade**, **qualidade/independência da fonte**, **unicidade do nome** e **potencial de gerar um documento-ponte**. Esta ordem não é uma probabilidade matemática de nacionalidade; é uma ordem de retorno esperado da pesquisa.
 
-1. João Adão Thomas KJ8D-X45 (A01).
-2. João Adão indexado como “Romale el Verprica Therana”, com `Allemanha` em 1908 (A02), mantido separado de A01.
-3. João Thomas G7J5-HPZ (A03).
-4. Felippe Thomaz 98NH-6YN (A06).
-5. Regino Schell (A12).
-6. Rosalina Schell de 1906 / perfil de 1899 em conflito (A10–A11).
-7. Carlos Schell e Anna Schell, nomes de ascendência no APERS (A13–A14).
-8. Clara Klaus (A08) e Margarida Thomas (A07), cônjuges que podem aparecer nos primeiros batismos/casamentos.
-9. João Thomas e Barbara Miller atribuídos como pais de A01 (A04–A05).
-10. Regina Shell Becker (A09), por ser ponte possível para Rosalina de 1899 e o cluster Schell.
-11. Rosalina Schell de 1897 (A15), Alvina (A16) e Celanira (A17), por permitirem reconstruir o núcleo Schell de Tapes.
-12. Karl Schell (A23) e Anna Becker (A24), pais atribuídos do cluster regional de Três Coroas.
-13. Rosalina Trott, Theodor Schell, Albin Schell e Catharina Trott (A18–A22).
-14. Jacob Friedrich Trott e Emilie Fillmann (A25–A26).
-15. Gertrudes Thomas (A27).
-16. Felippe/Thomaz colaterais derivados: Frieda Hoff, Adolpho Thomaz, Carolina Thomaz, Wilbald Thomaz e Emilio Schelle (A28–A32).
-17. Flauliano Brasil Kenes, Eva Silveira, Manoel Geraldo Kenes e Dorvalina Ferreira Kenes (A33–A36).
+1. Joh Tobias Schell (A37), porque possui batismo alemão indexado com data, local original e pais.
+2. Karl/Carlos Schell (A23/A13), porque a continuidade brasileira 1871–1874 inclui a declaração de que Carlos era “da Allemanha”.
+3. Regina Shell Becker (A09) e Anna Becker (A24), para testar a continuidade do casal e o elo até o cluster brasileiro.
+4. Rosalina Schell de 1906 (A11) e Regino Schell (A12), para fechar a ponte brasileira até Carlos/Anna.
+5. João Adão Thomas (A01) e Clara Klaus (A08), por sua importância na linha direta, embora os atributos Alemanha permaneçam sem fonte direta.
+6. João Thomas (A03) e Felippe Thomaz (A06), para resolver a ponte Thomas–Klaus e os conflitos de idade/filiação.
+7. João Thomas e Barbara Miller atribuídos como pais de A01 (A04–A05), condicionados à localização do casamento de 1815.
+8. João Adão indexado como “Romale el Verprica Therana”, com `Allemanha` em 1908 (A02), mantido separado de A01.
+9. Anna Schell (A14), Rosalina Schell de 1897 (A15), Alvina (A16) e Celanira (A17), para reconstruir e desambiguar o núcleo Schell de Tapes.
+10. Rosalina Trott, Theodor Schell, Albin Schell e Catharina Trott (A18–A22).
+11. Jacob Friedrich Trott e Emilie Fillmann (A25–A26).
+12. Gertrudes Thomas (A27), útil para a linha Thomas e o controle Hillesheim.
+13. Felippe/Thomaz colaterais derivados: Frieda Hoff, Adolpho Thomaz, Carolina Thomaz, Wilbald Thomaz e Emilio Schelle (A28–A32).
+14. Flauliano Brasil Kenes, Eva Silveira, Manoel Geraldo Kenes e Dorvalina Ferreira Kenes (A33–A36).
 
 ## 4. Limites do inventário
 
