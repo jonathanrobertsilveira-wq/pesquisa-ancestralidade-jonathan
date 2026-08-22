@@ -11,7 +11,7 @@ O inventário do repositório identificou **37 pessoas, variantes ou candidatos 
 
 A prioridade inicial recaiu sobre **João Adão Thomas/Thomaz (A01)** e **Clara Klaus/Hlausf (A08)** porque os perfis atribuem nascimento na Alemanha em 1815 e 1821. A rodada autenticada, porém, confirmou que as fontes visíveis de A01 e A08 são predominantemente brasileiras e que os atributos alemães continuam sem fonte alemã primária auditada. O indício mais novo e documentalmente promissor está no ramo **Schell–Becker**: o batismo brasileiro de Maria em 1871 declara que Carlos Schell era “da Allemanha”, e o batismo de Regina em 1874 confirma Carlos Schell e Anna Becker na mesma paróquia. A ligação é fortemente indicada, mas ainda depende de resolver a variação `Beler/Becker` e de confirmar continuidade do casal.
 
-A pesquisa também demonstrou que o registro de 1908 com `Allemanha` não pertence a A01: a citação identifica José Steir e Felippe Steir. Do mesmo modo, a fonte portuguesa de 1941 com `Alemanhã` anexada ao nascimento de Karl Schell é de Carlos Sobell S. e Ana Schall, outra família. A matriz pública de buscas contém **101 entradas documentadas** após esta rodada, cobrindo consultas nominais, registros civis e paroquiais, emigração, Hemeroteca, APERS, FamilySearch, fontes regionais, exército, escola, hospital, cemitério, diretórios, naturalização e controles de homônimos. A cobertura não foi uniforme: vários candidatos têm poucas entradas porque são colaterais recentes, pistas derivadas ou não possuem dados suficientes para buscas específicas. Não afirmo que foram feitas dezenas de consultas individuais para cada um dos 37 nomes.
+A pesquisa também demonstrou que o registro de 1908 com `Allemanha` não pertence a A01: a citação identifica José Steir e Felippe Steir. Do mesmo modo, a fonte portuguesa de 1941 com `Alemanhã` anexada ao nascimento de Karl Schell é de Carlos Sobell S. e Ana Schall, outra família. A matriz pública de buscas contém **106 entradas documentadas** após esta rodada, cobrindo consultas nominais, registros civis e paroquiais, emigração, Hemeroteca, APERS, FamilySearch, fontes regionais, exército, escola, hospital, cemitério, diretórios, naturalização e controles de homônimos. A cobertura não foi uniforme: vários candidatos têm poucas entradas porque são colaterais recentes, pistas derivadas ou não possuem dados suficientes para buscas específicas. Não afirmo que foram feitas dezenas de consultas individuais para cada um dos 37 nomes.
 
 ## 2. Como o ranking foi calculado
 
@@ -31,7 +31,7 @@ A tabela abaixo substitui a ordem anterior. O campo “prioridade ordinal” é 
 
 | Rank | Código | Pessoa | Relação | Score ordinal | Nível | Indício e ressalva |
 |---:|---|---|---|---:|---|---|
-| 1 | A23 | **Karl / Carlos Schell** | ascendente de A09 | 17 | prioridade muito alta | Batismos de Maria (1871) e Regina (1874) show Carlos Schell + Anna Becker; the 1871 page says he was da Allemanha. **Ressalva:** atributo Oberbrombach/1843 ainda não tem fonte alemã direta; fonte portuguesa de 1941 é homônimo. |
+| 1 | A23 | **Karl / Carlos Schell** | ascendente de A09 | 18 | prioridade muito alta | Batismos de Maria (1871) e Regina (1874) mostram Carlos Schell + Anna Becker; a página de 1871 diz que ele era da Allemanha; OGF lista Karl, filho de Johann Nicolaus, nascido em Oberbrombach em 24/12/1843. **Ressalva:** a equivalência Karl/Carlos ainda requer atos brasileiros adicionais; fonte portuguesa de 1941 é homônimo. |
 | 2 | A37 | **Joh Tobias Schell** | ascendente Schell atribuído, elo ainda não fechado | 16 | prioridade muito alta | Batismo alemão direto em 04/04/1763; pais Georg Schell e Anna Barbara Schell; perfil o liga a Johann Nicolaus. **Ressalva:** Joh Tobias → Johann Nicolaus → Karl/Carlos → Regina ainda não demonstrado por atos independentes. |
 | 3 | A13 | **Carlos Schell** | ascendente colateral em investigação | 14 | prioridade alta | Assento paroquial de 1871 declara Carlos Schell da Allemanha; possível continuidade com o Carlos ligado a Regina e ao ramo Schell. **Ressalva:** Beler/Becker e papel de Carlos em APERS ainda precisam de prova contínua. |
 | 4 | A09 | **Regina Shell Becker** | próxima da direta | 14 | prioridade alta | Batismo original de 1874 confirma pais Carlos Schell e Anna Becker; pai é possivelmente o Carlos declarado da Allemanha em 1871. **Ressalva:** a declaração de Alemanha é do pai, não de Regina; continuidade 1871–1874 ainda deve ser demonstrada. |
@@ -72,7 +72,7 @@ A tabela abaixo substitui a ordem anterior. O campo “prioridade ordinal” é 
 O arquivo CSV `30_classificacao_candidatos_germanicos_2026-08-22.csv` contém os cinco componentes do score e a nota metodológica completa para cada candidato.
 ## 4. Matriz de pesquisas executadas
 
-A matriz completa está em `29_matriz_execucao_pesquisas_alema_2026-08-22.csv`, com 101 linhas de dados e os campos: pessoa, código, eixo, termos/ação, fonte, resultado, classificação, compatibilidade e próximo passo.
+A matriz completa está em `29_matriz_execucao_pesquisas_alema_2026-08-22.csv`, com 106 linhas de dados e os campos: pessoa, código, eixo, termos/ação, fonte, resultado, classificação, compatibilidade e próximo passo.
 
 | Grupo de pessoas | Tipos de pesquisa executados | Resultado consolidado |
 |---|---|---|
@@ -104,7 +104,7 @@ A **Hemeroteca Digital Brasileira** apresentou `João Adão Thomaz` em uma ediç
 
 A evidência mais forte localizada nesta continuação está no ramo Schell. O registro indexado `XJ1K-XPV` informa Maria Schell, nascida em 03/05/1870 e batizada em 10/01/1871 em Santa Cristina, filha de Carlos Schell e Anna Becker. A página original do mesmo evento (`3:1:939N-7CRZ-S`, imagem 159/206) contém a declaração “elle da Allemanha e ella desta”. Em seguida, o assento original de Regina (`3:1:939N-7CR3-Y`, imagem 52/110) confirma Regina nascida em 23/04/1874 e filha legítima de Carlos Schell e Anna Becker, na Capela de Santa Rosa, mesma paróquia. [18] [19] [20]
 
-A sequência 1871–1874 torna fortemente indicada a continuidade do casal e faz de Carlos Schell o principal candidato a primeira geração alemã documentada do cluster. Ainda não é correto declarar que Karl Schell ou Regina nasceram na Alemanha: o assento de 1871 declara a naturalidade de Carlos, enquanto o de 1874 não o faz; a grafia `Beler` no primeiro e `Becker` no segundo precisa de conferência paleográfica. O perfil de Karl atribui nascimento em Oberbrombach em 1843, mas a fonte portuguesa com “Alemanha” anexada ao nascimento é, na realidade, um registro de 1941 de Carlos Sobell S., Ana Schall e Olegina Schell, homônimo distinto.
+A sequência 1871–1874 torna fortemente indicada a continuidade do casal e faz de Carlos Schell o principal candidato a primeira geração alemã documentada do cluster. Ainda não é correto declarar que Karl Schell ou Regina nasceram na Alemanha: o assento de 1871 declara a naturalidade de Carlos, enquanto o de 1874 não o faz; a grafia `Beler` no primeiro e `Becker` no segundo precisa de conferência paleográfica. A fonte pública independente da OGF lista **Karl Schell**, nascido em **24/12/1843 em Oberbrombach**, como filho de Johann Nicolaus, e registra a emigração da família ao Brasil em 1856, com entrada no Rio Grande do Sul e residência posterior em Mundo Novo/Igrejinha. [23] Essa ponte torna a equivalência Karl/Carlos uma hipótese fortemente indicada, mas ainda exige um ato brasileiro que ligue explicitamente o Karl de 1843 ao Carlos dos batismos de Santa Cristina. As rotas institucionais citadas pela OGF também foram confirmadas: a produção de Reiner Schmitt é consultável no Landesmuseum Birkenfeld [24], e o portal regional indica o Landeshauptarchiv Koblenz/APERTUS como rota para os autos de emigração [25] [26]. A fonte portuguesa com “Alemanha” anexada ao nascimento de Karl é, na realidade, um registro de 1941 de Carlos Sobell S., Ana Schall e Olegina Schell, homônimo distinto.
 
 Para Johann Nicolaus Schell, pai atribuído de Karl, o perfil mostra Oberbrombach em 1812 e imigração após 27/03/1856, mas a única fonte de nascimento é um fólio `Kirchenbuch` sem índice no filme 008162686, imagem 628. A página pública do Archion confirma que a paróquia de Niederbrombach possui a série `Taufen 1740–1777`, que cobre o batismo de Joh Tobias, enquanto a Dorfchronik confirma a jurisdição histórica de Niederbrombach. [21] [22] A imagem 628 foi preservada apenas como miniatura pública e não foi lida de modo confiável; a geração 1812–1843 permanece hipótese plausível, não comprovação.
 
@@ -171,7 +171,7 @@ Não foram pesquisados prontuários de pessoas vivas nem dados privados. A categ
 |---|---|
 | `docs/27_inventario_candidatos_germanicos_2026-08-22.md` | Lista completa dos 37 candidatos, relações e indícios. |
 | `docs/28_catalogo_fontes_matriz_consultas_2026-08-22.md` | Catálogo de 50 eixos de pesquisa e protocolo de classificação. |
-| `docs/29_matriz_execucao_pesquisas_alema_2026-08-22.csv` | Matriz detalhada das 101 consultas/ações documentadas. |
+| `docs/29_matriz_execucao_pesquisas_alema_2026-08-22.csv` | Matriz detalhada das 106 consultas/ações documentadas. |
 | `scripts/classificar_candidatos_germanicos.py` | Classificador ordinal revisado após a rodada autenticada. |
 | `scripts/atualizar_relatorio_ranking.py` | Gerador da tabela de ranking e do adendo autenticado. |
 | `sources/karl_johann_film_008162686_img_628_thumb.jpg` | Miniatura oficial preservada do fólio 628; não é substituta da imagem de alta resolução. |
@@ -230,3 +230,11 @@ Não foram pesquisados prontuários de pessoas vivas nem dados privados. A categ
 [21]: https://www.archion.de/en/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach "Archion — catálogo dos Kirchenbücher de Niederbrombach"
 
 [22]: https://www.schmissberg.de/dorfchronik-die-kirchengeschichte-schmissbergs/ "Dorfchronik de Schmißberg — jurisdição e história eclesiástica de Niederbrombach"
+
+[23]: http://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer "OGF Auswanderer — Schell, Johann Nikolaus, I169502"
+
+[24]: https://www.landesmuseum-birkenfeld.de/landesmuseum/bibliothek-archiv/veroeffentlichungen-reiner-schmitt/ "Landesmuseum Birkenfeld — publicações de Reiner Schmitt"
+
+[25]: https://www.auswanderung-rlp.de/quellen-zu-auswanderern/listen-zu-auswanderern.html "Institut für Geschichtliche Landeskunde Rheinland-Pfalz — fontes e listas de emigrantes"
+
+[26]: https://lav.rlp.de/ "Landesarchivverwaltung Rheinland-Pfalz — Landeshauptarchiv Koblenz e APERTUS"

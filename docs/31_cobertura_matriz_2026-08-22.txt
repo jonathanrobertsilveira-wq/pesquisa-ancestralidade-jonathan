@@ -1,11 +1,11 @@
-total_linhas 101
+total_linhas 106
 candidatos_com_linhas 39
 A01 16 João Adão Thomas/Thomaz
-A23 9 Karl Schell
+A23 13 Karl Schell
 A03 7 João Thomas
 A09 6 Regina Shell Becker
+A37 6 Joh Tobias Schell
 A06 5 Felippe Thomaz
-A37 5 Joh Tobias Schell
 A12 3 Regino Schell
 A13 3 Carlos Schell
 A02 2 João Adão indexado como Romale el Verprica Therana
