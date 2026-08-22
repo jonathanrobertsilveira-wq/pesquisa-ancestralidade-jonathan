@@ -11,7 +11,7 @@ O inventário do repositório identificou **37 pessoas, variantes ou candidatos 
 
 A prioridade inicial recaiu sobre **João Adão Thomas/Thomaz (A01)** e **Clara Klaus/Hlausf (A08)** porque os perfis atribuem nascimento na Alemanha em 1815 e 1821. A rodada autenticada, porém, confirmou que as fontes visíveis de A01 e A08 são predominantemente brasileiras e que os atributos alemães continuam sem fonte alemã primária auditada. O indício mais novo e documentalmente promissor está no ramo **Schell–Becker**: o batismo brasileiro de Maria em 1871 declara que Carlos Schell era “da Allemanha”, e o batismo de Regina em 1874 confirma Carlos Schell e Anna Becker na mesma paróquia. A ligação é fortemente indicada, mas ainda depende de resolver a variação `Beler/Becker` e de confirmar continuidade do casal.
 
-A pesquisa também demonstrou que o registro de 1908 com `Allemanha` não pertence a A01: a citação identifica José Steir e Felippe Steir. Do mesmo modo, a fonte portuguesa de 1941 com `Alemanhã` anexada ao nascimento de Karl Schell é de Carlos Sobell S. e Ana Schall, outra família. A matriz pública de buscas contém **114 entradas documentadas** após esta rodada, cobrindo consultas nominais, registros civis e paroquiais, emigração, Hemeroteca, APERS, FamilySearch, fontes regionais, exército, escola, hospital, cemitério, diretórios, naturalização e controles de homônimos. A cobertura não foi uniforme: vários candidatos têm poucas entradas porque são colaterais recentes, pistas derivadas ou não possuem dados suficientes para buscas específicas. Não afirmo que foram feitas dezenas de consultas individuais para cada um dos 37 nomes.
+A pesquisa também demonstrou que o registro de 1908 com `Allemanha` não pertence a A01: a citação identifica José Steir e Felippe Steir. Do mesmo modo, a fonte portuguesa de 1941 com `Alemanhã` anexada ao nascimento de Karl Schell é de Carlos Sobell S. e Ana Schall, outra família. A matriz pública de buscas contém **115 entradas documentadas** após esta rodada, cobrindo consultas nominais, registros civis e paroquiais, emigração, Hemeroteca, APERS, FamilySearch, fontes regionais, exército, escola, hospital, cemitério, diretórios, naturalização e controles de homônimos. A cobertura não foi uniforme: vários candidatos têm poucas entradas porque são colaterais recentes, pistas derivadas ou não possuem dados suficientes para buscas específicas. Não afirmo que foram feitas dezenas de consultas individuais para cada um dos 37 nomes.
 
 ## 2. Como o ranking foi calculado
 
@@ -72,7 +72,7 @@ A tabela abaixo substitui a ordem anterior. O campo “prioridade ordinal” é 
 O arquivo CSV `30_classificacao_candidatos_germanicos_2026-08-22.csv` contém os cinco componentes do score e a nota metodológica completa para cada candidato.
 ## 4. Matriz de pesquisas executadas
 
-A matriz completa está em `29_matriz_execucao_pesquisas_alema_2026-08-22.csv`, com 114 linhas de dados e os campos: pessoa, código, eixo, termos/ação, fonte, resultado, classificação, compatibilidade e próximo passo.
+A matriz completa está em `29_matriz_execucao_pesquisas_alema_2026-08-22.csv`, com 115 linhas de dados e os campos: pessoa, código, eixo, termos/ação, fonte, resultado, classificação, compatibilidade e próximo passo.
 
 | Grupo de pessoas | Tipos de pesquisa executados | Resultado consolidado |
 |---|---|---|
@@ -115,6 +115,8 @@ A página oficial da [Landesarchivverwaltung Rheinland-Pfalz sobre emigração](
 No catálogo público [APERTUS](https://apertus.rlp.de/), a busca avançada por `Schell`, restrita ao Landeshauptarchiv Koblenz e ao tema `Auswandererdatenbank`, retornou oito ocorrências em `Best. 642`, `655,148`, `655,172`, `655,200` e `700,348`; nenhuma foi apresentada como `Best. 393 Nr. 859`. A abertura de `Best. 655,172 Nr. 178` mostrou Elisabeth/Johann Schell em 02/03/1846. A abertura de `Best. 700,348 Nr. 0` mostrou Anna Maria Schell em 01/01/1852, residente em Raversbeuren, Kreis Zell, com destino desconhecido. Esses registros são provavelmente distintos do ramo Oberbrombach–Rio Grande do Sul. O teste independente por `859` no mesmo tema retornou 12 itens apenas em `Best. 442`, todos Wellstein; `Best. 393` não apareceu. Como o LAV informa que a base é incompleta e dinâmica, o resultado mantém a referência OGF como rota de consulta manual, sem transformá-la em prova primária negativa. [30]
 
 A fonte brasileira indexada [FamilySearch — HK41-ZZT2](https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2) acrescenta uma ponte relevante: Guilherme Schell nasceu em 26/11/1880 e foi batizado em 03/04/1881 em Santa Cristina, Parobé; o pai é Carlos Schell, a mãe Anna Becker e os avós paternos aparecem como Nicolau Schell e Catharina Schmitt. O registro está anexado no FamilySearch ao perfil `Karl Schell K2VV-DYC`, mas a associação de árvore não foi contada como prova independente. O ato não declara a naturalidade de Carlos e diverge da mãe `Charlotte Catharina Schmid/Schmidt` indicada pelas fontes OGF/FamilySearch alemãs. Assim, ele torna a identidade Karl/Carlos e Johann Nicolaus/Nicolau **mais fortemente indicada**, mas ainda não fecha os elos sem imagem original, casamento, óbito ou auto de emigração. [28]
+
+A tentativa de leitura pública direta do mesmo ARK com `lang=pt-BR` retornou uma mensagem `Request unsuccessful` acompanhada de um Incapsula incident ID, sem disponibilizar o conteúdo do registro. Isso é uma limitação técnica da consulta pública e não um resultado genealógico negativo; nenhum controle foi contornado. [32]
 
 ## 5. O que foi pesquisado por tipo de fonte
 
@@ -179,7 +181,7 @@ Não foram pesquisados prontuários de pessoas vivas nem dados privados. A categ
 |---|---|
 | `docs/27_inventario_candidatos_germanicos_2026-08-22.md` | Lista completa dos 37 candidatos, relações e indícios. |
 | `docs/28_catalogo_fontes_matriz_consultas_2026-08-22.md` | Catálogo de 50 eixos de pesquisa e protocolo de classificação. |
-| `docs/29_matriz_execucao_pesquisas_alema_2026-08-22.csv` | Matriz detalhada das 114 consultas/ações documentadas. |
+| `docs/29_matriz_execucao_pesquisas_alema_2026-08-22.csv` | Matriz detalhada das 115 consultas/ações documentadas. |
 | `scripts/classificar_candidatos_germanicos.py` | Classificador ordinal revisado após a rodada autenticada. |
 | `scripts/atualizar_relatorio_ranking.py` | Gerador da tabela de ranking e do adendo autenticado. |
 | `sources/karl_johann_film_008162686_img_628_thumb.jpg` | Miniatura oficial preservada do fólio 628; não é substituta da imagem de alta resolução. |
@@ -252,3 +254,4 @@ Não foram pesquisados prontuários de pessoas vivas nem dados privados. A categ
 [29]: https://lav.rlp.de/geschichte-entdecken/auswanderung "Landesarchivverwaltung Rheinland-Pfalz — Auswanderung"
 [30]: https://apertus.rlp.de/ "APERTUS — catálogo público dos arquivos estaduais de Rheinland-Pfalz"
 [31]: https://lav.rlp.de/finden-und-benutzen/apertus "Landesarchivverwaltung Rheinland-Pfalz — descrição oficial do APERTUS"
+[32]: https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2?lang=pt-BR "FamilySearch — tentativa de leitura pública do registro HK41-ZZT2"
