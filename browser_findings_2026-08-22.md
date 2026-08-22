@@ -125,3 +125,158 @@ A mesma busca da Archion listou separadamente “Taufen 1824–1875, Eheschließ
 ## Contato oficial para eventual solicitação
 
 A página oficial de contatos do Landesarchivverwaltung Rheinland-Pfalz confirma os responsáveis e informa que consultas eletrônicas devem conter o endereço postal completo do solicitante: https://lav.rlp.de/lav-rlp/ansprechpartner. A página de atendimento do Landeshauptarchiv Koblenz indica o canal geral/atendimento do arquivo; a consulta deve mencionar Johann Nicolaus Schell, 13/09/1812, Oberbrombach, pedido de emigração de 27/03/1856, Brasil e a referência citada Best. 393 Nr. 859. O endereço postal completo do usuário ainda não foi fornecido, portanto nenhuma mensagem foi enviada.
+
+## Landesmuseum Birkenfeld — índice público consultado
+
+A página pública https://genealogie.landesmuseum-birkenfeld.de/Muehlen/html/i000007.htm contém um índice regional com entradas SCHELL. A busca de “SCHELL” mostrou, entre outras, SCHELL Maria Margaretha, nascida em Oberbrombach (sem data), além de SCHELL Johann Burkhardt, nascido em Oberhosenbach, SCHELL Elisabeth Catharina, nascida em Breitenthal, e outros Schell de localidades vizinhas. Não apareceu nessa página uma entrada claramente identificada como Johann Nicolaus Schell de 1812. O resultado é útil para gerar candidatos e mapear famílias Schell regionais, mas o índice não confirma o ramo de 1812.
+
+## HFRG — regestos públicos de emigração de Koblenz
+
+A página https://hfrg.de/index.php?id=1234 apresenta regestos de processos do Landeshauptarchiv Koblenz, principalmente Best. 442, com solicitações de emigração de 1857–1900 e diversos destinos, inclusive Brasil e América do Sul. A busca textual do navegador por “Schell” não encontrou ocorrência na página consultada. Isso é uma busca negativa limitada: a página pode não cobrir Best. 393 Nr. 859, pode cobrir outra faixa/coleção e não substitui o catálogo oficial nem a resposta do arquivo. O regesto confirma, contudo, que processos de emigração registram datas, residência, composição familiar, profissão, destino e às vezes condições de saída, exatamente os campos que esperamos no processo de Johann.
+
+## Estudo local de Oberbrombach no Yumpu
+
+Foi aberta a página pública https://www.yumpu.com/de/document/view/5315527/freimut-heiderich-alte-familien-oberbrombach-und-umgebung-. O documento é “Freimut Heiderich — Alte Familien Oberbrombach und Umgebung”, publicado em 05/12/2012, associado às tags Familien, Ruppenthal, Oberbrombach e outras. A página disponibilizou a ficha do e-paper, mas não expôs texto pesquisável ou uma prévia legível suficiente para confirmar Johann/Tobias Schell. O estudo continua sendo uma pista bibliográfica potencialmente importante; será necessário acesso ao e-paper completo, à biblioteca RLB ou a uma cópia pesquisável para testar a família Schell.
+
+## Fontes oficiais brasileiras e alemãs — orientação de pesquisa
+
+A página oficial do APERS https://www.apers.rs.gov.br/pesquisa-no-acervo informa que o arquivo custodia acervos Executivo, Judiciário, Legislativo, Registro Civil e Tabelionatos. A pesquisa presencial exige cadastro e Termo de Responsabilidade; cópias podem ser solicitadas por tele-apers@spgg.rs.gov.br. O Registro Civil custodiado cobre, segundo a página, 1929–1975, e os Tabelionatos 1763–1985; esses acervos não estão indexados nem digitalizados. Para o ramo Schell, o APERS é especialmente relevante para escrituras, inventários/processos e registros posteriores, mas não deve ser tratado como fonte automática de batismos de 1812.
+
+A página oficial das Representações Alemãs no Brasil https://brasil.diplo.de/br-pt/servicos/nacionalidade/antepassados-2602086 recomenda: para antes de 01/01/1876, procurar os registros da igreja da localidade de nascimento; para entrada no Brasil, consultar o Arquivo Nacional e outros acervos; para naturalização, procurar a documentação brasileira correspondente; e, para antepassados que emigraram antes de 1904, verificar as matrículas consulares alemãs. A mesma página esclarece que consulados/representações não realizam pesquisa genealógica nem possuem registros de imigração. Ela também aponta o Instituto Genealógico do Rio Grande do Sul como base útil. Essa orientação reforça quatro frentes: batismo alemão, processo de emigração, entrada/registro brasileiro e eventual matrícula consular.
+
+## IHGRGS — acervo genealógico do Rio Grande do Sul
+
+A página https://www.ihgrgs.org.br/genealogia.html informa que o IHGRGS disponibiliza, mediante contato, o acervo genealógico de Moacir Domingues, compilado ao longo de mais de trinta anos e em processo de digitalização/fornecimento aos interessados. Não há busca nominal pública visível na página, mas há atendimento de pesquisadores pelos e-mails ihgrgs.arquivo@gmail.com e ihgrgs.biblioteca@gmail.com, além de contato geral ihgrgs@gmail.com. É uma frente de baixo custo para solicitar busca por Schell, Schnell, Nicolau, Carlos, Johann e localidades Santa Cristina, Taquara, Mundo Novo e Igrejinha.
+
+## FamilySearch — Registro Civil do Rio Grande do Sul
+
+A coleção https://www.familysearch.org/pt/search/collection/3741255 é “Brasil, Rio Grande do Sul, Registro Civil, 1810–2022”. A página informa que inclui nascimentos, casamentos, óbitos e índices de vários cartórios; apenas parte está indexada e os índices continuam sendo publicados. Os campos disponíveis permitem pesquisar nome, sobrenome, nascimento, casamento, residência, falecimento, cônjuge, pai, mãe, localidade, palavra-chave, número de lote e filme/DGS.
+
+A descrição da coleção informa que um registro de nascimento pode trazer data/local, pais, residência, profissão, origem e avós; casamento pode trazer naturalidade, pais e testemunhas; óbito pode trazer naturalidade, residência, cônjuge, pais, causa e sepultamento. A fonte original é indicada como Corregedoria-Geral da Justiça. O sobrenome “Schell” foi preenchido no campo de sobrenome, mas a busca ainda precisa ser executada e seus resultados conferidos individualmente.
+
+A coleção foi rolada até o botão “PESQUISAR”, que aparece no formulário com o sobrenome Schell preenchido. Os filtros de família, localidade, tipo de registro, palavra-chave e filme/DGS estão disponíveis. A tecla Enter não executou a pesquisa; o próximo passo operacional é clicar no botão “PESQUISAR” e, se houver resultados, abrir cada registro e anotar cartório, data, localidade, cônjuge, pais, origem e imagem.
+
+## Busca nominal executada — Schell no Registro Civil do RS
+
+A busca por sobrenome “Schell” na coleção FamilySearch 3741255 retornou **4.310 resultados**, portanto o sobrenome isolado produz muitos homônimos. A página mostrou, entre outros, Fridolino Schell com casamento em Taquara (1926), Catarina Schell com nascimento indicado em município de Tapes (1877) e sepultamento em Guaíba, Pedro Schell com casamento em 1911 e pais Carlos Schell/Anna Schell, Adolfo Schell com casamento em Três Capões (1910) e pais Anna Schell/Carlos Schell, e Theodoro Schell com casamento em Três Capões (1911) e pais Carlos Schell/Anna Schell. Esses registros são apenas candidatos porque a tela inicial não permite confirmar imagens, cartórios ou a ligação com o ramo de Karl/Carlos de 1843.
+
+A busca confirma que a coleção contém registros indexados potencialmente úteis para a geração brasileira, mas exige filtros por localidade, faixa temporal, tipo de evento, pais e cônjuge. O resultado de 4.310 não deve ser tratado como prova de conexão familiar.
+
+## Busca Schell com localidade Taquara
+
+A consulta direta https://www.familysearch.org/pt/search/record/results?f.collectionId=3741255&q.surname=Schell&q.birthLikePlace=Taquara retornou 3.728 resultados. Entre os primeiros candidatos está **João Schell**, casamento em 06/10/1894 em Taquara, nascimento indicado em 1869 em Taquara, pais **Carlos Schell e Anna Schell**, cônjuge Guilhermina Thomaz. Esse resultado é potencialmente relevante porque o casal Carlos/Anna coincide nominalmente com o núcleo de Karl/Carlos e Anna Becker, mas a divergência do nome da mãe, a ausência de imagem conferida e o grande volume de homônimos impedem fundi-lo ao ramo sem abrir o registro original e comparar residência, idade, testemunhas e filiação.
+
+Também aparecem Jose Schell, nascido em Taquara em 1948, filho de Frederico Jacob Schell, e vários candidatos de Canela/Padilha; são homônimos ou gerações posteriores ainda não conectados.
+
+## Registro de João Schell — ARK identificado
+
+O registro potencialmente relevante de João Schell foi identificado como https://www.familysearch.org/ark:/61903/1:1:XS33-C25S?lang=pt. A ficha é um casamento na coleção “Brasil, Rio Grande do Sul, Registro Civil, 1810–2022”, com casamento em 06/10/1894 em Taquara, nascimento indicado em 1869 em Taquara, pais Carlos Schell e Anna Schell e cônjuge Guilhermina Thomaz. A abertura direta carregou inicialmente uma tela de espera; a imagem e os detalhes completos ainda precisam ser confirmados. O registro é um candidato de ligação entre a geração de Carlos e gerações posteriores, não uma prova conclusiva sem a imagem original.
+
+## João Schell — detalhes completos do registro indexado
+
+A ficha ARK XS33-C25S carregou com os seguintes campos: João Schell, sexo masculino, 25 anos em 06/10/1894, nascimento em 1869 em Taquara, residência em Taquara, solteiro, lavrador; casamento em 06/10/1894 em Taquara do Mundo/Taquara; certificado nº 219. Pais: Carlos Schell e Anna Schell. Cônjuge: Guilhermina Thomaz, 22 anos, nascida em 1872 em Taquara, também residente em Taquara. Outras pessoas: Guilherme Thomaz, Margaretha Thomaz, João Bremer (59) e João Arg (59). O FamilySearch informa que a indexação foi feita por computador e mostra uma miniatura de imagem e o link “VER O DOCUMENTO ORIGINAL”. Isso é um achado importante para a ponte brasileira, mas ainda é índice associado a uma árvore e precisa da imagem original para confirmar a leitura.
+
+A tentativa de clicar no link “VER O DOCUMENTO ORIGINAL” encontrou uma falha de conexão do navegador; será feita nova captura antes de tentar novamente.
+
+## Imagem original do casamento de João Schell
+
+O link “VER O DOCUMENTO ORIGINAL” abriu o visualizador FamilySearch https://www.familysearch.org/ark:/61903/3:1:3QS7-99LC-SFCY?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXS33-C25S&action=view&cc=3741255&lang=pt. O cabeçalho identifica “Taquara. Registros de casamento 23 de jul. de 1890–8 de fev. de 1896”, imagem 173 de 233. A imagem manuscrita do livro está visível em baixa ampliação, com o painel lateral ligado a Johannes/João Schell (1869–1952, LR5J-JPL). O visualizador avisou “Tempo de carregamento prolongado” para as informações pessoais; não foi feita edição, correção ou gravação. A leitura do manuscrito ainda não foi declarada porque a captura integral não permite transcrição segura.
+
+Uma tentativa de aceitar o carregamento prolongado encontrou atualização da página e não foi concluída; será feita nova captura antes de qualquer interação.
+
+Após aceitar o carregamento prolongado, o painel lateral do visualizador confirmou: nome dado João, sobrenome Schell, sexo masculino, idade “vinte e cinco anos de idade”, pai Carlos Schell, mãe Anna Schell, mulher Guilhermina Thomaz e outras pessoas Guilherme Thomaz, Margaretha Thomaz, João Bremer e João Arg. A página continua na imagem 173 de 233. Esses campos são consistentes com a ficha indexada e confirmam que o registro está ligado a um núcleo Carlos/Anna em Taquara, mas ainda não permitem provar que esse Carlos é o Karl/Carlos de Oberbrombach sem outros elos.
+
+## Download da imagem do casamento de 1894
+
+O visualizador oferece quatro opções: PDF com destaques, PDF sem destaques, somente JPG e sem imagem. A opção “Somente JPG” foi selecionada para a imagem 173 do livro de casamentos de Taquara. O download ainda não foi iniciado nesta etapa; a finalidade é obter apenas uma cópia de trabalho para ampliar e ler o manuscrito, sem anexar, corrigir ou gravar nada no FamilySearch.
+
+## Limitação do download do casamento
+
+O botão “BAIXAR” foi acionado com a opção “Somente JPG” selecionada. A tentativa subsequente de abrir chrome://downloads/ para confirmar o arquivo encontrou uma falha de conexão do navegador. Assim, não é possível afirmar nesta sessão se a cópia foi salva nem transcrever a imagem a partir de arquivo local. O registro indexado e os campos do painel permanecem verificáveis; a leitura manuscrita integral continua pendente.
+
+## Arquivo Nacional — entrada, naturalização e estrangeiros
+
+A orientação oficial do Arquivo Nacional https://www.gov.br/arquivonacional/pt-br/servicos/acervos/copy_of_acervos-mais-consultados/entrada-de-estrangeiros apresenta várias frentes para a pesquisa de Nicolau Schell:
+
+1. **SIAN e listas de entradas:** listas de portos e períodos, com maior utilidade para o ramo as séries do Rio de Janeiro (1875–1964), Santos (1891 e 1894–1982), e outros portos; a cobertura não alcança automaticamente 1856.
+2. **Base “Entrada de Estrangeiros no Brasil — Porto do Rio de Janeiro”:** 1875–1910, com nome, navio, data, nacionalidade, religião, profissão, estado civil, procedência e destino.
+3. **RNE/Modelo 19:** prontuários de estrangeiros de 1939–1987; pouco provável para Johann falecido em 1886, mas pode ser útil para descendentes estrangeiros posteriores.
+4. **Processos de naturalização:** Arquivo Nacional conserva processos de 1823–1959; a pesquisa exige nome completo e filiação. Pode resultar em carta negativa de naturalização, enquanto certidão formal positiva/negativa é solicitada ao órgão competente do Ministério da Justiça.
+5. **Departamento Nacional de Povoamento:** hospedarias e movimentos de imigrantes, sobretudo 1883 em diante, portanto possivelmente mais úteis para filhos/parentes ou para testar uma chegada posterior.
+6. **Inspetoria Geral de Terras e Colonização:** documentação de imigrantes, relações e localização de trabalhadores entre 1819 e 1890; é uma frente promissora para verificar a presença de Nicolau no Sul.
+7. **Polícia da Corte/passaportes:** acervo de 1808–1866; pode conter referência de passaporte ou deslocamento, mas a localização exige pesquisa no SIAN.
+
+A própria página ressalta que o Arquivo Nacional emite certidão de desembarque gratuitamente quando o pesquisador já informa porto, navio, data, página e número de ordem; sem esses dados, primeiro é necessário localizar a lista ou o processo.
+
+## Matrículas consulares alemãs — Porto Alegre
+
+A página oficial https://brasil.diplo.de/br-pt/servicos/nacionalidade/matriculaconsular-2602058 informa que emigrantes alemães que saíram antes de 1904 perdiam automaticamente a nacionalidade após dez anos no exterior, salvo inscrição em matrícula consular. A página disponibiliza listas de nomes remanescentes dos consulados, incluindo quatro PDFs do Consulado de Porto Alegre: A–F, G–K, L–R e S–Z, além de outros consulados. Também informa que as listas estão no sistema invenio, sem necessidade de cadastro, abrangendo registros consulares e de passaportes de Porto Alegre e Rio Grande do Sul.
+
+Para Johann/Nicolau, a busca deve testar “Schell”, “Schnell”, “Nicolau”, “Nicolaus”, “Nikolaus”, “Johann”, “Karl/Carlos” e “Charlotte”, especialmente nos PDFs de Porto Alegre G–K e L–R. Uma matrícula encontrada seria uma evidência alemã posterior à emigração, potencialmente muito relevante; a ausência não encerra a pesquisa porque apenas registros remanescentes estão disponíveis e o próprio consulado informa que outras provas alemãs podem ser usadas.
+
+## Verificação visual das matrículas consulares Porto Alegre S–Z
+
+O PDF oficial foi renderizado e analisado visualmente nas páginas 4 e 5, que apresentam índices manuscritos em ordem alfabética de sobrenome e remetem a números de matrícula. As páginas exibem numerosos sobrenomes Sch-, como Schroeder, Schmitt, Schneider, Schreiber, Schultz, Schmidt e outros. **Não foi identificada com segurança uma entrada “Schell” ou “Schnell” nas páginas 4–5**; o OCR havia produzido falsos positivos por confundir grafias manuscritas. A busca deve continuar pelas páginas vizinhas e, se necessário, pelas outras listas consulares, sem transformar o resultado parcial em ausência definitiva.
+
+A inspeção visual das páginas 6 e 7 do PDF Porto Alegre S–Z continuou a ordem alfabética de sobrenomes Sch-. Foram lidos nomes como Schaff, Schreiner, Schuler, Schür, Schwarz, Schuster, Schreiber e outros. **Não foi encontrada uma entrada claramente legível como Schell ou Schnell nas páginas 6–7.** O OCR continua gerando falsos positivos em caligrafia semelhante. A lista ainda contém outras páginas e o resultado parcial não permite concluir que Johann/Nicolau não esteja matriculado.
+
+A inspeção visual das páginas 2 e 3 da lista Porto Alegre S–Z não revelou “Schell” ou “Schnell”. A página 2 contém sobrenomes como Schobersky, Sauer, Saller, Sell, Sievers, Sommer, Sailer; a página 3 contém Siebert, Seifert, Seelig, Söller, Sommer, Sperber, Simon e outros. A ordem alfabética e a ausência de Schell nas páginas 2–7 tornam menos provável uma matrícula Porto Alegre sob esse sobrenome, mas ainda não substituem uma consulta no invenio nem cobrem outras grafias/consulados.
+
+A inspeção visual das páginas 1 e 8 da lista Porto Alegre S–Z também não identificou “Schell” ou “Schnell” de forma segura. A página 1 começa com sobrenomes S diversos; a página 8 continua com Sch-, incluindo Schleich, Schmid, Schläfer, Schwarz, Schubert, Schmitz, Schmel(l)ing e outros, mas não Schell. Considerando as páginas 1–8, a lista remanescente de Porto Alegre não mostra uma entrada claramente compatível com Johann/Nicolau Schell; ainda assim, a confirmação final deve ser feita no invenio ou pela resposta do consulado/arquivo, pois a lista pode ter lacunas e grafias difíceis.
+
+## Bundesarchiv — limite de utilidade para o ramo de 1812
+
+A página oficial https://www.bundesarchiv.de/en/research-our-records/research-archive-material/research-on-persons-and-ancestors/ informa que documentos pessoais do Reich alemão (1867/71–1945) são frequentemente incompletos e que o Bundesarchiv não é arquivo central de registros pessoais. Ele não conserva registros civis ou eclesiásticos, que devem ser procurados em cartórios, paróquias, arquivos municipais ou estaduais. Para Johann Nicolaus Schell, nascido em 1812, a prioridade continua sendo o arquivo paroquial de Niederbrombach/Oberbrombach e o Landeshauptarchiv Koblenz; o Bundesarchiv só deve ser testado se surgir uma pista específica de serviço, passaporte, naturalização ou outra atuação documentada em acervo federal.
+
+## Busca direta por Carlos Schell em Taquara
+
+A consulta https://www.familysearch.org/pt/search/record/results?f.collectionId=3741255&q.givenName=Carlos&q.surname=Schell&q.birthLikePlace=Taquara retornou **273 resultados**. Entre os resultados aparecem agrupamentos distintos:
+
+- Carlos Schell como pai, cônjuge Ana Becker Schell e filho Adolfo Schell, com nascimento em Charrua/Getúlio Vargas;
+- Carlos Schell como pai de noivo, cônjuge Anna Schell e filho João Schell;
+- Carlos Schell como pai de noivo, cônjuge Anna Schell e filho Pedro Schell;
+- Carlos Schell como pai, cônjuge Ana Schell e filhos Regina, Theodoro e Adolfo;
+- Carlos Schell como pai, cônjuge Anna Schell e filho Albino;
+- Carlos Schell como pai, cônjuge Sonia Schell e filho Guilherme.
+
+Esses agrupamentos podem representar registros repetidos do mesmo núcleo ou homônimos em municípios diferentes. O resultado reforça a necessidade de abrir os detalhes e imagens dos registros ligados a João/Regina/Theodoro/Pedro/Adolfo, comparando data, cartório, residência, profissão, pais e avós. O simples nome Carlos/Anna não basta para ligá-los ao Karl de 1843.
+
+O agrupamento “Carlos Schell — Father Of Groom; cônjuge Anna Schell; filho João Schell” foi identificado como https://www.familysearch.org/ark:/61903/1:1:XS33-C253?lang=pt. A ficha direta iniciou com tela de carregamento; os campos detalhados e a imagem ainda precisam ser lidos. O ARK é distinto do casamento de João XS33-C25S e pode representar a entrada/registro que lista Carlos como pai.
+
+## Carlos Schell — vínculo explícito com Karl no FamilySearch
+
+A ficha ARK XS33-C253 carregou e confirmou que o registro de João Schell é um casamento de 06/10/1894 em Taquara do Mundo, com João (25 anos, nascido em 1869, lavrador), Anna Schell como esposa de Carlos e Guilhermina Thomaz como noiva de João. O FamilySearch mostra o registro anexado na árvore a **Karl Schell, 1843–1890, ID K2VV-DYC**, e apresenta “Carlos Schnell — Brasil Batismos, 1688–1935” como registro semelhante.
+
+Isso é uma ligação forte dentro do ecossistema FamilySearch: o índice do casamento e os batismos brasileiros foram associados ao perfil de Karl/Carlos. Entretanto, a indexação foi feita por computador e o próprio site distingue o perfil colaborativo do documento original. Portanto, o achado aumenta muito a coerência da identidade, mas ainda não substitui a leitura da imagem do livro e uma fonte independente que mencione naturalidade, pais ou avós.
+
+Uma nova tentativa de abrir a imagem original a partir dessa ficha encontrou falha de conexão; a imagem já havia sido aberta anteriormente pelo ARK XS33-C25S.
+
+## Batismo de Carlos Schnell, 1878 — avós paternos
+
+A ficha FamilySearch https://www.familysearch.org/ark:/61903/1:1:HKHL-VG3Z confirma: criança Carlos Schnell, nascido em 14/05/1878 e batizado em 01/09/1878 em Santa Cristina, Parobé; pai Carlos Schnell; mãe Anna Beiker; avô materno Joao Beiker; avó materna Gertrud Haubenthal; **avô paterno Nicolas Schnell; avó paterna Catharina Schmitt**. O registro é associado na árvore ao perfil Karl Schell (K2VV-DYC) e aparece com imagem indisponível para esta sessão.
+
+Este é o melhor indício brasileiro já encontrado para a ligação nominal: “Nicolas Schnell/Catharina Schmitt” coincide com a forma aportuguesada/variante “Nicolau Schell” e com a esposa/companheira Catharina Schmitt indicada na linha alemã. Ainda é um índice sem imagem original, e “Nicolas” não prova automaticamente que seja Johann Nicolaus de 1812; a confirmação exige imagem do batismo, registros de casamento/óbito e o processo de emigração.
+
+## Batismo de Guilherme Schell, 1881 — repetição dos avós
+
+A ficha https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2 confirma: Guilherme Schell nasceu em 26/11/1880 e foi batizado em 03/04/1881 em Santa Cristina, Parobé; pai Carlos Schell; mãe Anna Becker; avô materno Joao Becker; avó materna Gertrudes Hanbenthal; **avô paterno Nicolau Schell; avó paterna Catharina Schmitt**. O registro está anexado ao perfil Karl Schell K2VV-DYC e a imagem aparece como indisponível nesta sessão.
+
+A repetição de Nicolau/Catharina em 1878 e 1881, com a mesma localidade e o mesmo casal Carlos/Anna, é uma evidência interna forte de continuidade familiar. Como os dois registros pertencem à mesma coleção indexada e a imagem não foi conferida, contam como evidência compartilhada/índice, não como duas provas primárias independentes.
+
+## CEMLA — cobertura insuficiente para a hipótese brasileira
+
+A FAQ oficial https://cemla.com/faqs/ esclarece que a base pública do CEMLA trata dos **arribos de imigrantes à Argentina**. A página apresenta uma pergunta específica sobre pessoas que entraram por Uruguai, Brasil ou Chile, mas a informação visível não confirma cobertura desses portos como registros de entrada no Brasil. Para Johann/Nicolau, cuja hipótese é chegada ao Brasil em 1856, o CEMLA não deve ser prioridade nem ser usado como prova negativa; pode ser testado apenas como rota alternativa caso surja evidência de passagem pela Argentina ou por Buenos Aires.
+
+## Archion — livro anterior e lacuna de 1812
+
+O perfil público da Archion https://www.archion.de/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach/371321 identifica o conjunto “Taufen 1798–1809, Eheschließungen 1798–1808, Sterbefälle 1798–1809, Konfirmationen 1799–1808”, assinatura local **146/6**, do Archiv der Evangelischen Kirche im Rheinland. O conjunto inclui Oberbrombach e várias localidades vizinhas, mas a Archion informa que não há digitalização disponível para esse volume.
+
+A lista pública da Archion já mostra, em seguida, o conjunto “Taufen 1824–1875, Eheschließungen 1824–1875, Sterbefälle 1824–1875”, além do livro de confirmações 1824–1875. Não aparece um volume público cobrindo 1809–1824; isso cria uma lacuna direta para o batismo de Johann em 1812. O perfil anterior de 1798–1809 é, portanto, útil para documentar a custódia e a assinatura, mas não contém o ano-alvo.
+
+A tentativa de avançar pelo controle “next” da Archion encontrou falha de conexão; a navegação pode ser refeita por URL direta se necessário.
+
+## Arquivo da Igreja Evangélica da Renânia — contato alternativo
+
+A página oficial https://archiv.ekir.de/ identifica o Archiv der Evangelischen Kirche im Rheinland como arquivo central da igreja regional e a Evangelische Archivstelle Boppard como a unidade responsável pelo sul da região, incluindo áreas da Renânia-Palatinado, Sarre e Hesse. A página informa que consultas devem ser feitas por escrito/e-mail. Como o catálogo Archion mostra uma lacuna pública entre o livro de 1798–1809 (assinatura 146/6) e o livro de 1824–1875, a Archivstelle Boppard/arquivo da EKiR é um contato alternativo prioritário para perguntar pela existência do volume 1809–1824 ou de cópia/transcrição do batismo de Johann Nicolaus Schell em 1812.
+
+A página oficial específica https://archiv.ekir.de/inhalt/evangelische-archivstelle-boppard/ confirma que a Archivstelle Boppard é a unidade do sul da EKiR e que suas atribuições incluem atender usuários em pesquisas científicas, históricas locais e genealógicas, além de coordenar a digitalização de Kirchenbücher. A página remete a uma visão geral dos acervos, mas o e-mail direto não apareceu no conteúdo extraído; ele deve ser obtido na página “Archivteam” ou pelo contato geral do arquivo.
