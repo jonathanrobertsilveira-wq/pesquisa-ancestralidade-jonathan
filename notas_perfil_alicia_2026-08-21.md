@@ -186,3 +186,10 @@ A árvore mostra quatro irmãos no casal: Rosalvino (1940), Jovenil (1948), Mano
 
 Status: filiação a Alicia e Raimundo **fortemente indicada e reforçada por fonte civil**, mas a identidade Jovenit = Jovenil e a data exata do óbito ainda exigem leitura do original.
 URL: https://www.familysearch.org/en/tree/person/about/PQXM-T6K
+
+## Perfil de Waldemar de Souza — quarto filho listado
+O perfil FamilySearch `P99P-N9F` foi aberto diretamente. Ele identifica **Waldemar de Souza**, masculino, nascido em **1955**, em Cerro Grande/Tapes, Rio Grande do Sul, e falecido em **15/10/1974**, em São Jerônimo, aos 19 anos. O perfil lista **Raimundo José de Souza** e **Alicia Schell de Souza** como pais, possui uma fonte civil intitulada `Wildemar de Souza` e não lista cônjuge ou filhos.
+
+O perfil confirma a estrutura de quatro filhos mostrada no perfil de Alicia: Rosalvino, Jovenil, Manoel e Waldemar. A grafia `Wildemar` na fonte deve ser tratada como variante; a relação com Alicia é reforçada pela árvore e pela fonte civil, mas a imagem original deve ser consultada para confirmar o prenome e a filiação.
+
+URL: https://www.familysearch.org/en/tree/person/about/P99P-N9F
