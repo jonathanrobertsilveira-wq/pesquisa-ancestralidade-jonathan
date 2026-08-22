@@ -89,3 +89,16 @@ Foi consultado o perfil público de **Adolpho Thomaz** (`G7RX-HLY`), irmão atri
 Essa segunda página pública aumenta a consistência interna da árvore para a hipótese `Felippe Thomaz + Regina Shell Becker → Rosalina Schell (1899)`, mas continua sendo evidência derivada da mesma árvore FamilySearch, não um assento civil ou batismo independente. Não foi localizada na página de Adolpho uma imagem original do nascimento de Rosalina.
 
 **Referência adicional:** [FamilySearch Ancestors — Adolpho Thomaz, G7RX-HLY](https://ancestors.familysearch.org/en/G7RX-HLY/adolpho-thomaz-1912-1973).
+
+
+## Pista adicional da geração de Regina
+
+A busca pública encontrou perfis FamilySearch derivados dos irmãos atribuídos de `Regina Shell Becker`:
+
+- [Johannes Schell, LR5J-JPL](https://ancestors.familysearch.org/en/LR5J-JPL/johannes-schell-1869-1952), nascido em 1869; a página o apresenta como filho de **Karl Schell (1843–1890)** e **Anna Becker (1848–1928)** e irmão de Regina Shell Becker (1874–1942). O perfil registra casamento em Taquara em 06/10/1894.
+- [Albin Schell, K2VJ-JT5](https://ancestors.familysearch.org/en/K2VJ-JT5), nascido em 21/06/1886 em Três Coroas; a página repete Karl Schell e Anna Becker como pais e Regina como irmã.
+- [Adolfo Schell, LBCP-1TY](https://ancestors.familysearch.org/en/LBCP-1TY/adolf-schell-1871-1944), nascido em 18/11/1871 em Igrejinha; a página também repete Karl Schell e Anna Becker como pais e Regina como irmã.
+
+Essa convergência de três perfis públicos torna a hipótese genealógica `Regina Shell Becker → filha de Karl Schell + Anna Becker` internamente consistente, e amplia as localidades a pesquisar para Taquara, Igrejinha e Três Coroas. Todavia, os perfis continuam derivados da mesma árvore FamilySearch e não substituem o assento de nascimento/batismo de Rosalina nem o de Regina.
+
+A pista de maior valor agora é procurar o batismo de **Rosalina Schell/Thomaz, 16/12/1899, filha de Felippe Thomaz e Regina Shell Becker**, nos livros paroquiais de Taquara/Mundo Novo, Igrejinha e Três Coroas, e também pesquisar o casamento de Felippe e Regina. Os perfis dos irmãos de Regina não exibem um identificador público de imagem original do nascimento de Rosalina.
