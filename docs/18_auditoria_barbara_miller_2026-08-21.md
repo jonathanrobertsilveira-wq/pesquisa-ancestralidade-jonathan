@@ -51,3 +51,23 @@ Nenhuma edição foi feita na árvore colaborativa.
 ## Referência
 
 [1]: https://www.familysearch.org/en/tree/person/details/9J6R-DN9 "FamilySearch — Barbara Miller, 9J6R-DN9"
+
+
+## Identificação da única fonte anexada
+
+A única fonte do perfil de Barbara Miller foi aberta. Ela é uma entrada de **1857**, intitulada `Barbara Milla`, da coleção **Brasil, Rio Grande do Sul, Registros da Igreja Católica, 1738–1952**, anexada em 20/06/2023 por `Alexsandro Thomas`.
+
+A fonte aponta para a mesma entrada de **Gertrudes Thomas e João Adão Thomas**, de 1857:
+
+- Ficha da fonte: [6NVX-SVDS](https://familysearch.org/ark:/61903/1:1:6NVX-SVDS)
+- Citação exibida: [6NVX-SV8B](https://www.familysearch.org/ark:/61903/1:1:6NVX-SV8B)
+- Coleção: registros católicos do Rio Grande do Sul, 1738–1952
+- Tags ligadas: nome, sexo e nascimento
+
+A fonte foi anexada ao perfil de Barbara, mas o próprio registro citado é um evento brasileiro de 1857 relacionado a Gertrudes e João Adão. Não é uma certidão de nascimento alemã de Barbara, nem demonstra o casamento de Barbara com Joao Thomas em 1815.
+
+## Conclusão atualizada
+
+O campo `1795 — Alemanha` de Barbara Miller possui uma fonte anexada, mas essa fonte é um registro brasileiro posterior e aparentemente foi relacionada ao perfil de modo incompleto ou incorreto. A origem alemã de Barbara permanece **não demonstrada**. A geração formada por `Joao Thomas + Barbara Miller` continua baseada em dados de árvore, sem prova primária identificada.
+
+A ocorrência da mesma fonte de 1857 nos perfis de Joao Thomas e Barbara Miller indica possível propagação ou anexação cruzada de um registro familiar, e não duas evidências independentes de origem alemã.
