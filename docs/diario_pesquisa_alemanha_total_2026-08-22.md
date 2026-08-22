@@ -422,3 +422,69 @@ Foi criado `docs/35_tabela_desambiguacao_nucleos_schell_thomas_2026-08-22.md`, c
 ## Registro 60 — relatório final da rodada alemã
 
 Foi criado `docs/36_relatorio_final_rodada_alemanha_total_2026-08-22.md`. O relatório reescreve a pesquisa em versão consolidada, destaca a lacuna paroquial 1810–1825, organiza as fontes alemãs por força, compara os núcleos Schell, mantém Thomas/Klaus independente, explica as buscas negativas e registra que os dois pedidos institucionais continuam apenas como rascunhos não enviados. A conclusão permanece: Johann Nikolaus–Karl é fortemente indicado como rota alemã do núcleo Nicolau/Carlos, mas não comprovado por elo primário; Thomas/Klaus não tem origem alemã demonstrada; nenhuma conclusão de cidadania foi feita.
+
+
+## Registro 62 — plano por linha, rodada Schell 1
+
+O plano aprovado por linha foi reaberto e a execução começou pelo núcleo Johann Nikolaus–Karl. A OGF confirma individualmente Karl (nascimento 24/12/1843, batismo 07/01/1844, imagem 735, pai Johann Nikolaus, mãe Charlotte Catharina Schmid, emigração 1856 ao Brasil/Rio Grande do Sul), Friedrich (05/11/1845, batismo 16/11/1845, imagem 782) e Jakob (05/01/1848, batismo 16/01/1848, imagem 886). A ficha de Johann Nikolaus explicita batismo posterior a 13/09/1812, confirmação em imagem 117, profissão Ackersmann, religião LU, pedido de emigração de 27/03/1856 e residência posterior em Mundo Novo/Igrejinha. O RPB confirmou a obra de Küssner de 2006, 50 páginas, única biblioteca registrada e sem cópia digital pública.
+
+Foi feita uma busca nominal independente por combinações exatas de Karl, Friedrich e Jakob com as datas e Niederbrombach; não retornou resultado adicional. Isso reforça a necessidade de consultar o Kirchenbuch ou a reconstrução institucional, mas não altera a classificação: OGF é uma fonte secundária forte de localização, não prova primária lida.
+
+
+## Registro 63 — tentativa de fonte independente para o auto de emigração
+
+A busca pública por `Best. 393 Nr. 859`, `Johann Nikolaus Schell` associado ao Best. 393 e `Reiner Schmitt` + `Schell`/`Oberbrombach` recuperou essencialmente a ficha OGF I169502 e outras páginas que repetem a referência S21493. Não foi localizada transcrição ou imagem independente do processo. O resultado preserva o auto como rota arquivística de alto valor, mas não aumenta sua força probatória além da referência secundária OGF.
+
+
+## Registro 64 — limite da fonte regional Thomas/Klaus
+
+A busca pública por combinações `João Adão Thomas`, `Clara Klaus`, `Clara Hlausf`, `Clara Thomas Klaus` e `Matrimônios` recuperou somente a página *Hillesheim no Brasil* e sua repetição da referência ao casamento de Gertrudes Thomas com Clemens Hillesheim, em 23/04/1874, fl. 22 do livro Matrimônios 1872/1882 de Santa Cruz do Sul. A referência não é o casamento de João Adão e Clara e não informa naturalidade alemã do casal. A linha Thomas/Klaus continua ancorada em atos brasileiros de filhos e no óbito de 1891, sem documento alemão ou casamento dos pais localizado.
+
+
+## Registro 65 — Maria Margaretha Schell: fonte derivada sem avanço primário
+
+A busca pública exata por Maria Margaretha Schell em Oberbrombach (1801), por Johann Jakob Gosert e por Johannes Schell–Maria Barbara Veeck retornou snippets da Ancestry que repetem nascimento em 01/08/1801, Oberbrombach, pai Johannes Schell e mãe Maria Barbara Veeck, além da árvore `Gossart Family Tree`. A extração direta da Ancestry mostrou apenas a página genérica de exploração e a árvore Gossart não forneceu texto adicional. O resultado confirma a existência de uma pista derivada, mas não acrescenta imagem, página, assento, casamento ou fonte contemporânea. Status mantido: hipótese plausível; não fundir com Johann Nikolaus ou Philipp Karl.
+
+
+## Registro 66 — Johann Karl Schell, ficha IPGV 140217
+
+A página oficial da Digitale Migrationskartei do IPGV foi extraída integralmente. A ficha 140217 identifica `Johann Karl Schell`, homem, protestante, nascimento em 1839 sem local de nascimento preenchido, pais `Philipp Karl Schell` e `Maria Elisabeth Hofmann`, cônjuge `Katharina Karoline Purger`, união em 02/02/1868 em Lomba Grande, atividade inicial em Oberbrombach e migração em 1862 para Porto Alegre. A própria ficha informa `Sources: No sources recorded` e explica que entradas sem fonte podem derivar de cartão antigo ou outra ficha. Portanto, ela é um índice de alto valor para localizar o núcleo paralelo, mas não prova primária nem autoriza sua fusão com Karl Schell de 1843.
+
+
+## Registro 67 — EKiR, Konsistorium Birkenfeld e fundos complementares
+
+A página oficial `1OB 030B – Konsistorium Birkenfeld` foi consultada. O fundo cobre 1592–1950, possui 1.310 unidades e descreve o conjunto da administração eclesiástica do antigo Fürstentum Birkenfeld. Na seção de atos especiais das comunidades, `Niederbrombach` aparece com cobertura 1705–1933. A página confirma que os fundos complementares relevantes são NLA Oldenburg `Best. 32-10` (Kabinettsregistratur Birkenfeld 1817–1856), `Best. 32-17` (1857–1868), `Best. 134` (Ministerium der Kirchen und Schulen) e LHA Koblenz `Bestand 393`, Abteilung XV (Kirchenangelegenheiten). Isso reforça que o item Arcinsys `Best. 32 -10-7 Nr. 17 Pfarre zu Niederbrombach` pertence a uma rota administrativa real, mas não fornece, por si, o assento nominal de Schell.
+
+Fonte: https://archiv.ekir.de/inhalt/1ob-030b-konsistorium-birkenfeld/.
+
+
+## Registro 68 — cluster Schell–Trott–Fillmann
+
+Os perfis públicos Ancestors/FamilySearch de Albin Schell (K2VJ-JT5) e Catharina Laurinda Trott (K2VJ-JTP) foram consultados. Albin aparece com nascimento em 21/06/1886 em Três Coroas, pai Karl Schell, 42 anos, mãe Anna Becker, 38 anos, óbito em 02/06/1945 em Padilha/Taquara e união com Catharina Laurinda Trott. O perfil lista nove filhos e relaciona como irmãos Johannes Schell (1869), Maria Schell (1871), Adolfo Schell (1871), Regina Shell Becker (1874) e Catarina Schell (1877), além de outros seis. Catharina aparece com nascimento em 07/03/1890 em Gramado, filha de Jacob Friedrich Trott (1862) e Emilie Fillmann (1865), óbito em 14/11/1968 em Taquara e união com Albin. Os perfis listam fontes civis brasileiras, mas continuam sendo páginas derivadas/indexadas, sem leitura dos assentos originais nesta etapa. Eles fortalecem a desambiguação interna do cluster e a cronologia Karl–Anna–Albin–Catharina, mas não provam a naturalidade alemã de Karl ou Anna nem a identidade Karl/Carlos com o emigrante OGF.
+
+
+## Registro 69 — Veeck/Foeck: buscas públicas sem documento novo
+
+A busca por `Maria Barbara Veeck` em Hettenrodt, `Maria Barbara Foeck` e `Johannes Schell` + Veeck/Foeck recuperou novamente a árvore Gossart, que o extrator não conseguiu ler além do título, e uma página MyHeritage bloqueada por Incapsula. Não apareceu batismo, casamento ou fonte arquivística independente. O resultado negativo é limitado pela ausência de digitalização pública e pela natureza derivada das árvores; o próximo alvo permanece o Kirchenbuch de Idar/Hettenrodt, especialmente as séries Archion 259479 e 259481, e o batismo de Maria Margaretha em Niederbrombach 146/6.
+
+
+## Registro 70 — publicações de Reiner Schmitt
+
+A página oficial do Landesmuseum Birkenfeld sobre as publicações de Reiner Schmitt informa que o pesquisador produziu mais de 270 trabalhos sobre história regional e genealogia, incluindo avaliações de Familienbücher, emigração para a América do Sul, escolas e administração local. A instituição declara que os trabalhos podem ser consultados na biblioteca e, eventualmente, emprestados; também oferece uma lista completa por e-mail. O horário da biblioteca/arquivo é terça-feira, 15h–17h, mediante ligação prévia. Isso confirma uma rota institucional concreta para o volume `Auswanderungen aus dem Fürstentum Birkenfeld 1817–1937`, mas nenhuma página do caso Schell foi disponibilizada publicamente. Não houve contato.
+
+Fonte: https://www.landesmuseum-birkenfeld.de/landesmuseum/bibliothek-archiv/veroeffentlichungen-reiner-schmitt/.
+
+
+## Registro 71 — painel operacional por linha
+
+Foi criado `docs/37_painel_execucao_por_linha_2026-08-22.md`, convertendo o plano aprovado em fila operacional. O painel separa Schell direto, controles de filhos, Thomas/Klaus, Maria Margaretha/Veeck/Foeck, Philipp Karl/Johann Karl, Schell–Trott–Fillmann, Hillesheim, Kenes/Kenne e candidatos sem localidade alemã. Para cada linha registra estado, documento discriminante, ação sem custo, dependência/limite e mudança de classificação. A próxima rodada deve começar por Karl/Friedrich/Johann Nikolaus no Kirchspiel de Niederbrombach, seguir para a transcrição dos atos brasileiros de Thomas/Klaus e depois testar Maria Margaretha e Philipp Karl como ramos locais separados.
+
+
+## Registro 72 — matriz da rodada por linha
+
+A matriz `29_matriz_execucao_pesquisas_alema_2026-08-22.csv` foi ampliada com as entradas DE19–DE28, relativas às fichas OGF individuais, Küssner/RPB, busca nominal independente dos filhos Schell, fundo EKiR 1OB 030B, publicações de Reiner Schmitt, IPGV 140217, cluster Albin–Catharina, controle Hillesheim, busca pública Thomas/Klaus e Veeck/Foeck. Após correção de um separador interno na linha DE25, a validação confirmou nove campos em todas as linhas e 152 linhas totais incluindo cabeçalho.
+
+
+## Registro 73 — relatório de execução por linha
+
+Foi criado `docs/38_relatorio_execucao_plano_por_linha_2026-08-22.md`, consolidando a primeira execução do plano aprovado. O relatório registra o estado de cada linha, os documentos discriminantes, os avanços da rodada, a próxima ordem de pesquisa, os critérios de fechamento/refutação/esgotamento qualificado e as dependências de autorização. A prioridade permanece: (1) imagens 735/782/117 e Küssner para Schell; (2) transcrição dos atos brasileiros já localizados para Thomas/Klaus antes de novas buscas alemãs; (3) batismo de Maria Margaretha e livros Veeck/Foeck; (4) batismo de Johann Karl e família de Philipp Karl; (5) desambiguação dos clusters brasileiros. A matriz foi ampliada para DE19–DE28 e validada com nove campos por linha. Nenhuma publicação externa, contato institucional, compra ou alteração de árvore foi realizada nesta execução.
