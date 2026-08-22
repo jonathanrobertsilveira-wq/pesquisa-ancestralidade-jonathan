@@ -39,6 +39,7 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | 2AC | [`notas_fontes_oficiais_stag_2026-08-22.md`](notas_fontes_oficiais_stag_2026-08-22.md) | Registro das fontes oficiais sobre a entrada em vigor da lei, requisitos dos §§ 5 e 15, prazo do § 5 e perda histórica por casamento. |
 | 2AD | [`notas_trabalho_linha_alema_2026-08-22.md`](notas_trabalho_linha_alema_2026-08-22.md) | Notas auditáveis da leitura visual do APERS 180190 e correção de Regina/Regino. |
 | 2AE | [`29_relatorio_cidadania_alema_2026-08-22.md`](29_relatorio_cidadania_alema_2026-08-22.md) | Relatório final revisado: diagnóstico, análise preliminar dos §§ 5 e 15, matriz de fatos e plano de certidões brasileiras, alemãs e migratórias. |
+| 2AF | [`34_analise_anexos_recebidos_2026-08-22.md`](34_analise_anexos_recebidos_2026-08-22.md) | Análise dos quatro anexos recebidos: processo APERS 180190, transcrição parcial de registros de 1949 e duas imagens avulsas ainda não identificadas. |
 | 3 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular atualizado de 29 afirmações com fonte, correlação, lacuna, status e próximo teste. |
 | 4 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
 | 5 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
@@ -53,6 +54,7 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | APERS 180190 | Habilitação de Alvino Paulino de Souza e Rosalina Schell, 1955; certidões anexadas e certificação do casamento. | [`../sources/apers_processo_180190.pdf`](../sources/apers_processo_180190.pdf) |
 | APERS 180603 | Habilitação de Ademar Antunes Leal e Alvina Schell, 1947; maternidade de Alvina por Rosalina Schell. | [`../gedcom_pesquisa_jonathan/apers_processo_180603.pdf`](../gedcom_pesquisa_jonathan/apers_processo_180603.pdf) |
 | APERS 180674 | Habilitação de Cravilino Nogueira e Celanira Schell, 1953; maternidade de Celanira por Rosalina Schell e data declarada da mãe. | [`../gedcom_pesquisa_jonathan/apers_processo_180674.pdf`](../gedcom_pesquisa_jonathan/apers_processo_180674.pdf) |
+| Anexos recebidos em 22/08/2026 | PDFs e imagens preservados sem recompressão; manifesto com hashes e nota de privacidade. | [`../sources/recebidos_2026-08-22/README.md`](../sources/recebidos_2026-08-22/README.md) |
 
 ## Bases independentes e contexto
 

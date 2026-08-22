@@ -39,6 +39,8 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `docs/relatorio_descendencia_alema_familysearch_2026-08-21.md` | Análise da possível ascendência alemã e da transmissão histórica de cidadania |
 | `docs/notas_analise_alema_familysearch_2026-08-21.md` | Notas verificáveis da consulta FamilySearch e das fontes jurídicas oficiais |
 | `docs/relatorio_pesquisa_alema_2026-08-22.md` | Relatório desta rodada sobre DAD, Bremen, matrículas consulares, DDB e Arquivo Federal |
+| `docs/34_analise_anexos_recebidos_2026-08-22.md` | Análise dos quatro anexos recebidos, com separação entre provas, pistas e imagens ainda não identificadas |
+| `sources/recebidos_2026-08-22/` | Cópias originais dos quatro anexos e manifesto SHA-256 |
 | `pesquisa_alema_2026-08-22.md` | Diário completo das consultas públicas alemãs, resultados, links e limitações |
 | `fontes_matricula_consular_porto_alegre_s-z.pdf` | Cópia local do PDF oficial das matrículas consulares de Porto Alegre, faixa S–Z |
 
