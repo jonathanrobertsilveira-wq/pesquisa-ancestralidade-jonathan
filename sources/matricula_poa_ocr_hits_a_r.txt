@@ -1,0 +1,34 @@
+OCR das listas consulares de Porto Alegre A-F, G-K e L-R
+Consulta nominal: Schell|Schnell|Schel|Shell|Nicolaus|Nikolaus|Nicolau|Johann|Johannes|Karl|Carlos|Becker
+
+===== matricula_poa_a-f_pages =====
+matricula_poa_a-f_pages/page-05.txt:36:Becker enteo Orca or: 4 ]
+matricula_poa_a-f_pages/page-07.txt:15:Becker ee ee, |
+matricula_poa_a-f_pages/page-07.txt:29:9877020 DURERS 700 Karl Iiiedrecel, ABS
+matricula_poa_a-f_pages/page-11.txt:6:’ Karl \ Bel MO 1832 |
+matricula_poa_a-f_pages/page-11.txt:17:Klecker Karl 2775 |
+matricula_poa_a-f_pages/page-11.txt:31:Lehrer Karl beck Ullal. "Ob |
+matricula_poa_a-f_pages/page-21.txt:17:Skah uren Mbert Karl Fr
+
+===== matricula_poa_g-k_pages =====
+matricula_poa_g-k_pages/page-03.txt:8:Bota Karl Tr IB |
+matricula_poa_g-k_pages/page-03.txt:20:Zap FR Karl cist 6 TR
+matricula_poa_g-k_pages/page-03.txt:37:it. ey SR Karl C300 +hG aa
+matricula_poa_g-k_pages/page-03.txt:47:v Karl Horn 1177003 |
+matricula_poa_g-k_pages/page-06.txt:16:BAER: He Karl u:
+matricula_poa_g-k_pages/page-11.txt:10:i Hltecdecne Karl „182
+matricula_poa_g-k_pages/page-11.txt:11:| ve HMinemerdr. Karl n AS?
+matricula_poa_g-k_pages/page-19.txt:36:al Tease: Karl 1
+matricula_poa_g-k_pages/page-21.txt:21:x cHerger Karl JoY4S
+
+===== matricula_poa_l-r_pages =====
+matricula_poa_l-r_pages/page-05.txt:4:Hınke Karl “43 |
+matricula_poa_l-r_pages/page-07.txt:18:Acer Karl 0 de |
+matricula_poa_l-r_pages/page-07.txt:28:MEL Karl EN |
+matricula_poa_l-r_pages/page-09.txt:34:Hoch Karl Manik  ISEE N
+matricula_poa_l-r_pages/page-10.txt:5:MNasıhotd K SALE Karl + #83 N
+matricula_poa_l-r_pages/page-10.txt:30:| Mell Karl — + A I
+matricula_poa_l-r_pages/page-10.txt:34:Neko Karl oop Tay
+matricula_poa_l-r_pages/page-12.txt:41:Es bahn Karl az.
+matricula_poa_l-r_pages/page-19.txt:6:IE Krecter Johann el 4G
+matricula_poa_l-r_pages/page-20.txt:31:| Steger De Karl IE : i

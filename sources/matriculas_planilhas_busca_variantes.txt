@@ -1,0 +1,548 @@
+Busca de variantes em planilhas de matrículas consulares
+Padrão: Schell|Schnell|Schel|Shell|Nicolaus|Nikolaus|Nicolau|Johann|Carlos|Karl|Becker
+
+===== konsulatsmatrikel-belem-data.xlsx =====
+-- planilha: Tabelle1 --
+linha 10: Bender | Eduard Johann Georg | 36
+linha 11: Bender | Friedrich Karl | 61
+linha 21: Bruns | Johanna Maria | 123
+linha 30: Dobberkau | Heinrich Karl | 108
+linha 32: Ebner | Karl Boromäus | 185
+linha 41: Fechter | Karl Ferdinand Johannes | 15
+linha 48: Gempik | Karl | 52
+linha 54: Gruner | Karl Franz Hermann Gustav | 47
+linha 58: Hartje | Johann Friedrich | 50
+linha 60: Hass | Eduard Johannes Heinrich | 59
+linha 63: Herler | Johann | 98
+linha 85: Kähler | Otto Johann | 78
+linha 90: Kiesling | Johannes | 167
+linha 100: Loerbroks | Karl Otto Albrecht | 88
+linha 107: Maltzahn | Albert Friedrich Karl Ludwig | 29
+linha 108: Matthäi | Karl | 135
+linha 121: Mohr | Gustav Karl | 179
+linha 124: Netthöfer | Ernst Wilhelm Johannes | 6
+linha 125: Neumann | Karl Friedrich | 95
+linha 140: Plaschke | Karl Gustav Rudolf | 21
+linha 144: Pralow | Heinrich Friedrich Karl | 35
+linha 145: Pünger | Karl Alfred | 17
+linha 167: Schumann | Karl Heinrich | 33
+linha 180: Teske | Karl Robert Franz | 3
+linha 189: Voges | Johann Bernhard Rogerius | 162
+linha 197: Wertheimer | Justin Karl | 93
+linha 204: Zeising | Moritz Johannes | 5
+-- planilha: Tabelle2 --
+-- planilha: Tabelle3 --
+
+===== konsulatsmatrikel-joinville-data.xlsx =====
+-- planilha: Tabelle1 --
+linha 38: Bertlein | Johann Georg | 503
+linha 39: Bertram | Johann Alfred | 460
+linha 41: Besecke | Karl | 990
+linha 44: Bihswurm | Karl | 778
+linha 46: Blank | Johann Leonhard | 553
+linha 103: Dechent | Nicolaus | 346
+linha 119: Ebersbach | Karl Willy | 701
+linha 129: Engelken | Karl | 719
+linha 130: Ernst | Karl | 552
+linha 146: Franke | Johannes | 821
+linha 148: Freundscht | Karl | 516
+linha 164: Gellert | Karl | 502
+linha 167: Gerblich | Karl | 684
+linha 168: Gerhards | Nikolaus | 738
+linha 181: Gretemeier | Johann | 652
+linha 184: Gromann | Karl | 485
+linha 203: Habermann | Walter Karl | 467
+linha 206: Hahmann | Johannes | 754
+linha 209: Hälker | Karl | 531
+linha 238: Hesse | Karl | 954
+linha 276: Jakob | Nicolaus | 338
+linha 284: Jetter | Johannes | 561
+linha 295: Kasting | Karl | 697
+linha 298: Kemmether | Johann | 536
+linha 310: Knawa | Johann | 878
+linha 334: Krehmcke | Karl | 321
+linha 339: Kühr | Karl | 830
+linha 349: Lachmann | Karl | 917
+linha 353: Lang | Johann | 1008
+linha 360: Lehr | Karl | 709
+linha 371: Look | Karl | 350
+linha 393: Mehler | Karl | 525
+linha 394: Meier | Johann | 391
+linha 402: Meyer | Johanna geb. Saalfrank | 839
+linha 407: Miers | Karl | 823
+linha 412: Möller | Johann Julius | 432
+linha 415: Moser | Johann | 540
+linha 421: Müller | Karl | 383
+linha 426: Müller | Johann | 648
+linha 431: Müller | Karl | 939
+linha 434: Muschellack | Erich | 352
+linha 435: Nagel | Johannes | 404
+linha 445: Niering | Karl | 567
+linha 453: Oetting | Karl | 364
+linha 466: Pietsch | Karl | 609
+linha 483: Quast | Johannes | 1017
+linha 487: Ramminger | Karl | 398
+linha 494: Reichert | Karl | 769
+linha 498: Reiner | Johanna geb. Bertholdt | 760
+linha 527: Sachs | Johann | 1022
+linha 535: Schellhase | Karl | 890
+linha 536: Schellmann | Franz | 1024
+linha 537: Schinkel | Karl | 979
+linha 552: Schmidt | Karl | 400
+linha 559: Schneider | Johann Albert Leopold | 414
+linha 565: Scholz | Karl Wilhelm | 761
+linha 591: Schumann | Karl | 522
+linha 592: Schumann | Karl | 784
+linha 599: Schwarz | Johann Georg | 478
+linha 604: Seid | Karl | 810
+linha 609: Seyboth | Karl | 386
+linha 614: Slany | Johann | 376
+linha 616: Sommerkamp | Johannes | 744
+linha 637: Stolte | Johannes | 448
+linha 654: Thies | Johannes | 365
+linha 659: Tübel | Karl | 894
+linha 670: Völkl | Karl | 762
+linha 683: Walter | Johann | 437
+linha 717: Zehnder | Karl | 936
+-- planilha: Tabelle2 --
+-- planilha: Tabelle3 --
+
+===== konsulatsmatrikel-juiz-de-fora-data.xlsx =====
+-- planilha: Tabelle1 --
+linha 8: Aßmann | Johannes Franziskus | 388
+linha 16: Bartels | Friedrich Johann | 82
+linha 21: Becker | Hugo Karl | 7
+linha 22: Becker | Martin Gottlieb | 38
+linha 25: Behrens | Johann | 86
+linha 33: Bergmann | Karl | 200
+linha 40: Boedeker | Johanna | 445
+linha 44: Boll | Karl Heinrich | 74
+linha 68: Darmstädter | Karl | 218
+linha 82: Diederichs | Karl | 467
+linha 86: Dreisewerd | Johannes | 373
+linha 100: Engel | Max Karl | 21
+linha 127: Glodrei | Karl Eduard | 190
+linha 128: Glorius | Johannes | 380
+linha 136: Goetze | Nicolaus Niels | 339
+linha 149: Hassel | Johanna | 149
+linha 179: Jacobsen | Karl | 112
+linha 184: Jarschel | Marie | 173
+linha 199: Kirchvogel | Johanna | 269
+linha 208: Kluge | Johanna Olga | 258
+linha 223: Kopp | Johann | 344
+linha 226: Kowalski | Johann | 236
+linha 228: Kowalski | Johannes Wilhelm | 238
+linha 229: Kowalski | Margarete Emma Johanna | 239
+linha 246: Lienhoop | Friedrich Johann | 116
+linha 250: Link | Johann | 100
+linha 260: Lotz | Ludwig Karl Wilhelm | 42
+linha 265: Maack | Johann | 202
+linha 266: Maack | Otto Karl | 203
+linha 275: Mehl | Karl | 198
+linha 291: Nitsche | Johann Hans | 77
+linha 299: Nuffer | Johann Otto | 282
+linha 319: Pietsch | Karl | 416
+linha 333: Preißer | Max Karl | 10
+linha 341: Reimers | Karl Fritz Theodor | 4
+linha 347: Riechert | Karl Heinrich | 356
+linha 352: Riemenschneider | Johannes | 13
+linha 353: Rieß | Friedrich Johann | 359
+linha 376: Salainczyk | Johann | 390
+linha 431: Steffen | Wilhelm Karl Hermann | 248
+linha 440: Tenoth | Johanna | 284
+linha 441: Teutschbein | Karl Friedrich | 5
+linha 446: Torrinsky | Johann August | 1
+linha 478: Ziebart | Johann | 52
+-- planilha: Tabelle2 --
+-- planilha: Tabelle3 --
+
+===== konsulatsmatrikel-recife-data.xlsx =====
+-- planilha: Tabelle1 --
+linha 10: Alt | Johanna | 2 | 1153
+linha 12: Andasch | Johanna | 2 | 1171
+linha 13: Andaya | Alessandro Carlos Maria von | 2 | 762
+linha 23: Bähnke | Hans Heinr. Karl | 1 | 625
+linha 41: Bebuk | Johanna | 1 | 498
+linha 44: Becker | Rudolf | 1 | 209
+linha 45: Becker | Alfons | 2 | 971
+linha 50: Beier | Karl | 2 | 841
+linha 56: Bends | Johanne | 2 | 1121
+linha 62: Betke | Johann Ludwig | 1 | 703
+linha 75: Blass | Frater Johannes | 1 | 386
+linha 77: Bleeser | Johannes | 1 | 656
+linha 94: Bolke | Karl | 1 | 561
+linha 102: Bragard | Johann | 1 | 320
+linha 106: Bragard | Johann | 1 | 371
+linha 109: Braun | Karl | 2 | 760
+linha 111: Brendel | Luise Johanna | 2 | 1133
+linha 117: Bronsart von Schellendorff | Christoph | 1 | 686
+linha 119: Bruder | Karl | 1 | 473
+linha 133: Bürkle | Bernhard Karl | 2 | 996
+linha 136: Burr | Juergen Karl Erich | 2 | 1135
+linha 140: Clemen | Frater Karl | 1 | 383
+linha 197: Felten | Robert Karl | 1 | 636
+linha 203: Fink | Karl | 2 | 835
+linha 213: Fluhr | Karl | 1 | 480
+linha 229: Fuchs | Johann | 1 | 339
+linha 233: Fust | Johannes | 2 | 924
+linha 270: Groth | Karl Fr. Hein. | 1 | 699
+linha 275: Güntner | Karl Richard | 1 | 375
+linha 283: Hahn | Karl Wilhelm | 1 | 653
+linha 293: Hartmann | Johann W.A. | 1 | 308
+linha 305: Heim | Karl Lorenz | 1 | 600
+linha 319: Henke | Frater Johann | 1 | 387
+linha 325: Herler | Johann | 1 | 263
+linha 339: Hinrich | Johannes Wilhelm | 1 | 552
+linha 369: Hunold | Karl | 1 | 566
+linha 371: Hunold | Karl | 2 | 1169
+linha 376: Ilg | Johann | 2 | 844
+linha 379: Jacobi | Wolfhart Karl Hermann | 1 | 534
+linha 391: Joerges | Johann | 2 | 1134
+linha 399: Kampl | Hans Willy Karl Walter | 2 | 764
+linha 408: Kellner | Johanna Berta | 2 | 1098
+linha 413: Ketelaer | Johannes | 2 | 839
+linha 436: Knob | Karl | 1 | 476
+linha 437: Koch | Friedrich Karl | 2 | 962
+linha 444: Kollmorgen | Fritz Karl Wilh. X. | 2 | 743
+linha 449: Köpfer | Johann | 2 | 821
+linha 451: Koslar | Johannes | 1 | 565
+linha 453: Köster | Alex Karl Christ. | 2 | 920
+linha 460: Kranz | Nikolaus | 2 | 880
+linha 465: Krönke | Johann Friedrich Wilhelm | 1 | 143
+linha 488: Lay | Karl Andreas | 1 | 464
+linha 490: Lay | Karl Walter | 1 | 466
+linha 492: Lehmann | Karl | 1 | 295
+linha 494: Leitner | Philipp Johann | 1 | 282
+linha 523: Luetjohann | Roland | 1 | 580
+linha 531: Mann | Johannes | 2 | 824
+linha 540: Meden | J. Nikolaus von der | 1 | 684
+linha 544: Mentzel | Johannes | 1 | 405
+linha 576: Müller | Karlhans | 1 | 634
+linha 590: Neumaier | Johann | 2 | 754
+linha 604: Ott | Karl | 1 | 564
+linha 622: Petersen | Adolf Karl | 1 | 229
+linha 625: Pettnering | Johanna Karolina Emilie geb. Menzel | 2 | 861
+linha 688: Ringele | Johannes | 1 | 482
+linha 699: Roesch | Karl | 2 | 825
+linha 728: Schellhorn | Christ. Ferd. | 1 | 697
+linha 733: Schleiermacher | Karl | 1 | 471
+linha 736: Schlösser | Karl-Otto Wilibald Günter Wolfgang | 2 | 892
+linha 738: Schmalz | Alfred Karl | 2 | 817
+linha 754: Schnell | Johannes | 1 | 478
+linha 772: Schröder | Johannes | 2 | 888
+linha 810: Siebert | Johannes | 1 | 523
+linha 828: Stauffertz | Johannes Max | 1 | 336
+linha 829: Stehle | Johann Baptist | 2 | 749
+linha 849: Thielen | Johannes | 2 | 787
+linha 874: Wacker | Christ. Karl Heinr. | 2 | 850
+linha 878: Wähst | Werner Wilhelm Karl | 2 | 865
+linha 883: Walterfang | Frater Johannes | 1 | 384
+linha 886: Weber | Karl | 1 | 251
+linha 887: Weber | Karl Ludwig | 2 | 858
+linha 901: Wendt | Johann | 1 | 244
+linha 946: Zglinitzki | Karl Alexander von | 1 | 584
+-- planilha: Tabelle2 --
+-- planilha: Tabelle3 --
+
+===== konsulatsmatrikel-rio-de-janeiro-data.xlsx =====
+-- planilha: Tabelle1 --
+linha 6: 2 |  | 415 | Albert | Johann August
+linha 10: 1 | 1 | 8 | Alf | Johann
+linha 19: 2 |  | 330 | Andres | Heinrich Johann
+linha 20: 1 | 2 | 71 | Arendt | Johann Heinrich
+linha 21: 1 | 16 | 161 | Arendt | Johann Heinrich
+linha 23: 1 | 50 | 339 | Arnold | Karl August
+linha 29: 2 |  | 125 | Assinger | Johann Baptist
+linha 31: 2 |  | 281 | Augustin | Karl Wilhelm Gustav
+linha 34: 1 | 18 | 181 | Bahrt | Johann Gustav Wilhelm
+linha 43: 2 |  | 380 | Bartsch | Rolf Reinhold Karl Julius
+linha 59: 1 | 109 | 586 | Beck | Karl Paul
+linha 60: 1 | 161 | 755 | Beck | Karl
+linha 61: 2 |  | 94 | Beck | Hans Nicolaus
+linha 62: 1 | 1 | 35 | Becker | Eduard
+linha 63: 1 | 4 | 75 | Becker | Gottlieb Wilhelm
+linha 64: 1 | 93 | 525 | Becker | Ernst
+linha 65: 1 | 115 | 609 | Becker | Heinrich Albert
+linha 66: 1 | 129 | 660 | Becker | Hermann Bernhard Max
+linha 67: 1 | 141 | 693 | Becker | Joseph
+linha 68: 1 | 143 | 698 | Becker | Nathan Arthur
+linha 69: 1 | 170 | 787 | Becker | Karl
+linha 70: 2 |  | 22 | Becker | Carl Eduard
+linha 74: 1 | 68 | 435 | Behr | Karl
+linha 88: 2 |  | 166 | Bentenrieder | Wilhelm Johann
+linha 99: 2 |  | 266 | Berner | Johannes Heinrich Christ.
+linha 101: 2 |  | 82 | Berninger | Karl
+linha 109: 1 | 32 | 255 | Bethje | Wilhelmine Johanne Antonie
+linha 112: 1 | 46 | 321 | Beute | Karl Gottlieb Christian
+linha 117: 1 | 14 | 140 | Beuttenmüller | Gustav Johannes
+linha 120: 1 | 142 | 696 | Beuttenmüller | Natalie Johanna Elisabeth
+linha 123: 2 |  | 356 | Bickarck | Carl Heinrich Johann Jens
+linha 126: 1 | 36 | 280 | Biehm | Johannes Eugen
+linha 127: 1 | 85 | 500 | Bielaw | Otto Johannes
+linha 131: 1 | 7 | 34 | Bischof | Johann Heinrich Eduard
+linha 155: 1 | 35 | 277 | Böhler | Johann Martin
+linha 169: 1 | 54 | 365 | Brachholz | Karl Ludwig August
+linha 194: 1 | 128 | 657 | Brunkhorst | Johann Hinrich
+linha 201: 1 | 58 | 387 | Buddendieck | Karl Heinrich Niedhardt
+linha 203: 1 | 12 | 118 | Bulle | Emil Nicolaus
+linha 208: 1 | 47 | 327 | Burmester | Carl Jochim Johannes
+linha 216: 1 | 100 | 552 | Casper | Karl Hermann
+linha 223: 2 |  | 15 | Cleff | Karl
+linha 234: 1 | 31 | 253 | Dahles | Johann Felix August
+linha 246: 2 |  | 209 | Dauer | Karl Wilhelm Christian
+linha 251: 1 | 194 | 848 | Derschum | Johann Friedrich
+linha 268: 1 | 12 | 126 | Dörffer | Johann Peter Friedrich
+linha 270: 1 | 37 | 285 | Dörschlag | Bruno Karl Alfred
+linha 273: 2 |  | 493 | Doutrelepont/Doutrelepondt | Johann
+linha 275: 2 |  | 433 | Drews | Nicolaus Reinhard Christ.
+linha 276: 2 |  | 28 | Drolshagen | Xaver Johannes Maria
+linha 280: 2 |  | 576 | Dunker | Heinz Johann Theodor
+linha 299: 2 |  | 448 | Egenolf | Karl Wihelm
+linha 321: 1 | 39 | 295 | Engel | Karl Wilhelm
+linha 329: 1 | 6 | 18 | Erbes | Johann
+linha 340: 1 | 7 | 33 | Ewald | Johann Wilhelm Friedrich
+linha 341: 1 | 11 | 103 | Ewald | Johann Friedrich Wilhelm
+linha 349: 1 | 55 | 369 | Fechner | Johann Karl August
+linha 358: 1 | 56 | 376 | Finzel | Karl Emil Richard
+linha 359: 1 | 11 | 106 | Firgsen | Johann Victor
+linha 363: 1 | 172 | 791 | Fischer | Karl Rudolf
+linha 393: 1 | 35 | 274 | Friederici | Johann
+linha 398: 2 |  | 251 | Frings | Wilhelm Johann
+linha 403: 2 |  | 67 | Füess/Fuess/Füss | Karl Friedrich
+linha 411: 2 |  | 611 | Gabriel | Johann Alois Franz
+linha 421: 1 | 155 | 737 | Geese | Friedrich Johann Teodor
+linha 424: 2 |  | 50 | Gerchheimer/Gescheimer | Karl Georg
+linha 431: 2 |  | 158 | Gildemeister | Johann Hermann
+linha 437: 2 |  | 183 | Gobel | Karl
+linha 442: 2 |  | 41 | Gölze | Johannes Erich
+linha 445: 2 |  | 511 | Gottschalk | Johann
+linha 455: 1 | 147 | 709 | Grompe | Heinrich Karl
+linha 460: 2 |  | 421 | Großmann/Grossmann | Gerhard Karl August
+linha 475: 2 |  | 484 | Gunzinger | Karl Bruno
+linha 477: 2 |  | 272 | Haarer, Dr. | Theodor Karl
+linha 483: 1 | 11 | 104 | Haberland | Johann Wilhelm Heinrich
+linha 485: 1 | 191 | 840 | Hacker | Johann Wolfgang
+linha 492: 1 | 109 | 588 | Haegely | Heinrich Nikolaus
+linha 496: 2 |  | 506 | Hähle | Johannes Karl
+linha 502: 1 | 6 | 2 | Halenbeck | Johann G. Heinrich
+linha 504: 2 |  | 134 | Hamers | Max Johann Hubert
+linha 509: 1 | 49 | 333 | Hänsel | Karl Hermann Richard
+linha 514: 1 | 20 | 188 | Harberts | Johann
+linha 515: 1 | 90 | 515 | Häring | Karl Friedrich
+linha 517: 1 | 67 | 430 | Harms | Johannes Siegfried
+linha 531: 1 | 65 | 419 | Hass | Eduard Johannes Heinrich
+linha 542: 1 | 90 | 516 | Hauth | Karl Albert
+linha 546: 2 |  | 117 | Heddenhausen | Johann Hermann Georg Paul
+linha 552: 1 | 76 | 469 | Heilborn | Paul Karl Friedrich
+linha 556: 1 | 22 | 195 | Heinicke | Johannes Wilhelm Theodor
+linha 559: 1 | 93 | 526 | Heins | Hans Joachim Karl
+linha 578: 1 | 143 | 697 | Hellemann | Nikolaus Joseph
+linha 580: 1 | 52 | 350 | Hellwig | Karl
+linha 581: 2 |  | 101 | Helms | Otto Emil Johann
+linha 582: 2 |  | 292 | Helms | Otto Emil Johann
+linha 586: 1 | 154 | 733 | Henkelmann | Johann
+linha 590: 1 | 11 | 110 | Henschel | Albert
+linha 591: 1 | 24 | 205 | Hentschel | Emma Louise
+linha 592: 1 | 24 | 205 | Hentschel | Otto Carl
+linha 593: 1 | 24 | 205 | Hentschel | Eveline Johanna
+linha 594: 1 | 101 | 555 | Hentschel | Carl Otto
+linha 595: 1 | 116 | 612 | Hentschel | Friedrich Otto
+linha 596: 1 | 23 | 204 | Hentschel Dr. | Carl
+linha 597: 2 |  | 127 | Herberg | Karl Franz
+linha 599: 1 | 36 | 281 | Hermann | Johannes Adolph Louis
+linha 609: 2 |  | 210 | Heyter | Rudolf Karl Christof J.
+linha 611: 2 |  | 206 | Hilker | Karl Alfred
+linha 622: 2 |  | 172 | Hochwächter, von | Gustav Karl Ernst Bodo
+linha 630: 1 | 156 | 739 | Hoffmann | Karl
+linha 634: 1 | 83 | 493 | Höhl | Johannes Wilhelm Ludwig
+linha 637: 1 | 7 | 45 | Hollerbach | Johannes Karl
+linha 638: 1 | 7 | 45 | Hollerbach | Johann Samuel
+linha 639: 1 | 7 | 45 | Hollerbach | Johanna Clara
+linha 642: 1 | 7 | 45 | Hollerbach | Johann L.
+linha 643: 1 | 7 | 45 | Hollerbach | Johanna Maria
+linha 644: 1 | 27 | 225 | Hollerbach | Johannes Friedrich
+linha 645: 1 | 27 | 225 | Hollerbach | Johanna Sophia
+linha 646: 1 | 27 | 225 | Hollerbach | Johannes Heinrich
+linha 647: 1 | 27 | 225 | Hollerbach | Johanna Maria
+linha 648: 1 | 27 | 225 | Hollerbach | Johanna Erica
+linha 652: 2 |  | 193 | Hony | Karl
+linha 654: 2 |  | 440 | Hoppe | Johannes
+linha 656: 1 | 2 | 63 | Hoyer | Johann Lorenz
+linha 657: 1 | 26 | 221 | Hubbe | Johannes Heinrich Albert
+linha 664: 1 | 40 | 298 | Hütschler von | Nicolaus Karl Adolf
+linha 665: 1 | 48 | 331 | Hüttig | Gustav Karl
+linha 668: 2 |  | 106 | Immendorff | Hermann Wilhelm Karl
+linha 671: 2 |  | 401 | Jade | Johann
+linha 679: 1 | 192 | 843 | Jesse | Wilhelm Heinrich Julius Johannes
+linha 681: 2 |  | 223 | Johann | Paul
+linha 686: 1 | 9 | 78 | Jung | Johann Christ.
+linha 707: 2 |  | 555 | Kamp von | Karl-Joachim
+linha 711: 1 | 184 | 828 | Karlguth | Georg Heinrich Joachim
+linha 721: 1 | 7 | 46 | Kern | Karl Gottfried Theodor
+linha 722: 1 | 132 | 672 | Kern | Robert Friedrich Karl
+linha 723: 1 | 163 | 763 | Kern | Karl Rudolf
+linha 726: 2 |  | 351 | Kienle | Karl
+linha 729: 2 |  | 293 | Kläber | Hermann Robert Johann
+linha 731: 2 |  | 262 | Klammer | Dietrich Johannes H.
+linha 744: 1 | 104 | 564 | Klinkhammer | Johann
+linha 748: 2 |  | 402 | Klotz | Karl
+linha 749: 2 |  | 45 | Klussmann | Johann Heinrich
+linha 752: 1 | 1 | 15 | Kneiß | Carlos
+linha 765: 2 |  | 31 | König | Johannes Friedr. Adolf W.
+linha 772: 1 | 84 | 497 | Körner | Friedrich Karl Willy
+linha 774: 1 | 32 | 256 | Koschinsky | Johann
+linha 780: 2 |  | 532 | Krafft | Friedrich Karl
+linha 781: 2 |  | 221 | Kraft | Johannes
+linha 787: 2 |  | 18 | Krans/Kraus | Johann Michael
+linha 788: 1 | 70 | 443 | Krause | Karl Franz
+linha 799: 1 | 3 | 86 | Kropf | Johann
+linha 800: 1 | 3 | 87 | Kropf | Nicolaus
+linha 801: 1 | 3 | 94 | Kropf | Johann
+linha 816: 1 | 165 | 769 | Krummes | Ludwig Johann
+linha 819: 1 | 165 | 770 | Krutsch | Johann
+linha 823: 2 |  | 547 | Kühnemann | Ilse Johanna Emilie Marg.
+linha 824: 1 | 92 | 524 | Kumleben | Johannes Carl Franz
+linha 827: 1 | 136 | 681 | Kundt | Albert Eduard Heinrich Johannes
+linha 829: 2 |  | 197 | Kunze | Johann
+linha 848: 1 | 31 | 249 | Laible | Johann Georg
+linha 854: 1 | 153 | 730 | Langensiepen | August Johann Karl
+linha 855: 1 | 111 | 596 | Langerke von | Adolf Heinrich Karl Ferdinand
+linha 859: 1 | 24 | 210 | Lauenstein | Johann Leonard Hermann
+linha 868: 1 | 37 | 284 | Lehmann | Karl Otto
+linha 869: 2 |  | 441 | Lehmann | Werner Karl Heinrich
+linha 870: 2 |  | 77 | Lein | Emil Karl
+linha 874: 1 | 164 | 765 | Lemburg | Ewald Johannes Friedrich
+linha 892: 1 | 8 | 56 | Liebmann | Johanna
+linha 895: 1 | 57 | 382 | Liese | Johann August
+linha 896: 2 |  | 115 | Liese | Karl
+linha 897: 2 |  | 435 | Lilienfein | Theodor Karl
+linha 906: 1 | 135 | 679 | Lippelt | Johanna Maria Elisabeth
+linha 907: 2 |  | 12 | Liwowsky | Paul Karl
+linha 908: 2 |  | 26 | Lochter | Johannes Franz Martin
+linha 917: 2 |  | 617 | Löwe | Erich Karl
+linha 931: 1 | 5 | 101 | Mahlcke | Ulrike Johanna Friederike
+linha 933: 1 | 70 | 441 | Maier | Johannes
+linha 938: 1 | 8 | 69 | Marheineke | Johann
+linha 946: 1 | 83 | 490 | Mattfeldt | Karl
+linha 950: 1 | 190 | 838 | Matthias | Karl Gerhard Heinrich Richard
+linha 954: 2 |  | 52 | Matthiesen | Karl Thomas
+linha 964: 1 | 148 | 714 | Meinecke | Karl
+linha 971: 1 | 49 | 332 | Menrath | Johann
+linha 973: 2 |  | 95 | Mentzel | Johannes Friedrich Wilh.
+linha 974: 1 | 150 | 718 | Merkel | Johannes Gerhard
+linha 988: 1 | 96 | 539 | Meyer | Karl Theodor Anton Johannes
+linha 999: 1 | 172 | 794 | Möller | Frieda Johanna
+linha 1003: 1 | 1 | 26 | Moncken | Johann Wilhelm
+linha 1004: 2 |  | 17 | Monfort, von | Karl Wilhelm
+linha 1008: 1 | 163 | 761 | Moritz | Johannes Albert Karl
+linha 1023: 1 | 51 | 349 | Müller | Karl August
+linha 1037: 1 | 135 | 680 | Nägele | Karl Eugen
+linha 1052: 1 | 58 | 384 | Niedhardt | Friedrich Karl
+linha 1053: 1 | 115 | 607 | Nissen | Michel Johannes Friedrich
+linha 1060: 2 |  | 355 | Oevel | Wilhelm Johann Friedrich
+linha 1061: 1 | 131 | 670 | Off | Johann August
+linha 1068: 2 |  | 284 | Ott | Karl Richard
+linha 1070: 2 |  | 150 | Otto | Johannes Baltazar Albr.
+linha 1071: 1 | 150 | 719 | Pabst | Johannes Wilhelm Erich
+linha 1077: 2 |  | 300 | Pannenbecker | Albert, Peter
+linha 1081: 2 |  | 128 | Paulus | Karl Johann Gottlieb
+linha 1100: 1 | 107 | 577 | Piotrowski | Johannes
+linha 1104: 1 | 151 | 722 | Pless | Wilhelm Paul Johann
+linha 1106: 2 |  | 216 | Pohle | Erich Karl
+linha 1107: 1 | 12 | 121 | Poley | Johann Heinrich Ferdinand
+linha 1109: 1 | 56 | 375 | Poppe | Johann Heinrich Niedhard
+linha 1111: 2 |  | 257 | Porn | Peter Johann
+linha 1122: 1 | 85 | 500 | Prochnow | Karl Willy Paul
+linha 1126: 2 |  | 1 | Raacke | Carl Johann Heinrich
+linha 1130: 1 | 2 | 60 | Rablais | Johann
+linha 1131: 1 | 38 | 290 | Radefeld | Johann Alphons
+linha 1136: 2 |  | 416 | Rainville, de | Franz Anton Hermann Karl
+linha 1155: 1 | 102 | 559 | Reimer | Karl August Alexander
+linha 1159: 1 | 160 | 752 | Renger | Karl
+linha 1161: 2 |  | 406 | Reser, de | Karl
+linha 1164: 1 | 71 | 450 | Reuter | Johannes Albert
+linha 1166: 1 | 6 | 15 | Richter | Johann Friedrich P.
+linha 1174: 1 | 13 | 131 | Riegelmann | Johann Conrad Heinrich
+linha 1177: 1 | 54 | 367 | Riensberg | Karl Julius Wilhelm
+linha 1186: 2 |  | 173 | Rödmann | Karl Johann Friedrich
+linha 1199: 1 | 13 | 136 | Rose | Johann Gustav
+linha 1207: 1 | 2 | 65 | Roth | Johann Christian
+linha 1211: 1 | 10 | 96 | Roth | Johann Peter
+linha 1223: 1 | 55 | ?? | Rottenberger | Karl
+linha 1231: 2 |  | 132 | Ruschmann | Karl Friedrich Hermann
+linha 1241: 1 | 74 | 462 | Sander | Johann
+linha 1242: 2 |  | 53 | Sander | Hans Karl
+linha 1243: 1 | 125 | 647 | Sandt | Karl August
+linha 1247: 1 | 24 | 206 | Sauer | Johann Peter Franz Arthur
+linha 1262: 2 |  | 105 | Schäfer | Fritz Johann Karl
+linha 1273: 1 | 89 | 512 | Scherbauer | Karl od. Carl
+linha 1276: 1 | 174 | 800 | Scheuenstahl | Johann
+linha 1278: 2 |  | 156 | Scheuffele | Karl Albert
+linha 1289: 2 |  | 76 | Schlaeger | Fritz Adolf Johannes
+linha 1300: 1 | 6 | 4 | Schmidt | Nicolaus Heinrich
+linha 1311: 1 | 43 | 307 | Schmierer | Johannes
+linha 1316: 2 |  | 267 | Schnarr | Johann Adam
+linha 1320: 2 |  | 246 | Schnellrath | Ernst Oscar Richard
+linha 1321: 2 |  | 285 | Schnitzler | Karl Thomas
+linha 1328: 1 | 160 | 754 | Schöne | Robert Johannes
+linha 1329: 2 |  | 86 | Schöne | Johannes
+linha 1333: 1 | 121 | 631 | Schönhärl | Karl
+linha 1334: 2 |  | 126 | Schönwandt | August Johann
+linha 1337: 1 | 68 | 434 | Schoppmeyer | Johann Ferdinand
+linha 1340: 1 | 26 | 223 | Schow von | Anna Charlotte Johanna Ottilie
+linha 1352: 1 | 4 | 94 | Schubach | Johann Nicolaus
+linha 1353: 1 | 35 | 273 | Schuback | Karl Heinrich
+linha 1366: 2 |  | 170 | Schulz | Karl Bernhard Hermann
+linha 1367: 2 |  | 443 | Schulze | Karl
+linha 1376: 1 | 153 | 729 | Schwab | Karl
+linha 1380: 2 |  | 394 | Schwaner | Viktor, Karl, Gustav
+linha 1383: 1 | 11 | 108 | Schwarz | Johann Friedrich
+linha 1385: 1 | 11 | 108 | Schwarz | Magdalene Johanne Josephe
+linha 1388: 1 | 63 | 409 | Schwarz | Karl Otto
+linha 1392: 2 |  | 453 | Schwencke | Willi Heinrich Karl Gust.
+linha 1394: 1 | 12 | 116 | Schwenger | Johann Julius
+linha 1412: 1 | 6 | 1 | Senner | Friedrich Johann Chr.
+linha 1414: 2 |  | 37 | Seyboth | Karl
+linha 1418: 2 |  | 259 | Siebert | Reinhold Karl
+linha 1424: 1 | 66 | 425 | Sieveler | Johann Leonhard
+linha 1437: 1 | 57 | 381 | Spakensky | Karl Erich
+linha 1446: 1 | 171 | 788 | Spörbein | Johann
+linha 1456: 1 | 3 | 89 | Stahlmann | Johann Friedrich Hermann
+linha 1463: 1 | 108 | 581 | Steinen von den | Karl August
+linha 1474: 1 | 84 | 496 | Stockhausen von | Johann Albert Waldemar Fritz
+linha 1475: 2 |  | 165 | Stockmeier | Johannes Julius
+linha 1476: 1 | 94 | 531 | Stöfen | Johannes
+linha 1500: 1 | 17 | 176 | Stroff | Julius Nicolaus
+linha 1504: 2 |  | 253 | Stummel | Josef Johann Wilhelm
+linha 1508: 2 |  | 288 | Suhrbeer | Paul Johann Friedrich
+linha 1521: 1 | 1 | 20 | Theis | Nicolaus
+linha 1522: 1 | 1 | 21 | Theis | Johann Nicolaus
+linha 1523: 1 | 1 | 22 | Theis | Friedrich Karl
+linha 1524: 1 | 6 | 31 | Theis | Johann Nicolaus
+linha 1525: 2 |  | 473 | Thewalt | Karl
+linha 1528: 1 | 48 | 330 | Thieme | Karl August
+linha 1530: 2 |  | 248 | Thoms | Martha, Marie, Johanna,E.
+linha 1537: 1 | 127 | 652 | Treidler | Peter Johannes
+linha 1546: 2 |  | 460 | Tups | Johannes
+linha 1548: 2 |  | 600 | Uher | Ludwig Johann
+linha 1550: 2 |  | 465 | Uhrigshardt | Karl Bernhard Franziskus
+linha 1567: 2 |  | 167 | Victor | Johann Karl Wilhelm
+linha 1568: 1 | 82 | 483 | Viereck | Johann Heinrich Franz
+linha 1584: 1 | 132 | 671 | Wagenarm | Karl Friedrich
+linha 1591: 2 |  | 239 | Waldmann | Nikolaus
+linha 1593: 1 | 7 | 40 | Walter | Johann Heinrich
+linha 1598: 2 |  | 49 | Warmuth | Alfred Karl Max
+linha 1608: 1 | 3 | 107 | Weber | Johann
+linha 1612: 1 | 181 | 821 | Weber | Wilhelm Johann
+linha 1615: 1 | 30 | 243 | Wehrs | Johann Christian Carl
+linha 1618: 1 | 30 | 243 | Wehrs | Wilhelm Hermann Johannes
+linha 1632: 1 | 150 | 721 | Wendt | Johanna Caroline
+linha 1645: 1 | 64 | 417 | Wettach | Karl Friedrich Ludwig
+linha 1656: 1 | 99 | 547 | Wilhelm | Johannes Cuno
+linha 1661: 1 | 130 | 663 | Wilmsen | Johann Conrad
+linha 1671: 2 |  | 277 | Witschel | Henry Wilhelm Hermann
+linha 1675: 2 |  | 179 | Wittig | Karl
+linha 1680: 1 | 115 | 608 | Wöbcken | Adolf Heinrich Karl
+linha 1692: 1 | 64 | 414 | Zager | Johann Friedrich Ernst
+-- planilha: Tabelle2 --
+-- planilha: Tabelle3 --

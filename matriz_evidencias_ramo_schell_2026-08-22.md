@@ -118,3 +118,19 @@ O nome e o endereço usados na consulta ao arquivo foram fornecidos pelo usuári
 Os registros brasileiros de 1878 e 1881 agora formam um conjunto coerente que nomeia repetidamente Nicolau/Nicolas Schell e Catharina Schmitt como avós paternos de filhos do casal Carlos/Anna. Isso eleva a hipótese de que Carlos/Karl seja filho de Nicolau de **forte indício** para **forte indício reforçado por repetição documental indexada**, mas ainda não para prova primária: as imagens não foram lidas e não há, até o momento, um documento que diga que Nicolau nasceu em Oberbrombach ou que o ligue nominalmente ao Johann Nicolaus de 1812.
 
 A ausência de Schell/Schnell nas páginas 1–8 do PDF Porto Alegre S–Z não é uma negativa final, porque o PDF é escaneado, a lista é remanescente e a consulta no invenio ainda deve ser feita. A lacuna arquivística alemã entre 1809 e 1824 está documentada e justifica uma consulta ao arquivo da EKiR/Boppard.
+
+
+## Auditoria da conexão com a linha direta de Jonathan — 22/08/2026
+
+A revisão da linha direta mostra que os elos recentes `Jonathan → Valdeci → Rosalvino` são confirmados no âmbito privado pelo pesquisador, enquanto a árvore FamilySearch apresenta `Rosalvino → Raimundo José de Souza + Alicia Schell de Souza` como hipótese documental. A pesquisa do cluster `Karl/Carlos Schell → Johann Nicolaus/Nicolau Schell` não localizou, até o corte desta data, documento que mencione Alicia, Regino ou Rosalvino. Portanto, os clusters devem permanecer separados.
+
+| Cluster | Pessoas centrais | Estado atual | Regra de trabalho |
+|---|---|---|---|
+| Linha direta Jonathan | Jonathan, Valdeci, Rosalvino, Raimundo e Alicia | Elos recentes confirmados privadamente; filiação anterior de Rosalvino ainda não confirmada por registro primário | Não presumir que Alicia seja filha de Karl/Carlos ou de Nicolau |
+| Tapes/Cerro Grande | Rosalina, Regino, Alvina e Celanira | Processos APERS fornecem evidência primária para relações locais, mas não ligam Regino ao cluster alemão | Manter Rosalina/Regino como trilha própria até surgir documento-ponte |
+| Santa Cristina/Taquara | Karl/Carlos, Anna Becker, filhos e Nicolau/Catharina | Registros brasileiros indexados e óbito de Adolfo reforçam o núcleo | Confirmar imagens e buscar documentos independentes |
+| Oberbrombach/Niederbrombach | Johann Nicolaus, Charlotte Catharina e filhos | Ficha OGF e referências a Archion/LHA formam hipótese forte | Obter batismo de 1812 e processo `Best. 393 Nr. 859` |
+
+**Implicação:** mesmo que a origem alemã de Johann Nicolaus seja confirmada, a cidadania ou a ancestralidade direta de Jonathan não estará demonstrada até que se prove o elo entre esse cluster e a linha `Rosalvino–Alicia` ou se encontre uma linha direta alternativa documentalmente sustentada.
+
+**Documento analítico relacionado:** `auditoria_cadeia_direta_e_ponte_schell_2026-08-22.md`.

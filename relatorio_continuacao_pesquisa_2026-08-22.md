@@ -1,7 +1,7 @@
 # Continuação da pesquisa do ramo Schell
 
-**Autor:** Manus AI  
-**Data de corte:** 22 de agosto de 2026  
+**Autor:** Manus AI
+**Data de corte:** 22 de agosto de 2026
 **Escopo:** continuar a investigação genealógica depois do envio da consulta ao Landeshauptarchiv Koblenz, usando fontes públicas, catálogos oficiais, registros brasileiros e arquivos paroquiais alemães.
 
 ## 1. Pergunta operacional
@@ -104,17 +104,61 @@ O sobrenome Schell não prova nacionalidade alemã. Uma árvore colaborativa, um
 
 ## 10. Fontes
 
-[1]: https://www.familysearch.org/ark:/61903/1:1:HKHL-VG3Z "FamilySearch — Carlos Schnell, batismo de 1878, ARK HKHL-VG3Z"  
-[2]: https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2 "FamilySearch — Guilherme Schell, batismo de 1881, ARK HK41-ZZT2"  
-[3]: https://www.familysearch.org/ark:/61903/1:1:XS33-C253 "FamilySearch — Carlos Schell mencionado no casamento de João Schell, ARK XS33-C253"  
-[4]: https://www.archion.de/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach/371321 "Archion — Niederbrombach/Oberbrombach, livro 1798–1809, assinatura 146/6"  
-[5]: https://archiv.ekir.de/inhalt/evangelische-archivstelle-boppard/ "Archiv der Evangelischen Kirche im Rheinland — Archivstelle Boppard"  
-[6]: https://www.bundesarchiv.de/en/research-our-records/research-archive-material/research-on-persons-and-ancestors/ "Bundesarchiv — Research on Persons and Ancestors"  
-[7]: https://www.gov.br/arquivonacional/pt-br/servicos/acervos/copy_of_acervos-mais-consultados/entrada-de-estrangeiros "Arquivo Nacional — Entrada de Estrangeiros"  
-[8]: https://brasil.diplo.de/br-pt/servicos/nacionalidade/matriculaconsular-2602058 "Ministério das Relações Externas — Matrícula Consular"  
-[9]: https://cemla.com/faqs/ "CEMLA — Perguntas frequentes sobre o buscador"  
-[10]: https://www.familysearch.org/ark:/61903/1:1:685Y-WFH6 "FamilySearch — registro civil de Nicolau, ARK 685Y-WFH6"  
-[11]: https://www.apers.rs.gov.br/pesquisa-no-acervo "APERS — Pesquisa no acervo"  
-[12]: https://www.ihgrgs.org.br/genealogia.html "IHGRGS — Genealogia"  
-[13]: https://apertus.rlp.de/ "APERTUS — Rheinland-Pfalz"  
-[14]: https://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer "Oldenburgische Gesellschaft — Johann Nikolaus Schell, ficha secundária"  
+[1]: https://www.familysearch.org/ark:/61903/1:1:HKHL-VG3Z "FamilySearch — Carlos Schnell, batismo de 1878, ARK HKHL-VG3Z"
+[2]: https://www.familysearch.org/ark:/61903/1:1:HK41-ZZT2 "FamilySearch — Guilherme Schell, batismo de 1881, ARK HK41-ZZT2"
+[3]: https://www.familysearch.org/ark:/61903/1:1:XS33-C253 "FamilySearch — Carlos Schell mencionado no casamento de João Schell, ARK XS33-C253"
+[4]: https://www.archion.de/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach/371321 "Archion — Niederbrombach/Oberbrombach, livro 1798–1809, assinatura 146/6"
+[5]: https://archiv.ekir.de/inhalt/evangelische-archivstelle-boppard/ "Archiv der Evangelischen Kirche im Rheinland — Archivstelle Boppard"
+[6]: https://www.bundesarchiv.de/en/research-our-records/research-archive-material/research-on-persons-and-ancestors/ "Bundesarchiv — Research on Persons and Ancestors"
+[7]: https://www.gov.br/arquivonacional/pt-br/servicos/acervos/copy_of_acervos-mais-consultados/entrada-de-estrangeiros "Arquivo Nacional — Entrada de Estrangeiros"
+[8]: https://brasil.diplo.de/br-pt/servicos/nacionalidade/matriculaconsular-2602058 "Ministério das Relações Externas — Matrícula Consular"
+[9]: https://cemla.com/faqs/ "CEMLA — Perguntas frequentes sobre o buscador"
+[10]: https://www.familysearch.org/ark:/61903/1:1:685Y-WFH6 "FamilySearch — registro civil de Nicolau, ARK 685Y-WFH6"
+[11]: https://www.apers.rs.gov.br/pesquisa-no-acervo "APERS — Pesquisa no acervo"
+[12]: https://www.ihgrgs.org.br/genealogia.html "IHGRGS — Genealogia"
+[13]: https://apertus.rlp.de/ "APERTUS — Rheinland-Pfalz"
+[14]: https://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer "Oldenburgische Gesellschaft — Johann Nikolaus Schell, ficha secundária"
+
+
+## 11. Atualização da execução do plano — 22/08/2026
+
+### 11.1. Matrículas consulares de Porto Alegre A–R
+
+Foram baixados do portal oficial do Ministério Federal das Relações Externas os PDFs remanescentes de Porto Alegre A–F, G–K e L–R. Cada bloco tem 22 páginas; as 66 páginas foram renderizadas e submetidas a OCR com as variantes `Schell`, `Schnell`, `Schel`, `Shell`, `Nicolaus`, `Nikolaus`, `Nicolau`, `Johann`, `Johannes`, `Karl`, `Carlos` e `Becker`. Não houve ocorrência OCR do sobrenome Schell/Schnell/Schel/Shell nesses blocos. Somado ao PDF S–Z anteriormente analisado, o resultado negativo por OCR cobre os quatro blocos remanescentes de Porto Alegre.
+
+Esse resultado é apenas negativo limitado. Os PDFs são listas remanescentes, o OCR pode falhar em nomes manuscritos e ainda não houve inspeção visual exaustiva de todas as páginas. A página oficial alemã informa que a busca também pode ser feita pelo invenio e que, para emigração anterior a 1904, outros documentos emitidos por autoridades alemãs podem ser relevantes [15].
+
+### 11.2. Consulta no invenio
+
+O acesso público ao invenio foi confirmado sem cadastro. A busca simples por `Schell` retornou 181 resultados na hierarquia, mas o único resultado nominal localizado no subgrupo `Deutsches Reich — Auslandsvertretungen R–S` foi `RAV 251 — Konsulat Strömstadt`, com duração de 1936–1945. Trata-se de um fundo contextual, posterior ao emigrante de 1856 e sem relação demonstrada com Porto Alegre ou Johann Nicolaus. Foi descartado como pista para o ramo.
+
+### 11.3. Revisão da ficha OGF e dos conflitos de datas
+
+A ficha independente `I169502` da Oldenburgische Gesellschaft confirma a hipótese secundária de Johann Nikolaus Schell nascido em 13/09/1812 em Oberbrombach, batizado após essa data em Niederbrombach, agricultor, emigrado para o Brasil em 1856 após pedido de 27/03/1856, com destino ao Rio Grande do Sul e residência posterior em Mundo Novo/Igrejinha. Ela cita confirmação em Archion, Reiner Schmitt nº 3465 e o processo `Landeshauptarchiv Koblenz, Best. 393, Nr. 859` [16].
+
+A mesma ficha apresenta conflitos que precisam ser preservados: Karl nasceu em 24/12/1843, enquanto a árvore FamilySearch indica 23/12/1843; Charlotte Catharina aparece como nascida em 13/03/1818, enquanto a árvore traz outro ano; e a ficha lista cinco filhos, enquanto a árvore lista seis. Esses conflitos não enfraquecem a pista de forma decisiva, mas impedem tratar a ficha como prova final sem os livros paroquiais e o processo de emigração.
+
+### 11.4. Auditoria da linha direta
+
+A auditoria da linha direta revelou uma distinção essencial: a linha de Jonathan é atualmente `Jonathan → Valdeci → Rosalvino → (hipótese) Raimundo José + Alicia Schell`, enquanto a pesquisa alemã-brasileira se concentra no cluster `Johann Nicolaus → Karl/Carlos → filhos de Carlos e Anna Becker em Santa Cristina/Taquara`. Nenhum documento localizado até esta data liga Alicia Schell, Regino Schell ou Rosalvino ao casal Karl/Carlos–Anna ou a Johann Nicolaus.
+
+Assim, a origem alemã provável de Johann Nicolaus não pode ser convertida automaticamente em ancestralidade direta ou cidadania alemã de Jonathan. O documento de maior poder discriminante para a cadeia brasileira passa a ser o nascimento, casamento ou óbito de **Alicia Schell de Souza** com filiação completa. Em paralelo, devem ser mantidos separados os clusters Tapes/Cerro Grande de Rosalina/Regino e Santa Cristina/Taquara de Karl/Carlos.
+
+### 11.5. Classificação após a execução
+
+| Afirmação | Classificação após esta rodada |
+|---|---|
+| Há um núcleo Carlos/Karl Schell–Anna Becker/Buker em Santa Cristina/Parobé | Forte indício, reforçado por vários registros de filhos |
+| Nicolau/Nicolas Schell e Catharina Schmitt aparecem como avós paternos em 1878 e 1881 | Forte indício repetido em índices da mesma coleção; imagem ainda necessária |
+| Karl/Carlos é filho de Johann Nicolaus/Nicolau de Oberbrombach | Hipótese forte apoiada por árvore e ficha OGF; prova primária pendente |
+| Johann Nicolaus emigrou para o Brasil em 1856 | Forte indício secundário; processo do LHA pendente |
+| Johann Nicolaus é ancestral direto de Jonathan | **Não demonstrado**; falta a ponte Alicia/Regino/Rosalvino |
+| Existe direito atual à cidadania alemã | **Não demonstrado**; a pesquisa ainda não é decisão jurídica |
+
+**Artefato analítico:** a auditoria detalhada está em `auditoria_cadeia_direta_e_ponte_schell_2026-08-22.md`.
+
+## 12. Referências acrescentadas
+
+[15]: https://brasil.diplo.de/br-pt/servicos/nacionalidade/matriculaconsular-2602058 "Ministério Federal das Relações Externas — Matrícula Consular e listas remanescentes"
+[16]: https://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer "Oldenburgische Gesellschaft — Johann Nikolaus Schell, I169502"
+[17]: https://politisches-archiv.diplo.de/invenio/main.xhtml "invenio — Politisches Archiv des Auswärtigen Amts"
