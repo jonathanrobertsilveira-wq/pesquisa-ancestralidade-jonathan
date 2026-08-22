@@ -1,10 +1,11 @@
-total_linhas 98
+total_linhas 101
 candidatos_com_linhas 39
 A01 16 João Adão Thomas/Thomaz
 A23 9 Karl Schell
 A03 7 João Thomas
 A09 6 Regina Shell Becker
 A06 5 Felippe Thomaz
+A37 5 Joh Tobias Schell
 A12 3 Regino Schell
 A13 3 Carlos Schell
 A02 2 João Adão indexado como Romale el Verprica Therana
@@ -23,7 +24,6 @@ A33 2 Flauliano Brasil Kenes
 A34 2 Eva Silveira
 A35 2 Manoel Geraldo Kenes
 A36 2 Dorvalina Ferreira Kenes
-A37 2 Joh Tobias Schell
 A04 1 João Thomas / Joao Thom
 A05 1 Barbara Miller
 A07 1 Margarida Thomas / Thomaz
