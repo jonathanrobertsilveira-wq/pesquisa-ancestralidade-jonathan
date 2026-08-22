@@ -45,3 +45,8 @@ O perfil FamilySearch e os registros indexados são fontes de pesquisa e não su
 A navegação direta abriu o visualizador **Diocese de Santa Cruz do Sul — Death Records January 1889–April 1892**, pasta digital `004090753`, grupo `M9ZN-4C4`, item/imagem `174` de 235, associado ao ARK de imagem `3:1:3QSQ-G9LD-3R39`. O visualizador carregou a página dupla e o painel lateral manteve João Adão Thomas e Clara Thomas Klaus como relacionamento indexado.
 
 A imagem aparece com baixa legibilidade na visualização inicial e contém marca d’água `SEM VALOR LEGAL`. A transcrição decisiva ainda exige ampliação cuidadosa; por isso, a presença da imagem foi registrada, mas nenhum texto manuscrito foi convertido em prova nesta etapa.
+
+
+## Tentativa de preservação local
+
+No visualizador, a imagem foi ampliada e a opção de download `JPG Only` foi selecionada. O FamilySearch fechou a janela de opções e retornou ao visualizador; a confirmação física do arquivo baixado ainda depende da conferência da pasta de downloads. A ação foi registrada para que a futura transcrição use a imagem original sem destaques, caso o download esteja disponível.
