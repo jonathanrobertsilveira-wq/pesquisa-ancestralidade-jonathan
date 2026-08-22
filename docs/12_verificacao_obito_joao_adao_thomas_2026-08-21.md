@@ -38,3 +38,10 @@ Portanto, o status da origem alemã permanece **não demonstrado para a pessoa c
 ## Nota de integridade
 
 O perfil FamilySearch e os registros indexados são fontes de pesquisa e não substituem a leitura da imagem original. Nenhuma alteração foi feita na árvore colaborativa. A hipótese `João Adão Thomas nasceu na Alemanha em 1815` continua separada da prova do óbito brasileiro.
+
+
+## Localização da imagem original
+
+A navegação direta abriu o visualizador **Diocese de Santa Cruz do Sul — Death Records January 1889–April 1892**, pasta digital `004090753`, grupo `M9ZN-4C4`, item/imagem `174` de 235, associado ao ARK de imagem `3:1:3QSQ-G9LD-3R39`. O visualizador carregou a página dupla e o painel lateral manteve João Adão Thomas e Clara Thomas Klaus como relacionamento indexado.
+
+A imagem aparece com baixa legibilidade na visualização inicial e contém marca d’água `SEM VALOR LEGAL`. A transcrição decisiva ainda exige ampliação cuidadosa; por isso, a presença da imagem foi registrada, mas nenhum texto manuscrito foi convertido em prova nesta etapa.
