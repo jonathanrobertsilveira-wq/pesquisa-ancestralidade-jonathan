@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Como ler certeza e nacionalidade</title>
+  <style>
+    * { box-sizing: border-box; }
+    .slide-container { width: 1280px; min-height: 720px; background: #EBF2FA; color: #2B0310; display: grid; grid-template-columns: 56% 6px 44%; font-family: Arial, Helvetica, sans-serif; }
+    .left { min-height: 720px; padding-top: 56px; padding-left: 70px; padding-right: 38px; }
+    .divider { min-height: 720px; background: #D4AF37; }
+    .right { min-height: 720px; padding-top: 56px; padding-left: 40px; padding-right: 60px; }
+    .kicker { color: #4A051C; font-size: 12px; letter-spacing: 2.4px; font-weight: 700; text-transform: uppercase; }
+    h1 { margin-top: 12px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 51px; line-height: 0.96; letter-spacing: -1.9px; max-width: 560px; }
+    .lead { margin-top: 12px; font-size: 16px; line-height: 1.34; max-width: 570px; }
+    /* Reduced vertical gaps to avoid overflow */
+    .scale { margin-top: 12px; border-top: 1px solid #4A051C; }
+    .row { min-height: 48px; display: grid; grid-template-columns: 43px 184px 1fr; column-gap: 12px; align-items: center; border-bottom: 1px solid #A9B8C7; }
+    .num { width: 28px; min-height: 28px; border-radius: 50%; border: 2px solid #4A051C; display: flex; align-items: center; justify-content: center; color: #4A051C; font-size: 11px; font-weight: 700; }
+    .gold { background: #D4AF37; border-color: #D4AF37; }
+    .soft { background: #D9E5F1; }
+    .dashed { border-style: dashed; }
+    .label { color: #4A051C; font-size: 14px; line-height: 1.1; font-weight: 700; }
+    /* Shorter descriptions to avoid extra wrapping */
+    .desc { font-size: 13px; line-height: 1.2; }
+    .right h2 { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 30px; font-style: italic; line-height: 1.03; }
+    .rule { margin-top: 12px; border-top: 1px solid #4A051C; }
+    .rule-row { display: grid; grid-template-columns: 113px 1fr; column-gap: 16px; min-height: 64px; align-items: center; border-bottom: 1px solid #A9B8C7; }
+    .rule-name { color: #4A051C; font-size: 14px; font-weight: 700; line-height: 1.1; }
+    .rule-text { font-size: 14px; line-height: 1.28; }
+    .warning { margin-top: 12px; border-top: 4px solid #D4AF37; padding-top: 8px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; line-height: 1.18; font-style: italic; }
+    .source { margin-top: 16px; font-size: 11px; line-height: 1.3; color: #4A051C; }
+    body { margin: 0; }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <section class="left">
+      <div class="kicker">Chave de leitura</div>
+      <h1>Como ler certeza e nacionalidade</h1>
+      <p class="lead">O objetivo não é preencher todos os nomes. É saber qual relação está comprovada e qual depende de documento.</p>
+      <div class="scale">
+        <div class="row"><span class="num gold">1</span><span class="label">Fato privado</span><span class="desc">Conhece a pessoa ou tem certidão privada.</span></div>
+        <div class="row"><span class="num soft">2</span><span class="label">Prova documental</span><span class="desc">Registro que nomeia pai, filho, cônjuge ou naturalidade.</span></div>
+        <div class="row"><span class="num soft">3</span><span class="label">Convergência forte</span><span class="desc">Vários eventos coerentes indicam mesma identidade.</span></div>
+        <div class="row"><span class="num dashed">4</span><span class="label">Hipótese plausível</span><span class="desc">Árvore ou fonte secundária sugere o elo.</span></div>
+        <div class="row"><span class="num dashed">5</span><span class="label">Não demonstrado</span><span class="desc">Pesquisa não permite aceitar nem rejeitar.</span></div>
+      </div>
+    </section>
+    <div class="divider"></div>
+    <section class="right">
+      <div class="kicker">Regra para nacionalidades</div>
+      <h2>Naturalidade não é o mesmo que nacionalidade</h2>
+      <div class="rule">
+        <div class="rule-row"><span class="rule-name">Documentada</span><span class="rule-text">O assento indica que a pessoa era natural de um país.</span></div>
+        <div class="rule-row"><span class="rule-name">Fortemente indicada</span><span class="rule-text">Fontes convergem para um país, falta a imagem primária.</span></div>
+        <div class="rule-row"><span class="rule-name">Contextual</span><span class="rule-text">Aparece em registros brasileiros; não prova nacionalidade.</span></div>
+        <div class="rule-row"><span class="rule-name">Desconhecida</span><span class="rule-text">Não há documento suficiente para atribuir origem.</span></div>
+      </div>
+      <div class="warning">Sobrenome e repetição em árvores geram pistas — não fecham a linhagem.</div>
+      <div class="source">Base: matriz de evidências e relatório de ancestralidade do repositório.</div>
+    </section>
+  </div>
+</body>
+</html>

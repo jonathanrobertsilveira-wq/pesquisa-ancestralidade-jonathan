@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Seu ramo paterno até Manoel José</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    .slide-container { width: 1280px; min-height: 720px; background: #EBF2FA; color: #2B0310; display: grid; grid-template-columns: 62% 6px 38%; font-family: Arial, Helvetica, sans-serif; }
+    .left { min-height: 720px; padding-top: 50px; padding-left: 68px; padding-right: 38px; display: flex; flex-direction: column; }
+    .divider { min-height: 720px; background: #D4AF37; }
+    /* reduced top padding on right column to compact vertical space; safe because the title on the left kept its padding */
+    .right { min-height: 720px; padding-top: 40px; padding-left: 40px; padding-right: 52px; display: flex; flex-direction: column; }
+    .kicker { color: #4A051C; font-size: 12px; letter-spacing: 2.4px; font-weight: 700; text-transform: uppercase; }
+    h1 { margin-top: 12px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 52px; line-height: 0.94; letter-spacing: -2px; max-width: 670px; }
+    .lead { margin-top: 14px; max-width: 650px; font-size: 16px; line-height: 1.34; }
+    .chain { margin-top: 34px; display: grid; grid-template-columns: 116px 40px 116px 40px 116px 40px 116px 40px 116px; align-items: center; justify-content: center; }
+    .person { min-height: 88px; border-top: 3px solid #4A051C; display: flex; flex-direction: column; justify-content: center; text-align: center; padding-top: 10px; padding-left: 7px; padding-right: 7px; }
+    .person.private { border-top-color: #D4AF37; }
+    .person.hypothesis { border-top-style: dashed; }
+    .person.unknown { border-top-color: #A9B8C7; color: #687787; }
+    .name { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 18px; font-weight: 700; line-height: 1.04; }
+    .detail { margin-top: 6px; font-size: 11px; line-height: 1.18; }
+    .arrow { min-height: 1px; border-top: 2px solid #4A051C; }
+    .arrow.dash { border-top-style: dashed; }
+    .status-grid { margin-top: 37px; border-top: 1px solid #4A051C; display: grid; }
+    .status { min-height: 62px; display: grid; grid-template-columns: 36px 145px 1fr; column-gap: 12px; align-items: center; border-bottom: 1px solid #A9B8C7; }
+    .mark { width: 24px; min-height: 24px; border: 2px solid #4A051C; display: flex; align-items: center; justify-content: center; color: #4A051C; font-size: 12px; font-weight: 700; }
+    .mark.gold { border-color: #D4AF37; background: #D4AF37; }
+    .mark.dash { border-style: dashed; }
+    .status-name { color: #4A051C; font-size: 13px; font-weight: 700; line-height: 1.14; }
+    .status-text { font-size: 13px; line-height: 1.24; }
+    .side-title { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 31px; font-style: italic; line-height: 1.03; }
+    .fact { margin-top: 20px; border-top: 1px solid #A9B8C7; padding-top: 10px; font-size: 14px; line-height: 1.32; }
+    .fact strong { color: #4A051C; }
+    .answer { margin-top: 21px; border-top: 4px solid #D4AF37; padding-top: 11px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; font-style: italic; line-height: 1.18; }
+    /* remove auto margin that pushed source to the very bottom; let it flow after content */
+    .source { margin-top: 0; padding-top: 13px; border-top: 1px dashed #4A051C; font-size: 11px; line-height: 1.28; color: #4A051C; }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <section class="left">
+      <div class="kicker">Linha de pais no ramo paterno</div>
+      <h1>Seu ramo paterno até Manoel José</h1>
+      <p class="lead">A linha avança com graus diferentes de certeza. O ponto decisivo é não tratar como fato o que ainda depende da certidão de Rosalvino.</p>
+      <div class="chain" aria-label="Cadeia do ramo paterno">
+        <div class="person private"><span class="name">Jonathan</span><span class="detail">pessoa de referência</span></div>
+        <div class="arrow"></div>
+        <div class="person private"><span class="name">Valdeci</span><span class="detail">pai · fato privado</span></div>
+        <div class="arrow"></div>
+        <div class="person private"><span class="name">Rosalvino</span><span class="detail">avô · fato privado</span></div>
+        <div class="arrow dash"></div>
+        <div class="person hypothesis"><span class="name">Raimundo José<br>(?)</span><span class="detail">possível pai de Rosalvino</span></div>
+        <div class="arrow dash"></div>
+        <div class="person hypothesis"><span class="name">Manoel José<br>(?)</span><span class="detail">pai indicado de Raimundo</span></div>
+      </div>
+      <div class="status-grid">
+        <div class="status"><span class="mark gold">1</span><span class="status-name">Jonathan → Valdeci → Rosalvino</span><span class="status-text">Linha recente confirmada no âmbito familiar e privado.</span></div>
+        <div class="status"><span class="mark dash">2</span><span class="status-name">Rosalvino → Raimundo</span><span class="status-text">Hipótese plausível; falta documento que nomeie Rosalvino como filho.</span></div>
+        <div class="status"><span class="mark">3</span><span class="status-name">Raimundo → Manoel José</span><span class="status-text">Fortemente indicado pelo óbito de Raimundo, que nomeia Manoel José e Maria Candida.</span></div>
+      </div>
+    </section>
+    <div class="divider"></div>
+    <section class="right">
+      <div class="kicker">Leitura documental</div>
+      <div class="side-title">O ponto de interrogação está no lugar certo</div>
+      <div class="fact"><strong>O que o óbito de 1983 sustenta:</strong><br>Raimundo era filho de Manoel José de Souza e Maria Candida Tavares, e marido de Alicia Schell.</div>
+      <div class="fact"><strong>O que o óbito não sustenta sozinho:</strong><br>Ele não lista Rosalvino entre os filhos de Raimundo e Alicia.</div>
+      <div class="fact"><strong>O que não foi localizado:</strong><br>O pai de Manoel José. A linha para nessa geração até surgir outro registro.</div>
+      <div class="answer">Resposta direta: Raimundo é o candidato mais plausível a pai de Rosalvino; Manoel José é o pai indicado de Raimundo. Ambos exigem leitura cuidadosa dos documentos próprios.</div>
+      <div class="source">Fonte: relatório-mestre; resultado Manoel Osorio; registro de óbito de Raimundo José, 1983.</div>
+    </section>
+  </div>
+</body>
+</html>

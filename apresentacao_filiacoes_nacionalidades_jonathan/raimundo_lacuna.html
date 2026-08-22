@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Raimundo: o elo que ainda falta</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    .slide-container { width: 1280px; min-height: 720px; background: #EBF2FA; color: #2B0310; display: grid; grid-template-columns: 48% 6px 52%; font-family: Arial, Helvetica, sans-serif; }
+    .left { min-height: 720px; padding-top: 52px; padding-left: 68px; padding-right: 42px; display: flex; flex-direction: column; }
+    .divider { min-height: 720px; background: #D4AF37; }
+    .right { min-height: 720px; padding-top: 56px; padding-left: 46px; padding-right: 58px; display: flex; flex-direction: column; }
+    .kicker { color: #4A051C; font-size: 12px; font-weight: 700; letter-spacing: 2.4px; text-transform: uppercase; }
+    h1 { margin-top: 12px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 52px; line-height: 0.94; letter-spacing: -2px; font-style: italic; max-width: 490px; }
+    .lead { margin-top: 8px; max-width: 460px; font-size: 16px; line-height: 1.34; }
+    .record { margin-top: 12px; border-top: 4px solid #D4AF37; padding-top: 12px; }
+    .record-title { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 26px; line-height: 1.04; font-style: italic; }
+    .fact-list { margin-top: 10px; border-top: 1px solid #4A051C; }
+    .fact { min-height: 52px; display: grid; grid-template-columns: 29px 1fr; column-gap: 11px; align-items: center; border-bottom: 1px solid #A9B8C7; }
+    .dot { width: 18px; min-height: 18px; border-radius: 50%; background: #D4AF37; color: #4A051C; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 700; }
+    .fact p { font-size: 14px; line-height: 1.27; }
+    .fact strong { color: #4A051C; }
+    .source { margin-top: 14px; padding-top: 14px; border-top: 1px dashed #4A051C; color: #4A051C; font-size: 11px; line-height: 1.3; }
+    .side-title { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 31px; line-height: 1.03; font-style: italic; }
+    .chain { margin-top: 18px; display: grid; grid-template-columns: 160px 62px 160px 62px 160px; grid-template-rows: 96px 48px 96px; align-items: center; justify-content: center; }
+    .node { width: 142px; min-height: 76px; border: 2px solid #4A051C; border-radius: 50%; display: flex; align-items: center; justify-content: center; text-align: center; padding-top: 9px; padding-left: 9px; padding-right: 9px; color: #4A051C; font-size: 15px; font-weight: 700; line-height: 1.12; }
+    .node.gold { border-color: #D4AF37; background: #F3EBCB; }
+    .node.open { border-style: dashed; }
+    .node small { display: block; margin-top: 4px; font-size: 11px; line-height: 1.14; font-weight: 400; }
+    .line { width: 100%; min-height: 1px; border-top: 2px solid #4A051C; }
+    .line.dashed { border-top-style: dashed; }
+    .vert { min-height: 49px; border-left: 1px dashed #4A051C; justify-self: center; }
+    .chain-note { grid-column: 1 / 6; text-align: center; padding-top: 3px; font-size: 13px; line-height: 1.26; }
+    .answer { margin-top: 12px; border-top: 4px solid #D4AF37; padding-top: 11px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; font-style: italic; line-height: 1.17; }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <section class="left">
+      <div class="kicker">Fonte central · óbito de 1983</div>
+      <h1>Raimundo: o elo que ainda falta</h1>
+      <p class="lead">O documento de Raimundo é decisivo para uma geração — mas insuficiente para a geração seguinte.</p>
+      <div class="record">
+        <div class="record-title">O que o registro realmente afirma</div>
+        <div class="fact-list">
+          <div class="fact"><span class="dot">1</span><p><strong>Raimundo José de Souza</strong> é identificado como filho de <strong>Manoel José de Souza</strong> e <strong>Maria Candida Tavares</strong>.</p></div>
+          <div class="fact"><span class="dot">2</span><p>Ele é identificado como marido de <strong>Alicia Schell de Souza</strong>.</p></div>
+          <div class="fact"><span class="dot">3</span><p>O documento delimita o casal Raimundo–Alicia, mas <strong>não lista todos os filhos</strong>.</p></div>
+        </div>
+      </div>
+      <div class="source">Fonte: registro de óbito de Raimundo, 09/09/1983; consolidação do ramo Manoel Osorio e relatório-mestre.</div>
+    </section>
+    <div class="divider"></div>
+    <section class="right">
+      <div class="kicker">A diferença entre duas perguntas</div>
+      <div class="side-title">O documento fecha Raimundo como filho. Não fecha Rosalvino como filho.</div>
+      <div class="chain" aria-label="Cadeia documental de Raimundo e lacuna para Rosalvino">
+        <div class="node gold">Manoel José<br>+ Maria Candida<small>pais nomeados de Raimundo</small></div>
+        <div class="line"></div>
+        <div class="node gold">Raimundo José<br>+ Alicia Schell<small>casal corroborado</small></div>
+        <div class="line dashed"></div>
+        <div class="node open">Rosalvino<small>possível filho; falta o assento que o nomeie</small></div>
+        <div></div><div></div><div class="vert"></div><div></div><div></div>
+        <div></div><div></div><div class="chain-note"><strong>Filiação de Raimundo:</strong> fortemente indicada.<br><strong>Filiação de Rosalvino:</strong> hipótese plausível.</div><div></div><div></div>
+      </div>
+      <div class="answer">O próximo documento decisivo é o nascimento, casamento ou inteiro teor do óbito de Rosalvino — aquele que informe explicitamente os seus pais.</div>
+    </section>
+  </div>
+</body>
+</html>

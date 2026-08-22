@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Schell–Becker: a rota germânica mais forte</title>
+  <style>
+    * { box-sizing: border-box; }
+    .slide-container { width: 1280px; min-height: 720px; background: #EBF2FA; color: #2B0310; display: grid; grid-template-columns: 56% 6px 44%; font-family: Arial, Helvetica, sans-serif; }
+    /* Slightly reduced top padding and tighter spacing to remove overflow */
+    .left { min-height: 720px; padding-top: 28px; padding-left: 64px; padding-right: 34px; display: flex; flex-direction: column; }
+    .divider { min-height: 720px; background: #D4AF37; }
+    .right { min-height: 720px; padding-top: 30px; padding-left: 42px; padding-right: 55px; display: flex; flex-direction: column; }
+    .kicker { color: #4A051C; font-size: 12px; font-weight: 700; letter-spacing: 2.4px; text-transform: uppercase; }
+    h1 { margin-top: 11px; color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 48px; font-style: italic; line-height: 0.95; letter-spacing: -1.8px; max-width: 605px; }
+    .lead { margin-top: 10px; max-width: 600px; font-size: 16px; line-height: 1.34; }
+    /* Tighter chain rows and smaller nodes to save vertical space */
+    .chain { margin-top: 12px; display: grid; grid-template-columns: 145px 52px 160px 52px 145px; grid-template-rows: 86px 36px 86px; align-items: center; justify-content: center; }
+    .node { width: 132px; min-height: 68px; border: 2px solid #4A051C; border-radius: 50%; display: flex; align-items: center; justify-content: center; text-align: center; padding-top: 6px; padding-left: 6px; padding-right: 6px; color: #4A051C; font-size: 14px; line-height: 1.12; font-weight: 700; }
+    .node.gold { border-color: #D4AF37; background: #F3EBCB; }
+    .node.open { border-style: dashed; }
+    .node small { display: block; margin-top: 4px; font-size: 10px; line-height: 1.12; font-weight: 400; }
+    .line { width: 100%; min-height: 1px; border-top: 2px solid #4A051C; }
+    .line.dash { border-top-style: dashed; }
+    .vline { min-height: 28px; border-left: 1px dashed #4A051C; justify-self: center; }
+    .chain-caption { grid-column: 1 / 6; text-align: center; color: #4A051C; font-size: 12px; line-height: 1.25; padding-top: 3px; }
+    .legend { margin-top: 6px; border-top: 1px solid #A9B8C7; padding-top: 8px; display: grid; grid-template-columns: 1fr 1fr; column-gap: 18px; }
+    .legend-item { display: flex; align-items: center; font-size: 12px; line-height: 1.22; }
+    .marker { width: 14px; min-height: 14px; border-radius: 50%; border: 2px solid #4A051C; margin-right: 8px; }
+    .marker.gold { border-color: #D4AF37; background: #D4AF37; }
+    .marker.open { border-style: dashed; }
+    .side-title { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-style: italic; font-size: 30px; line-height: 1.03; }
+    .facts { margin-top: 8px; border-top: 1px solid #4A051C; }
+    .fact { display: grid; grid-template-columns: 64px 1fr; column-gap: 13px; min-height: 64px; align-items: center; border-bottom: 1px solid #A9B8C7; }
+    .date { color: #D4AF37; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; line-height: 1.05; font-style: italic; font-weight: 700; }
+    .fact p { font-size: 13px; line-height: 1.27; }
+    .fact strong { color: #4A051C; }
+    .bridges { margin-top: 8px; border-top: 4px solid #D4AF37; padding-top: 6px; }
+    .bridges h2 { color: #4A051C; font-family: Georgia, 'Times New Roman', serif; font-size: 22px; line-height: 1.05; font-style: italic; }
+    .bridge { margin-top: 6px; display: grid; grid-template-columns: 21px 1fr; column-gap: 9px; font-size: 13px; line-height: 1.24; }
+    .n { width: 17px; min-height: 17px; border-radius: 50%; background: #D4AF37; display: flex; align-items: center; justify-content: center; color: #4A051C; font-size: 10px; font-weight: 700; }
+    /* Remove auto spacing that pushed source to bottom; keep source close to content */
+    .source { margin-top: 12px; padding-top: 6px; color: #4A051C; font-size: 11px; line-height: 1.28; }
+  </style>
+</head>
+<body>
+  <div class="slide-container">
+    <section class="left">
+      <div class="kicker">Hipótese germânica mais consistente</div>
+      <h1>Schell–Becker: a rota germânica mais forte</h1>
+      <p class="lead">A pesquisa localizou uma declaração documental de origem alemã para Carlos Schell. A ligação desse núcleo até Jonathan, porém, ainda depende de pontes de filiação.</p>
+      <div class="chain" aria-label="Cadeia Schell Becker e níveis de evidência">
+        <div class="node open">Karl Schell<small>Oberbrombach, 1843<br>fonte secundária</small></div>
+        <div class="line dash"></div>
+        <div class="node gold">Carlos Schell<br>+ Anna Becker<small>batismos brasileiros<br>1871, 1874, 1881</small></div>
+        <div class="line dash"></div>
+        <div class="node open">Regina Schell<small>mãe de Rosalina 1906<br>ponte pendente</small></div>
+        <div></div><div class="vline"></div><div></div><div class="vline"></div><div></div>
+        <div></div><div></div><div class="chain-caption"><strong>O núcleo brasileiro é forte.</strong> A equivalência Karl = Carlos e a descendência Carlos → Regina não foram comprovadas por documento primário.</div><div></div><div></div>
+      </div>
+      <div class="legend">
+        <div class="legend-item"><span class="marker gold"></span><span>casal repetido em fontes brasileiras convergentes</span></div>
+        <div class="legend-item"><span class="marker open"></span><span>pessoa ou conexão ainda dependente de documento-ponte</span></div>
+      </div>
+    </section>
+    <div class="divider"></div>
+    <section class="right">
+      <div class="kicker">O que os registros efetivamente dizem</div>
+      <div class="side-title">A Alemanha aparece no Brasil — mas a linha direta não está fechada</div>
+      <div class="facts">
+        <div class="fact"><span class="date">1871</span><p><strong>Batismo de Maria Schell.</strong> Carlos Schell e Anna Becker aparecem como pais; o assento declara que ele era “da Allemanha”.</p></div>
+        <div class="fact"><span class="date">1874<br>1881</span><p><strong>Continuidade do casal.</strong> Batismos de Regina e Guilherme repetem Carlos e Anna na mesma região e cronologia.</p></div>
+        <div class="fact"><span class="date">1843<br>1856</span><p><strong>Rota alemã secundária.</strong> A OGF atribui Karl, de Oberbrombach, a Johann Nicolaus e registra emigração ao Brasil; a imagem primária ainda não foi lida.</p></div>
+      </div>
+      <div class="bridges">
+        <h2>Três pontes ainda faltam</h2>
+        <div class="bridge"><span class="n">1</span><span>Provar que Karl de Oberbrombach é o Carlos dos batismos brasileiros.</span></div>
+        <div class="bridge"><span class="n">2</span><span>Provar que Regina era filha de Carlos e Anna.</span></div>
+        <div class="bridge"><span class="n">3</span><span>Provar que a Rosalina de 1906 entra na linha de Rosalvino ou em outro elo direto de Jonathan.</span></div>
+      </div>
+      <div class="source">Fontes: relatórios alemães consolidados; batismos brasileiros de 1871, 1874 e 1881; processo APERS nº 180190.</div>
+    </section>
+  </div>
+</body>
+</html>
