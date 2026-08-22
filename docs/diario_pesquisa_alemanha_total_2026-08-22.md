@@ -600,3 +600,86 @@ Foram testadas buscas nominais da obra de Küssner em catálogos federados alem�
 A rodada solicitada foi executada até o limite das fontes públicas e das consultas não pagas. Foram incorporados à matriz os registros DE36–DE40 sobre: a obra de Küssner e seu registro RPB; a busca negativa em catálogos federados; a jurisdição histórica do Fürstentum Birkenfeld/Amt Birkenfeld/Niederbrombach; a rota civil não demonstrada para Oberbrombach em 1812; e a referência regional ao Verein für Heimatkunde. Foi criado o relatório `43_relatorio_execucao_integral_lacuna_1810_1825_2026-08-22.md`, que reúne o resultado, critérios de decisão, fontes, pendências e os limites de prova.
 
 A conclusão não foi promovida além de `fortemente indicado`: a obra de Küssner é a rota secundária especializada para a lacuna, mas não foi lida; as imagens Archion 735/782/886/117 não foram acessadas; o processo LHA `Best. 393 Nr. 859` não foi obtido. Nenhum e-mail, compra, contratação ou pedido pago foi realizado.
+
+
+## Registro 91 — ramo Maria Margaretha Schell–Gosert–Veeck
+
+A busca pública nominal por Maria Margaretha Schell, Johann Jakob Gosert, Johannes Schell e Maria Barbara Veeck recuperou apenas uma árvore Gossart e snippets derivados da Ancestry. A árvore Gossart mostra Johannes Schell, Maria B. Veeck/Foeck e a família local, mas a extração pública não expôs datas, imagens ou referências arquivísticas suficientes. A Ancestry não permitiu auditoria da árvore/registro além do snippet. Portanto, a filiação de Maria Margaretha Schell e sua relação com Gosert continuam hipótese derivada; não há promoção para prova. O próximo documento permanece o batismo de 1801 e o casamento no Kirchenbuch de Niederbrombach/Idar-Hettenrodt.
+
+
+## Registro 92 — núcleo paralelo Johann Karl Schell, IPGV 140217
+
+A ficha oficial IPGV `140217` identifica Johann Karl Schell, protestante, nascido em 1839, filho de Philipp Karl Schell e Maria Elisabeth Hofmann. Registra atividade em Oberbrombach, emigração para Porto Alegre em 1862 e união com Katharina Karoline Purger em Lomba Grande em 02/02/1868. A própria ficha declara `Sources: No sources recorded` e explica que, sem fonte exibida, a entrada pode derivar de outra ficha; a qualidade científica deve ser tratada com cautela. O núcleo tem conjunto parental e conjugal incompatível/independente do Johann Nikolaus–Karl 1843, devendo permanecer separado até prova em contrário.
+
+Fonte: https://migration.pfalzgeschichte.de/person/140217.
+
+
+## Registro 93 — Veeck/Foeck e a paróquia de Idar
+
+A página Archion de Idar confirma uma série da EKiR que inclui Hettenrodt, Mackenroth e Vollmersbach, além de outras localidades. A página consultada corresponde ao item `259502`, assinatura local `218/111`, período 1906–1926 e sem cópia digital disponível; a descrição geral indica que batismos de Idar estão disponíveis até 1915, mas a série específica de 1787–1798 (`218/4`) e 1815–1824 (`218/6`) continua sendo a rota indicada no projeto e não foi aberta. A árvore Gossart permanece apenas como pista derivada e não exibiu texto ou imagem adicional na extração pública.
+
+Fonte: https://www.archion.de/en/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/idar/259502.
+
+
+## Registro 94 — rechecagem OGF da linha direta Schell
+
+As fichas públicas OGF foram reabertas para Johann Nikolaus (I169502), Karl (I169504) e Friedrich (I169505). Johann Nikolaus aparece com nascimento em 13/09/1812 em Oberbrombach, batismo posterior em Niederbrombach, profissão Ackersmann, religião LU, pedido de emigração de 27/03/1856, Brasil/Rio Grande do Sul e residência posterior Mundo Novo/Igrejinha. A ficha familiar F34931 lista Charlotte Catharina Schmid e os filhos Karl, Friedrich, Jakob, Luisa e Marie. Karl traz batismo de 07/01/1844 e cita S1750/Archion imagem 735, além de S21391 e S21493. Friedrich traz batismo de 16/11/1845 e cita S1750/Archion imagem 782, além de S21391 e S21493. Johann Nikolaus cita S1750/Archion imagem 117, S21391 e S21493. A rechecagem confirma a coerência interna da família OGF e especifica as fontes, mas não substitui a leitura dos assentos.
+
+Fontes: http://auswanderer-oldenburg.de/getperson.php?personID=I169502&tree=Auswanderer ; http://auswanderer-oldenburg.de/getperson.php?personID=I169504&tree=Auswanderer ; http://auswanderer-oldenburg.de/getperson.php?personID=I169505&tree=Auswanderer.
+
+
+## Registro 95 — controles Jakob, Luisa e Marie Schell
+
+As fichas OGF adicionais confirmam, como dados derivados da mesma família F34931, Jakob Schell nascido em 05/01/1848 e batizado em 16/01/1848, com referência S1750/Archion imagem 886; Luisa Schell nascida em 15/02/1850 e batizada em 03/03/1850, com referência S1750/Archion imagem 974; e Marie Schell nascida em 29/06/1854 e batizada em 16/07/1854, com referência S1750/Archion imagem 1154. Os três repetem Johann Nikolaus Schell como pai, Charlotte Catharina Schmid como mãe e a emigração de 1856 para Brasil/Rio Grande do Sul, além das referências S21391 e S21493. Isso fortalece a coerência interna da reconstrução OGF, mas todas essas informações continuam secundárias até a leitura dos assentos.
+
+Fontes: http://auswanderer-oldenburg.de/getperson.php?personID=I169506&tree=Auswanderer ; http://auswanderer-oldenburg.de/getperson.php?personID=I169507&tree=Auswanderer ; http://auswanderer-oldenburg.de/getperson.php?personID=I169508&tree=Auswanderer.
+
+
+## Registro 96 — ponte brasileira Carlos–Anna–Regina–Rosalina
+
+A busca pública por `Carlos Schell`, `Anna Schell`, `Regina Schell` e `Rosalina Schell` combinados com Tapes, Americana e Cerro Grande não encontrou novo assento primário independente. O processo APERS 180190 continua sendo a evidência central: a habilitação de casamento de 1955 registra Rosalina Schell nascida em 16/12/1906, filha ilegítima de Regina Schell, e nomeia Carlos Schell e Anna Schell como avós maternos. O resultado do Portal Registro Civil para o óbito de Rosalina em Guaíba, 14/07/1993, exibe Regina Schell no campo de filiação, mas ainda é apenas localizador/captura, não inteiro teor. A ponte até Carlos e Anna permanece documentalmente incompleta.
+
+
+## Registro 97 — óbito de João Adão Thomas reaberto no FamilySearch
+
+A página FamilySearch foi reaberta no registro `6CYV-XZMD`. O índice público exibe João Adão Thomas, masculino, 76 anos, ano de nascimento estimado 1815, óbito em 16/05/1891, Santa Cruz do Sul/RS, certificado nº 61, coleção `Brasil, Rio Grande do Sul, Registro Civil, 1810–2022`, com Clara Thomas Klaus como cônjuge relacionado. A página oferece `VIEW ORIGINAL DOCUMENT`; a imagem visualizada mostra uma página dupla com marca d’água `SEM VALOR LEGAL`, mas o conteúdo manuscrito decisivo não foi transcrito nesta rodada. O índice informa que a informação foi criada por voluntário e não exibe naturalidade, filiação, profissão, residência ou declarante. Portanto, o óbito confirma a âncora brasileira, não a origem alemã. A imagem original deve ser ampliada e transcrita em futura rodada, sem editar ou anexar nada à árvore.
+
+Fonte: https://www.familysearch.org/ark:/61903/1:1:6CYV-XZMD?lang=en. Identificadores exibidos anteriormente no projeto: pasta digital `004090753`, grupo `M9ZN-4C4`, item/imagem 174/235 e ARK de imagem `3:1:3QSQ-G9LD-3R39`.
+
+
+## Registro 98 — tentativa de leitura ampliada do certificado 61
+
+O FamilySearch abriu diretamente o ARK da imagem associada ao certificado nº 61 e mostrou o filme `004090753`, imagem 629 no visualizador de 2.321 imagens, com duas páginas e marca d’água `SEM VALOR LEGAL`. O índice inferior confirma a entrada de João Adão Thomas, 76 anos, óbito em 16/05/1891, mas a imagem na resolução apresentada permanece insuficiente para transcrever com segurança os campos manuscritos. Foram testados o zoom, a tela cheia, os controles de brilho/contraste e a opção de download; não foi obtido arquivo local. Nenhum texto novo foi promovido a prova e nenhuma alteração foi feita na árvore. O certificado original continua sendo o documento discriminante para naturalidade, filiação, profissão, residência e declarante.
+
+Fonte: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9LD-3R39?lang=en&personaUrl=%2Fark%3A%2F61903%2F1%3A1%3A6CYV-XZMW&i=628&cc=3741255&groupId=3741255.
+
+
+## Registro 99 — batismo de Gertrudes Thomas reaberto no FamilySearch
+
+A ficha FamilySearch `6NVX-SV8B` exibe Getrudes Thomas, batizada em 1857 em Rio Pardo/RS, com João Adão Thomas como pai e Clara Blas como mãe. Também exibe João Thomaz como avô paterno, Barbara Milla como avó paterna, Llus e Gener como avós maternos, Christovão Lehnel como padrinho e `Getrudes . e Haas` como madrinha. A página apresenta imagem de livro e `VER O DOCUMENTO ORIGINAL`, mas informa que o registro foi indexado por computador; a imagem primária ainda não foi lida. A grafia Clara Blas diverge de Klaus/Klus/Hlausf e deve ser tratada como variante ou erro de indexação até conferência paleográfica. O registro fortalece a cadeia brasileira João Adão–Clara–Gertrudes, mas não demonstra Alemanha.
+
+Fonte: https://www.familysearch.org/ark:/61903/1:1:6NVX-SV8B?lang=pt.
+
+
+## Registro 100 — Hillesheim como controle da linha Thomas/Klaus
+
+A página regional *Hillesheim no Brasil* identifica Clemens Hillesheim, nascido em 1846, como filho de Johann Konrad Hillesheim de Briedel, e registra seu casamento com Gertrudes Thomas em 23/04/1874, às 9h, na Matriz de São João Batista de Santa Cruz do Sul. A página cita Gertrudes como nascida em 04/01/1855, filha de João Adão Thomas e Clara Klaus, e fornece a referência `fls. 22, livro Matrimônios 1872/1882, Santa Cruz do Sul`. Também menciona Margarida Hillesheim com padrinhos João Adão Thomas e Clara Klaus em 1888. A fonte é regional e secundária, útil para localizar atos brasileiros e a rede familiar, mas não traz nascimento alemão de João Adão/Clara nem prova que a família Thomas/Klaus seja a mesma de qualquer candidato alemão.
+
+Fonte: https://www.weber-ruiz.com.br/hillesheim/hillesheim_no_brasil.html.
+
+
+## Registro 101 — consolidação linha a linha
+
+Foi criado `44_relatorio_linha_a_linha_candidatos_2026-08-22.md`, com 37 candidatos A01–A37 distribuídos entre Schell direto, Schell/Trott/Fillmann, Thomas/Klaus, Kenes/Kenne e controles. O relatório registra pergunta testável, evidência principal, conflitos, classificação e próximo documento discriminante para cada pessoa. A matriz recebeu as entradas DE41–DE47: rechecagem individual das fichas OGF de seis membros da família F34931, ponte brasileira Rosalina–Regina–Carlos–Anna, tentativa de leitura do óbito de João Adão, batismo indexado de Gertrudes, busca Maria Margaretha/Veeck, ficha IPGV de Johann Karl e cobertura Archion de Idar.
+
+A consolidação não promoveu nenhum elo além da evidência disponível. O núcleo OGF permanece fortemente indicado; Rosalina–Regina–Carlos–Anna é comprovado dentro do processo APERS, mas sem ponte até Karl 1843; Thomas/Klaus permanece sem origem alemã demonstrada; ramos Philipp/Johann Karl, Gosert/Veeck e homônimos continuam separados.
+
+
+## Registro 102 — controle Joh Tobias Schell
+
+A busca nominal pública por Joh Tobias Schell recuperou apenas referências derivadas. A abertura direta do identificador FamilySearch `QPF7-BFF6`, citado em material anterior, retornou `Unknown Name`, sexo desconhecido e `Person Not Found`. Portanto, nesta sessão não foi possível reauditar o suposto batismo de 04/04/1763, os pais Georg Schell e Anna Barbara Schell ou qualquer ligação até Johann Nikolaus. A classificação do candidato remoto permanece hipótese de alta prioridade de pesquisa, não prova de filiação.
+
+
+## Registro 103 — fechamento das verificações linha a linha
+
+A matriz foi ampliada com DE48–DE52. DE48 registra que o perfil QPF7-BFF6 de Joh Tobias Schell retorna `Person Not Found`; DE49 registra a tentativa de leitura do óbito de João Adão no filme FamilySearch `004090753`; DE50 registra o índice do batismo de Gertrudes e a falha de abertura do original; DE51 registra a fonte regional Hillesheim para o casamento de Gertrudes; e DE52 reune a rechecagem das seis fichas OGF do núcleo Johann Nikolaus–Karl–Friedrich–Jakob–Luisa–Marie. O relatório 44 já contém a classificação de cada candidato A01–A37 e os documentos discriminantes. Nenhuma classificação foi elevada apenas por árvore, índice ou homonímia.
