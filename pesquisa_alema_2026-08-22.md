@@ -172,3 +172,207 @@ Após o usuário concluir manualmente o CAPTCHA, a página do Arquivo Nacional n
 ### Nota de consistência sobre a contagem de Bremen
 
 Na página de Bremen, a seção `Statistics` exibe **738.102 entries**, enquanto a área lateral `Remarks` exibe **690.591 passengers**. Como o próprio site apresenta números divergentes, o relatório final usará apenas a formulação qualitativa de que se trata de um catálogo amplo, registrando os dois números como informação inconsistente do site, sem usar nenhum deles como medida exata de cobertura.
+
+## Pesquisa ampliada — João Adão Thomas e Gertrudes Thomas
+
+A página pública **Hillesheim no Brasil**, de Glacy Weber Ruiz Cavallaro, informa que Clemente Hillesheim casou-se em 23/04/1874, na Matriz de São João Batista de Santa Cruz do Sul, com **Gertrudes Thomas**, nascida em 04/01/1855 e falecida em 07/06/1944, filha de **João Adão Thomas e Clara Klaus**. A página também documenta imigrantes Hillesheim vindos de Briedel, Mosel, Rheinland-Pfalz, e afirma que a família Hillesheim tinha origem alemã; essa referência diz respeito principalmente ao marido de Gertrudes e não prova que João Adão Thomas ou Clara Klaus fossem alemães.
+
+Fonte: [Hillesheim no Brasil](https://www.weber-ruiz.com.br/hillesheim/hillesheim_no_brasil.html), consultada em 22/08/2026. Classificação: `C` para a filiação de Gertrudes na transcrição da fonte; `NA/I` para origem alemã dos Thomas, pois não há declaração correspondente.
+
+A página complementar [Hillesheim na Alemanha](https://www.weber-ruiz.com.br/hillesheim/hillesheim_alemanha.html) detalha a localidade de Briedel/Mosel/Rheinland-Pfalz, registros de Familienbuch e emigração de Mathias Joseph Hillesheim e descendentes para o Brasil. Esse material é uma fonte forte para o ramo Hillesheim e contexto migratório alemão em Santa Catarina/Rio Grande do Sul, mas não contém uma ponte nominal para João Adão Thomas, Clara Klaus, Felippe Thomaz ou o núcleo Schell. Foi catalogado como fonte contextual e controle contra falso positivo.
+
+## Pesquisa ampliada — Clara Klaus / Clara Thomas
+
+A busca nominal na web encontrou um índice público do MyHeritage para `Clara Klus/Klaus`, cujo trecho de busca sugere uma mulher chamada Clara Thomas (nascida Klaus), possivelmente casada com João Adão Thomas. A abertura direta da página exibiu `Security check` e exigiu verificação humana; o conteúdo da página não foi consultado nem usado como evidência. A ocorrência permanece apenas como pista de variantes (`Klaus/Klus/Kloss`, `Clara Thomas`) e precisa ser testada contra registros primários de Santa Cruz do Sul/Rio Pardo.
+
+Fonte: [MyHeritage — Clara Klus](https://www.myheritage.se/names/clara_klus), consultada em 22/08/2026; acesso bloqueado por verificação de segurança.
+
+## Pesquisa ampliada — Hemeroteca Digital Brasileira, 1902
+
+A edição pública de **A Federação** de 1902 foi aberta e baixada para conferência. A extração textual local encontrou uma ocorrência em contexto de habilitação para casamento que lê aproximadamente `tenente-coronel João Thomaz`, além de ruído de OCR. A edição não apresenta, no trecho localizado, `João Adão Thomaz`, naturalidade alemã, filiação ou conexão com Santa Cruz do Sul/Rio Pardo. O resultado é classificado como `D/I`: possível homônimo e OCR imperfeito, sem valor para identificar o ancestral.
+
+Fonte: [A Federação — edição de 1902, Hemeroteca Digital Brasileira](https://hemeroteca-pdf.bn.gov.br/388653/per388653_1902_00217.pdf), conferida em 22/08/2026. Artefatos locais: `fontes_hemeroteca_1902_joao_adao.pdf` e `.txt`.
+
+## Pesquisa ampliada — Hemeroteca Digital Brasileira, 1903
+
+A edição pública de **A Federação** de 1903 contém uma ocorrência legível como `João Adão Thomaz`, inserida em uma coluna jornalística que também lista outros nomes e referências a Rio Pardo, Itaquy e vapores. O contexto extraído é fragmentado por colunas do jornal e não informa parentesco, naturalidade, profissão ou residência. Não há, no trecho, declaração de Alemanha. A ocorrência é classificada como `P`: confirma que o nome circulava em publicação brasileira em 1903, mas não identifica o ancestral de 1815 nem prova origem alemã.
+
+Fonte: [A Federação — edição de 1903, Hemeroteca Digital Brasileira](https://hemeroteca-pdf.bn.gov.br/388653/per388653_1903_00089.pdf), conferida em 22/08/2026. Artefatos locais: `fontes_hemeroteca_1903_joao_adao.pdf` e `.txt`.
+
+## Pesquisa ampliada — João Adão Thomas em fontes militares
+
+Foram pesquisadas as combinações `João Adão Thomaz` + militar, `João Adão Thomas` + exército/Rio Grande do Sul e `João Adão Thomaz` + Santa Cruz + soldado. Os únicos retornos foram as duas ocorrências já registradas na Hemeroteca de 1902–1903; não apareceu ficha de alistamento, unidade, lista de oficiais, baixa ou sepultura militar que pudesse ser ligada ao homem de KJ8D-X45. Resultado: `N/I`, sem evidência militar alemã ou brasileira identificadora.
+
+## Pesquisa ampliada — João Adão Thomas em escola, hospital e cemitério
+
+Foram testadas buscas públicas combinando o nome com `escola Santa Cruz do Sul`, `hospital Rio Pardo` e `cemitério Santa Cruz do Sul`. Não foi localizada matrícula escolar, ficha hospitalar histórica, lápide, registro de sepultamento ou obituário nominal que corresponda com segurança a João Adão Thomas/Thomaz. Os retornos repetiram as páginas da Hemeroteca de 1902–1903, sem dados suficientes. Resultado: `N/I`; a ausência não é negativa absoluta porque esses acervos podem não estar digitalizados ou indexados.
+
+## Pesquisa ampliada — Felippe Thomaz e Regina Shell Becker
+
+A página pública FamilySearch Ancestors de **Adolpho Thomaz** informa nascimento em 04/12/1912 em Tapes, filho de **Felippe Thomaz** (48 anos) e **Regina Shell Becker** (38 anos), casamento de Adolpho em 30/12/1933 em Sertão Santana e óbito em Porto Alegre em 25/04/1973. O perfil lista como irmãos Wilbald Thomaz, Frieda Thomaz, Alfredo Thomaz, **Rosalina Schell** (1899–1993) e Herna Thomaz, entre outros. A página mostra fontes de registros civis brasileiros, mas não afirma que Felippe, Regina ou Adolpho eram alemães. O resultado confirma a coerência interna do cluster familiar derivado, não a nacionalidade.
+
+Fonte: [Adolpho Thomaz (1912–1973) — FamilySearch Ancestors](https://ancestors.familysearch.org/en/G7RX-HLY/adolpho-thomaz-1912-1973), consultada em 22/08/2026. Classificação: `C/P` para a composição do núcleo exibido; `N` para origem alemã.
+
+## Pesquisa ampliada — Regina Shell Becker
+
+Foram pesquisadas as combinações `Regina Shell Becker` + nascimento, `Regina Schell Becker` + Tapes e `Regina Shell Becker` + Felippe Thomaz. A busca web não retornou resultado independente utilizável. A única pista permanece o perfil público de Adolpho Thomaz, que a apresenta como mãe e como integrante de um núcleo com Karl Schell e Anna Becker em páginas relacionadas. Resultado: `N/I`; é necessário localizar o casamento Felippe–Regina e registros dos filhos em Tapes para buscar idade, pais e naturalidade.
+
+## Pesquisa ampliada — Rosalina Schell 1906 e Regino Schell
+
+As buscas web exatas por `Regino Schell` + Tapes, `Rosalina Schell` + 1906/Tapes e `Rosalina Schell` + `Regino Schell` não retornaram fonte independente além da página nominal do MyHeritage. A extração dessa página foi rejeitada pelo Incapsula (incident ID `197000280005741826-18496190773790524`), e o acesso não foi contornado. O resultado permanece `I/N`; a fonte decisiva continua sendo o assento original brasileiro de Rosalina, seguido por casamento, óbito e eventual documentação de Regino.
+
+As consultas adicionais por `Regino Schell`, `Regina Schell` + Tapes e `Regino Schel` + Rio Grande do Sul retornaram principalmente homônimos contemporâneos sem relação genealógica. Nenhum resultado foi usado para a árvore. Resultado: `N/D` para a coleção web aberta; a investigação precisa continuar em registros civis/paroquiais e índices do APERS/FamilySearch por data e localidade.
+
+## Pesquisa ampliada — João Adão Thomas em obituários, inventários, terras e profissão
+
+Foram testadas as combinações `João Adão Thomaz` + obituário, `João Adão Thomas` + inventário e `Adão Thomás` + Santa Cruz do Sul + profissão. O mecanismo retornou apenas as edições da Hemeroteca de 1902–1903 já examinadas; não apareceu inventário, registro fundiário, diretório profissional ou obituário que identificasse A01. Resultado: `N/I`.
+
+## Pesquisa ampliada — Guilherme Thomas e Felippe Thomaz
+
+A página pública FamilySearch Ancestors de **Guilherme Thomas** (ID `GKLS-QXK`) informa apenas que ele teve pelo menos um filho e lista **Felippe Thomaz**, nascido em 1853, como descendente. A página apresenta uma fonte de batismo relacionada a `Joao Thomas`, mas não fornece local de nascimento, cônjuge, pais, nacionalidade ou qualquer declaração de Alemanha para Guilherme. A data de Felippe (1853) também conflita com o perfil principal de Felippe Thomaz (1864), o que indica possível duplicação ou homonímia.
+
+Fonte: [Guilherme Thomas — FamilySearch Ancestors](https://ancestors.familysearch.org/pt/GKLS-QXK/guilherme-thomas-), consultada em 22/08/2026. Classificação: `D/I`; não associar ao Felippe de 1864 sem a imagem do batismo e a reconstrução dos pais.
+
+A busca adicional para A03 retornou apenas um snippet do MyHeritage para `Clara Klus/Klaus`, sugerindo que Clara teria oito filhos, entre eles `João Thomas` e `João Adão Thomas`. Como a página está protegida por `Security check`/Incapsula e o snippet não identifica a fonte original, essa informação é apenas uma pista derivada para desambiguação; não foi tratada como prova de parentesco ou de origem alemã.
+
+## Pesquisa ampliada — Regino Schell em APERS e FamilySearch
+
+Foram testadas buscas direcionadas nos domínios do APERS, FamilySearch e do serviço de busca documental do APERS para `Regino Schell`, `Regino` + `Schell` e `Regino` em Tapes. O mecanismo web não retornou uma página nominal independente. Isso é `N` apenas para a indexação pública encontrada; não elimina processos em bases dinâmicas, imagens sem OCR ou registros sob outra grafia. A prioridade permanece obter o assento de nascimento de Rosalina e os atos de Regino em Tapes/Cerro Grande.
+
+## Pesquisa ampliada — Carlos Schell e genealogia Johann Adam Schel
+
+A busca por `Carlos Schell` + `Anna Schell` + Tapes/Rio Grande do Sul encontrou principalmente homônimos e referências ao ramo **Schell Felizardo**. A página pública `A descendência de JOHANN ADAM SCHEL...` foi aberta, mas o conteúdo permaneceu atrás de uma camada de cookies/carregamento e não expôs texto genealógico verificável. O resultado não foi associado ao Carlos Schell do APERS 180190.
+
+Também apareceu um resultado do Recenseamento do Brasil de 1920 com o nome `Carlos Schell`, mas sem filiação ou localidade suficiente no snippet. Ele será tratado como pista de homônimo, não como ancestral. Resultado: `P/I`; pesquisar a imagem do recenseamento somente se a localidade e o domicílio coincidirem com o ramo.
+
+## Pesquisa ampliada — Karl Schell e Anna Becker
+
+O perfil público de **Albin Schell** informa nascimento em 21/06/1886 em Três Coroas, filho de **Karl Schell**, então com 42 anos, e **Anna Becker**, com 38 anos. Apresenta Karl como nascido em 1843 e falecido em 1890, Anna como nascida em 1848 e falecida em 1928, e lista irmãos Johannes, Maria, Adolfo, Regina Shell Becker e Catarina. Albin aparece casado com Catharina Laurinda Trott e falecido em Padilha/Taquara em 1945. As fontes visíveis são registros civis brasileiros e relações de árvore; não há local de nascimento europeu, nacionalidade ou documento de imigração para Karl ou Anna.
+
+Fonte: [Albin Schell (1886–1945) — FamilySearch Ancestors](https://ancestors.familysearch.org/en/K2VJ-JT5), consultada em 22/08/2026. Classificação: `C/P` para o cluster familiar brasileiro; `N/I` para origem alemã de Karl/Anna.
+
+## Pesquisa ampliada — Adolf e Johannes Schell
+
+Os perfis públicos de **Adolfo Schell** e **Johannes Schell** repetem Karl Schell (1843–1890) e Anna Becker (1848–1928) como pais. Adolfo é apresentado como nascido em 18/11/1871 em Igrejinha, casado em 1910 em Igrejinha; Johannes como nascido em 1869, casado com Elisabeth Clara Wilhelmina Thomas em 06/10/1894 em Taquara e falecido em 05/09/1952 em Concórdia. Ambos os perfis exibem fontes de registros civis brasileiros e relações de árvore, mas não declaram que Karl ou Anna nasceram na Alemanha. A repetição melhora a coerência interna do cluster, mas não equivale a fontes independentes.
+
+Fontes: [Adolfo Schell (1871–1944)](https://ancestors.familysearch.org/en/LBCP-1TY/adolf-schell-1871-1944) e [Johannes Schell (1869–1952)](https://ancestors.familysearch.org/es/LR5J-JPL/johannes-schell-1869-1952), consultadas em 22/08/2026. Classificação: `C/P` para o núcleo brasileiro; `N/I` para origem alemã.
+
+## Pesquisa ampliada — cluster Trott/Schell
+
+O perfil público de **Helka Schell** (G821-LTP) informa nascimento em 26/07/1913 em Igrejinha, filha de Theodor Schell e Rosalina Trott; declara **zero fontes históricas anexadas**. O perfil de **Catharina Laurinda Trott** (K2VJ-JTP) informa nascimento em 07/03/1890 em Gramado, filha de Jacob Friedrich Trott e Emilie Fillmann, casamento com Albin Schell e óbito em Taquara em 14/11/1968; mostra fontes de registros civis brasileiros. Esses perfis fortalecem a reconstrução regional do cluster, mas não apresentam nascimento, nacionalidade ou imigração alemã para os pais. Resultado: `C/P` para relações brasileiras; `N/I` para origem alemã.
+
+Fontes: [Helka Schell](https://ancestors.familysearch.org/pt/G821-LTP/helka-schell-1913) e [Catharina Laurinda Trott](https://ancestors.familysearch.org/en/K2VJ-JTP/catharina-laurinda-trott-1890-1968), consultadas em 22/08/2026.
+
+## Pesquisa ampliada — Emilie Fillmann
+
+A busca por `Emilie Fillmann` encontrou o perfil público de seu possível irmão **Jacob Fillmann** (KZR5-N11). O perfil informa Jacob nascido em 07/11/1867 em Igrejinha, filho de Christoph Fillmann e Elisabetha Krupp, casado em 1891 em Dois Irmãos e falecido em Rolante em 1935. Lista como irmã **Emilie Fillmann**, nascida em 1865 e falecida em 1946. As fontes exibidas são registros civis brasileiros e a explicação etimológica do sobrenome Fillmann; não há naturalidade europeia, nacionalidade ou imigração alemã para Christoph, Elisabetha ou Emilie. Resultado: `P/C` para a possível família brasileira; `N/I` para origem alemã.
+
+Fonte: [Jacob Fillmann (1867–1935) — FamilySearch Ancestors](https://ancestors.familysearch.org/en/KZR5-N11/jacob-fillmann-1867-1935), consultada em 22/08/2026.
+
+## Pesquisa ampliada — Jacob Friedrich Trott e Emilie Fillmann
+
+As buscas por `Jacob Friedrich Trott` + Emilie Fillmann, `Jacob Friedrich Trott` + Gramado e `Emilie Fillmann` + Igrejinha retornaram principalmente o perfil de Catharina Laurinda Trott e o perfil de Jacob Fillmann, já registrados. Nenhum resultado público independente apresentou naturalidade, nacionalidade, imigração ou documento alemão para Jacob Friedrich Trott ou Emilie Fillmann. Resultado: `N/I`; a prioridade é localizar os assentos brasileiros de Catharina e dos irmãos, com pais e avós.
+
+## Pesquisa ampliada — ramo Kenes
+
+Foram pesquisadas as combinações `Flauliano Brasil Kenes`, `Flauliano Kenes Camaquã` e `Manoel Geraldo Kenes + Dorvalina`. Não houve resultado web independente. A única ocorrência nominal aberta continua sendo Petrene Kenes, de Kispest, com nacionalidade húngara, na base de Bremen; ela é classificada como pessoa distinta. Para Flauliano, Eva, Manoel Geraldo e Dorvalina, a pesquisa deve continuar prioritariamente em casamentos, batismos e óbitos brasileiros, usando grafias `Kenes/Kenne/Kens/Zenes`, antes de procurar Alemanha. Resultado: `N/I`.
+
+## Pesquisa ampliada — Joao Thomas e Barbara Miller
+
+As consultas por `Joao Thomas` + `Barbara Miller` + Alemanha, `João Thomas` + `Barbara Miller` + Rio Grande do Sul e `Barbara Miller` + `João Adão Thomas` não retornaram resultados públicos independentes. A atribuição do casal como pais de João Adão permanece apenas no perfil/árvore colaborativa, sem cidade, paróquia, imigração ou registro original localizado. Resultado: `N/I`; pesquisar os primeiros assentos brasileiros de João Adão e o casamento atribuído de 1815 somente como hipótese orientadora.
+
+## Pesquisa ampliada — Johann Klaus e Marina Gesner
+
+As buscas por `Johann Klaus` + `Marina Gesner`, `Joao Klus` + `Marina Gesner` e `Marina Gesner` + Santa Cruz do Sul não retornaram resultados genealógicos públicos utilizáveis; o único retorno foi ruído não genealógico sobre `marina` e `Gesner`. Os dois nomes permanecem hipóteses de ascendência de Clara Klaus, sustentadas apenas pelos perfis e pela indexação de batismo de Gertrudes. Resultado: `N/I`.
+
+## Pesquisa ampliada — Clara Klaus/Clara Thomas: variantes
+
+As buscas adicionais por `Clara Klaus`, `Clara Thomas` e `João Adão Thomas` repetiram a pista de que uma Clara Thomas, nascida aproximadamente em 1821, teria se casado com João Adão Thomas por volta de 1850. Os resultados independentes disponíveis foram a página Hillesheim, que cita a filiação de Gertrudes a João Adão e Clara Klaus, e snippets do MyHeritage, cuja página completa está protegida por verificação de segurança. Não foi encontrada localidade alemã nem registro primário de nascimento para Clara. Resultado: `P/I` para a relação brasileira; `N/I` para origem alemã.
+
+## Pesquisa ampliada — A02 e Roza Thomás
+
+Foram pesquisadas as combinações `Roza Thomás` + `João Adão`, `João Adão Romale` + `Allemanha` e `Roza Thomás` + Santa Cruz do Sul/1887. Não houve resultado público independente. A única pista continua a ficha FamilySearch do certificado nº 43 de 1908, cuja indexação é corrompida e cuja identidade é incompatível com o João Adão de 1815–1891. Resultado: `I/D`; localizar o assento original de Roza e a imagem completa do registro de 1908 é o teste discriminante.
+
+## Pesquisa ampliada — Rosalina Schell e Regino Schell em jornais e registros sociais
+
+Foram pesquisadas as combinações `Rosalina Schell` + Regino + jornal, `Regino Schell` + Rosalina + Brasil e `Regino Schell` + Tapes + casamento. Não houve resultado público independente. O retorno `N` vale apenas para a indexação web aberta; jornais sem OCR, livros de cartório não indexados, registros paroquiais e processos APERS continuam pendentes. Nenhuma pessoa homônima foi incorporada.
+
+## Pesquisa ampliada — núcleo Rosalina 1897, Alvina e Celanira
+
+As consultas por `Rosalina Schell` + `Alvina Schell`, `Rosalina Schell` + `Celanira Schell` e `Alvina Schell` + `Celanira Schell` + Tapes não retornaram fonte pública web independente. A prova atual continua nos processos APERS 180603 e 180674, já preservados no repositório. A nova busca não trouxe indicação de Alemanha, naturalidade europeia ou imigração. Resultado: `N/I` para origem alemã; `C` somente para os vínculos brasileiros já documentados no APERS.
+
+## Pesquisa ampliada — variantes do ramo Kenes e Capela Velha
+
+Foram testadas as variantes `Flauliano/Flaubiano/Flauviano Kenes`, `Flauliano Brasil` + Camaquã/Capela Velha e `Kenne/Kens/Zenes` + Camaquã/Tapes. Os resultados foram apenas referências geográficas atuais a Capela Velha, mapas, redes sociais e homônimos comerciais `Kenne`; não apareceu pessoa histórica, registro civil, imigração ou nacionalidade. Resultado: `N/I`; a busca nominal deve ser retomada em índices por evento e nas imagens de casamento/batismo de Camaquã.
+
+## Pesquisa ampliada — inventário municipal de acervos de Gramado
+
+A busca regional por `Schell/Trott` encontrou um inventário de acervos do Município de Gramado cujo snippet menciona `Catharina Laurinda Schell` e `Rosalina Schell`, além de Trott. A abertura pelo navegador falhou com `ERR_SSL_PROTOCOL_ERROR`, e a tentativa de baixar o PDF com conexão alternativa também falhou com alerta TLS interno. Como o conteúdo integral não foi conferido, a menção permanece apenas como pista de acervo, não como evidência de pessoa ou origem alemã.
+
+Fonte pendente: [Livro Inventário de Acervos — Memórias de Gramado, 2ª edição](https://memorias.gramado.rs.gov.br/wp-content/uploads/tainacan-items/39/18358/LIVRO-INVENTARIO-2a-Edicao_2026.pdf). Resultado: `I`; tentar novamente por interface do portal ou arquivo municipal, sem contornar a proteção de transporte.
+
+A busca por perfil específico de `Rosalina Trott` repetiu o perfil de Helka Schell, que apresenta Rosalina Trott (1892–1971) como mãe e Theodor Schell como pai. Não apareceu assento, naturalidade europeia ou imigração independente. Resultado: `P/I` para a estrutura familiar regional e `N/I` para origem alemã.
+
+## Pesquisa ampliada — João Adão Thomas em bases alemãs de biografia, guerra e perseguição
+
+Foram testadas as combinações `João Adão Thomas` + Arolsen/Volksbund, `João Adão Thomaz` + Deutsche Biographie e `Joao Adao Thomas` + Bundesarchiv. Não houve resultado nominal compatível. Como A01 teria vivido principalmente no século XIX e morreu em 1891, as bases de guerras mundiais, perseguições e biografias de pessoas notáveis têm baixa cobertura esperada. Resultado: `N/NA`, não uma prova negativa de origem alemã.
+
+## Pesquisa ampliada — João Thomas e Felippe Thomaz em naturalização e bases de guerra
+
+Foram pesquisadas combinações de `João Thomas` e `Felippe Thomaz` com Arolsen, Volksbund, naturalização e emigração alemã. Os resultados foram homônimos contemporâneos, referências acadêmicas não genealógicas e anúncios de naturalização de outras pessoas. Não apareceu documento de naturalização, serviço militar, biografia ou emigração compatível com A03/A06. Resultado: `N/NA/D`; não associar as ocorrências genéricas aos ancestrais.
+
+## Pesquisa ampliada — Alvina, Celanira e Rosalina de Vila Cerro Grande
+
+As consultas abertas por `Alvina Schell` + Tapes, `Celanira Schell` + Tapes e `Rosalina Schell` + Vila Cerro Grande não encontraram registros históricos nominais. O único retorno foi um diretório contemporâneo de homônimos estrangeiros. Não houve evidência de escola, hospital, cemitério, jornal, naturalização ou imigração para o núcleo brasileiro. Resultado: `N/D`; os processos APERS continuam sendo as fontes centrais.
+
+## Pesquisa ampliada — integrantes do cluster Schell/Trott
+
+As buscas individuais por `Theodor Schell` + `Rosalina Trott`, `Helka Schell` + Igrejinha e `Catharina Laurinda Trott` + `Albin Schell` repetiram os perfis públicos FamilySearch Ancestors e snippets do MyHeritage. O material confirma internamente as relações atribuídas no cluster, incluindo casamento de Rosalina Trott com Theodor por volta de 1911 e nascimento de Helka em Igrejinha em 1913, mas não apresenta naturalidade alemã, imigração ou documento de origem para Theodor, Rosalina, Albin ou Catharina. Resultado: `P/C` para a estrutura brasileira; `N/I` para origem alemã.
+
+## Pesquisa ampliada — Regina Shell Becker: confirmação interna do cluster
+
+As buscas direcionadas em `ancestors.familysearch.org` por `Regina Shell Becker`, `Regina Schell Becker` e `Tapes` repetiram os perfis públicos de Albin Schell, Adolfo Schell, Johannes Schell e Adolpho Thomaz. Esses perfis apresentam Regina como filha de Karl Schell e Anna Becker e como mãe de Adolpho Thomaz, mas todos pertencem ao mesmo ecossistema de árvore/índices FamilySearch. O achado reforça a coerência interna da família brasileira, porém não é uma fonte independente nem declara naturalidade alemã. Resultado: `C/P` para a relação familiar; `N/I` para origem europeia.
+
+## Pesquisa ampliada — fontes do perfil de João Adão Thomas
+
+A extração direta de `familysearch.org/en/tree/person/details/KJ8D-X45` abriu tela de login. A rota pública de fontes também não expôs a lista documental. Portanto, a contagem de quatro fontes de nascimento exibida anteriormente no perfil público não pôde ser auditada nesta sessão; não é correto elevar a classificação apenas pelo número de fontes. Resultado: `I`; seria necessário login autorizado no FamilySearch e acesso às fontes, ou localizar os identificadores por meio de um registro público independente.
+
+## Limitação — registros FamilySearch por ARK
+
+As extrações diretas dos registros `XV48-G3G`, `XV48-P8K` e `HK4D-4VPZ` foram rejeitadas pelo Incapsula. Incidentes retornados: `1008000042852162872-1225267059088163118`, `1025000042461563703-777601651459555618` e `1008000042852164266-1273524130510012724`. Os dados desses registros permanecem citados apenas porque já constavam do relatório anterior; nesta rodada não foram independentemente reabertos.
+
+## Pesquisa ampliada — números de processo APERS
+
+As buscas gerais pelos números `180190`, `180603` e `180674` combinados com Schell não localizaram os processos, retornando principalmente homônimos numéricos não genealógicos. Isso não invalida os documentos já baixados do repositório; apenas mostra que o catálogo APERS não está adequadamente indexado no buscador geral. Resultado: `I`; a matriz deve citar os arquivos locais e os metadados APERS já preservados, sem fabricar URL de consulta.
+
+## Consulta ampliada — APERS para Rosalina, Schell e ramos relacionados
+
+O relatório do repositório registra que a busca pública do APERS por `Rosalina Schell`, entre 1897 e 1906, exibiu zero registros. A busca complementar apenas por `Schell` no mesmo intervalo exibiu 31 registros, agrupados em outras jurisdições e processos — incluindo Pelotas, São Leopoldo, São Sebastião do Caí, Passo Fundo, Porto Alegre, São Borja e Taquari — sem ocorrência demonstrada em Tapes, Taquara ou Cerro Grande para o ramo investigado. A ocorrência mais próxima foi Dorathéa Luíza Schell, em habilitação matrimonial de São Leopoldo em 1899, mantida como homônima distinta.
+
+O APERS informa que seus acervos não estão completamente indexados ou digitalizados. A coleção FamilySearch `Brazil, Rio Grande do Sul, Catholic Church Records, 1738–1952` (coleção 2177295) é relevante para batismos e casamentos, mas a busca nominal detalhada redirecionou para login. Tentativas de abrir registros por ARK e API também foram bloqueadas por serviço de segurança. Resultado: `N/I` para a inexistência do assento; `C` para a negatividade auditável apenas do índice público consultado.
+
+Fontes: [APERS — busca pública](https://buscadocumentos.apers.rs.gov.br/pesquisa-documentos?semHeaders=true), [APERS — acervo de registro civil](https://www.apers.rs.gov.br/acervo-registro-civil), [Stephen P. Morse — coleções FamilySearch do Brasil](https://stevemorse.org/fhl/websiteslist.php?state=Brazil&file=weblinkswestern&mode=fhl). Consultadas conforme os registros do projeto em 22/08/2026.
+
+## Pesquisa ampliada — Margarida Thomaz na Hemeroteca de 1906
+
+A edição de **A República** de 1906 contém, em OCR, a frase `Margarida Thomaz, filha leg. de João Thomaz`. O trecho não informa a mãe, idade, localidade, evento completo ou naturalidade; a disposição em colunas torna o contexto parcial. Não foi possível ligá-la à Margarida Thomas atribuída como esposa de João Thomas ou ao ramo de Santa Cruz do Sul. Resultado: `P/I`, homônima não identificada e sem evidência de Alemanha.
+
+Fonte: [A República — edição de 1906, Hemeroteca Digital Brasileira](https://hemeroteca-pdf.bn.gov.br/215554/per215554_1906_00104.pdf), conferida em 22/08/2026. Artefatos locais: `fontes_hemeroteca_1906_margarida_thomaz.pdf` e `.txt`.
+
+## Pesquisa ampliada — colaterais Thomaz/Schelle A28–A32
+
+As buscas por `Frieda Hoff` + Thomaz, `Carolina Thomaz` + Emilio Schelle e `Wilbald Thomaz` + Schelle retornaram snippets do MyHeritage que repetem a possível composição do grupo: Wilbald Thomaz, Frieda Hoff nascida Thomaz, Carolina Thomaz casada com Emilio Schelle e Rosalina de Souza nascida Schell. As páginas completas exigem verificação de segurança e os snippets não expõem data/local/fonte original com segurança. Resultado: `P/I` para as relações derivadas e `N/I` para origem alemã; esses nomes permanecem baixa prioridade até aparecer um registro primário.
+
+## Pesquisa ampliada — Clara Klaus/Hlausf, nova rodada
+
+Foram testadas as combinações `Clara Klaus` + João Adão + batismo/casamento, `Clara Klus` + João Adão Thomas e `Clara Hlausf` + Rio Pardo. Os resultados repetiram a página Hillesheim e o snippet do MyHeritage que sugere Clara Thomas nascida por volta de 1821 e casada com João Adão por volta de 1850. Nenhuma consulta revelou cidade de nascimento, paróquia, registro de emigração ou documento alemão. Resultado: `P/I` para a relação brasileira e `N/I` para origem alemã.
+
+## Pesquisa ampliada — Clara Klaus em exército, escola, hospital, cemitério e emigração
+
+Foram testadas as combinações `Clara Klaus` + exército/escola/hospital, `Clara Klus` + cemitério/diretório e `Clara Claus` + passageiro/Alemanha/Brasil. Não apareceu registro identificador de Clara Klaus/Thomas. O retorno foi uma homônima `Maria Clara Claus` de outro contexto. Resultado: `N/D/I`; a ausência é limitada à busca web aberta e não exclui livros paroquiais ou cartórios não indexados.
+
+## Pesquisa ampliada — Arquivo Público de Santa Catarina
+
+A página pública do Arquivo Público do Estado de Santa Catarina foi aberta após um resultado de busca que mencionava `João Thomaz do Nascimento` no Exército Imperial do Rio Grande do Sul. A página geral carregou apenas três descrições superiores do acervo e não expôs a ocorrência nominal nem os detalhes do documento militar. Sem data, local, filiação ou unidade verificável, o resultado não pode ser ligado a A03. Classificação: `I/D`, possível homônimo e catálogo não desambiguado.
+
+Fonte: [Arquivo Público do Estado de Santa Catarina — catálogo público](https://acervo.arquivopublico.sc.gov.br/index.php/informationobject/browse?sort), consultada em 22/08/2026.

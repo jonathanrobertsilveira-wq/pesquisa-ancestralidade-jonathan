@@ -1,0 +1,41 @@
+total_linhas 84
+candidatos_com_linhas 38
+A01 16 João Adão Thomas/Thomaz
+A03 7 João Thomas
+A06 5 Felippe Thomaz
+A09 3 Regina Shell Becker
+A12 3 Regino Schell
+A02 2 João Adão indexado como Romale el Verprica Therana
+A08 2 Clara Klaus/Clara Hlausf
+A11 2 Rosalina Schell 1906
+A18 2 Rosalina Trott/Schell
+A19 2 Theodor Schell
+A20 2 Helka Schell
+A21 2 Catharina Laurinda Trott
+A22 2 Albin Schell
+A23 2 Karl Schell
+A24 2 Anna Becker
+A25 2 Jacob Friedrich Trott
+A26 2 Emilie Fillmann
+A27 2 Gertrudes Thomas
+A33 2 Flauliano Brasil Kenes
+A34 2 Eva Silveira
+A35 2 Manoel Geraldo Kenes
+A36 2 Dorvalina Ferreira Kenes
+A04 1 João Thomas / Joao Thom
+A05 1 Barbara Miller
+A07 1 Margarida Thomas / Thomaz
+A10 1 Rosalina Schell de Souza 1899-1993
+A13 1 Carlos Schell
+A14 1 Anna Schell
+A15 1 Rosalina Schell 1897
+A16 1 Alvina Schell
+A17 1 Celanira Schell
+A18-A26 1 cluster Schell/Trott
+A28 1 Frieda Hoff
+A29 1 Adolpho Thomaz
+A30 1 Carolina Thomaz
+A31 1 Wilbald Thomaz
+A32 1 Emilio Schelle
+A33-A36 1 cluster Kenes
+candidatos_sem_linha nenhum
