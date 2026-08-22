@@ -25,13 +25,19 @@ Könnten Sie bitte mitteilen,
 
 Falls die Referenz nicht ausreichend präzise ist, können Sie die Suche bitte zusätzlich mit folgenden Angaben prüfen: **Oberbrombach/Niederbrombach, Birkenfeld, Auswanderungsgesuch vom 27.03.1856, Ziel Brasilien/Rio Grande do Sul, Beruf Ackersmann, Religion lutherisch**.
 
-Vielen Dank für Ihre Unterstützung. Ich bitte zunächst nur um eine Auskunft über die Bestands- und Reproduktionsmöglichkeiten; eine kostenpflichtige Bestellung soll erst nach Mitteilung der voraussichtlichen Kosten erfolgen.
+Vielen Dank für Ihre Unterstützung. Ich bitte zunächst nur um eine Auskunft über die Bestands- und Reproduktionsmöglichkeiten; eine kostenpflichtige Bestellung soll erst nach Mitteilung der voraussichtlichen Kosten erfolgen. Falls die Akte im APERTUS nicht recherchierbar ist, bitte ich um Mitteilung, ob eine schriftliche Recherche durch das Landeshauptarchiv möglich ist und welche Kosten voraussichtlich entstehen. Ich beauftrage keine kostenpflichtige Recherche oder Reproduktion ohne vorherigen Kostenvoranschlag und ausdrückliche Zustimmung.
 
 Mit freundlichen Grüßen
 
 **[Nome do pesquisador]**
 **[Cidade/país]**
 **[E-mail para resposta]**
+
+## Informações institucionais de controle
+
+Die Internetseite des Landeshauptarchivs Koblenz weist darauf hin, dass bei ergebnisloser Recherche in APERTUS eine Anfrage an `post@lav.rlp.de` gestellt werden kann. Der Lesesaal ist nach vorheriger APERTUS-Anmeldung zugänglich; für einen Besuch wird ein Vorlauf von mindestens fünf Werktagen empfohlen. Die Nutzung im Lesesaal und der Download von über APERTUS bereitgestellten Reproduktionen sind gebührenfrei; weitergehende schriftliche Recherchen und Reproduktionen werden nach Kostenvoranschlag berechnet. Diese Hinweise dienen nur der Planung und werden nicht als Auftrag verstanden.
+
+Quellen: https://lav.rlp.de/finden-und-benutzen/archivgut-im-lesesaal/landeshauptarchiv-koblenz ; http://lav.rlp.de/finden-und-benutzen/benutzungshinweise/dienstleistungen-und-gebuehren ; https://lav.rlp.de/geschichte-entdecken/auswanderung.
 
 ## Fonte da referência
 

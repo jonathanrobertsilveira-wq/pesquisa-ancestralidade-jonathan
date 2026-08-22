@@ -514,3 +514,60 @@ A fonte regional *Hillesheim no Brasil* foi usada somente como controle: ela for
 A execução integral do plano por linha foi consolidada em `docs/40_relatorio_final_execucao_integral_plano_2026-08-22.md`. Foram revisitadas todas as linhas prioritárias: Schell direto; Thomas/Thomaz–Klaus/Klus; Maria Margaretha–Gosert–Veeck/Foeck; Philipp Karl–Johann Karl; Schell–Trott–Fillmann e Rosalinas; Hillesheim; Kenes/Kenne e candidatos sem localidade alemã. A pesquisa pública chegou ao critério de esgotamento qualificado: as rotas, bases, jurisdições e limitações estão registradas, mas os documentos decisivos pagos/restritos ou institucionais não foram obtidos.
 
 Resultado final: Schell direto permanece fortemente indicado, sem ponte primária independente; Thomas/Klaus permanece não demonstrado quanto à Alemanha; Maria Margaretha permanece hipótese plausível; Johann Karl permanece núcleo paralelo provavelmente distinto; Schell–Trott–Fillmann é cluster brasileiro consistente sem prova alemã; Hillesheim é controle regional; Kenes/Kenne não tem ponte e o passageiro húngaro é distinto. Nenhum contato institucional, compra, assinatura, alteração de árvore ou publicação externa foi realizado nesta etapa.
+
+
+## Registro 78 — Archion 268205 rechecado
+
+A página pública do Archion para Niederbrombach/volume `268205` foi reaberta. O catálogo descreve o volume como `Taufen 1824–1875, Eheschließungen 1824–1875, Sterbefälle 1824–1875`, confissão luterana, assinatura local `146/7-58`, arquivo EKiR, transcrição marcada como `komplett` e abrangência que inclui `Oberbrombach`, entre outras localidades. O catálogo também mostra o botão de visualização bloqueado e informa que é necessário acesso para consultar os livros digitalizados. A página lista separadamente a série anterior `Taufen 1798–1809` como sem digitalização disponível e não oferece o registro de 1812. Portanto, o batismo de Karl (imagem 735) é um alvo real do volume, mas a imagem continua pendente por restrição de acesso.
+
+Fonte: https://www.archion.de/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach/268205.
+
+
+## Registro 79 — Archion 268206 rechecado
+
+A página pública do Archion para Niederbrombach/volume `268206` foi reaberta. O catálogo descreve `Konfirmationen 1824–1875`, confissão luterana, assinatura local `146/5-58`, arquivo da EKiR e abrangência que inclui Oberbrombach. O visualizador está bloqueado para usuário não autenticado e oferece apenas acesso mediante conta/assinatura. A imagem 117 indicada pela OGF para a confirmação de Johann Nikolaus é, portanto, um alvo correto dentro da série catalogada, mas seu conteúdo não foi lido nesta etapa.
+
+Fonte: https://www.archion.de/de/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/niederbrombach/268206.
+
+
+## Registro 80 — LAV/APERTUS e o processo Best. 393 Nr. 859
+
+As páginas oficiais do Landesarchivverwaltung Rheinland-Pfalz e do APERTUS foram consultadas. O LAV informa que a base de emigração é construída principalmente a partir de fontes de emigração para a América entre 1815 e 1914, com cerca de 76.000 registros em 31/12/2023, e que a inclusão é um processo contínuo. A própria instituição alerta que um nome ou local pode não produzir resultado porque os autos ainda não foram avaliados e recomenda consulta ao arquivo nesses casos. O LAV explica ainda que Koblenz conserva uma Überlieferung central organizada por destinos em grupos de governo regional. O APERTUS, na abertura pública, exigiu autenticação e não expôs uma consulta nominal sem sessão. Isso confirma que o resultado negativo anterior não refuta o processo `Best. 393 Nr. 859` e que o próximo passo correto é um pedido direcionado ao LHA, não repetir buscas amplas.
+
+Fontes: https://lav.rlp.de/geschichte-entdecken/auswanderung ; https://apertus.rlp.de/.
+
+
+## Registro 81 — transcrição pública do Archion não indexada
+
+Foi testada a busca pública por `Schell`, `Oberbrombach`, `Niederbrombach`, `Karl Schell` e `Johann Nikolaus Schell` em páginas Archion. Não houve resultado nominal público. Embora o catálogo marque o volume 268205 como `komplett transkribiert`, a transcrição não está exposta na busca web sem acesso ao ambiente do Archion. Isso não é ausência do nome no livro; é limitação de indexação/visualização pública. O pedido de transcrição ao Archivstelle Boppard/Arbeitsgruppe permanece a alternativa sem compra.
+
+
+## Registro 82 — Archivstelle Boppard como rota alternativa ao Archion
+
+Foram consultadas a página principal da EKiR, a página oficial de digitalização de Kirchenbücher e o texto institucional sobre o Digitaler Lesesaal. A EKiR informa que a Archivstelle Boppard é a unidade responsável pelo sul da igreja regional e que grande parte dos Kirchenbücher antigos está disponível como digitalização em terminais do salão de leitura; parte desses digitalizados é progressivamente carregada no Archion. O texto institucional também indica o contato escrito por e-mail e registra que pesquisadores podem dirigir pedidos de pesquisa ao arquivo. Isso cria uma rota alternativa concreta às imagens Archion 735/782/117: pedir ao Boppard uma consulta pontual ou transcrição, condicionada a orçamento prévio. Nenhum pedido foi enviado.
+
+Fontes: https://archiv.ekir.de/ ; https://archiv.ekir.de/inhalt/kirchenbuchdigitalisierung/ ; https://blog.archiv.ekir.de/2016/03/03/familienforschung-im-digitalen-lesesaal-einfuehrung-in-das-online-kirchenbuchportal/.
+
+
+## Registro 83 — LAV confirmado no navegador público
+
+A página oficial do LAV Rheinland-Pfalz sobre emigração foi aberta e conferida. Ela informa que a base dos arquivos de Koblenz e Speyer é formada principalmente por fontes de emigração para a América entre 1815 e 1914, com dados inseridos continuamente; um nome pode não aparecer porque os autos ainda não foram avaliados. O LAV recomenda uma consulta ao arquivo nesses casos e explica que em Koblenz a documentação central de emigração está organizada pela administração regional e pelos destinos. A verificação visual confirma a justificativa metodológica para não tratar a ausência de `Best. 393 Nr. 859` em APERTUS como refutação.
+
+Fonte: https://lav.rlp.de/geschichte-entdecken/auswanderung.
+
+
+## Registro 84 — LHA Koblenz: acesso, contato e tarifas oficiais
+
+Foram consultadas as páginas oficiais do Landeshauptarchiv Koblenz, de serviços/tarifas e do Personenstandsarchiv Rheinland-Pfalz. O LHA informa que a visita ao Lesesaal exige inscrição prévia pelo APERTUS e pedido dos documentos pelo carrinho; recomenda antecedência mínima de cinco dias úteis. A visita ao salão e o download de reproduções disponibilizadas pelo APERTUS são gratuitos. Pesquisas adicionais em resposta a consulta escrita e reproduções feitas pelo arquivo são cobradas, com orçamento prévio; a tarifa de autenticação indicada é de 5 euros por procedimento. O LHA orienta enviar consulta a `post@lav.rlp.de` quando a pesquisa no APERTUS não produzir resultado; o contato do Lesesaal é `lesesaal@lav.rlp.de`, telefone 0261 9129-0. A página do Personenstandsarchiv esclarece que o arquivo guarda segundas vias de registros civis, enquanto as primeiras vias pertencem aos municípios, e que há registros civis desde 1798 em áreas do antigo território francês, além de Belegakten até 1875. Essas informações refinam o pedido de `Best. 393 Nr. 859` e a rota civil complementar, sem executar contato ou pedido pago.
+
+Fontes: https://lav.rlp.de/finden-und-benutzen/archivgut-im-lesesaal/landeshauptarchiv-koblenz ; http://lav.rlp.de/finden-und-benutzen/benutzungshinweise/dienstleistungen-und-gebuehren ; https://lav.rlp.de/geschichte-entdecken/familienforschung/personenstandsarchiv.
+
+
+## Registro 85 — rascunhos documentais atualizados
+
+O rascunho do LHA Koblenz foi ampliado com as instruções oficiais de APERTUS, o contato `post@lav.rlp.de`, a exigência de antecedência para o Lesesaal, a distinção entre uso gratuito e serviços sujeitos a orçamento e a solicitação expressa para que nenhuma pesquisa paga seja iniciada sem autorização. Foi criado/atualizado também `rascunho_pedido_archion_ekir_schell_de.md`, dirigido de forma sugerida à Archivstelle Boppard (`archivstelle.boppard@ekir.de`), com Karl/Friedrich/Jakob, Johann Nikolaus, imagens 735/782/886/117, assinaturas locais, campos de transcrição e pedido de informação sobre consulta no Digitaler Lesesaal. Ambos permanecem rascunhos não enviados.
+
+
+## Registro 86 — execução detalhada Archion/LHA
+
+A etapa documental detalhada foi consolidada em `docs/41_dossie_documental_archion_lha_schell_2026-08-22.md` e `docs/42_relatorio_execucao_detalhada_archion_lha_2026-08-22.md`. Foram rechecados publicamente os volumes Archion 268205 e 268206, as assinaturas 146/7-58 e 146/5-58, o período 1824–1875, a abrangência de Oberbrombach, a marca de transcrição completa e o bloqueio do visualizador. Foram verificadas as orientações EKiR/Boppard sobre digitalizações e pedidos escritos, e as páginas LAV/LHA sobre APERTUS, Lesesaal, prazo mínimo, gratuidade, orçamento e contato. O rascunho Archion foi criado com as imagens 735, 782, 886 e 117; o rascunho LHA foi ampliado com o procedimento oficial e a exigência de não iniciar pesquisa paga sem orçamento e consentimento. Nenhum pedido foi enviado.
