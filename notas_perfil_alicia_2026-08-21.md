@@ -178,3 +178,11 @@ O perfil FamilySearch `P4LK-52C` foi aberto diretamente. Ele identifica **Manoel
 A coincidência exata das datas com o registro `65NF-2VD9`, no qual a criança aparece apenas como `de Souza`, confirma com força a identificação operacional do bebê como Manoel. A fonte original ainda é indexada por computador e o prenome no assento precisa ser conferido na imagem, mas a árvore e a fonte civil convergem. Não se trata de quinto filho: é o mesmo Manoel já listado entre os quatro filhos do perfil de Alicia.
 
 URL: https://www.familysearch.org/en/tree/person/about/P4LK-52C
+
+## Perfil de Jovenil de Souza — correção do evento de 1963
+O perfil FamilySearch `PQXM-T6K` foi aberto diretamente. Ele identifica **Jovenil de Souza**, masculino, nascido em **1948** e falecido em **22/05/1963**, em Cerro Grande do Sul, Rio Grande do Sul, aos 15 anos; o sepultamento é indicado em Barão do Triunfo. O perfil lista **Raimundo José de Souza** e **Alicia Schell de Souza** como pais, possui uma fonte civil e não lista cônjuge ou filhos.
+
+A árvore mostra quatro irmãos no casal: Rosalvino (1940), Jovenil (1948), Manoel (1949–1949) e Waldemar (1955). O perfil de Jovenil confirma que o evento de 1963 é compatível com o nome Jovenit/Jovenil encontrado na ficha `XSXD-KMSD`, mas há diferença entre 22/05/1963 no perfil e 23/04/1963 na ficha indexada/original de Jovenit. Essa divergência precisa ser resolvida pela imagem e pode representar registros de óbito distintos, erro de indexação ou diferença entre data do assento e data do falecimento.
+
+Status: filiação a Alicia e Raimundo **fortemente indicada e reforçada por fonte civil**, mas a identidade Jovenit = Jovenil e a data exata do óbito ainda exigem leitura do original.
+URL: https://www.familysearch.org/en/tree/person/about/PQXM-T6K
