@@ -145,3 +145,10 @@ URL: https://www.familysearch.org/ark:/61903/1:1:XSXD-KMSX?lang=pt
 Consulta FamilySearch na coleção civil com `Raimundo Souza`, cônjuge `Alicia Schell`, casamento entre 1930 e 1945 retornou **0 resultados**. A ausência não refuta o casamento: o perfil de Alicia informa casamento em Cerro Grande/Tapes, e o óbito de Raimundo em 1983 confirma Alicia como esposa; o assento próprio pode estar em imagem não indexada, sob jurisdição histórica do 3º distrito de Tapes/Vila Cerro Grande, ou com grafias diferentes.
 
 URL: https://www.familysearch.org/en/search/record/results?f.collectionId=3741255&q.givenName=Raimundo&q.surname=Souza&q.spouseGivenName=Alicia&q.spouseSurname=Schell&q.marriageLikeDate.from=1930&q.marriageLikeDate.to=1945
+
+## Correção cronológica e nova pista do relatório remoto
+O relatório `relatorio_alice_shell_de_souza.md`, já existente no GitHub, registra uma leitura mais precisa do original do assento de Jovenit: o evento ocorreu em **23/04/1963**, em Vila Cerro Grande, 3º distrito de Tapes. O texto identifica Alicia como esposa de Raymundo José de Soura, dona de casa, natural do Rio Grande do Sul e residente no lugar São José. A data indexada `abril de 1800` é erro; `1962` também é um campo corrompido e não deve ser usado para o nascimento de Jovenit.
+
+O mesmo relatório registra uma pista adicional: um óbito de bebê em Tapes, em **30/06/1949**, no qual uma mulher indexada como `Schell` aparece como esposa de `Raimundo de Souza Finão Maniculta`, com um bebê `de Souza` de 9 dias. A fonte é muito corrompida e não prova que seja Alicia nem que o bebê seja filho do casal, mas é uma rota prioritária para testar se houve um filho falecido além dos quatro listados na árvore. Identificador citado no relatório: `65NF-2VD9`.
+
+A correção de 1963 aumenta a coerência da cronologia: Jovenit/Jovenil nasceu provavelmente antes de 23/04/1963 e morreu com cerca de 1 ano, enquanto a árvore o lista como 1948–1963; ainda é necessário conferir a imagem original para decidir entre 1948 e 1962/1963.
