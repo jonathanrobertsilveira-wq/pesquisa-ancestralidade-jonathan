@@ -58,3 +58,12 @@ Nenhuma edição foi feita na árvore colaborativa.
 [1]: https://www.familysearch.org/en/search/record/results?f.collectionId=3741255&q.givenName=Roza&q.surname=Thomas&q.birthLikeDate.from=1885&q.birthLikeDate.to=1889 "FamilySearch — busca por Roza Thomas, 1885–1889"
 [2]: https://www.familysearch.org/ark:/61903/1:1:XSFC-CVG3?lang=pt "FamilySearch — ficha de Roza Thomás no casamento de 04/08/1908"
 [3]: https://www.familysearch.org/ark:/61903/1:1:6CYV-XZMD "FamilySearch — óbito de João Adão Thomas, 16/05/1891"
+
+
+## Tentativa de leitura da imagem original
+
+O resultado foi aberto no visualizador do FamilySearch como **Diocese de Santa Cruz do Sul — Marriage Records May 1906–April 1909**, pasta digital `004090752`, item 8, imagem 195 de 230, grupo `M9S9-YST`. O painel lateral confirma `Roza Thomás`, idade 21 anos, e `Father: João Adão Romale el Verprica Therana`.
+
+A imagem foi ampliada. O manuscrito permanece parcialmente legível na captura do visualizador e contém a marca d’água `SEM VALOR LEGAL`; não foi feita uma transcrição paleográfica conclusiva do nome do pai, da mãe ou da naturalidade. O modo de transcrição automática foi aberto, mas o trecho inicial recuperado começa com a fórmula do registro de 1908 e não localizou o termo `Roza` por busca interna. Consequentemente, a transcrição automática não foi promovida a prova.
+
+O achado documental seguro continua sendo a ficha indexada: Roza Thomás, filha de pessoa indexada como João Adão Romale el Verprica Therana, casada com José Steir em 04/08/1908, natural/residente em Santa Cruz do Sul e com nascimento estimado em 1887. A imagem original está localizada para uma futura leitura em resolução adequada.
