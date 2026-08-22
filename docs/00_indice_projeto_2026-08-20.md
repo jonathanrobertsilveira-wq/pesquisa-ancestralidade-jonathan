@@ -31,6 +31,7 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | 2U | [`21_auditoria_clara_klaus_2026-08-21.md`](21_auditoria_clara_klaus_2026-08-21.md) | Auditoria de Clara Klaus, suas variantes de nome e a indicação de Alemanha sem fonte primária identificada. |
 | 2V | [`22_fonte_independente_gertrudes_2026-08-21.md`](22_fonte_independente_gertrudes_2026-08-21.md) | Fonte independente sobre Gertrudes Thomas, o casamento com Clemens Hillesheim e a divergência de datas 1855/1857. |
 | 2W | [`23_status_rodada_alema_2026-08-21.md`](23_status_rodada_alema_2026-08-21.md) | Relatório consolidado da rodada sobre a hipótese alemã, classificações e próximos alvos documentais. |
+| 2X | [`24_hipotese_filhos_antes_casamento_rosalina_alvino_2026-08-22.md`](24_hipotese_filhos_antes_casamento_rosalina_alvino_2026-08-22.md) | Verificação da hipótese de filhos anteriores ao casamento de Rosalina Schell e Alvino Paulino de Souza, com separação entre duas Rosalinas. |
 | 3 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular atualizado de 29 afirmações com fonte, correlação, lacuna, status e próximo teste. |
 | 4 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
 | 5 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
