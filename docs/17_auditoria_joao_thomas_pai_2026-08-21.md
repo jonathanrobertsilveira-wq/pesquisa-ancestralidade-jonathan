@@ -58,3 +58,22 @@ Nenhuma fusão ou alteração foi feita na árvore colaborativa.
 ## Referência
 
 [1]: https://www.familysearch.org/en/tree/person/details/9J6R-DFR "FamilySearch — Joao Thomas, 9J6R-DFR"
+
+
+## Identificação da única fonte do perfil
+
+A única fonte ligada ao perfil `9J6R-DFR` foi aberta. Ela é uma entrada de 1857 intitulada `João Thomaz`, da coleção **Brasil, Rio Grande do Sul, Registros da Igreja Católica, 1738–1952**, criada/anexada em 20/06/2023 por `Alexsandro Thomas`.
+
+A citação da fonte aponta para a entrada de **Gertrudes Thomas e João Adão Thomas**, de 1857:
+
+- Ficha da fonte: [6NVX-SVD9](https://familysearch.org/ark:/61903/1:1:6NVX-SVD9)
+- Referência/citação exibida: [6NVX-SV8B](https://www.familysearch.org/ark:/61903/1:1:6NVX-SV8B)
+- Perfil ao qual a fonte foi anexada: `Joao Thomas`, `9J6R-DFR`
+
+A fonte, portanto, é um registro brasileiro de uma geração posterior, relacionado a **João Adão Thomas** e Gertrudes. Ela não é um nascimento, casamento ou registro de imigração de `Joao Thomas` nascido por volta de 1790. Também não declara que Joao Thomas nasceu na Alemanha.
+
+## Conclusão atualizada
+
+O perfil do suposto pai de João Adão apresenta `1790 — Alemanha` com **zero fontes no evento de nascimento** e sua única fonte total é um registro brasileiro de 1857 que documenta outra geração. A alegação de origem alemã dessa geração é, portanto, **dado de árvore sem suporte documental identificado**.
+
+A fonte de 1857 continua útil para estudar a família brasileira de João Adão, mas foi anexada ao perfil de `Joao Thomas` de forma inadequada ou incompleta. Não deve ser usada como prova da identidade, naturalidade ou casamento do suposto ancestral nascido em 1790.
