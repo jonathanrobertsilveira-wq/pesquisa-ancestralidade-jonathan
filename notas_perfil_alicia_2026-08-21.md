@@ -171,3 +171,10 @@ Esta é a melhor pista nova para um filho do casal além de Rosalvino: provavelm
 
 URL: https://www.familysearch.org/ark:/61903/1:1:65NF-2VD9?lang=pt
 Referência exibida na ficha: https://www.familysearch.org/ark:/61903/1:1:65NF-2V81
+
+## Perfil de Manoel de Souza — confirmação da correspondência
+O perfil FamilySearch `P4LK-52C` foi aberto diretamente. Ele identifica **Manoel de Souza**, masculino, nascido em **21/06/1949** e falecido em **30/06/1949**, ambos em Tapes, São Francisco dos Casais, Rio Grande do Sul. O perfil lista **Raimundo José de Souza** e **Alicia Schell de Souza** como pais, possui uma fonte civil e não lista cônjuge ou filhos.
+
+A coincidência exata das datas com o registro `65NF-2VD9`, no qual a criança aparece apenas como `de Souza`, confirma com força a identificação operacional do bebê como Manoel. A fonte original ainda é indexada por computador e o prenome no assento precisa ser conferido na imagem, mas a árvore e a fonte civil convergem. Não se trata de quinto filho: é o mesmo Manoel já listado entre os quatro filhos do perfil de Alicia.
+
+URL: https://www.familysearch.org/en/tree/person/about/P4LK-52C
