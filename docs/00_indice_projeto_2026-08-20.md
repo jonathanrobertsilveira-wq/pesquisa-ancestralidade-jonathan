@@ -29,6 +29,8 @@ Este índice organiza a pesquisa documental de **Jonathan Robert Silveira de Sou
 | 2S | [`19_batismo_getrudes_thomas_1857_2026-08-21.md`](19_batismo_getrudes_thomas_1857_2026-08-21.md) | Batismo de Gertrudes Thomas em Rio Pardo, com pais e avós indexados. |
 | 2T | [`20_busca_casamento_joao_adao_clara_2026-08-21.md`](20_busca_casamento_joao_adao_clara_2026-08-21.md) | Busca do casamento de João Adão Thomas e Clara Klaus por volta de 1850. |
 | 2U | [`21_auditoria_clara_klaus_2026-08-21.md`](21_auditoria_clara_klaus_2026-08-21.md) | Auditoria de Clara Klaus, suas variantes de nome e a indicação de Alemanha sem fonte primária identificada. |
+| 2V | [`22_fonte_independente_gertrudes_2026-08-21.md`](22_fonte_independente_gertrudes_2026-08-21.md) | Fonte independente sobre Gertrudes Thomas, o casamento com Clemens Hillesheim e a divergência de datas 1855/1857. |
+| 2W | [`23_status_rodada_alema_2026-08-21.md`](23_status_rodada_alema_2026-08-21.md) | Relatório consolidado da rodada sobre a hipótese alemã, classificações e próximos alvos documentais. |
 | 3 | [`02_matriz_evidencias_2026-08-20.csv`](02_matriz_evidencias_2026-08-20.csv) | Inventário tabular atualizado de 29 afirmações com fonte, correlação, lacuna, status e próximo teste. |
 | 4 | [`03_mapa_correlacoes_ancestralidade_2026-08-20.md`](03_mapa_correlacoes_ancestralidade_2026-08-20.md) | Explicação do diagrama e das separações entre linha principal, núcleo Schell paralelo e cluster Schell/Trott. |
 | 5 | [`04_plano_validacao_2026-08-20.md`](04_plano_validacao_2026-08-20.md) | Roteiro operacional para confirmar ou negar os elos restantes. |
