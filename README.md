@@ -46,6 +46,7 @@ A origem europeia ainda não foi demonstrada. O sobrenome Schell é apenas uma p
 | `docs/38_pedido_referencia_e_paginas_taquara_2026-08-22.md` | Pedido institucional pronto para solicitar ao APERS a referência e as páginas contíguas |
 | `docs/39_avaliacao_ponte_schell_taquara_2026-08-22.md` | Avaliação da possível ponte entre João Schell de Taquara e Rosalina Schell |
 | `docs/40_status_rodada_taquara_2026-08-22.md` | Síntese final da rodada, classificações e próxima ação recomendada |
+| `docs/41_atualizacao_alicia_rosalvino_2026-08-24.md` | Atualização auditável sobre Alicia, Rosalvino, Raimundo e as novas hipóteses de busca |
 | `sources/recebidos_2026-08-22/` | Cópias originais dos quatro anexos e manifesto SHA-256 |
 | `sources/recebidos_2026-08-22/imagens_manuscritas/` | Imagens WebP originais desta rodada, renomeadas e acompanhadas de hashes SHA-256 |
 | `pesquisa_alema_2026-08-22.md` | Diário completo das consultas públicas alemãs, resultados, links e limitações |
